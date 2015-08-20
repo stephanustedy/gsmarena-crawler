@@ -12,7 +12,7 @@ import time
 def main(argv):
     if (len(argv) <= 0):
         Util.printErr("You have not specified any dirpath.")
-        Util.printErr("Write something like this: new.py dirpath [scanParentOnly? True|False]")
+        Util.printErr("Write something like this: formatPhone.py dirpath [scanParentOnly? True|False]")
         return
 
     if (len(argv) > 1):
