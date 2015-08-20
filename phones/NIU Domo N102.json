@@ -1,0 +1,76 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1000 mAh battery",
+            "Stand-by": "Up to 200 h",
+            "Talk time": "Up to 4 h"
+        },
+        "Body": {
+            "": "- Flashlight",
+            "Dimensions": "123 x 58 x 15.9 mm (4.84 x 2.28 x 0.63 in)",
+            "SIM": "Dual SIM (Mini-SIM)",
+            "Weight": "90 g without battery (3.17 oz)"
+        },
+        "Camera": {
+            "Features": "No",
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "No"
+        },
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "Stereo FM radio; built-in antenna",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "128 x 160 pixels (~102 ppi pixel density)",
+            "Size": "2.0 inches (~17.6% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- Music player\n- Organizer",
+            "Browser": "No",
+            "Games": "No",
+            "Java": "No",
+            "Messaging": "SMS"
+        },
+        "Launch": {
+            "Announced": "2012, January",
+            "Status": "Available. Released 2012, January"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 2 GB",
+            "Internal": "64 MB + 32 MB",
+            "Phonebook": "Yes"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "1/10 (About 40 EUR)"
+        },
+        "Network": {
+            "": "GSM 850 / 900 / 1800 / 1900 - SIM 2",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration, ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "- Single SIM: N1021\n- Dual SIM: N102",
+        "device_name": "NIU Domo N102",
+        "image": {
+            "href": "http://www.gsmarena.com/niu_domo_n102-pictures-4672.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/niu-domo.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/niu_domo_n102-4672.php"
+    }
+}

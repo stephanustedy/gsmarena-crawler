@@ -1,0 +1,76 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 1100 mAh battery",
+            "Stand-by": "Up to 240 h",
+            "Talk time": "Up to 5 h"
+        },
+        "Body": {
+            "Dimensions": "96.5 x 49.5 x 19.3 mm (3.80 x 1.95 x 0.76 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "105 g (3.70 oz)"
+        },
+        "Camera": {
+            "Features": "Video-calling",
+            "Primary": "1.3 MP, 1280 x 960 pixels, rotating lens",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v1.1, A2DP",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second external TFT display, 65K colors (96 x 96 pixels)",
+            "Resolution": "176 x 220 pixels",
+            "Size": "",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- Streaming TV, video telephony\n- MP3/AAC/AAC+ player\n- Predictive text input\n- Photo editor\n- Organizer\n- Voice memo",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes + Java downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2006, July",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "40 dialed, 40 received, 40 missed calls",
+            "Card slot": "microSD, up to 1 GB",
+            "Phonebook": "500 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "2/10 (About 70 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 1.8 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Sound": {
+            "": "- External music keys",
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "device_name": "LG CU500",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_cu500-pictures-1656.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-cu500.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_cu500-1656.php"
+    }
+}

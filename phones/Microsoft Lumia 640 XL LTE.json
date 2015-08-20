@@ -1,0 +1,89 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 3000 mAh battery",
+            "Stand-by": "Up to 888 h (2G) / Up to 888 h (3G)",
+            "Talk time": "Up to 30 h 20 min (2G) / Up to 24 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "157.9 x 81.5 x 9 mm (6.22 x 3.21 x 0.35 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "171 g (6.03 oz)"
+        },
+        "Camera": {
+            "Features": "1/3'' sensor size",
+            "Primary": "13 MP, 4128 x 3096 pixels, Carl Zeiss optics, autofocus, LED flash",
+            "Secondary": "5 MP, 1080p",
+            "Video": "1080p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP",
+            "GPS": "Yes, with A-GPS, GLONASS, Beidou",
+            "NFC": "Yes",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- ClearBlack display",
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 3",
+            "Resolution": "720 x 1280 pixels (~259 ppi pixel density)",
+            "Size": "5.7 inches (~69.1% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP3/WAV/eAAC+/WMA player\n- MP4/H.264/WMV player\n- OneDrive (30 GB cloud storage)\n- Document viewer\n- Photo/video editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass, sensor core"
+        },
+        "Launch": {
+            "Announced": "2015, March",
+            "Status": "Available. Released 2015, April"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 128 GB",
+            "Internal": "8 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Matte cyan, Orange, Black, Matte white, Glossy white",
+            "Price group": "6/10 (About 270 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 2100",
+            "4G bands": "LTE band 1(2100), 3(1800), 7(2600), 8(900), 20(800)",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.2 GHz Cortex-A7",
+            "Chipset": "Qualcomm MSM8226 Snapdragon 400",
+            "GPU": "Adreno 305",
+            "OS": "Microsoft Windows Phone 8.1 with Lumia Denim"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -93.0dB / Crosstalk -94.4dB",
+            "Battery life": "Endurance rating 74h",
+            "Display": "Contrast ratio: 1119:1 (nominal), 3.065 (sunlight)"
+        }
+    },
+    "main": {
+        "device_name": "Microsoft Lumia 640 XL LTE",
+        "image": {
+            "href": "http://www.gsmarena.com/microsoft_lumia_640_xl_lte-pictures-7087.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-lumia-640-xl-4g.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/microsoft_lumia_640_xl_lte-7087.php"
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion battery",
+            "Stand-by": "Up to 450 h",
+            "Talk time": "Up to 9 h"
+        },
+        "Body": {
+            "Dimensions": "111 x 45 x 14.7 mm, 66.7 cc (4.37 x 1.77 x 0.58 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "83 g (2.93 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "v1.1",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "128 x 128 pixels (~113 ppi pixel density)",
+            "Size": "1.6 inches (~16.5% screen-to-body ratio)",
+            "Type": "CSTN, 65K colors"
+        },
+        "Features": {
+            "": "- Body made from recycled plastic \n- Carbon neutral, 100% recyclable\n- MP3 player\n- Predictive text input\n- Organizer\n- Voice memo",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS(750), MMS"
+        },
+        "Launch": {
+            "Announced": "2009, January",
+            "Status": "Available. Released 2009, February"
+        },
+        "Memory": {
+            "Call records": "10 dialed, 10 received, 10 missed calls",
+            "Card slot": "microSD, up to 2 GB",
+            "Phonebook": "500 entries"
+        },
+        "Misc": {
+            "Colors": "Green",
+            "Price group": "1/10 (About 50 EUR)",
+            "SAR US": "1.26 W/kg (head) \u00a0 \u00a0 1.58 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Motorola W233 Renew",
+        "image": {
+            "href": "http://www.gsmarena.com/motorola_w233_renew-pictures-2624.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/motorola-w233-renew.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/motorola_w233_renew-2624.php"
+    }
+}

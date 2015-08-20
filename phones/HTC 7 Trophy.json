@@ -1,0 +1,88 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1300 mAh battery",
+            "Stand-by": "Up to 360 h (2G) / Up to 435 h (3G)",
+            "Talk time": "Up to 6 h 40 min (2G) / Up to 3 h 30 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "118.5 x 61.5 x 12 mm (4.67 x 2.42 x 0.47 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "140 g (4.94 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "5 MP, 2560 x 1920 pixels, autofocus, LED flash, check quality",
+            "Secondary": "No",
+            "Video": "720p, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "Yes, with A-GPS; Bing Maps",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11b/g/n"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "480 x 800 pixels (~246 ppi pixel density)",
+            "Size": "3.8 inches (~56.4% screen-to-body ratio)",
+            "Type": "S-LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP3/AAC+/WAV/WMA9 player\n- MP4/WMV9 player\n- Organizer\n- Document viewer/editor\n- Facebook integration\n- Voice memo/dial\n- Predictive text input",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS, MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2010, October",
+            "Status": "Available. Released 2010, October"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "8 GB, 576 MB RAM, 512 MB ROM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "2/10 (About 90 EUR)",
+            "SAR US": "1.48 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Class 32",
+            "GPRS": "Class 32",
+            "Speed": "HSPA 7.2/2 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "1 GHz Scorpion",
+            "Chipset": "Qualcomm QSD8250 Snapdragon S1",
+            "GPU": "Adreno 200",
+            "OS": "Microsoft Windows Phone 7"
+        },
+        "Sound": {
+            "": "- Dolby Mobile, SRS sound",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -85.0dB / Crosstalk -83.0dB",
+            "Camera": "Photo / Video",
+            "Loudspeaker": "Voice 70dB / Noise 66dB / Ring 77dB"
+        }
+    },
+    "main": {
+        "device_name": "HTC 7 Trophy",
+        "image": {
+            "href": "http://www.gsmarena.com/htc_7_trophy-pictures-3118.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/htc-trophy-ofic.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/htc_7_trophy-3118.php"
+    }
+}

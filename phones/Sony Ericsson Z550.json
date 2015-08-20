@@ -1,0 +1,76 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 750 mAh battery",
+            "Stand-by": "Up to 320 h",
+            "Talk time": "Up to 5 h"
+        },
+        "Body": {
+            "Dimensions": "87.5 x 45.4 x 20 mm (3.44 x 1.79 x 0.79 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "93 g (3.28 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 1024 pixels",
+            "Secondary": "No",
+            "Video": "QCIF"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "No",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second external STN, mono display (128 x 36 pixels)\n- Wallpapers, screensavers",
+            "Resolution": "176 x 220 pixels (~148 ppi pixel density)",
+            "Size": "1.9 inches, 30 x 37 mm (~28.6% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- Push to talk\n- Media player (MP3, 3GP, AAC, MP4)\n- Predictive text input\n- Photo editor\n- Organizer\n- Voice memo",
+            "Browser": "WAP 2.0/HTML (NetFront), RSS reader",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2006, May",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "30 received, dialed and missed calls",
+            "Card slot": "Memory Stick Micro (M2), up to 2 GB",
+            "Internal": "25 MB",
+            "Phonebook": "1000 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Sterling Black, Pearl Copper",
+            "Price group": "3/10 (About 110 EUR)",
+            "SAR EU": "1.24 W/kg (head)"
+        },
+        "Network": {
+            "": "GSM 850 / 1800 / 1900 - Z550a",
+            "2G bands": "GSM 900 / 1800 / 1900 - Z550i",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3, AAC ringtones, composer",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Z550i 900/1800/1900 for Europe, Middle East, Africa, Asia Pacific. \nZ550c 900/1800/1900 for Mainland China.\nZ550a 850/900/1800/1900 MHz for Americas.",
+        "device_name": "Sony Ericsson Z550",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_ericsson_z550-pictures-1564.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/sonyericsson-z550.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_ericsson_z550-1564.php"
+    }
+}

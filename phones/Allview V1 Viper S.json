@@ -1,0 +1,83 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 2500 mAh battery",
+            "Stand-by": "Up to 277 h",
+            "Talk time": "Up to 9 h"
+        },
+        "Body": {
+            "Dimensions": "144 x 71.8 x 8.9 mm (5.67 x 2.83 x 0.35 in)",
+            "SIM": "Dual SIM (Mini-SIM/ Micro-SIM)",
+            "Weight": "143.5 g (5.08 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face/smile detection, HDR, panorama",
+            "Primary": "13 MP, 4128 x 3096 pixels, autofocus, LED flash",
+            "Secondary": "5 MP",
+            "Video": "1080p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "NFC": "Yes",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot, Wi-Fi Direct"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 3",
+            "Resolution": "720 x 1280 pixels (~294 ppi pixel density)",
+            "Size": "5.0 inches (~66.7% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP3/AAC/WAV player\n- MP4/H.264 player\n- Document viewer\n- Photo viewer/editor\n- Voice memo/dial",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2014, February",
+            "Status": "Available. Released 2014, February"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "16 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "7/10 (About 310 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Class 10",
+            "GPRS": "Class 12",
+            "Speed": "HSPA",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.4 GHz Cortex-A7",
+            "Chipset": "Qualcomm MSM8228 Snapdragon 400",
+            "GPU": "Adreno 305",
+            "OS": "Android OS, v4.3 (Jelly Bean)"
+        },
+        "Sound": {
+            "": "- DTS sound\n- Yamaha audio amplifier",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, built-in amplifier"
+        }
+    },
+    "main": {
+        "device_name": "Allview V1 Viper S",
+        "image": {
+            "href": "http://www.gsmarena.com/allview_v1_viper_s-pictures-6193.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/allview-v1-viper-s.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/allview_v1_viper_s-6193.php"
+    }
+}

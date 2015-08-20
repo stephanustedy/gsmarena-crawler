@@ -1,0 +1,75 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 580 mAh battery",
+            "Stand-by": "Up to 300 h",
+            "Talk time": "Up to 4 h"
+        },
+        "Body": {
+            "Dimensions": "83 x 43.1 x 20.2 mm (3.27 x 1.70 x 0.80 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "82 g (2.89 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 1024 pixels",
+            "Secondary": "No",
+            "Video": "QCIF"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second external OLED, monochrome display (64 x 64 pixels)",
+            "Resolution": "176 x 220 pixels (~157 ppi pixel density)",
+            "Size": "1.8 inches, 28 x 35 mm (~28.5% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- Predictive text input\n- MP3 player\n- Organizer\n- Female calendar\n- Weight management\n- Voice memo",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "2",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2007, March",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "30 received, dialed and missed calls",
+            "Card slot": "microSD",
+            "Internal": "128 MB",
+            "Phonebook": "1000 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Black Glamour",
+            "SAR EU": "0.33 W/kg (head)",
+            "SAR US": "0.51 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Philips 598",
+        "image": {
+            "href": "http://www.gsmarena.com/philips_598-pictures-1923.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/philips-598.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/philips_598-1923.php"
+    }
+}

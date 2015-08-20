@@ -1,0 +1,87 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 1900 mAh battery",
+            "Music play": "Up to 12 h",
+            "Stand-by": "Up to 400 h (2G) / Up to 350 h (3G)",
+            "Talk time": "Up to 10 h (2G) / Up to 4 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "133 x 68 x 10.8 mm (5.24 x 2.68 x 0.43 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "144 g (5.08 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face/smile detection, panorama",
+            "Primary": "12 MP, 4000 x 3000 pixels, autofocus, LED flash",
+            "Secondary": "1.3 MP, 720p@30fps",
+            "Video": "1080p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP, EDR",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "NFC": "Yes",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0, USB Host",
+            "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- Sony Mobile BRAVIA Engine\n- Timescape UI",
+            "Multitouch": "Yes, up to 4 fingers",
+            "Protection": "Scratch-resistant glass",
+            "Resolution": "720 x 1280 pixels (~323 ppi pixel density)",
+            "Size": "4.55 inches (~63.1% screen-to-body ratio)",
+            "Type": "LED-backlit LCD, capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- ANT+ support\n- HDMI port\n- Active noise cancellation with dedicated mic\n- MP4/H.264/WMV player\n- MP3/eAAC+/WMA/WAV player\n- TrackID music recognition\n- Document viewer\n- Voice memo/dial/commands\n- Predictive text input",
+            "Browser": "HTML5, Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS (threaded view), MMS, Email, IM, Push Email",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2012, April",
+            "Status": "Available. Released 2012, June"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "13.2 GB (12.9 GB user available), 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, Red",
+            "Price group": "5/10 (About 250 EUR)",
+            "SAR EU": "1.02 W/kg (head)",
+            "SAR US": "1.08 W/kg (head) \u00a0 \u00a0 0.97 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 1700 / 1900 / 2100",
+            "EDGE": "Up to 237 kbps",
+            "GPRS": "Up to 86 kbps",
+            "Speed": "HSPA 42.2/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.5 GHz",
+            "Chipset": "Qualcomm MSM8260 Snapdragon S3",
+            "GPU": "Adreno 220",
+            "OS": "Android OS, v2.3 (Gingerbread), upgradable to v4.1.2 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Xperia ion lt28h",
+        "device_name": "Sony Xperia ion HSPA",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_xperia_ion_hspa-pictures-4798.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/sony-xperia-ion-hspa.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_xperia_ion_hspa-4798.php"
+    }
+}

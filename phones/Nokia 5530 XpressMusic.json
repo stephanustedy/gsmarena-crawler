@@ -1,0 +1,83 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1000 mAh battery (BL-4U)",
+            "Music play": "Up to 27 h",
+            "Stand-by": "Up to 336 h",
+            "Talk time": "Up to 4 h 54 min"
+        },
+        "Body": {
+            "Dimensions": "104 x 49 x 13 mm, 68 cc (4.09 x 1.93 x 0.51 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "107 g (3.77 oz)"
+        },
+        "Camera": {
+            "Primary": "3.15 MP, 2048 x 1536 pixels, autofocus, LED flash, check quality",
+            "Secondary": "No",
+            "Video": "480p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g"
+        },
+        "Display": {
+            "": "- Handwriting recognition",
+            "Resolution": "360 x 640 pixels (~253 ppi pixel density)",
+            "Size": "2.9 inches (~45.5% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- WMV/RV/MP4/3GP player\n- MP3/WMA/WAV/RA/AAC/M4A player\n- Photo editor\n- Organizer\n- Voice command/dial\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML, Adobe Flash Lite",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS, MMS, Email, Instant Messaging",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2009, June",
+            "Status": "Available. Released 2009, August"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 16 GB, 4 GB included",
+            "Internal": "70 MB, 128 MB SDRAM"
+        },
+        "Misc": {
+            "Colors": "Red on black, Blue on white, Grey on black, Pink on white, Yellow on white",
+            "Price group": "2/10 (About 100 EUR)",
+            "SAR EU": "1.15 W/kg (head)",
+            "SAR US": "1.17 W/kg (head) \u00a0 \u00a0 0.75 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "Class 32",
+            "GPRS": "Class 32",
+            "Technology": "GSM"
+        },
+        "Platform": {
+            "CPU": "434 MHz ARM 11",
+            "OS": "Symbian OS v9.4, Series 60 rel. 5"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        },
+        "Tests": {
+            "Audio quality": "Noise -90.9dB / Crosstalk -90.6dB",
+            "Camera": "Photo",
+            "Loudspeaker": "Voice 70dB / Noise 69dB / Ring 75dB"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 5530 XpressMusic",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_5530_xpressmusic-pictures-2832.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-5530-xpressmusic.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_5530_xpressmusic-2832.php"
+    }
+}

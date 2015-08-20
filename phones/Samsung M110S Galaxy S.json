@@ -1,0 +1,83 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 1500 mAh battery",
+            "Stand-by": "Up to 590 h (2G) / Up to 490 h (3G)",
+            "Talk time": "Up to 15 h 30 min (2G) / Up to 7 h 50 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "122.4 x 64.2 x 9.9 mm (4.82 x 2.53 x 0.39 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "121 g (4.27 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face/smile detection",
+            "Primary": "5 MP, 2592 x 1944 pixels, autofocus",
+            "Secondary": "VGA",
+            "Video": "720p"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n"
+        },
+        "Display": {
+            "": "- TouchWiz 3.0 UI",
+            "Multitouch": "Yes",
+            "Resolution": "480 x 800 pixels (~233 ppi pixel density)",
+            "Size": "4.0 inches (~58.0% screen-to-body ratio)",
+            "Type": "Super AMOLED capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- DMB TV\n- MP4/DivX/WMV/H.264 player\n- MP3/WAV/eAAC+/FLAC player\n- Photo/video editor\n- Document editor",
+            "Browser": "HTML, Adobe Flash Lite",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2010, June",
+            "Status": "Available. Released 2010, July"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "16 GB (14 GB user available)"
+        },
+        "Misc": {
+            "Colors": "Snow White, Black",
+            "Price group": "5/10 (About 220 EUR)",
+            "SAR EU": "0.63 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 7.2/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "1 GHz Cortex-A8",
+            "Chipset": "Hummingbird",
+            "GPU": "PowerVR SGX540",
+            "OS": "Android OS, v2.1 (Eclair), upgradable to v2.3 (Gingerbread)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "- For South Korea",
+        "device_name": "Samsung M110S Galaxy S",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_m110s_galaxy_s-pictures-3418.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-shw-m110s-galaxy-s.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_m110s_galaxy_s-3418.php"
+    }
+}

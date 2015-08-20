@@ -1,0 +1,80 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 2050 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "154 x 76.8 x 6.9 mm (6.06 x 3.02 x 0.27 in)",
+            "SIM": "Dual SIM",
+            "Weight": "-"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face/smile detection, panorama",
+            "Primary": "13 MP, 4128 x 3096 pixels, autofocus, LED flash",
+            "Secondary": "5 MP",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "To be confirmed",
+            "USB": "microUSB v2.0, USB Host",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "1080 x 1920 pixels (~401 ppi pixel density)",
+            "Size": "5.5 inches (~70.5% screen-to-body ratio)",
+            "Type": "Capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP3/AAC/WAV player\n- MP4/H.264 player\n- Document viewer\n- Photo viewer/editor\n- Voice memo/dial",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2014, March",
+            "Status": "Available. Released 2014, April"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "16 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "5/10 (About 200 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 42.2/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Hexa-core 1.5 GHz Cortex-A7",
+            "Chipset": "Mediatek MT6591",
+            "GPU": "Mali-450MP4",
+            "OS": "Android OS, v4.4.2 (KitKat)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Karbonn Titanium Hexa",
+        "image": {
+            "href": "http://www.gsmarena.com/karbonn_titanium_hexa-pictures-6218.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/karbonn-titanium-hexa.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/karbonn_titanium_hexa-6218.php"
+    }
+}

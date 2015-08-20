@@ -1,0 +1,73 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 800 mAh battery",
+            "Stand-by": "Up to 170 h",
+            "Talk time": "Up to 3 h 30 min"
+        },
+        "Body": {
+            "Dimensions": "117 x 46 x 10 mm (4.61 x 1.81 x 0.39 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "76 g (2.68 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "176 x 220 pixels (~148 ppi pixel density)",
+            "Size": "1.9 inches (~21.1% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- Video player\n- Voice dial\n- Voice memo\n- Organizer\n- World clock\n- Stopwatch\n- Countdown timer",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes + Downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2006, May",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "30 dialed, received, missed calls",
+            "Card slot": "No",
+            "Internal": "7 MB",
+            "Phonebook": "500 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Black, Silver",
+            "Price group": "2/10 (About 60 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 1800 / 1900",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "For T-Mobile",
+        "device_name": "Samsung T509",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_t509-pictures-2383.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-t509.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_t509-2383.php"
+    }
+}

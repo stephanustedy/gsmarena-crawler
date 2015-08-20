@@ -1,0 +1,96 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 920 mAh battery",
+            "Stand-by": "Up to 700 h",
+            "Talk time": "Up to 8 h"
+        },
+        "Body": {
+            "Dimensions": "98.2 x 50.1 x 18.2 mm (3.87 x 1.97 x 0.72 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "102.3 g (3.60 oz)"
+        },
+        "Camera": {
+            "Primary": "3.15 MP, 2048 x 1536 pixels",
+            "Secondary": "No",
+            "Video": "320p@15fps"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "No",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "miniUSB v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- External display, 128x36 pixels",
+            "Resolution": "240 x 320 pixels (~167 ppi pixel density)",
+            "Size": "2.4 inches (~36.3% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/WAV/AAC+ player\n- MP4/H.263 player\n- Organizer\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2011, February. Released 2011, Q2",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "50 MB",
+            "Phonebook": "Yes, Photocall"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 12",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; MP3",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Philips F515",
+        "image": {
+            "href": "http://www.gsmarena.com/philips_f515-pictures-3842.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/philips-xenium-f515.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/philips_f515-3842.php"
+    }
+}

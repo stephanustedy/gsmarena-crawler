@@ -1,0 +1,76 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1500 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "": "- Optical joystick",
+            "Dimensions": "107 x 59 x 13.9 mm (4.21 x 2.32 x 0.55 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "100 g (3.53 oz)"
+        },
+        "Camera": {
+            "Primary": "3.15 MP, 2048 x 1536 pixels, autofocus, LED flash",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~143 ppi pixel density)",
+            "Size": "2.8 inches (~38.5% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "MP3/eAAC+/WMA/AMR/RealAudio player\n- MP4/RealVideo/WMV/H.264 player\n- Organizer\n- Voice memo",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS (threaded view), MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2008, July. Released 2008, October",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- 150 MB ROM user available",
+            "Card slot": "microSD",
+            "Internal": "64 MB RAM, 256 MB ROM"
+        },
+        "Misc": {
+            "Colors": "Gray",
+            "Price group": "3/10 (About 140 EUR)",
+            "SAR EU": "0.66 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Platform": {
+            "CPU": "624 MHz",
+            "OS": "Microsoft Windows Mobile 6.1 Professional"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Samsung i740",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_i740-pictures-2472.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-i740.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_i740-2472.php"
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion battery (28.5 Wh)",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "": "- Optional mobile dock with standard QWERTY keyboard and trackpad",
+            "Dimensions": "280 x 182 x 14.4 mm (11.02 x 7.17 x 0.57 in)",
+            "SIM": "No",
+            "Weight": "855 g (1.88 lb)"
+        },
+        "Camera": {
+            "Primary": "5 MP or 2 MP, autofocus",
+            "Secondary": "2 MP or 1.3 MP",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, LE",
+            "GPS": "Yes",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "800 x 1280 pixels (~149 ppi pixel density)",
+            "Size": "10.1 inches (~58.0% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- HDMI port\n- MP4/H.264 player\n- MP3/WAV/eAAC+ player\n- Photo/video editor\n- Document viewer",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "Email, Push Email, IM",
+            "Sensors": "Accelerometer, compass"
+        },
+        "Launch": {
+            "Announced": "2015, January",
+            "Status": "Available. Released 2015, January"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "16/32 GB, 1/2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "5/10 (About 240 EUR)"
+        },
+        "Network": {
+            "2G bands": "N/A",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "No cellular connectivity"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.33 GHz",
+            "Chipset": "Intel Atom Z3735G",
+            "OS": "Android OS, v4.4.4 (KitKat)"
+        },
+        "Sound": {
+            "": "- DTS Sound+",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Tablet with no support for GSM voice communication, SMS, and MMS",
+        "device_name": "HP Pro Slate 10 EE G1",
+        "image": {
+            "href": "http://www.gsmarena.com/hp_pro_slate_10_ee_g1-pictures-6964.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/hp-pro-slate-10-ee.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/hp_pro_slate_10_ee_g1-6964.php"
+    }
+}

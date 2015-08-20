@@ -1,0 +1,103 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1400 mAh battery",
+            "Stand-by": "Up to 240 h",
+            "Talk time": "Up to 8 h"
+        },
+        "Body": {
+            "Dimensions": "127 x 64 x 9.3 mm (5.0 x 2.52 x 0.37 in)",
+            "SIM": "Dual SIM (dual stand-by)",
+            "Weight": "115 g (4.06 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, LED flash",
+            "Secondary": "VGA",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "Yes",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "480 x 800 pixels (~233 ppi pixel density)",
+            "Size": "4.0 inches (~56.0% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen"
+        },
+        "Features": {
+            "": "- MP4/H.263 player\n- MP3/AAC player\n- Photo/video editor\n- Document viewer\n- Voice memo/dial",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2013, September",
+            "Status": "Available. Released 2013, October"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "4 GB, 512 MB RAM"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 850 / 1900",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 21.1/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.3 GHz Cortex-A7",
+            "Chipset": "Mediatek MT6572M",
+            "GPU": "Mali-400",
+            "OS": "Android OS, v4.2 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Maxwest Orbit 4400",
+        "image": {
+            "href": "http://www.gsmarena.com/maxwest_orbit_4400-pictures-5775.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/Orbit-4400-white-web.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/maxwest_orbit_4400-5775.php"
+    }
+}

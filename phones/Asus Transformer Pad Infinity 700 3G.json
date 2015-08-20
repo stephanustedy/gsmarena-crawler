@@ -1,0 +1,84 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po battery (25 Wh)",
+            "Stand-by": "",
+            "Talk time": "Up to 10 h (multimedia)"
+        },
+        "Body": {
+            "": "- Optional mobile dock with standard QWERTY keyboard and trackpad",
+            "Dimensions": "263 x 180.8 x 8.5 mm (10.35 x 7.12 x 0.33 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "598 g (1.32 lb)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash",
+            "Secondary": "2 MP",
+            "Video": "1080p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot"
+        },
+        "Display": {
+            "": "- ASUS Waveshare UI",
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 2",
+            "Resolution": "1920 x 1200 pixels (~224 ppi pixel density)",
+            "Size": "10.1 inches (~62.2% screen-to-body ratio)",
+            "Type": "Super IPS+ LCD, capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- HDMI port\n- MP3/WAV/WMA/AAC player\n- MP4/H.264 player\n- Organizer\n- Document editor\n- Photo viewer/editor\n- Voice memo/dial\n- Predictive text input",
+            "Browser": "HTML5, Adobe Flash",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, gyro, compass"
+        },
+        "Launch": {
+            "Announced": "2012, February",
+            "Status": "Available. Released 2012, Q3"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "32/64 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Amethyst Gray, Champagne Gold",
+            "Price group": "8/10 (About 430 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 21.1/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.5 GHz Krait",
+            "Chipset": "Qualcomm MSM8260A Snapdragon S4 Plus",
+            "GPU": "Adreno 225",
+            "OS": "Android OS, v4.0 (Ice Cream Sandwich)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Transformer Pad Infinity TF700T",
+        "device_name": "Asus Transformer Pad Infinity 700 3G",
+        "image": {
+            "href": "http://www.gsmarena.com/asus_transformer_pad_infinity_700_3g-pictures-4604.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/asus-transformer-infinity.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/asus_transformer_pad_infinity_700_3g-4604.php"
+    }
+}

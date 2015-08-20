@@ -1,0 +1,81 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 4100 mAh battery (15.5 Wh)",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "212 x 130 x 9.8 mm (8.35 x 5.12 x 0.39 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "292 g (10.30 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "5 MP, 2592 x 1944 pixels",
+            "Secondary": "2 MP",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "800 x 1280 pixels (~189 ppi pixel density)",
+            "Size": "8.0 inches (~67.3% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/H.264 player\n- MP3/WAV/eAAC+ player\n- Document viewer\n- Photo viewer/editor\n- Voice memo/dial",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2013, October",
+            "Status": "Available. Released 2013, October"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "16/32 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "3/10 (About 130 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Dual-core 2 GHz",
+            "Chipset": "Intel Atom Z2580",
+            "GPU": "PowerVR SGX544MP2",
+            "OS": "Android OS, v4.2.2 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Available as Dell Venue 8 Wi-Fi with Wi-Fi only support",
+        "device_name": "Dell Venue 8",
+        "image": {
+            "href": "http://www.gsmarena.com/dell_venue_8-pictures-5752.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/dell-venue-8.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/dell_venue_8-5752.php"
+    }
+}

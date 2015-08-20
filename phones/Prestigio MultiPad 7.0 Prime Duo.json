@@ -1,0 +1,76 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po 3200 mAh battery",
+            "Stand-by": "Up to 120 h",
+            "Talk time": "Up to 4 h (multimedia)"
+        },
+        "Body": {
+            "Dimensions": "191 x 120 x 8.9 mm (7.52 x 4.72 x 0.35 in)",
+            "SIM": "No",
+            "Weight": "305 g (10.76 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels",
+            "Secondary": "VGA",
+            "Video": ""
+        },
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "microUSB v2.0, USB Host",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "600 x 1024 pixels (~170 ppi pixel density)",
+            "Size": "7.0 inches (~60.2% screen-to-body ratio)",
+            "Type": "LED-backlit IPS LCD capacitive touchscreen"
+        },
+        "Features": {
+            "": "- MP3/WAV/eAAC/WMA/Flac player\n- MP4/H.264/WMV player\n- Document viewer\n- Photo viewer/editor\n- Voice memo/dial",
+            "Browser": "Yes",
+            "Java": "No",
+            "Messaging": "Email, IM",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2013",
+            "Status": "Available. Released 2013"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "16 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Gray",
+            "Price group": "3/10 (About 110 EUR)"
+        },
+        "Network": {
+            "2G bands": "N/A",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "No cellular connectivity"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.5 GHz Cortex-A9",
+            "GPU": "Mali-400MP",
+            "OS": "Android OS, v4.0 (Ice Cream Sandwich)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Prestigio MultiPad 7.0 Prime Duo",
+        "image": {
+            "href": "http://www.gsmarena.com/prestigio_multipad_7_0_prime_duo-pictures-5572.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/prestigio-multipad-70-prime-duo.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/prestigio_multipad_7_0_prime_duo-5572.php"
+    }
+}

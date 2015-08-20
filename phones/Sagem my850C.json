@@ -1,0 +1,75 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion battery",
+            "Stand-by": "Up to 300 h",
+            "Talk time": "Up to 3 h 30 min"
+        },
+        "Body": {
+            "Dimensions": "96 x 49 x 16 mm (3.78 x 1.93 x 0.63 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "95 g (3.35 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels",
+            "Secondary": "VGA videocall camera",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "v1.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second external mono display (96 x 64 pixels)",
+            "Resolution": "240 x 320 pixels (~200 ppi pixel density)",
+            "Size": "2.0 inches (~26.3% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- Video telephony & streaming\n- MP3/AAC/AAC+/eAAC+ player \n- Predictive text input\n- Organizer\n- Voice memo",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2006, March",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "microSD",
+            "Internal": "64 MB",
+            "Phonebook": "Yes"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "5/10 (About 250 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "3G bands": "UMTS 2100",
+            "EDGE": "Yes",
+            "GPRS": "Class 10",
+            "Speed": "Yes, 384 kbps",
+            "Technology": "GSM / UMTS"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Sagem my850C",
+        "image": {
+            "href": "http://www.gsmarena.com/sagem_my850c-pictures-2133.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/sagem-my850c.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sagem_my850c-2133.php"
+    }
+}

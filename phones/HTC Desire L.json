@@ -1,0 +1,105 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1800 mAh battery",
+            "Stand-by": "Up to 607 h (3G)",
+            "Talk time": "Up to 10 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "128 x 66.9 x 8.9 mm (5.04 x 2.63 x 0.35 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "118 g (4.16 oz)"
+        },
+        "Camera": {
+            "Features": "Simultaneous video and image recording, geo-tagging",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, LED flash",
+            "Secondary": "No",
+            "Video": "720p"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, apt-X",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "Radio": "To be confirmed",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "480 x 800 pixels (~217 ppi pixel density)",
+            "Size": "4.3 inches (~61.5% screen-to-body ratio)",
+            "Type": "Super LCD2 capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/H.264/WMV player\n- MP3/eAAC+/WMA/WAV player\n- Document viewer\n- Photo viewer/editor\n- Voice memo/dial",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2013, April",
+            "Status": "Available. Released 2013, April"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "4 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 7.2/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1 GHz Cortex-A5",
+            "Chipset": "Qualcomm MSM8225 Snapdragon S4 Play",
+            "GPU": "Adreno 203",
+            "OS": "Android OS, v4.1.2 (Jelly Bean)"
+        },
+        "Sound": {
+            "": "- Beats Audio",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "For China",
+        "device_name": "HTC Desire L",
+        "image": {
+            "href": "http://www.gsmarena.com/htc_desire_l-pictures-6121.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/htc-desire-l.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/htc_desire_l-6121.php"
+    }
+}

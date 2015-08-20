@@ -1,0 +1,81 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 2500 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "149.5 x 76.6 x 8.7 mm (5.89 x 3.02 x 0.34 in)",
+            "SIM": "Dual SIM",
+            "Weight": "173 g (6.10 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "13 MP, 4128 x 3096 pixels, autofocus, dual-LED flash",
+            "Secondary": "2 MP",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "720 x 1280 pixels (~267 ppi pixel density)",
+            "Size": "5.5 inches (~72.8% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/H.264 player\n- MP3/WAV/eAAC+ player\n- Photo/video editor\n- Document viewer",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2014, November",
+            "Status": "Available. Released 2014, November"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "8 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "White, Black",
+            "Price group": "4/10 (About 160 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 900 / 2100",
+            "4G bands": "LTE band 1(2100), 3(1800)",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA, LTE",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Octa-core 1.4 GHz Cortex-A7",
+            "Chipset": "Mediatek MT6592",
+            "GPU": "Mali-450MP4",
+            "OS": "Android OS, v4.4.2 (KitKat)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Lenovo A916",
+        "image": {
+            "href": "http://www.gsmarena.com/lenovo_a916-pictures-6855.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lenovo-a916.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lenovo_a916-6855.php"
+    }
+}

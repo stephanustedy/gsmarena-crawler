@@ -1,0 +1,97 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 760 mAh battery",
+            "Stand-by": "230 h",
+            "Talk time": "3 h"
+        },
+        "Body": {
+            "Dimensions": "86 x 46 x 22 mm (3.39 x 1.81 x 0.87 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "85 g (3.00 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second external display (16 x 96 pixels) with 7 color backlight\n- Downloadable wallpapers",
+            "Resolution": "128 x 160 pixels, 7 lines",
+            "Size": "",
+            "Type": "UFB, 65K colors"
+        },
+        "Features": {
+            "": "- Predictive text input\n- Organizer\n- World clock\n- Voice dial",
+            "Alarm": "Yes",
+            "Browser": "WAP 1.2.1",
+            "Clock": "Yes",
+            "Games": "3 - Multiply, Submarine, Space Ball",
+            "Java": "Yes, MIDP 1.0",
+            "Messaging": "SMS, EMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2003, 2Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- 100 short messages\n- 10 voice dial numbers\n- 20 sec voice memo",
+            "Call records": "20 received and missed calls",
+            "Card slot": "No",
+            "Internal": "1.3 MB",
+            "Phonebook": "200 x 5 fields, 7 contact groups"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic ringtones, composer",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "canonical_name": "LG W5400 - the same, but without MMS; \nLG G5450 - the same, but without external antena",
+        "device_name": "LG G5400",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_g5400-pictures-448.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lgg5400.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_g5400-448.php"
+    }
+}

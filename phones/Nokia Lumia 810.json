@@ -1,0 +1,93 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1800 mAh battery (BP-4W)",
+            "Music play": "Up to 54 h",
+            "Stand-by": "Up to 400 h (2G) / Up to 360 h (3G)",
+            "Talk time": "Up to 10 h 20 min (2G) / Up to 10 h 10 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "127.8 x 68.4 x 10.9 mm, 95 cc (5.03 x 2.69 x 0.43 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "145 g (5.11 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus",
+            "Primary": "8 MP, 3264 x 2448 pixels, Carl Zeiss optics, autofocus, dual-LED flash",
+            "Secondary": "1.2 MP, 720p@30fps",
+            "Video": "1080p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, EDR, LE/ apt-X after WP8 Denim update",
+            "GPS": "Yes, with A-GPS",
+            "NFC": "Yes",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct"
+        },
+        "Display": {
+            "": "- Nokia ClearBlack display",
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 2",
+            "Resolution": "480 x 800 pixels (~217 ppi pixel density)",
+            "Size": "4.3 inches (~60.2% screen-to-body ratio)",
+            "Type": "AMOLED capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- OneDrive (15 GB cloud storage)\n- MP3/WAV/eAAC+/WMA player\n- MP4/H.264/WMV player\n- Document viewer\n- Video/photo editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2012, October",
+            "Status": "Available. Released 2012, November"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "8 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, Cyan",
+            "Price group": "6/10 (About 250 EUR)",
+            "SAR EU": "0.83 W/kg (head)",
+            "SAR US": "1.30 W/kg (head) \u00a0 \u00a0 0.85 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 1700 / 1900 / 2100",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 1700 / 2100",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 42.2/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.5 GHz Krait",
+            "Chipset": "Qualcomm MSM8960 Snapdragon S4 Plus",
+            "GPU": "Adreno 225",
+            "OS": "Microsoft Windows Phone 8, upgradeable to v8.1"
+        },
+        "Sound": {
+            "": "- Dolby Headphone",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -80.0dB / Crosstalk -75.4dB",
+            "Battery life": "Endurance rating 48h"
+        }
+    },
+    "main": {
+        "canonical_name": "For T-Mobile",
+        "device_name": "Nokia Lumia 810",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_lumia_810-pictures-5024.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-lumia-810.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_lumia_810-5024.php"
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 4000 mAh battery",
+            "Stand-by": "Up to 520 h (3G)",
+            "Talk time": "Up to 33 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "8.5 mm thickness",
+            "SIM": "Dual SIM (Micro-SIM, dual stand-by)",
+            "Weight": "158 g (5.57 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection, HDR, panorama",
+            "Primary": "13 MP, 4128 x 3096 pixels, optical image stabilization, autofocus, dual-LED flash",
+            "Secondary": "5 MP",
+            "Video": "1080p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "NFC": "Yes",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, WiFi Direct, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "1080 x 1920 pixels (~401 ppi pixel density)",
+            "Size": "5.5 inches",
+            "Type": "IPS capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP4/H.264 player\n- MP3/WAV/eAAC+/FLAC player\n- Photo/video editor\n- Document viewer",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2015, April",
+            "Status": "Available. Released 2015, April"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "64 GB, 4 GB RAM\n32 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, Silver, Red",
+            "Price group": "6/10 (About 280 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 900 / 2100",
+            "4G bands": "LTE band 1(2100), 3(1800)",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA, LTE Cat4 150/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.83 GHz",
+            "Chipset": "Intel Atom Z3560",
+            "OS": "Android OS, v5.0 (Lollipop)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Lenovo K80",
+        "image": {
+            "href": "http://www.gsmarena.com/lenovo_k80-pictures-7216.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lenovo-k80-.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lenovo_k80-7216.php"
+    }
+}

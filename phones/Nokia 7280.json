@@ -1,0 +1,76 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 700 mAh battery (BL-8N)",
+            "Stand-by": "Up to 240 h",
+            "Talk time": "Up to 3 h"
+        },
+        "Body": {
+            "Dimensions": "115 x 32 x 19 mm, 64 cc (4.53 x 1.26 x 0.75 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "84 g (2.96 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "No"
+        },
+        "Comms": {
+            "Bluetooth": "v1.1",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "Stereo FM radio",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Downloadable themes",
+            "Resolution": "208 x 104 pixels",
+            "Size": "",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- SyncML\n- Organizer\n- Voice command\n- Voice memo",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "No",
+            "Java": "No",
+            "Messaging": "SMS, MMS"
+        },
+        "Launch": {
+            "Announced": "3Q, 2004",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- 70 voice commands\n- 3 min voice memo",
+            "Call records": "10 dialed, 10 received, 10 missed calls",
+            "Card slot": "No",
+            "Internal": "50 MB",
+            "Phonebook": "1000 x 10 fields, Photo call"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "SAR EU": "0.83 W/kg (head)",
+            "SAR US": "0.71 W/kg (head) \u00a0 \u00a0 0.75 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "Class 8",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3/AAC ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 7280",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_7280-pictures-884.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/no7280.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_7280-884.php"
+    }
+}

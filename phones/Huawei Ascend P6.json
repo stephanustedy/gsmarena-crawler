@@ -1,0 +1,93 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po 2000 mAh battery",
+            "Stand-by": "Up to 416 h (2G) / Up to 315 h (3G)",
+            "Talk time": "Up to 28 h (2G) / Up to 14 h 30 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "132.7 x 65.5 x 6.2 mm (5.22 x 2.58 x 0.24 in)",
+            "SIM": "Optional Dual SIM (Micro-SIM, dual stand-by)",
+            "Weight": "120 g (4.23 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, HDR, face/smile detection",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash, check quality",
+            "Secondary": "5 MP, 720p",
+            "Video": "1080p@30fps, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP, EDR, LE",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0, USB Host",
+            "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- Emotion UI 1.6",
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "720 x 1280 pixels (~312 ppi pixel density)",
+            "Size": "4.7 inches (~70.1% screen-to-body ratio)",
+            "Type": "IPS+ LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- DivX/XviD/MP4/H.264/WMV player\n- MP3/eAAC+/WMA/WAV player\n- Document viewer\n- Photo viewer/editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass, temperature"
+        },
+        "Launch": {
+            "Announced": "2013, June",
+            "Status": "Available. Released 2013, June"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB (only single SIM version)",
+            "Internal": "8/16 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White, Pink",
+            "Price group": "5/10 (About 230 EUR)",
+            "SAR EU": "0.64 W/kg (head)"
+        },
+        "Network": {
+            "": "CDMA2000 1xEV-DO - for China",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - international version",
+            "3G bands": "HSDPA 850 / 900 / 1700 / 1900 / 2100 - international version",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Speed": "HSPA 21.1/5.76 Mbps, EV-DO Rev. A 3.1 Mbps (version for China)",
+            "Technology": "GSM / HSPA / EVDO"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.5 GHz Cortex-A9",
+            "Chipset": "Huawei K3V2",
+            "GPU": "Vivante GC4000",
+            "OS": "Android OS, v4.2.2 (Jelly Bean), upgradable to v4.4.2 (KitKat)"
+        },
+        "Sound": {
+            "": "- Dolby Digital Plus",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Battery life": "Endurance rating 46h",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 1080:1 (nominal) / 1.865:1 (sunlight)",
+            "Loudspeaker": "Voice 64dB / Noise 66dB / Ring 75dB",
+            "Performance": "Basemark OS II: 382"
+        }
+    },
+    "main": {
+        "canonical_name": "Also available as Huawei Ascend P6 Dual SIM with dual sim card support, 16 GB storage, but no microSD card slot",
+        "device_name": "Huawei Ascend P6",
+        "image": {
+            "href": "http://www.gsmarena.com/huawei_ascend_p6-pictures-5467.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/huawei-ascend-p6-ofic.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/huawei_ascend_p6-5467.php"
+    }
+}

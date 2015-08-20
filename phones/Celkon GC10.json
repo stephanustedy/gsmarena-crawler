@@ -1,0 +1,73 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1000 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "": "- Flashlight",
+            "Dimensions": "-",
+            "SIM": "Dual SIM (Mini-SIM)",
+            "Weight": "-"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 1024 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "No",
+            "Radio": "FM radio",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~154 ppi pixel density)",
+            "Size": "2.6 inches",
+            "Type": "TFT"
+        },
+        "Features": {
+            "": "- Auto call record\n- Reject by SMS\n- Audio/video player",
+            "Browser": "No",
+            "Games": "Yes",
+            "Java": "No",
+            "Messaging": "SMS"
+        },
+        "Launch": {
+            "Announced": "2013",
+            "Status": "Available. Released 2013"
+        },
+        "Memory": {
+            "Call records": "20 entries",
+            "Card slot": "microSD, up to 4 GB",
+            "Phonebook": "500 contacts"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "1/10 (About 40 EUR)"
+        },
+        "Network": {
+            "": "CDMA 800",
+            "2G bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+            "EDGE": "No",
+            "GPRS": "Yes",
+            "Technology": "GSM / CDMA"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, Polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Celkon GC10",
+        "image": {
+            "href": "http://www.gsmarena.com/celkon_gc10-pictures-5303.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/celkon-gc10.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/celkon_gc10-5303.php"
+    }
+}

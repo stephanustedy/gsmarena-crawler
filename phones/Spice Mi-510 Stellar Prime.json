@@ -1,0 +1,137 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 2100 mAh battery",
+            "Stand-by": "Up to 250 h",
+            "Talk time": "Up to 6 h"
+        },
+        "Body": {
+            "Dimensions": "145 x 74 x 9.9 mm (5.71 x 2.91 x 0.39 in)",
+            "SIM": "Dual SIM (Mini-SIM)",
+            "Weight": "176 g (6.21 oz)"
+        },
+        "Camera": {
+            "Primary": "8 MP, 3264 x 2448 pixels, LED flash",
+            "Secondary": "3.2 MP",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0",
+            "GPS": "Yes",
+            "Radio": "FM radio",
+            "USB": "microUSB",
+            "WLAN": "Yes"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "480 x 854 pixels (~196 ppi pixel density)",
+            "Size": "5.0 inches (~64.2% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen"
+        },
+        "Features": {
+            "": "- MP4/WMV/H.263 player\n- MP3/WAV/AAC+ player\n- Document viewer\n- Photo/video editor\n- Voice memo",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2013, June",
+            "Status": "Available. Released 2013, July"
+        },
+        "Memory": {
+            "0": "C",
+            "1": "a",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "r",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "g",
+            "25": "l",
+            "26": "o",
+            "27": "s",
+            "28": "s",
+            "29": "a",
+            "3": "d",
+            "30": "r",
+            "31": "y",
+            "32": ".",
+            "33": "p",
+            "34": "h",
+            "35": "p",
+            "36": "3",
+            "37": "?",
+            "38": "t",
+            "39": "e",
+            "4": " ",
+            "40": "r",
+            "41": "m",
+            "42": "=",
+            "43": "m",
+            "44": "e",
+            "45": "m",
+            "46": "o",
+            "47": "r",
+            "48": "y",
+            "49": "-",
+            "5": "s",
+            "50": "c",
+            "51": "a",
+            "52": "r",
+            "53": "d",
+            "54": "-",
+            "55": "s",
+            "56": "l",
+            "57": "o",
+            "58": "t",
+            "6": "l",
+            "7": "o",
+            "8": "t",
+            "9": "w"
+        },
+        "Misc": {
+            "Colors": "White",
+            "Price group": "5/10 (About 220 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 2100",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.2 GHz Cortex-A7",
+            "Chipset": "Mediatek MT6589",
+            "GPU": "PowerVR SGX544",
+            "OS": "Android OS, v4.2 (Jelly Bean)"
+        },
+        "Sound": {
+            "": "- SRS audio",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Spice Mi-510 Stellar Prime",
+        "image": {
+            "href": "http://www.gsmarena.com/spice_mi_510_stellar_prime-pictures-5528.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/spice-510.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/spice_mi_510_stellar_prime-5528.php"
+    }
+}

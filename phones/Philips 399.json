@@ -1,0 +1,96 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 820 mAh battery",
+            "Stand-by": "Up to 240 h",
+            "Talk time": "Up to 3 h"
+        },
+        "Body": {
+            "Dimensions": "102 x 49 x 13 mm (4.02 x 1.93 x 0.51 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "80 g (2.82 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 1024 pixels",
+            "Secondary": "No",
+            "Video": "120p"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "miniUSB",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Handwriting recognition\n- 4-way navigation key\n- Screensavers and wallpapers",
+            "Resolution": "240 x 320 pixels (~154 ppi pixel density)",
+            "Size": "2.6 inches (~41.9% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/MP4 player\n- Female calendar\n- ENG/CHN and CHN/ENG dictionary\n- Voice memo",
+            "Browser": "WAP",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2007, July",
+            "Status": "Cancelled"
+        },
+        "Memory": {
+            "Call records": "30 received, dialed and missed calls",
+            "Card slot": "microSD",
+            "Internal": "11 MB",
+            "Phonebook": "Yes, Photocall"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Philips 399",
+        "image": {
+            "href": "http://www.gsmarena.com/philips_399-pictures-2048.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/philips-399.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/philips_399-2048.php"
+    }
+}

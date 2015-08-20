@@ -1,0 +1,95 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1100 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "117 x 57 x 12.1 mm (4.61 x 2.24 x 0.48 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "106 g (3.74 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels",
+            "Secondary": "VGA",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "FM radio",
+            "USB": "v1.2",
+            "WLAN": "Yes"
+        },
+        "Display": {
+            "Resolution": "240 x 400 pixels (~146 ppi pixel density)",
+            "Size": "3.2 inches (~43.7% screen-to-body ratio)",
+            "Type": "TFT touchscreen"
+        },
+        "Features": {
+            "": "- MP3/AAC+ player\n- MP4/3GP player\n- Organizer\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes",
+            "Java": "Yes",
+            "Messaging": "SMS, MMS, Email",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2011, Q2",
+            "Status": "Available"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "80 MB",
+            "Phonebook": "Yes"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "Yes",
+            "GPRS": "Class 12",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "Alert types": "Vibration; MP3 ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "device_name": "verykool i285",
+        "image": {
+            "href": "http://www.gsmarena.com/verykool_i285-pictures-4225.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/verykool-i285.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/verykool_i285-4225.php"
+    }
+}

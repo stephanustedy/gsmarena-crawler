@@ -1,0 +1,79 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1800 mAh battery",
+            "Stand-by": "Up to 200 h",
+            "Talk time": "Up to 5 h"
+        },
+        "Body": {
+            "Dimensions": "-",
+            "SIM": "Dual SIM (Mini-SIM)",
+            "Weight": "-"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face detection",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, LED flash",
+            "Secondary": "1.3 MP",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "480 x 800 pixels (~207 ppi pixel density)",
+            "Size": "4.5 inches",
+            "Type": "TFT capacitive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/AAC/WMA/WAV player\n- MP4/WMV/H.264 player\n- Document viewer",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2012",
+            "Status": "Available"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "4 GB, 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Pearl White",
+            "Price group": "3/10 (About 130 EUR)",
+            "SAR EU": "0.44 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 7.2/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.2 GHz",
+            "OS": "Android OS, v4.0 (Ice Cream Sandwich)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Karbonn A21",
+        "image": {
+            "href": "http://www.gsmarena.com/karbonn_a21-pictures-5189.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/karbonn-a21.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/karbonn_a21-5189.php"
+    }
+}

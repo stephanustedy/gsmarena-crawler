@@ -1,0 +1,95 @@
+{
+    "data": {
+        "Battery": {
+            "": "High Capacity Battery",
+            "Stand-by": "up to 29 days",
+            "Talk time": "up to 25 h"
+        },
+        "Body": {
+            "Dimensions": "96 x 50 x 18 mm (3.78 x 1.97 x 0.71 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "86 g (3.03 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "v1.0b",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "101 x 54 pixels, 4 lines",
+            "Size": "",
+            "Type": "Grayscale graphic"
+        },
+        "Features": {
+            "": "- Predictive text input\n- Organizer\n- Voice dialing\n- Voice answering\n- Profiles\n- Helptexts and shortcuts\n- Active flip",
+            "Alarm": "Yes",
+            "Browser": "WAP 1.2.1",
+            "Clock": "Yes",
+            "Games": "Yes",
+            "Java": "No",
+            "Languages": "37",
+            "Messaging": "SMS, Email"
+        },
+        "Launch": {
+            "Announced": "2001",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "10 received, dialed and missed calls",
+            "Card slot": "No",
+            "Phonebook": "510"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Yes",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable monophonic ringtones, composer",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "canonical_name": "The replacment for canceled T36",
+        "device_name": "Ericsson T39",
+        "image": {
+            "href": "http://www.gsmarena.com/ericsson_t39-pictures-252.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/ert39.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/ericsson_t39-252.php"
+    }
+}

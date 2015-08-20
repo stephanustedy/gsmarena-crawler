@@ -1,0 +1,91 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1100 mAh battery",
+            "Stand-by": "Up to 422 h (2G) / Up to 406 h (3G)",
+            "Talk time": "Up 8 h 20 min (2G) / Up to 5 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "108.8 x 53.5 x 11.9 mm (4.28 x 2.11 x 0.47 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "110 g (3.88 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face, smile and blink detection, WDR",
+            "Primary": "5 MP, 2592 x 1944 pixels, autofocus, dual-LED flash, check quality",
+            "Secondary": "Videocall camera",
+            "Video": "480p@24fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "Yes, with A-GPS, Route 66",
+            "Radio": "Stereo FM radio with RDS, FM recording",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g"
+        },
+        "Display": {
+            "": "- TouchWiz 2.0 UI\n- Motion UI",
+            "Resolution": "480 x 800 pixels (~301 ppi pixel density)",
+            "Size": "3.1 inches (~47.0% screen-to-body ratio)",
+            "Type": "AMOLED resistive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- TV Out\n- MP3/WMA/eAAC+/WAV player\n- DivX/XviD/H.264/MP4/WMV player\n- Video editor\n- Media Gate 3D\n- Organizer\n- Document viewer (Word, Excel, PowerPoint, PDF)\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email, IM, Push Email",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2009, June",
+            "Status": "Available. Released 2009, June"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 16 GB",
+            "Internal": "2/8 GB",
+            "Phonebook": "Yes, Photo call"
+        },
+        "Misc": {
+            "Colors": "Black, Mystic Purple",
+            "Price group": "3/10 (About 120 EUR)",
+            "SAR EU": "0.52 W/kg (head)",
+            "SAR US": "0.42 W/kg (head) \u00a0 \u00a0 0.49 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 1900",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 3.6/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "800 MHz",
+            "Chipset": "Qualcomm MSM6246"
+        },
+        "Sound": {
+            "": "- DNSe (Digital Natural Sound Engine)\n- Virtual 5.1 channel Dolby surround",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -87.9dB / Crosstalk -85.9dB",
+            "Camera": "Photo",
+            "Loudspeaker": "Voice 75dB / Noise 68dB / Ring 77dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as:\nSamsung S8003 Jet\nSamsung Jet 2",
+        "device_name": "Samsung S8000 Jet",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_s8000_jet-pictures-2835.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-jet.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_s8000_jet-2835.php"
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1000 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "": "- Flashlight",
+            "Dimensions": "115.8 x 49.2 x 12.7 mm (4.56 x 1.94 x 0.5 in)",
+            "SIM": "Dual SIM (Mini-SIM)",
+            "Weight": "-"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 1024 pixels",
+            "Secondary": "No",
+            "Video": "320p"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "No",
+            "Radio": "FM radio",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~167 ppi pixel density)",
+            "Size": "2.4 inches (~31.3% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- MP3/H.263 player\n- Organizer",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes",
+            "Java": "Yes",
+            "Messaging": "SMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2011, June",
+            "Status": "Available. Released 2011, June"
+        },
+        "Memory": {
+            "Call records": "40 dialed, 40 received, 40 missed calls",
+            "Card slot": "microSD, up to 8 GB",
+            "Phonebook": "Yes"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "2/10 (About 50 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2 (optional)",
+            "EDGE": "No",
+            "GPRS": "Yes",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Huawei G5520",
+        "image": {
+            "href": "http://www.gsmarena.com/huawei_g5520-pictures-5108.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/huawei-g5520.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/huawei_g5520-5108.php"
+    }
+}

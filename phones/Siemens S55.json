@@ -1,0 +1,95 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 700 mAh battery (EBA-510)",
+            "Stand-by": "Up to 12 days",
+            "Talk time": "Up to 6 h"
+        },
+        "Body": {
+            "Dimensions": "101 x 42 x 18 mm, 69 cc (3.98 x 1.65 x 0.71 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "85 g (3.00 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "v1.1",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Navi key",
+            "Resolution": "101 x 80 pixels, 7 lines",
+            "Size": "",
+            "Type": "CSTN, 256 colors"
+        },
+        "Features": {
+            "": "- Predictive text input\n- Organizer\n- Stopwatch\n- Voice dial\n- Voice command\n- User profiles\n- SyncML\n- External digital camera (included)",
+            "Alarm": "Yes",
+            "Browser": "WAP 1.2.1",
+            "Clock": "Yes",
+            "Games": "Yes",
+            "Java": "Yes",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2002",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "10 dialed, 10 received, 10 missed calls",
+            "Card slot": "No",
+            "Internal": "400 KB",
+            "Phonebook": "500 x 14 entries, 9 contact groups, Photo call"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Siemens S55",
+        "image": {
+            "href": "http://www.gsmarena.com/siemens_s55-pictures-343.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/sis55.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/siemens_s55-343.php"
+    }
+}

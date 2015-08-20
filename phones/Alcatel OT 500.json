@@ -1,0 +1,94 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion battery",
+            "Stand-by": "320 h",
+            "Talk time": "5 h"
+        },
+        "Body": {
+            "Dimensions": "103 x 42 x 23 mm, 89 cc (4.06 x 1.65 x 0.91 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "103 g (3.63 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Animation",
+            "Resolution": "96 x 64 pixels, 8 x 20 chars",
+            "Size": "",
+            "Type": "Monochrome graphic"
+        },
+        "Features": {
+            "": "- Predictive text input\n- SATK\n- Voice memo (60 sec)\n- Voice recognition\n- Organizer",
+            "Alarm": "Yes",
+            "Browser": "WAP (for 501)",
+            "Clock": "Yes",
+            "Games": "No",
+            "Java": "No",
+            "Messaging": "SMS"
+        },
+        "Launch": {
+            "Announced": "2000",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "30 received, dialed and missed calls",
+            "Card slot": "No",
+            "Phonebook": "1000"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Monophonic ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "2 submodels: 500 and 501",
+        "device_name": "Alcatel OT 500",
+        "image": {
+            "href": "http://www.gsmarena.com/alcatel_ot_500-pictures-196.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/alot500b.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/alcatel_ot_500-196.php"
+    }
+}

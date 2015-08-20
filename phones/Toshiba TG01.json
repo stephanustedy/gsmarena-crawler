@@ -1,0 +1,81 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1000 mAh battery",
+            "Stand-by": "Up to 276 h (2G) / Up to 220 h (3G)",
+            "Talk time": "Up to 5 h (2G) / Up to 4 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "130 x 70 x 9.9 mm (5.12 x 2.76 x 0.39 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "129 g (4.55 oz)"
+        },
+        "Camera": {
+            "Features": "Video-calling",
+            "Primary": "3.15 MP, 2048 x 1536 pixels, autofocus",
+            "Secondary": "No",
+            "Video": "480p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "microUSB",
+            "WLAN": "Wi-Fi 802.11b/g"
+        },
+        "Display": {
+            "": "- 3D UI\n- Shake control",
+            "Resolution": "480 x 800 pixels (~228 ppi pixel density)",
+            "Size": "4.1 inches (~52.6% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 256K colors (65K effective)"
+        },
+        "Features": {
+            "": "- Pocket Office \n- MP3/eAAC+/WMA player\n- MP4/H.264/WMV player\n- Facebook and YouTube apps\n- Photo editor\n- Voice memo/dial\n- Organizer\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML (IE)",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS (threaded view), EMS, MMS, Email, Push Email",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2009, January. Released 2009, June",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "256 MB RAM, 512 MB ROM"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "8/10 (About 500 EUR)",
+            "SAR US": "0.37 W/kg (head) \u00a0 \u00a0 0.44 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 2100",
+            "EDGE": "Class 10",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 7.2/2 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "1 GHz Scorpion",
+            "Chipset": "Qualcomm QSD8250 Snapdragon S1",
+            "GPU": "Adreno 200",
+            "OS": "Microsoft Windows Mobile 6.1 Professional, upgradeable to Windows Mobile 6.5"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Toshiba TG01",
+        "image": {
+            "href": "http://www.gsmarena.com/toshiba_tg01-pictures-2662.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/toshiba-tg01.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/toshiba_tg01-2662.php"
+    }
+}

@@ -1,0 +1,103 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 2000 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "143.5 x 71 x 9.1 mm (5.65 x 2.80 x 0.36 in)",
+            "SIM": "Dual SIM",
+            "Weight": "136 g (4.80 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "8 MP, 3264 x 2448 pixels, dual-LED flash",
+            "Secondary": "3.15 MP",
+            "Video": "720p"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0, USB Host",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "720 x 1280 pixels (~294 ppi pixel density)",
+            "Size": "5.0 inches (~67.6% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/H.264 player\n- MP3/WAV/eAAC player\n- Document viewer\n- Photo editor",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2015, January",
+            "Status": "Available. Released 2015, January"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "8 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 21.1/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Octa-core 1.4 GHz",
+            "Chipset": "Mediatek MT6592M",
+            "GPU": "Mali-400",
+            "OS": "Android OS, v4.4.2 (KitKat)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Celkon Millennia OCTA510",
+        "image": {
+            "href": "http://www.gsmarena.com/celkon_millennia_octa510-pictures-6922.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/celkon-millennia-octa510.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/celkon_millennia_octa510-6922.php"
+    }
+}

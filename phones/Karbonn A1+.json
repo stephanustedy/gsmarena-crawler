@@ -1,0 +1,76 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1500 mAh battery",
+            "Stand-by": "Up to 240 h",
+            "Talk time": "Up to 4 h"
+        },
+        "Body": {
+            "Dimensions": "114.5 x 60.6 x 13.8 mm (4.51 x 2.39 x 0.54 in)",
+            "SIM": "Dual SIM (Mini-SIM)",
+            "Weight": "130 g (4.59 oz)"
+        },
+        "Camera": {
+            "Primary": "3 MP, 2048 x 1536 pixels",
+            "Secondary": "VGA",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "No",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "320 x 480 pixels (~165 ppi pixel density)",
+            "Size": "3.5 inches (~52.6% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- Mobile TV\n- MP3/AAC/WMA/WAV player\n- MP4/WMV/H.264 player\n- Document viewer",
+            "Browser": "HTML",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS(threaded view), MMS, Email, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2012",
+            "Status": "Available"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "256 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Ivory White",
+            "Price group": "1/10 (About 50 EUR)",
+            "SAR US": "0.66 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Technology": "GSM"
+        },
+        "Platform": {
+            "CPU": "1 GHz",
+            "OS": "Android OS, v2.3.6 (Gingerbread)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Karbonn A1+",
+        "image": {
+            "href": "http://www.gsmarena.com/karbonn_a1+-pictures-5188.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/karbonn-a1+.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/karbonn_a1+-5188.php"
+    }
+}

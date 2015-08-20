@@ -1,0 +1,81 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1200 mAh battery",
+            "Stand-by": "Up to 800 h (2G) / Up to 500 h (3G)",
+            "Talk time": "Up to 17 h (2G) / Up to 6 h 10 min (3G)"
+        },
+        "Body": {
+            "": "- Optical trackpad",
+            "Dimensions": "110.8 x 63.5 x 11.5 mm (4.36 x 2.5 x 0.45 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "108.6 g (3.81 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face detection",
+            "Primary": "3.15 MP, 2048 x 1536 pixels",
+            "Secondary": "No",
+            "Video": "320p@24fps"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Resolution": "320 x 240 pixels (~154 ppi pixel density)",
+            "Size": "2.6 inches (~29.8% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- MP4/WMV/H.264 player\n- MP3/WAV/eAAC+ player\n- Photo/video editor\n- Document viewer/editor",
+            "Browser": "HTML, Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2011, August",
+            "Status": "Available. Released 2011, November"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "160 MB"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "3/10 (About 110 EUR)",
+            "SAR US": "0.40 W/kg (head) \u00a0 \u00a0 0.47 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 7.2/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "832 MHz",
+            "OS": "Android OS, v2.3 (Gingerbread)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Samsung Galaxy Txt",
+        "device_name": "Samsung Galaxy Y Pro B5510",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_galaxy_y_pro_b5510-pictures-4116.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-y-pro-b5510.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_galaxy_y_pro_b5510-4116.php"
+    }
+}

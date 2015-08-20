@@ -1,0 +1,79 @@
+{
+    "data": {
+        "Battery": {
+            "": "Extended battery",
+            "Stand-by": "Up to 500 h",
+            "Talk time": "Up to 7 h 30 min"
+        },
+        "Body": {
+            "Dimensions": "109 x 55 x 17 mm (4.29 x 2.17 x 0.67 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "140 g (4.94 oz)"
+        },
+        "Camera": {
+            "Primary": "3.15 MP, 2048 x 1536 pixels, LED flash",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "",
+            "Resolution": "480 x 800 pixels (~301 ppi pixel density)",
+            "Size": "3.1 inches (~45.6% screen-to-body ratio)",
+            "Type": "AMOLED resistive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- MP4/H.264 player\n- MP3/AAC+/WMA player\n- Organizer\n- MS Office document viewer\n- Push to talk\n- Voice memo/dial\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email, IM",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2009, April",
+            "Status": "Available. Released 2009, August"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 16 GB",
+            "Internal": "256 MB RAM",
+            "Phonebook": "1000 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "2/10 (About 90 EUR)",
+            "SAR US": "1.36 W/kg (head) \u00a0 \u00a0 0.67 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "CDMA 800 / 1900",
+            "3G bands": "CDMA2000 1xEV-DO",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Speed": "EV-DO Rev.A 3.1 Mbps",
+            "Technology": "CDMA / EVDO"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "For Verizon",
+        "device_name": "Samsung U960 Rogue",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_u960_rogue-pictures-3472.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/Samsung-U960-Rogue.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_u960_rogue-3472.php"
+    }
+}

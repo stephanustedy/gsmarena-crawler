@@ -1,0 +1,106 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 2300 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "142.7 x 72.6 x 9.9 mm (5.62 x 2.86 x 0.39 in)",
+            "SIM": "Yes",
+            "Weight": "139 g (4.90 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection, HDR, panorama",
+            "Primary": "8 MP, 3264 x 2448 pixels, laser autofocus, LED flash\n13 MP, 4128 x 3096 pixels, autofocus, LED flash (Latin America)",
+            "Secondary": "5 MP",
+            "Video": "1080p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.1, A2DP",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "NFC": "Yes",
+            "Radio": "To be confirmed",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "1080 x 1920 pixels (~423 ppi pixel density)",
+            "Size": "5.2 inches (~72.3% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/H.264 player\n- MP3/WAV/FLAC/eAAC+ player\n- Photo/video editor\n- Document editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, proximity, compass, color spectrum"
+        },
+        "Launch": {
+            "Announced": "2015, July",
+            "Status": "Coming soon. Exp. release 2015, Q3"
+        },
+        "Memory": {
+            "Card slot": "To be confirmed",
+            "Internal": "8 GB, 1.5 GB RAM"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA",
+            "4G bands": "LTE",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.5 GHz Cortex-A53 & quad-core 1 GHz Cortex-A53",
+            "Chipset": "Qualcomm MSM8939 Snapdragon 615",
+            "GPU": "Adreno 405",
+            "OS": "Android OS, v5.1.1 (Lollipop)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as LG G4s, G4 s",
+        "device_name": "LG G4 Beat",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_g4_beat-pictures-7363.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-g4s-beat.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_g4_beat-7363.php"
+    }
+}

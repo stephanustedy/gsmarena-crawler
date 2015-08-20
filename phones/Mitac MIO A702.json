@@ -1,0 +1,75 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1130 mAh battery",
+            "Stand-by": "Up to 200 h",
+            "Talk time": "Up to 4 h"
+        },
+        "Body": {
+            "Dimensions": "110 x 57.5 x 16.5 mm (4.33 x 2.26 x 0.65 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "148 g (5.22 oz)"
+        },
+        "Camera": {
+            "Primary": "3.15 MP, 2048 x 1536 pixels, autofocus, LED flash",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0",
+            "GPS": "Yes, SiRF Star III chipset",
+            "Radio": "No",
+            "USB": "miniUSB v1.1",
+            "WLAN": "Wi-Fi 802.11 b/g"
+        },
+        "Display": {
+            "": "- Handwriting recognition",
+            "Resolution": "240 x 320 pixels (~148 ppi pixel density)",
+            "Size": "2.7 inches (~35.7% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 65K colors"
+        },
+        "Features": {
+            "": "- MP3/MP4 player\n- Pocket Office \n- Organizer\n- Voice memo/dial",
+            "Browser": "WAP 2.0/xHTML",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email, InstantMessaging"
+        },
+        "Launch": {
+            "Announced": "2007, September. Released 2007, November",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "microSD, microSDHC",
+            "Internal": "64 MB RAM, 256 MB to 2 GB (depends on region)"
+        },
+        "Misc": {
+            "Colors": "",
+            "Price group": "7/10 (About 340 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Platform": {
+            "CPU": "200 MHz ARM926EJ-S",
+            "Chipset": "TI OMAP 850",
+            "OS": "Microsoft Windows Mobile 6.0 Professional"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Mitac MIO A702",
+        "image": {
+            "href": "http://www.gsmarena.com/mitac_mio_a702-pictures-2109.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/mio-a702.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/mitac_mio_a702-2109.php"
+    }
+}

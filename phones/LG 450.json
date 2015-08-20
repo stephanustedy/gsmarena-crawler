@@ -1,0 +1,76 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 950 mAh battery",
+            "Stand-by": "Up to 350 h",
+            "Talk time": "Up to 3 h 20 min"
+        },
+        "Body": {
+            "Dimensions": "98 x 51.1 x 18.5 mm (3.86 x 2.01 x 0.73 in)",
+            "SIM": "Yes",
+            "Weight": "102.9 g (3.63 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 960 pixels",
+            "Secondary": "No",
+            "Video": "144p"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "microUSB",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Secondary external monochrome display, 64 x 96 pixels, 1 inch",
+            "Resolution": "176 x 220 pixels (~128 ppi pixel density)",
+            "Size": "2.2 inches (~30.4% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/WMA/AAC+/MP4 player\n- Oraganizer\n- Photo viewer\n- Predictive text input\n- Voice commands",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "No",
+            "Java": "Yes",
+            "Messaging": "SMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2014, Q4",
+            "Status": "Available. Released 2014, Q4"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "No",
+            "Internal": "256 MB, 128 MB RAM",
+            "Phonebook": "Yes"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "2/10 (About 60 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 1900",
+            "EDGE": "Yes",
+            "GPRS": "Class 12",
+            "Speed": "HSPA",
+            "Technology": "GSM / HSPA"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as LG 450 T-Mobile (B450)",
+        "device_name": "LG 450",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_450-pictures-7133.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-450.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_450-7133.php"
+    }
+}

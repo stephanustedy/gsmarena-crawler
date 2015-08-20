@@ -1,0 +1,76 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 800 mAh battery",
+            "Stand-by": "Up to 180 h",
+            "Talk time": "Up to 3 h"
+        },
+        "Body": {
+            "Dimensions": "95 x 51 x 15.2 mm (3.74 x 2.01 x 0.60 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "99 g (3.49 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 1024 pixels, 180 deg rotating lens",
+            "Secondary": "No",
+            "Video": "CIF"
+        },
+        "Comms": {
+            "Bluetooth": "v1.2, A2DP",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "v1.1",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~190 ppi pixel density)",
+            "Size": "2.1 inches, 32 x 42 mm (~28.2% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- TV-out\n- MP3/AAC+/MP4 player\n- Picsel viewer\n- SyncML\n- Predictive text input\n- Organizer\n- Voice memo",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2005, 4Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- 4 MB for Java apps",
+            "Call records": "30 dialed, 30 received, 30 missed calls",
+            "Card slot": "microSD",
+            "Internal": "73 MB",
+            "Phonebook": "1000 x 12 fields, Photo call"
+        },
+        "Misc": {
+            "Colors": "Noir Black, Blue Black, Charcoal Gray",
+            "Price group": "3/10 (About 110 EUR)",
+            "SAR EU": "0.70 W/kg (head)",
+            "SAR US": "0.36 W/kg (head) \u00a0 \u00a0 0.41 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "canonical_name": "Samsung T809 for T-Mobile",
+        "device_name": "Samsung D820",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_d820-pictures-1356.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-d820.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_d820-1356.php"
+    }
+}

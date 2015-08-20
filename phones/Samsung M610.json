@@ -1,0 +1,74 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 800 mAh battery",
+            "Stand-by": "Up to 250 h",
+            "Talk time": "Up to 5 h"
+        },
+        "Body": {
+            "Dimensions": "99 x 45 x 17.5 mm (3.90 x 1.77 x 0.69 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "90 g (3.17 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "FM radio",
+            "USB": "v1.1",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "128 x 160 pixels (~116 ppi pixel density)",
+            "Size": "1.77 inches (~22.1% screen-to-body ratio)",
+            "Type": "CSTN, 65K colors"
+        },
+        "Features": {
+            "": "- Video player\n- MP3/AAC/AAC+/eAAC+/WMA player\n- Predictive text input\n- Organizer\n- Voice memo",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2007, October. Released 2007, November",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "30 dialed, 30 received, 30 missed calls",
+            "Card slot": "microSD",
+            "Internal": "5 MB",
+            "Phonebook": "500 entries"
+        },
+        "Misc": {
+            "Colors": "Black, Blue",
+            "Price group": "2/10 (About 60 EUR)",
+            "SAR EU": "0.32 W/kg (head)",
+            "SAR US": "0.37 W/kg (head) \u00a0 \u00a0 0.53 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Samsung M610",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_m610-pictures-2111.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-m610.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_m610-2111.php"
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 5000 mAh battery",
+            "Stand-by": "Up to 1090 h (2G) / Up to 1090 h (3G)",
+            "Talk time": "Up to 52 h (2G) / Up to 33 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "144.5 x 71.5 x 10.4 mm (5.69 x 2.81 x 0.41 in)",
+            "SIM": "Dual SIM (Mini-SIM/ Micro-SIM, dual stand-by)",
+            "Weight": "180 g (6.35 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face/smile detection",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash",
+            "Secondary": "2 MP",
+            "Video": "1080p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 3",
+            "Resolution": "720 x 1280 pixels (~294 ppi pixel density)",
+            "Size": "5.0 inches (~66.7% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP3/AAC/WMA/WAV player\n- MP4/DivX/XviD/WMV/H.264 player\n- Photo/video editor\n- Document viewer",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, gyro, proximity"
+        },
+        "Launch": {
+            "Announced": "2015, January",
+            "Status": "Available. Released 2015, January"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "8 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White, Gold",
+            "Price group": "3/10 (About 140 EUR)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 1900 / 2100 - D810L",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 850 / 1700 / 1900 - D810U",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 21.1/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.3 GHz Cortex-A7",
+            "GPU": "Mali-400",
+            "OS": "Android OS, v4.4.2 (KitKat)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "BLU Studio Energy",
+        "image": {
+            "href": "http://www.gsmarena.com/blu_studio_energy-pictures-6928.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/blu-st-e.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/blu_studio_energy-6928.php"
+    }
+}

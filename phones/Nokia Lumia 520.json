@@ -1,0 +1,93 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1430 mAh battery (BL-5J)",
+            "Music play": "Up to 61 h",
+            "Stand-by": "Up to 360 h (3G)",
+            "Talk time": "Up to 14 h 40 min (2G) / Up to 9 h 40 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "119.9 x 64 x 9.9 mm, 75.7 cc (4.72 x 2.52 x 0.39 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "124 g (4.37 oz)"
+        },
+        "Camera": {
+            "Features": "1/4'' sensor size, geo-tagging",
+            "Primary": "5 MP, 2592 x 1936 pixels, autofocus, check quality",
+            "Secondary": "No",
+            "Video": "720p@30fps, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, LE/ apt-X after WP8 Denim update",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "Radio": "FM Radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Scratch-resistant glass",
+            "Resolution": "480 x 800 pixels (~233 ppi pixel density)",
+            "Size": "4.0 inches (~59.3% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP3/WAV/eAAC+/WMA player\n- MP4/H.264/WMV player\n- OneDrive (15 GB cloud storage)\n- Document viewer\n- Video/photo editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2013, February",
+            "Status": "Available. Released 2013, April"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "8 GB, 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Yellow, red, cyan, white/black",
+            "Price group": "2/10 (About 70 EUR)",
+            "SAR EU": "1.09 W/kg (head)",
+            "SAR US": "0.77 W/kg (head)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 1700 / 1900 / 2100 - RM-917",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - all versions",
+            "3G bands": "HSDPA 900 / 2100 - RM-914",
+            "EDGE": "Up to 236.8 kbps",
+            "GPRS": "Class B",
+            "Speed": "HSPA 21.1/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1 GHz",
+            "Chipset": "Qualcomm MSM8227",
+            "GPU": "Adreno 305",
+            "OS": "Microsoft Windows Phone 8, upgradeable to v8.1"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -82.3dB / Crosstalk -81.8dB",
+            "Battery life": "Endurance rating 49h",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 834:1 (nominal) / 1.161:1 (sunlight)",
+            "Loudspeaker": "Voice 68dB / Noise 69dB / Ring 66dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Also available as Nokia Lumia 521 RM-917 for T-Mobile",
+        "device_name": "Nokia Lumia 520",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_lumia_520-pictures-5322.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-lumia-520.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_lumia_520-5322.php"
+    }
+}

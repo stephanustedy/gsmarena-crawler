@@ -1,0 +1,76 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1500 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "122.5 x 62.5 x 10.5 mm (4.82 x 2.46 x 0.41 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "140 g (4.94 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, LED flash",
+            "Secondary": "VGA",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "480 x 800 pixels (~233 ppi pixel density)",
+            "Size": "4.0 inches (~59.5% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/WAV/eAAC+ player\n- MP4/H.264 player\n- Document viewer\n- Photo viewer/editor",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2012, Q3",
+            "Status": "Available. Released 2012, Q4"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "4 GB (2 GB user available), 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "4/10 (About 180 EUR)",
+            "SAR EU": "0.97 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 1700 / 1900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "1.4 GHz",
+            "OS": "Android OS, v4.0 (Ice Cream Sandwich)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Huawei Ascend G312 U8680, Huawei Ascend G312 U8681",
+        "device_name": "Huawei Ascend G312",
+        "index": 1,
+        "url": "http://www.gsmarena.com/huawei_ascend_g312-5439.php"
+    }
+}

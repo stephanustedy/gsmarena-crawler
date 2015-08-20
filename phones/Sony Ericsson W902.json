@@ -1,0 +1,83 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 930 mAh battery",
+            "Stand-by": "Up to 380 h (2G) / Up to 360 h (3G)",
+            "Talk time": "Up to 9 h (2G) / Up to 4 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "110 x 49 x 11.7 mm (4.33 x 1.93 x 0.46 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "99.8 g (3.49 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging (cell-ID)",
+            "Primary": "5 MP, 2592 x 1944 pixels, autofocus, LED flash",
+            "Secondary": "Videocall camera",
+            "Video": "320p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "",
+            "Resolution": "240 x 320 pixels (~182 ppi pixel density)",
+            "Size": "2.2 inches (~27.8% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- Walkman player \n- TrackID music recognition\n- SensMe\n- Shake control\n- Predictive text input\n- Photo editor\n- Organizer\n- Voice memo",
+            "Browser": "WAP 2.0/xHTML, HTML (NetFront)",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS, Email, Push Email",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2008, July. Released 2008, October",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "30 received, dialed and missed calls",
+            "Card slot": "Memory Stick Micro (M2), up to 8 GB, 8 GB included",
+            "Internal": "25 MB",
+            "Phonebook": "1000 x 20 fields, Photo call"
+        },
+        "Misc": {
+            "Colors": "Volcanic Black, Wine Red, Earth Green",
+            "Price group": "4/10 (About 180 EUR)",
+            "SAR EU": "1.48 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 2100",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Speed": "HSPA 3.6/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Sound": {
+            "": "- Dedicated music keys",
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3, AAC ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -81.7dB / Crosstalk -85.4dB",
+            "Loudspeaker": "Voice 68dB / Noise 69dB / Ring 75dB"
+        }
+    },
+    "main": {
+        "device_name": "Sony Ericsson W902",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_ericsson_w902-pictures-2468.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/se-w902.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_ericsson_w902-2468.php"
+    }
+}

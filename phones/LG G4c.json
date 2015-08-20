@@ -1,0 +1,84 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 2540 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "139.7 x 69.8 x 10.2 mm (5.5 x 2.75 x 0.40 in)",
+            "SIM": "Yes",
+            "Weight": "136 g (4.80 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash",
+            "Secondary": "5 MP",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v4.1, A2DP, LE, apt-X",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "NFC": "Yes",
+            "Radio": "To be confirmed",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, WiFi Direct, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- LG Optimus UX 4.0 UI",
+            "Multitouch": "Yes",
+            "Protection": "To be confirmed",
+            "Resolution": "720 x 1280 pixels (~294 ppi pixel density)",
+            "Size": "5.0 inches (~70.7% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- DivX/MP4/H.264 player\n- MP3/WAV/FLAC/eAAC+ player\n- Photo/video editor\n- Document editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2015, May",
+            "Status": "Available. Released 2015, June"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 128 GB",
+            "Internal": "8 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Metallic Gray, Ceramic White, Shiny Gold",
+            "Price group": "5/10 (About 240 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA, LTE",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.2/1.3 GHz Cortex-A53",
+            "Chipset": "Qualcomm MSM8916 Snapdragon 410",
+            "GPU": "Adreno 306",
+            "OS": "Android OS, v5.0 (Lollipop)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as LG G4c H525N",
+        "device_name": "LG G4c",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_g4c-pictures-7250.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-g4c-1.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_g4c-7250.php"
+    }
+}

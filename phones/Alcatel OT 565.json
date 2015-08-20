@@ -1,0 +1,97 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 800 mAh battery",
+            "Stand-by": "Up to 275 h",
+            "Talk time": "Up to 3 h"
+        },
+        "Body": {
+            "Dimensions": "107 x 48 x 21 mm, 86 cc (4.21 x 1.89 x 0.83 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "93 g (3.28 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "No"
+        },
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Wallpapers \n- Downloadable applications and wallpapers",
+            "Resolution": "128 x 160 pixels, 10 lines",
+            "Size": "",
+            "Type": "CSTN, 65K colors"
+        },
+        "Features": {
+            "": "- Video player\n- Predictive text input\n- SyncML\n- Organizer\n- Voice memo\n- Voice dial",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2004, 4Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "10 dialed, 10 received, 10 missed calls",
+            "Card slot": "No",
+            "Internal": "3 MB",
+            "Phonebook": "300 entries, Photo call"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Alcatel OT 565",
+        "image": {
+            "href": "http://www.gsmarena.com/alcatel_ot_565-pictures-904.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/alot565.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/alcatel_ot_565-904.php"
+    }
+}

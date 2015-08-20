@@ -1,0 +1,75 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 900 mAh battery",
+            "Stand-by": "Up to 220 h",
+            "Talk time": "Up to 4 h"
+        },
+        "Body": {
+            "Dimensions": "87.5 x 49 x 22.2 mm (3.44 x 1.93 x 0.87 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "105 g (3.70 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "miniUSB",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second external monochrome display (96 x 32 pixels)\n- Downloadable wallpapers, screensavers",
+            "Resolution": "128 x 160 pixels (~108 ppi pixel density)",
+            "Size": "1.9 inches (~26.5% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- Push to talk \n- MP4 player\n- iTap\n- Organizer\n- Voice command\n- Voice memo",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS, EMail, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2007, September. Released 2008, December",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "10 dialed, 10 received, 10 missed calls",
+            "Card slot": "No",
+            "Internal": "10 MB",
+            "Phonebook": "1000 entries, Photo call"
+        },
+        "Misc": {
+            "Colors": "",
+            "Price group": "2/10 (About 60 EUR)",
+            "SAR EU": "0.81 W/kg (head)",
+            "SAR US": "1.43 W/kg (head) \u00a0 \u00a0 0.73 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones, composer",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Motorola PEBL U3",
+        "image": {
+            "href": "http://www.gsmarena.com/motorola_pebl_u3-pictures-2102.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/motorola-u3.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/motorola_pebl_u3-2102.php"
+    }
+}

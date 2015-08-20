@@ -1,0 +1,73 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1000 mAh battery",
+            "Stand-by": "Up to 200 h",
+            "Talk time": "Up to 4 h"
+        },
+        "Body": {
+            "": "- Flashlight",
+            "Dimensions": "-",
+            "SIM": "Dual SIM (Mini-SIM)",
+            "Weight": "-"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0",
+            "GPS": "No",
+            "Radio": "FM radio, FM recording",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "128 x 160 pixels (~116 ppi pixel density)",
+            "Size": "1.77 inches",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- Audio/Video player",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Downloadable",
+            "Java": "No",
+            "Messaging": "SMS"
+        },
+        "Launch": {
+            "Announced": "2012, September",
+            "Status": "Available. Released 2012, September"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 4 GB",
+            "Internal": "16 MB RAM, 32 MB ROM",
+            "Phonebook": "Yes"
+        },
+        "Misc": {
+            "Colors": "White/Black, Yellow/Black",
+            "Price group": "1/10 (About 10 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+            "EDGE": "No",
+            "GPRS": "Class 12",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration, Polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Micromax X101",
+        "image": {
+            "href": "http://www.gsmarena.com/micromax_x101-pictures-5214.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/micromax-x101.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/micromax_x101-5214.php"
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 3000 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "147 x 72.1 x 8 mm (5.79 x 2.84 x 0.31 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "-"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection, panorama, HDR",
+            "Primary": "13 MP, 4128 x 3096 pixels, autofocus, LED flash",
+            "Secondary": "5 MP",
+            "Video": "1080p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "1080 x 1920 pixels (~441 ppi pixel density)",
+            "Size": "5.0 inches (~65.0% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/WMV/H.264 player\n- MP3/WAV/WMA/AAC player\n- Document viewer\n- Photo/video editor\n- Voice memo",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2014, August",
+            "Status": "Available. Released 2014, August"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "32 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "SAR EU": "0.58 W/kg (head) \u00a0 \u00a0 0.56 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "3G bands": "HSDPA 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 42.2/11.5 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.5 GHz Cortex-A7",
+            "Chipset": "Mediatek MT6589T",
+            "GPU": "PowerVR SGX544",
+            "OS": "Android OS, v4.2 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "XOLO Q1000s plus",
+        "image": {
+            "href": "http://www.gsmarena.com/xolo_q1000s_plus-pictures-6623.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/xolo-q1000s-plus.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/xolo_q1000s_plus-6623.php"
+    }
+}

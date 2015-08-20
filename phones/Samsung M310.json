@@ -1,0 +1,74 @@
+{
+    "data": {
+        "Battery": {
+            "": "",
+            "Stand-by": "Up to 300 h",
+            "Talk time": "Up to 3 h"
+        },
+        "Body": {
+            "Dimensions": "87 x 45 x 20 mm (3.43 x 1.77 x 0.79 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "87 g (3.07 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "No"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "No",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second external monochrome 1-inch display",
+            "Resolution": "128 x 160 pixels (~121 ppi pixel density)",
+            "Size": "1.7 inches (~23.2% screen-to-body ratio)",
+            "Type": "CSTN, 65K colors"
+        },
+        "Features": {
+            "": "- Organizer\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS"
+        },
+        "Launch": {
+            "Announced": "2008, May. Released 2008, October",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "30 dialed, received, missed calls",
+            "Card slot": "No",
+            "Phonebook": "500 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "2/10 (About 80 EUR)",
+            "SAR EU": "0.38 W/kg (head)",
+            "SAR US": "0.65 W/kg (head) \u00a0 \u00a0 0.36 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Samsung M310",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_m310-pictures-2423.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-m310.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_m310-2423.php"
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 880 mAh battery",
+            "Stand-by": "Up to 350 h",
+            "Talk time": "Up to 7 h 30 min"
+        },
+        "Body": {
+            "Dimensions": "99 x 46 x 17.5 mm, 70 cc (3.90 x 1.81 x 0.69 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "107 g (3.77 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 1024 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "miniUSB v1.1",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second external CSTN, 65K colors display (96 x 80 pixels)\n- Screensavers and wallpapers\n- Downloadable logos",
+            "Resolution": "176 x 220 pixels (~148 ppi pixel density)",
+            "Size": "1.9 inches (~24.9% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/AAC/AAC+ player\n- Predictive text input\n- Organizer\n- Voice memo",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2007, February",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "40 dialed, 40 received, 40 missed calls",
+            "Card slot": "microSD",
+            "Internal": "20 MB",
+            "Phonebook": "Yes, Photocall"
+        },
+        "Misc": {
+            "Colors": "Dark Pearl Gray",
+            "Price group": "1/10 (About 50 EUR)",
+            "SAR EU": "0.76 W/kg (head)",
+            "SAR US": "1.08 W/kg (head) \u00a0 \u00a0 0.55 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Motorola W510",
+        "image": {
+            "href": "http://www.gsmarena.com/motorola_w510-pictures-1872.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/motorola-w510.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/motorola_w510-1872.php"
+    }
+}

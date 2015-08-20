@@ -1,0 +1,75 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 800 mAh battery",
+            "Stand-by": "Up to 300 h",
+            "Talk time": "Up to 6 h 30 min"
+        },
+        "Body": {
+            "Dimensions": "106 x 45.5 x 20 mm (4.17 x 1.79 x 0.79 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "71 g (2.50 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "No"
+        },
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "FM radio",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Four way navigation keys",
+            "Resolution": "128 x 160 pixels (~121 ppi pixel density)",
+            "Size": "1.7 inches (~18.9% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- MP3 and AAC player\n- Sound recorder\n- Predictive text input\n- SyncML\n- Voice dial\n- Organizer\n- Xpress-on covers",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "2 - Snowball Fight, Bubble Smile",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2005, 1Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- 200 short messages",
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "No",
+            "Internal": "3 MB",
+            "Phonebook": "500 x 10 fields, Photo call"
+        },
+        "Misc": {
+            "Colors": "",
+            "SAR EU": "1.13 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Samsung X620",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_x620-pictures-1141.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-x620.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_x620-1141.php"
+    }
+}

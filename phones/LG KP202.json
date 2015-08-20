@@ -1,0 +1,74 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 830 mAh battery",
+            "Stand-by": "Up to 200 h",
+            "Talk time": "Up to 3 h"
+        },
+        "Body": {
+            "Dimensions": "87 x 45 x 19.8 mm (3.43 x 1.77 x 0.78 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "78 g (2.75 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "No"
+        },
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "No",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second external STN, mono display (96 x 64 pixels)",
+            "Resolution": "128 x 160 pixels (~114 ppi pixel density)",
+            "Size": "1.8 inches, 28 x 37 mm (~26.0% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- Predictive text input\n- Organizer\n- Voice memo",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes",
+            "Java": "Yes",
+            "Messaging": "SMS, EMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2007, May",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "10 dialed, 10 received, 10 missed calls",
+            "Card slot": "No",
+            "Internal": "4 MB",
+            "Phonebook": "Yes, Photocall"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "2/10 (About 70 EUR)",
+            "SAR US": "0.46 W/kg (head) \u00a0 \u00a0 0.29 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Yes",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "LG KP202",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_kp202-pictures-2062.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-kp202.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_kp202-2062.php"
+    }
+}

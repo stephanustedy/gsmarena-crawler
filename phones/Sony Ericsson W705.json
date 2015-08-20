@@ -1,0 +1,81 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 950 mAh battery",
+            "Stand-by": "Up to 400 h (2G) / Up to 350 h (3G)",
+            "Talk time": "Up to 10 h (2G) / Up to 4 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "95 x 47.5 x 14.3 mm (3.74 x 1.87 x 0.56 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "98 g (3.46 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging (cell-ID)",
+            "Primary": "3.15 MP, 2048 x 1536 pixels, LED flash",
+            "Secondary": "Videocall camera",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g, DLNA"
+        },
+        "Display": {
+            "": "",
+            "Resolution": "240 x 320 pixels (~167 ppi pixel density)",
+            "Size": "2.4 inches (~39.5% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/AAC/MP4 player\n- Walkman 3.0 player\n- Shake control\n- SensMe\n- TrackID music recognition\n- YouTube service in Media Center\n- Photo editor \n- Organizer\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/HTML, RSS",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2008, October. Released 2009, March",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "30 received, dialed and missed calls",
+            "Card slot": "Memory Stick Micro (M2), up to 8 GB, 4 GB included",
+            "Internal": "120 MB",
+            "Phonebook": "1000 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Luxury Silver, Passionate Red",
+            "Price group": "4/10 (About 160 EUR)",
+            "SAR EU": "1.01 W/kg (head)",
+            "SAR US": "1.15 W/kg (head) \u00a0 \u00a0 0.74 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 1900 / 2100 W705a",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Speed": "HSPA 7.2/2 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration, MP3, AAC ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "- Sony Ericsson W705u with UMA (for Orange)",
+        "device_name": "Sony Ericsson W705",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_ericsson_w705-pictures-2585.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/se-w705.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_ericsson_w705-2585.php"
+    }
+}

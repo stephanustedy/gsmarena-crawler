@@ -1,0 +1,120 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "-",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "-"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, LED flash",
+            "Secondary": "No",
+            "Video": "720p"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "Yes, with A-GPS; Bing Maps",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n"
+        },
+        "Display": {
+            "": "",
+            "Multitouch": "Yes",
+            "Resolution": "480 x 800 pixels (~252 ppi pixel density)",
+            "Size": "3.7 inches",
+            "Type": "S-LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP3/AAC+/WAV/WMA9 player\n- MP4/H.264/WMV9 player\n- Organizer\n- Document viewer/editor\n- Voice memo/dial\n- Predictive text input",
+            "Browser": "HTML",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "Not officially announced yet",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "SAR US": "0.55 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "0": "O",
+            "1": "S",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "t",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "g",
+            "25": "l",
+            "26": "o",
+            "27": "s",
+            "28": "s",
+            "29": "a",
+            "3": "p",
+            "30": "r",
+            "31": "y",
+            "32": ".",
+            "33": "p",
+            "34": "h",
+            "35": "p",
+            "36": "3",
+            "37": "?",
+            "38": "t",
+            "39": "e",
+            "4": ":",
+            "40": "r",
+            "41": "m",
+            "42": "=",
+            "43": "o",
+            "44": "s",
+            "5": "/",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Unofficial preliminary specifications",
+        "device_name": "HTC Prime",
+        "index": 1,
+        "url": "http://www.gsmarena.com/htc_prime-3877.php"
+    }
+}

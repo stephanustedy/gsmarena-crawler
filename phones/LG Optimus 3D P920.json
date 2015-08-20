@@ -1,0 +1,90 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1500 mAh battery",
+            "Stand-by": "Up to 450 h",
+            "Talk time": "Up to 13 h (2G) / Up to 9 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "128.8 x 68 x 11.9 mm (5.07 x 2.68 x 0.47 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "168 g (5.93 oz)"
+        },
+        "Camera": {
+            "Features": "Stereoscopic photos & videos; geo-tagging",
+            "Primary": "Dual 5 MP, 2592 \u0445 1944 pixels, autofocus, LED flash, check quality",
+            "Secondary": "Yes",
+            "Video": "1080p@30fps (2D), 720p@30fps (3D), check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- LG 3D UI",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "480 x 800 pixels (~217 ppi pixel density)",
+            "Size": "4.3 inches (~60.1% screen-to-body ratio)",
+            "Type": "3D LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- HDMI port\n- MP4/DivX/XviD/H.264/WMV player\n- 3D/2D video editor\n- MP3/WAV/WMA/eAAC+ player\n- Document viewer/editor\n- Organizer\n- Voice memo/dial/commands\n- Predictive text input",
+            "Browser": "HTML, Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2011, January",
+            "Status": "Available. Released 2011, July"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "8 GB, 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "4/10 (About 190 EUR)",
+            "SAR EU": "0.37 W/kg (head) \u00a0 \u00a0 0.56 W/kg (body)",
+            "SAR US": "0.55 W/kg (head) \u00a0 \u00a0 1.12 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 1700 / 2100",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 1900 / 2100",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Speed": "HSPA 21.1/5.76 Mbps (req. SW update)",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1 GHz Cortex-A9",
+            "Chipset": "TI OMAP 4430",
+            "GPU": "PowerVR SGX540",
+            "OS": "Android OS, v2.2 (Froyo), v2.3, upgradable to v4.0 (Ice Cream Sandwich)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -86.5dB / Crosstalk -87.4dB",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 1068:1 (nominal) / 1.542:1 (sunlight)",
+            "Loudspeaker": "Voice 67dB / Noise 66dB / Ring 82dB"
+        }
+    },
+    "main": {
+        "device_name": "LG Optimus 3D P920",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_optimus_3d_p920-pictures-3759.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-optimus-3d-p920.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_optimus_3d_p920-3759.php"
+    }
+}

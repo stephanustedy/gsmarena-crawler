@@ -1,0 +1,84 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1500 mAh battery",
+            "Stand-by": "Up to 200 h",
+            "Talk time": "Up to 4 h 10 min"
+        },
+        "Body": {
+            "Dimensions": "118.8 x 57 x 14.3 mm (4.68 x 2.24 x 0.56 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "157 g (5.54 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face detection",
+            "Primary": "5 MP, 2560 x 1920 pixels, autofocus",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g, hotspot (Android 2.2)"
+        },
+        "Display": {
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "480 x 800 pixels (~267 ppi pixel density)",
+            "Size": "3.5 inches (~51.5% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- TDMB TV tuner\n- MP3/WAV/eAAC+/WMA player\n- MP4/DviX/Xvid/WMV/H.264 player\n- Document viewer \n- Organizer\n- Photo/video editor\n- Voice memo",
+            "Browser": "WAP 2.0/xHTML, HTML, Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS (threaded view), MMS, Email, IM, Push Email",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2010, April",
+            "Status": "Available. Released 2010, May"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "3 GB"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "2/10 (About 70 EUR)"
+        },
+        "Network": {
+            "": "HSDPA 2100",
+            "2G bands": "CDMA 800 / 1900",
+            "3G bands": "CDMA2000 1xEV-DO",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Speed": "HSPA, EV-DO Rev. A 3.1 Mbps",
+            "Technology": "CDMA / HSPA / EVDO"
+        },
+        "Platform": {
+            "CPU": "1 GHz Scorpion",
+            "Chipset": "Qualcomm QSD8250 Snapdragon S1",
+            "GPU": "Adreno 200",
+            "OS": "Android OS, v2.1 (Eclair), upgradable to v2.2 (Froyo)"
+        },
+        "Sound": {
+            "": "- Dolby Mobile",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "For South Korea",
+        "device_name": "LG Optimus Q LU2300",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_optimus_q_lu2300-pictures-3257.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-lu2300-ofic.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_optimus_q_lu2300-3257.php"
+    }
+}

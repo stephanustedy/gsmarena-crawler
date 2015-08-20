@@ -1,0 +1,83 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1430 mAh battery (BL-5J)",
+            "Music play": "Up to 48 h",
+            "Stand-by": "Up to 336 h (2G) / Up to 336 h (3G)",
+            "Talk time": "Up to 17 h (2G) / Up to 10 h 40 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "119.9 x 64 x 9.9 mm, 75.7 cc (4.72 x 2.52 x 0.39 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "124 g (4.37 oz)"
+        },
+        "Camera": {
+            "Features": "1/4'' sensor size, geo-tagging",
+            "Primary": "5 MP, 2592 x 1936 pixels, autofocus",
+            "Secondary": "No",
+            "Video": "720p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, LE/ apt-X after WP8 Denim update",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "Radio": "FM Radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Scratch-resistant glass",
+            "Resolution": "480 x 800 pixels (~233 ppi pixel density)",
+            "Size": "4.0 inches (~59.3% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP3/WAV/eAAC+/WMA player\n- MP4/H.264/WMV player\n- OneDrive (15 GB cloud storage)\n- Document viewer\n- Video/photo editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2013, November",
+            "Status": "Available. Released 2014, January"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "8 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White, Yellow, Red",
+            "Price group": "3/10 (About 120 EUR)",
+            "SAR EU": "0.72 W/kg (head) \u00a0 \u00a0 0.79 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - RM-998",
+            "3G bands": "HSDPA 900 / 2100 - RM-998",
+            "EDGE": "Up to 236.8 kbps",
+            "GPRS": "Class B",
+            "Speed": "HSPA 21.1/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1 GHz",
+            "Chipset": "Qualcomm MSM8227",
+            "GPU": "Adreno 305",
+            "OS": "Microsoft Windows Phone 8, upgradeable to v8.1"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Nokia Lumia 525",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_lumia_525-pictures-5869.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-lumia-525.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_lumia_525-5869.php"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 950 mAh battery",
+            "Stand-by": "Up to 250 h",
+            "Talk time": "Up to 4 h"
+        },
+        "Body": {
+            "": "- Flashlight",
+            "Dimensions": "104 x 43.7 x 13 mm (4.09 x 1.72 x 0.51 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "58 g (2.05 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "No",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "128 x 128 pixels (~121 ppi pixel density)",
+            "Size": "1.5 inches (~16.0% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "Browser": "No",
+            "Games": "No",
+            "Java": "No",
+            "Messaging": "SMS"
+        },
+        "Launch": {
+            "Announced": "2011, May",
+            "Status": "Available. Released 2011, Q2"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "No",
+            "Phonebook": "300 contacts"
+        },
+        "Misc": {
+            "Colors": "Dark Grey, Brown White, Black",
+            "Price group": "1/10 (About 30 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration, Polyphonic(32)",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "LG A100",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_a100-pictures-3952.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-a100-new.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_a100-3952.php"
+    }
+}

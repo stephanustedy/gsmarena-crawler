@@ -1,0 +1,76 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 900 mAh battery (BST-37)",
+            "Stand-by": "Up to 300 h",
+            "Talk time": "Up to 8 h"
+        },
+        "Body": {
+            "Dimensions": "103 x 46 x 16.7 mm (4.06 x 1.81 x 0.66 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "82 g (2.89 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "No"
+        },
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "No",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Wallpapers",
+            "Resolution": "128 x 128 pixels (~113 ppi pixel density)",
+            "Size": "1.6 inches (~17.4% screen-to-body ratio)",
+            "Type": "CSTN, 65K colors"
+        },
+        "Features": {
+            "": "- Slide show\n- Full screen viewer\n- Predictive text input\n- Stopwatch\n- Timer",
+            "Browser": "WAP 1.2.1",
+            "Games": "Yes",
+            "Java": "No",
+            "Messaging": "SMS, EMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2007, February",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "20 received, dialed and missed calls",
+            "Card slot": "No",
+            "Internal": "2 MB",
+            "Phonebook": "300 entries"
+        },
+        "Misc": {
+            "Colors": "Frost White, Ocean Blue",
+            "Price group": "2/10 (About 50 EUR)",
+            "SAR EU": "0.90 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "Class 8",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "- K220i 900/1800 MHz\n- K220c 900/1800 MHz for China Mainland",
+        "device_name": "Sony Ericsson K220",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_ericsson_k220-pictures-1841.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/sonyericsson-k220.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_ericsson_k220-1841.php"
+    }
+}

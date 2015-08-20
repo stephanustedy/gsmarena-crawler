@@ -1,0 +1,80 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1340 mAh battery",
+            "Stand-by": "Up to 406 h",
+            "Talk time": "Up to 8 h"
+        },
+        "Body": {
+            "Dimensions": "102 x 51 x 18.1 mm (4.02 x 2.01 x 0.71 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "165 g (5.82 oz)"
+        },
+        "Camera": {
+            "Primary": "3.15 MP, 2048 x 1536 pixels, autofocus, LED flash",
+            "Secondary": "VGA videocall camera",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "miniUSB",
+            "WLAN": "Wi-Fi 802.11 b/g"
+        },
+        "Display": {
+            "": "- TouchFLO 3D finger swipe navigation\n- Handwriting recognition",
+            "Resolution": "480 x 640 pixels (~286 ppi pixel density)",
+            "Size": "2.8 inches (~46.7% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 65K colors"
+        },
+        "Features": {
+            "": "- TV-out (cable not included)\n- Pocket Office \n- Voice memo\n- MP3 player\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML (Opera 9.5)",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS (threaded view), MMS, Email, Instant Messaging",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2008, June. Released 2008",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "microSD",
+            "Internal": "256 MB RAM, 512 MB ROM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "SAR US": "1.34 W/kg (head) \u00a0 \u00a0 0.87 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 7.2/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "528 MHz ARM 11",
+            "Chipset": "Qualcomm MSM7201A",
+            "GPU": "Adreno 130",
+            "OS": "Microsoft Windows Mobile 6.1 Professional"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3, WAV, WMA ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "T-Mobile MDA Vario IV",
+        "image": {
+            "href": "http://www.gsmarena.com/t_mobile_mda_vario_iv-pictures-2581.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/mda-vario-4.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/t_mobile_mda_vario_iv-2581.php"
+    }
+}

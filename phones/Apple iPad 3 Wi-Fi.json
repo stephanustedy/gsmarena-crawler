@@ -1,0 +1,85 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po 11560 mAh battery (42.5 Wh)",
+            "Stand-by": "Up to 720 h",
+            "Talk time": "Up to 10 h"
+        },
+        "Body": {
+            "Dimensions": "241.2 x 185.7 x 9.4 mm (9.50 x 7.31 x 0.37 in)",
+            "SIM": "No",
+            "Weight": "652 g (1.44 lb)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection",
+            "Primary": "5 MP, 2592 x 1944 pixels, autofocus",
+            "Secondary": "VGA, 480p@30fps, videocalling over Wi-Fi only",
+            "Video": "1080p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "v2.0",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Scratch-resistant glass, oleophobic coating",
+            "Resolution": "1536 x 2048 pixels (~264 ppi pixel density)",
+            "Size": "9.7 inches (~65.1% screen-to-body ratio)",
+            "Type": "LED-backlit IPS LCD, capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- iCloud cloud service\n- TV-out\n- Maps\n- Audio/video player/editor\n- Organizer\n- Document viewer\n- Photo viewer/editor\n- Voice memo\n- Predictive text input",
+            "Browser": "HTML5 (Safari)",
+            "Java": "No",
+            "Messaging": "iMessage, Email, Push Email, IM",
+            "Sensors": "Accelerometer, gyro, compass"
+        },
+        "Launch": {
+            "Announced": "2012, March",
+            "Status": "Available. Released 2012, March 16th"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "16/32/64 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "7/10 (About 380 EUR)"
+        },
+        "Network": {
+            "2G bands": "N/A",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "No cellular connectivity"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1 GHz Cortex-A9",
+            "Chipset": "Apple A5X",
+            "GPU": "PowerVR SGX543MP4 (quad-core graphics)",
+            "OS": "iOS 5.1, upgradable to iOS 8.4"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "N/A",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -90.9dB / Crosstalk -92.7dB",
+            "Display": "Contrast ratio: 779:1 (nominal)",
+            "Loudspeaker": "Voice 66dB / Noise 66dB / Ring 77dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Apple iPad Wi-Fi Early 2012\nTablet with no support for GSM voice communication",
+        "device_name": "Apple iPad 3 Wi-Fi",
+        "image": {
+            "href": "http://www.gsmarena.com/apple_ipad_3_wi_fi-pictures-4621.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/apple-ipad-3-new.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/apple_ipad_3_wi_fi-4621.php"
+    }
+}

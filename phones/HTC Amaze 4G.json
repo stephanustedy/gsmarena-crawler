@@ -1,0 +1,85 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1730 mAh battery",
+            "Stand-by": "Up to 264 h",
+            "Talk time": "Up to 6 h"
+        },
+        "Body": {
+            "Dimensions": "130 x 65.6 x 11.8 mm (5.12 x 2.58 x 0.46 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "172.9 g (6.07 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, dual-LED flash",
+            "Secondary": "2 MP",
+            "Video": "1080p"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "NFC": "Yes",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0 (MHL TV-out)",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- HTC Sense UI 3.0",
+            "Multitouch": "Yes",
+            "Resolution": "540 x 960 pixels (~256 ppi pixel density)",
+            "Size": "4.3 inches (~59.8% screen-to-body ratio)",
+            "Type": "S-LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP3/AAC+/WAV/WMA player\n- MP4/H.264/WMV player\n- Organizer\n- Document viewer\n- Voice memo/dial/commands\n- Predictive text input",
+            "Browser": "HTML, Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2011, September",
+            "Status": "Available. Released 2011, October"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "16 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "4/10 (About 180 EUR)",
+            "SAR US": "0.46 W/kg (head) \u00a0 \u00a0 0.68 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 1900 / 2100",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 1700 / 2100 or HSDPA 1700 / 1900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 42.2/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.5 GHz Scorpion",
+            "GPU": "Adreno 220",
+            "OS": "Android OS, v2.3.4 (Gingerbread), upgradable to v4.0 (Ice Cream Sandwich)"
+        },
+        "Sound": {
+            "": "- SRS audio",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "For T-Mobile",
+        "device_name": "HTC Amaze 4G",
+        "image": {
+            "href": "http://www.gsmarena.com/htc_amaze_4g-pictures-4097.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/htc-amaze-4g-new.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/htc_amaze_4g-4097.php"
+    }
+}

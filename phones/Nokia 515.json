@@ -1,0 +1,84 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1200 mAh battery (BL-4U)",
+            "Stand-by": "Up to 912 h (2G) / Up to 912 h (3G)",
+            "Talk time": "Up to 10 h 18 min (2G) / Up to 5 h 18 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "114 x 48 x 11 mm, 56.7 cc (4.49 x 1.89 x 0.43 in)",
+            "SIM": "Optional Dual SIM (Micro-SIM)",
+            "Weight": "101.1 g (3.56 oz)"
+        },
+        "Camera": {
+            "Features": "Face detection, panorama",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, LED flash",
+            "Secondary": "No",
+            "Video": "320p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0/ v3.0, A2DP (single SIM only)",
+            "GPS": "No",
+            "Radio": "Stereo FM radio with RDS; FM recording",
+            "USB": "microUSB v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Protection": "Corning Gorilla Glass 2",
+            "Resolution": "240 x 320 pixels (~167 ppi pixel density)",
+            "Size": "2.4 inches (~32.6% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- SNS applications\n- MP4/H.264 player\n- MP3/WAV/AAC player\n- Organizer\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Games": "Yes + Downloadable",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS(threaded view), MMS, Email, IM"
+        },
+        "Launch": {
+            "Announced": "2013, August",
+            "Status": "Available. Released 2013, September"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "256 MB, 64 MB RAM",
+            "Phonebook": "Yes, 1000 entries"
+        },
+        "Misc": {
+            "Colors": "White, Black",
+            "Price group": "3/10 (About 140 EUR)",
+            "SAR EU": "1.15 W/kg (head) \u00a0 \u00a0 1.14 W/kg (body)",
+            "SAR US": "0.92 W/kg (head) \u00a0 \u00a0 1.03 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 900 / 2100 - SIM 1",
+            "EDGE": "Up to 236.8 kbps",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 7.2/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -87.9dB / Crosstalk -81.0dB",
+            "Display": "Contrast ratio: 743:1 (nominal) / 2.134:1 (sunlight)",
+            "Loudspeaker": "Voice 66dB / Noise 66dB / Ring 77dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Also available as Nokia 515 Dual SIM with dual SIM card slots",
+        "device_name": "Nokia 515",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_515-pictures-5663.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-515.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_515-5663.php"
+    }
+}

@@ -1,0 +1,103 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1650 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "125 x 63.8 x 11.4 mm (4.92 x 2.51 x 0.45 in)",
+            "SIM": "Yes",
+            "Weight": "-"
+        },
+        "Camera": {
+            "Features": "Yes",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, LED flash",
+            "Secondary": "2 MP",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "TBC",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Dragon Trail Glass",
+            "Resolution": "480 x 800 pixels (~233 ppi pixel density)",
+            "Size": "4.0 inches (~57.1% screen-to-body ratio)",
+            "Type": "Capacitive touchscreen"
+        },
+        "Features": {
+            "": "- Fast battery charging: 30% in 30 min (Quick Charge 1.0)\n- MP4/H.264 player\n- MP3/WAV/eAAC+/Flac player\n- Photo/video editor\n- Document viewer",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2015, June",
+            "Status": "Available. Released 2015, June"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "4 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA",
+            "4G bands": "LTE",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA, LTE",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.2 GHz",
+            "OS": "Android OS, v4.4 (KitKat)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "ZTE Sonata 2",
+        "image": {
+            "href": "http://www.gsmarena.com/zte_sonata_2-pictures-7356.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/zte-sonata-2.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/zte_sonata_2-7356.php"
+    }
+}

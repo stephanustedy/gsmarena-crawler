@@ -1,0 +1,81 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 1390 mAh battery",
+            "Stand-by": "Up to 200 h (3G)",
+            "Talk time": "Up to 8 h 40 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "116 x 60.9 x 10.9 mm (4.57 x 2.40 x 0.43 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "139 g (4.90 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, Xenon flash",
+            "Secondary": "No",
+            "Video": "720p@24fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g, DLNA"
+        },
+        "Display": {
+            "": "- Touch-sensitive navigation controls",
+            "Multitouch": "Yes",
+            "Resolution": "480 x 854 pixels (~265 ppi pixel density)",
+            "Size": "3.7 inches (~53.4% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP3/WAV/WMA/AAC+ player\n- MP4/WMV/H.264 player\n- TV-out (720p video) via HDMI port\n- Active noise cancellation with dedicated mic\n- Document viewer\n- Photo viewer/editor\n- Face tagging\n- Organizer\n- T-DMB TV tuner\n- Voice memo\n- Predictive text input",
+            "Browser": "HTML",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS (threaded view), MMS, Email, IM, Push Email",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2010, January",
+            "Status": "Available. Released 2010, July"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB, 8 GB included",
+            "Internal": "512 MB, 256 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Gentle Black",
+            "Price group": "5/10 (About 250 EUR)",
+            "SAR US": "0.25 W/kg (head) \u00a0 \u00a0 0.23 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 2100",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 10.2/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "720 MHz Cortex-A8",
+            "OS": "Android OS, v2.1 (Eclair)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Motorola XT711",
+        "device_name": "Motorola XT720 MOTOROI",
+        "image": {
+            "href": "http://www.gsmarena.com/motorola_xt720_motoroi-pictures-3090.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/motorola-xt720-motoroi-new.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/motorola_xt720_motoroi-3090.php"
+    }
+}

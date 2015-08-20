@@ -1,0 +1,94 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 900 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "104 x 50 x 14.5 mm (4.09 x 1.97 x 0.57 in)",
+            "SIM": "Dual SIM (Mini-SIM)",
+            "Weight": "-"
+        },
+        "Camera": {
+            "Primary": "VGA, 640x480 pixels",
+            "Secondary": "No",
+            "Video": "No"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0",
+            "GPS": "No",
+            "Radio": "FM radio",
+            "USB": "No",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~167 ppi pixel density)",
+            "Size": "2.4 inches (~34.3% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 65K colors"
+        },
+        "Features": {
+            "": "- MP3/MP4 player\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "No",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2010. Released 2010",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD",
+            "Phonebook": "Yes"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Polyphonic(64), MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Haier U60",
+        "image": {
+            "href": "http://www.gsmarena.com/haier_u60-pictures-3388.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/haier-u60.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/haier_u60-3388.php"
+    }
+}

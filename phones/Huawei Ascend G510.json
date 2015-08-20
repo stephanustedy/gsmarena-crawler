@@ -1,0 +1,84 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1700 mAh battery",
+            "Stand-by": "Up to 320 h (2G) / Up to 340 h (3G)",
+            "Talk time": "Up to 5 h 50 min (2G) / Up to 5 h 20 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "134 x 67 x 9.9 mm (5.28 x 2.64 x 0.39 in)",
+            "SIM": "Optional Dual SIM (Mini-SIM)",
+            "Weight": "150 g (5.29 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "5 MP, 2592 x 1940 pixels, autofocus, LED flash",
+            "Secondary": "VGA",
+            "Video": "720p"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "NFC": "Yes (market dependent)",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot, DLNA"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "480 x 854 pixels (~218 ppi pixel density)",
+            "Size": "4.5 inches (~62.2% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP3/WAV/eAAC+ player\n- MP4/H.264 player\n- Document viewer\n- Photo viewer/editor",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2013, January",
+            "Status": "Available. Released 2013, April"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "4 GB, 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "2/10 (About 100 EUR)",
+            "SAR EU": "0.43 W/kg (head)"
+        },
+        "Network": {
+            "": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 7.2/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.2 GHz Cortex-A5",
+            "Chipset": "Qualcomm MSM8225 Snapdragon S4 Play",
+            "GPU": "Adreno 203",
+            "OS": "Android OS, v4.1 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Available as Ascend G510 U8951 with dual SIM card support",
+        "device_name": "Huawei Ascend G510",
+        "image": {
+            "href": "http://www.gsmarena.com/huawei_ascend_g510-pictures-5250.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/huawei-ascend-g510-u8951.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/huawei_ascend_g510-5250.php"
+    }
+}

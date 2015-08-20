@@ -1,0 +1,82 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 2250 mAh battery",
+            "Stand-by": "Up to 336 h",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "143.5 x 74.4 x 9.6 mm (5.65 x 2.93 x 0.38 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "193.5 g (6.81 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, dual-LED flash",
+            "Secondary": "2 MP",
+            "Video": "1080p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "720 x 1280 pixels (~294 ppi pixel density)",
+            "Size": "5.0 inches (~64.6% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP4/WMV/H.264 player\n- MP3/WAV/WMA/eAAC+ player\n- Organizer\n- Photo/video editor\n- Document viewer\n- Voice memo/dial\n- Predictive text input",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2012, August",
+            "Status": "Available. Released 2012, August"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "8 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, Red",
+            "Price group": "6/10 (About 290 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "3G bands": "HSDPA 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.4 GHz Cortex-A9",
+            "Chipset": "Exynos 4412 Quad",
+            "GPU": "Mali-400MP4",
+            "OS": "Android OS, v4.0.4 (Ice Cream Sandwich)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Lenovo IdeaPhone K860",
+        "device_name": "Lenovo K860",
+        "image": {
+            "href": "http://www.gsmarena.com/lenovo_k860-pictures-4956.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lenovo-ideaphone-k860.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lenovo_k860-4956.php"
+    }
+}

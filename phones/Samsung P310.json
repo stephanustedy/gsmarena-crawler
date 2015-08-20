@@ -1,0 +1,74 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 550 mAh battery",
+            "Stand-by": "Up to 300 h",
+            "Talk time": "Up to 6 h"
+        },
+        "Body": {
+            "Dimensions": "86 x 54 x 8.9 mm (3.39 x 2.13 x 0.35 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "85 g (3.00 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels, LED flash",
+            "Secondary": "No",
+            "Video": "CIF"
+        },
+        "Comms": {
+            "Bluetooth": "v1.2, A2DP",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "320 x 240 pixels (~211 ppi pixel density)",
+            "Size": "1.9 inches, 38 x 29 mm (~24.1% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/AAC/AAC+ player\n- MP4 player\n- Document viewer (Word, Excel, PowerPoint, PDF)\n- TV-out (optional cable)\n- Organizer\n- Voice memo\n- SyncML",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes + Java downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2006, September",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- 200 short messages\n- 400 organiser events",
+            "Call records": "30 dialed, 30 received, 30 missed calls",
+            "Card slot": "microSD",
+            "Internal": "80 MB",
+            "Phonebook": "1000 x 10 fields, Photo call"
+        },
+        "Misc": {
+            "Colors": "Silver",
+            "Price group": "5/10 (About 210 EUR)",
+            "SAR EU": "1.00 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "Yes",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Samsung P310",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_p310-pictures-1682.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-p310.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_p310-1682.php"
+    }
+}

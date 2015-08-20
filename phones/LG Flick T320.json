@@ -1,0 +1,73 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 900 mAh battery",
+            "Stand-by": "Up to 320 h",
+            "Talk time": "Up to 3 h"
+        },
+        "Body": {
+            "Dimensions": "102.4 x 56.4 x 11.9 mm (4.03 x 2.22 x 0.47 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "92.5 g (3.25 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels",
+            "Secondary": "No",
+            "Video": "QCIF@15fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "No",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Cartoon UI\n- Handwriting recognition",
+            "Resolution": "240 x 320 pixels (~143 ppi pixel density)",
+            "Size": "2.8 inches (~42.0% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- SNS integration\n- MP3/AAC+/WAV/WMA player\n- MP4/H.264 player\n- Organizer\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS, MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2010, December",
+            "Status": "Available. Released 2010, December"
+        },
+        "Memory": {
+            "Call records": "40 dialed, 40 received, 20 missed calls",
+            "Card slot": "microSD, up to 16 GB",
+            "Internal": "30 MB",
+            "Phonebook": "1000 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "2/10 (About 50 EUR)",
+            "SAR EU": "1.23 W/kg (head) \u00a0 \u00a0 1.21 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 1900",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Speed": "HSPA 3.6/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "LG Flick T320",
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_flick_t320-3676.php"
+    }
+}

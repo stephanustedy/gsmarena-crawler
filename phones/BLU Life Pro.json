@@ -1,0 +1,81 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 2500 mAh battery",
+            "Stand-by": "Up to 900 h (2G) / Up to 600 h (3G)",
+            "Talk time": "Up to 17 h (2G) / Up to 15 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "147 x 72.1 x 6.9 mm (5.79 x 2.84 x 0.27 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "158 g (5.57 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection, panorama, HDR",
+            "Primary": "12 MP, 4000 x 3000 pixels, autofocus, LED flash",
+            "Secondary": "5 MP",
+            "Video": "1080p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "720 x 1280 pixels (~294 ppi pixel density)",
+            "Size": "5.0 inches (~65.0% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/WMV/H.264 player\n- MP3/WAV/WMA/AAC player\n- Photo/video editor\n- Voice memo",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2013, November",
+            "Status": "Available. Released 2013, November"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "16 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "5/10 (About 210 EUR)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 2100 - L210i",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 1900 - L210a",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 42.2/11.5 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.5 GHz Cortex-A7",
+            "Chipset": "Mediatek MT6589T",
+            "GPU": "PowerVR SGX544MP2",
+            "OS": "Android OS, v4.2 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "BLU Life Pro",
+        "image": {
+            "href": "http://www.gsmarena.com/blu_life_pro-pictures-5873.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/blu-life-pro.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/blu_life_pro-5873.php"
+    }
+}

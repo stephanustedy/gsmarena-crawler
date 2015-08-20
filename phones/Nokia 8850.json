@@ -1,0 +1,74 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 830 mAh battery (BLB-2)",
+            "Stand-by": "50 - 150 h",
+            "Talk time": "2 h - 3 h 20 min"
+        },
+        "Body": {
+            "Dimensions": "100 x 44 x 17 mm, 70 cc (3.94 x 1.73 x 0.67 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "91 g (3.21 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Dynamic font size \n- Softkey",
+            "Resolution": "5 lines",
+            "Size": "",
+            "Type": "Monochrome graphic"
+        },
+        "Features": {
+            "": "- Picture messaging\n- Predictive text input\n- Smart Messaging\n- Organizer\n- Infrared transfer of names and phone numbers",
+            "Alarm": "Yes",
+            "Browser": "",
+            "Clock": "Yes",
+            "Games": "3",
+            "Java": "No",
+            "Languages": "32 total",
+            "Messaging": "SMS"
+        },
+        "Launch": {
+            "Announced": "1999",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- Memory for 8 voice dialnumbers- 50 calendar notes",
+            "Call records": "Yes",
+            "Card slot": "No",
+            "Phonebook": "250"
+        },
+        "Misc": {
+            "Colors": "Metallic",
+            "SAR EU": "0.43 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "": "- Space for 5 received ringing tones",
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable monophonic ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 8850",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_8850-pictures-21.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/no8850t.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_8850-21.php"
+    }
+}

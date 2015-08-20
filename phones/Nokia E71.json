@@ -1,0 +1,88 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 1500 mAh battery (BP-4L)",
+            "Music play": "Up to 18 h",
+            "Stand-by": "Up to 410 h (2G) / 480 h (3G)",
+            "Talk time": "Up to 10 h 30 min (2G) / 4 h 30 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "114 x 57 x 10 mm, 66 cc (4.49 x 2.24 x 0.39 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "127 g (4.48 oz)"
+        },
+        "Camera": {
+            "Primary": "3.15 MP, 2048 x 1536 pixels, autofocus, LED flash",
+            "Secondary": "Videocall camera",
+            "Video": "320p@15fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "Yes, with A-GPS; Nokia Maps",
+            "Infrared port": "Yes",
+            "Radio": "FM radio (E71 only); Visual radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g"
+        },
+        "Display": {
+            "": "- Five-way scroll key",
+            "Resolution": "320 x 240 pixels (~169 ppi pixel density)",
+            "Size": "2.36 inches (~26.5% screen-to-body ratio)",
+            "Type": "TFT, 16M colors"
+        },
+        "Features": {
+            "": "- WMV/RV/MP4/3GP player\n- MP3/WMA/WAV/RA/AAC/M4A player\n- Document editor (Word, Excel, PowerPoint, PDF) incl. MS Office 2007 support via free update\n- Push to talk\n- Voice command/dial\n- Organizer\n- Printing",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2008, June. Released 2008, July",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 8 GB",
+            "Internal": "110 MB, 128 MB RAM"
+        },
+        "Misc": {
+            "Colors": "White Steel, Grey Steel, Black, Red",
+            "Price group": "3/10 (About 110 EUR)",
+            "SAR EU": "1.27 W/kg (head)",
+            "SAR US": "1.09 W/kg (head) \u00a0 \u00a0 0.48 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 1900 - American version",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Class 32, 296 kbps",
+            "GPRS": "Class 32, 100 kbps",
+            "Speed": "HSPA 3.6/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "369 MHz ARM 11",
+            "OS": "Symbian OS 9.2, Series 60 v3.1 UI"
+        },
+        "Sound": {
+            "": "- 2.5 mm audio jack",
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, monophonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -74.5dB / Crosstalk -75.8dB",
+            "Loudspeaker": "Voice 68dB / Noise 66dB / Ring 76dB"
+        }
+    },
+    "main": {
+        "canonical_name": "- Nokia E71x for AT&T",
+        "device_name": "Nokia E71",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_e71-pictures-2425.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-e71.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_e71-2425.php"
+    }
+}

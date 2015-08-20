@@ -1,0 +1,76 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 780 mAh battery (BST-36)",
+            "Stand-by": "Up to 300 h",
+            "Talk time": "Up to 7 h"
+        },
+        "Body": {
+            "Dimensions": "87 x 46 x 24.5 mm (3.43 x 1.81 x 0.96 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "90 g (3.17 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "No"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second external mono display (96 x 64 pixels)\n- Reflective exterior surface\n- Wallpapers, screensavers",
+            "Resolution": "128 x 160 pixels",
+            "Size": "",
+            "Type": "STN, 65K colors"
+        },
+        "Features": {
+            "": "- Predictive text input\n- Photo editor\n- Organizer\n- Voice memo",
+            "Browser": "WAP 2.0/xHTML, HTML(NetFront), RSS feeds",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2006, December",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "30 received, dialed and missed calls",
+            "Card slot": "No",
+            "Internal": "14 MB",
+            "Phonebook": "1000 x 27 fields, Photo call"
+        },
+        "Misc": {
+            "Colors": "Jetset Black, Lush Pink, Brush Bronze",
+            "Price group": "2/10 (About 80 EUR)"
+        },
+        "Network": {
+            "": "GSM 850 / 1800 / 1900 - Z310a",
+            "2G bands": "GSM 900 / 1800 / 1900 - Z310i",
+            "EDGE": "Yes",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3, AAC ringtones, composer",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Sony Ericsson Z310a for US",
+        "device_name": "Sony Ericsson Z310",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_ericsson_z310-pictures-1811.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/sonyericsson-z310.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_ericsson_z310-1811.php"
+    }
+}

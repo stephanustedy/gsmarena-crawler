@@ -1,0 +1,96 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 2370 mAh battery",
+            "Music play": "Up to 39 h",
+            "Stand-by": "Up to 635 h (2G) / Up to 734 h (3G)",
+            "Talk time": "Up to 10 h 25 min (2G) / Up to 19 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "130.6 x 67.1 x 10 mm (5.14 x 2.64 x 0.39 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "155 g (5.47 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face/smile detection, HDR, sweep panorama",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash, check quality",
+            "Secondary": "VGA",
+            "Video": "1080p@30fps, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "NFC": "Yes",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0 (MHL TV-out)",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- Sony Mobile BRAVIA Engine 2",
+            "Multitouch": "Yes, up to 10 fingers",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "720 x 1280 pixels (~319 ppi pixel density)",
+            "Size": "4.6 inches (~66.6% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP4/H.264/WMV player\n- MP3/eAAC+/WMA/WAV player\n- Document viewer\n- Photo viewer/editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2013, March",
+            "Status": "Available. Released 2013, April"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "8 GB (5.8 GB user available), 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White, Red",
+            "Price group": "4/10 (About 180 EUR)",
+            "SAR EU": "0.79 W/kg (head)",
+            "SAR US": "0.63 W/kg (head) \u00a0 \u00a0 1.08 W/kg (body)"
+        },
+        "Network": {
+            "": "LTE band 1(2100), 2(1900), 4(1700/2100), 5(850) - C5306",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - all versions",
+            "3G bands": "HSDPA 850 / 900 / 2100 - C5303",
+            "4G bands": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 20(800) - C5303",
+            "EDGE": "Up to 237 kbps",
+            "GPRS": "Up to 86 kbps",
+            "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat3 100/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.7 GHz Krait",
+            "Chipset": "Qualcomm MSM8960T Snapdragon S4 Pro",
+            "GPU": "Adreno 320",
+            "OS": "Android OS, v4.1 (Jelly Bean), upgrad\u0430ble to v4.3 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -86.9dB / Crosstalk -88.3dB",
+            "Battery life": "Endurance rating 51h",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 816:1 (nominal) / 1.733:1 (sunlight)",
+            "Loudspeaker": "Voice 66dB / Noise 61dB / Ring 68dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Sony Xperia SP HSPA C5302, Sony Xperia SP LTE C5303, Sony Xperia SP LTE C5306",
+        "device_name": "Sony Xperia SP",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_xperia_sp-pictures-5364.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/sony-xperia_sp.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_xperia_sp-5364.php"
+    }
+}

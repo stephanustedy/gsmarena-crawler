@@ -1,0 +1,76 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 1000 mAh battery",
+            "Stand-by": "Up to 480 h",
+            "Talk time": "Up to 16 h"
+        },
+        "Body": {
+            "Dimensions": "115 x 57 x 24 mm (4.53 x 2.24 x 0.94 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "150 g (5.29 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Stylus\n- JogDial\n- Image handling",
+            "Resolution": "208 x 320 pixels (~132 ppi pixel density)",
+            "Size": "2.9 inches, 40 x 62 mm (~37.8% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 65K colors"
+        },
+        "Features": {
+            "": "- MP4/MP3 player\n- Predictive text input\n- Organizer\n- Voice mail",
+            "Browser": "WAP 2.0/xHTML, iMode. HTML",
+            "Java": "Yes",
+            "Messaging": "SMS, EMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2003, 4Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "Memory Stick Duo, up to 128 MB, 32 MB included",
+            "Internal": "16 MB"
+        },
+        "Misc": {
+            "Colors": "Urban Grey",
+            "SAR EU": "0.91 W/kg (head)",
+            "SAR US": "1.01 W/kg (head) \u00a0 \u00a0 0.45 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 8",
+            "Technology": "GSM"
+        },
+        "Platform": {
+            "CPU": "32-bit Philips Nexperia PNX4000 156 MHz",
+            "OS": "Symbian OS v7.0, UIQ v2.1 UI"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic ringtones, composer",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Sony Ericsson P900",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_ericsson_p900-pictures-544.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/snp900.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_ericsson_p900-544.php"
+    }
+}

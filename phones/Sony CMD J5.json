@@ -1,0 +1,95 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion battery",
+            "Stand-by": "120 h",
+            "Talk time": "3 h"
+        },
+        "Body": {
+            "Dimensions": "123 x 45 x 20 mm (4.84 x 1.77 x 0.79 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "85 g (3.00 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Advanced Jog Dial",
+            "Resolution": "96 x 92 pixels, 6 lines",
+            "Size": "",
+            "Type": "Grayscale graphic, 4 shades"
+        },
+        "Features": {
+            "": "- Predictive text input \n- Organizer\n- Recordable sounds for calls and events",
+            "Alarm": "Yes",
+            "Browser": "WAP, HTML (MS)",
+            "Clock": "Yes",
+            "Games": "4 - Bannanas, PicPuz, MindBlaster, SandArt",
+            "Java": "No",
+            "Messaging": "SMS, Email"
+        },
+        "Launch": {
+            "Announced": "2000",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- Message templates\n- Several phonebook groups",
+            "Call records": "10 dialed, 10 received, 10 missed calls",
+            "Card slot": "No",
+            "Phonebook": "500"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "": "- Ringtones can be assigned to phonebook entries",
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Polyphonic ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Sony CMD J5",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_cmd_j5-pictures-201.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/soj5.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_cmd_j5-201.php"
+    }
+}

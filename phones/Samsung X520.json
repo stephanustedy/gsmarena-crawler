@@ -1,0 +1,75 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 750 mAh battery",
+            "Stand-by": "Up to 310 h",
+            "Talk time": "Up to 6 h 20 min"
+        },
+        "Body": {
+            "Dimensions": "89 x 42 x 18 mm (3.50 x 1.65 x 0.71 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "80 g (2.82 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "No"
+        },
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "Stereo FM radio",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "128 x 160 pixels (~108 ppi pixel density)",
+            "Size": "1.9 inches (~30.4% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- IrDA for Phonebook contacts only\n- Predictive text input\n- Organizer\n- Voice memo",
+            "Browser": "WAP 1.2/xHTML",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2006, October",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "No",
+            "Internal": "2.8 MB",
+            "Phonebook": "Yes, 1000 entries"
+        },
+        "Misc": {
+            "Colors": "Black, Blue, Red, Green",
+            "Price group": "2/10 (About 70 EUR)",
+            "SAR EU": "0.85 W/kg (head)",
+            "SAR US": "1.36 W/kg (head) \u00a0 \u00a0 0.24 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Samsung X520",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_x520-pictures-1771.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-x520.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_x520-1771.php"
+    }
+}

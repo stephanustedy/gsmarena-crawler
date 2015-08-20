@@ -1,0 +1,75 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1800 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "126.5 x 55.6 x 13.3 mm (4.98 x 2.19 x 0.52 in)",
+            "SIM": "Dual SIM",
+            "Weight": "-"
+        },
+        "Camera": {
+            "Features": "No",
+            "Primary": "Yes",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "No",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Multitouch": "No",
+            "Resolution": "240 x 320 pixels (~167 ppi pixel density)",
+            "Size": "2.4 inches (~25.4% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- QApps\n- MP4/H.263 player\n- Organizer\n- Voice memo",
+            "Browser": "No",
+            "Games": "Downloadable",
+            "Java": "No",
+            "Messaging": "SMS",
+            "Sensors": "No"
+        },
+        "Launch": {
+            "Announced": "2014, September",
+            "Status": "Available. Released 2014, September"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 16 GB",
+            "Internal": "64 MB, 64 MB RAM",
+            "Phonebook": "Yes"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "1/10 (About 20 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "QMobile M800",
+        "image": {
+            "href": "http://www.gsmarena.com/qmobile_m800-pictures-7417.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/qmobile-m800.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/qmobile_m800-7417.php"
+    }
+}

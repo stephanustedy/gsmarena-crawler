@@ -1,0 +1,73 @@
+{
+    "data": {
+        "Battery": {
+            "": "",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "111 x 45 x 9.9 mm (4.37 x 1.77 x 0.39 in)",
+            "SIM": "Mini-SIM",
+            "Weight": ""
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 960 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "FM radio",
+            "USB": "v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "176 x 220 pixels (~148 ppi pixel density)",
+            "Size": "1.9 inches (~22.7% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/AMR/AAC+/RA player\n- Sync ML\n- Organizer\n- Currency converter\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2008, February. Released 2008",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "microSD",
+            "Phonebook": "1000 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "2/10 (About 70 EUR)",
+            "SAR EU": "0.60 W/kg (head)",
+            "SAR US": "0.56 W/kg (head) \u00a0 \u00a0 0.68 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Samsung J150",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_j150-pictures-2263.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-j150.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_j150-2263.php"
+    }
+}

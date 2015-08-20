@@ -1,0 +1,97 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 780 mAh battery",
+            "Stand-by": "Up to 90 h",
+            "Talk time": "Up to 3 h"
+        },
+        "Body": {
+            "": "- Fingerprint sensor",
+            "Dimensions": "82 x 40 x 22 mm (3.23 x 1.57 x 0.87 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "82 g (2.89 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 960 pixels LED flash",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- External 256K colors TFT (128 x 160 pixels)\n- Screensaver\n- Downloadable logos",
+            "Resolution": "128 x 160 pixels",
+            "Size": "",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- Predictive text input\n- Voice memo(max 30 sec)\n- Organizer\n- Stopwatch",
+            "Browser": "WAP 1.2.1",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 1.0",
+            "Messaging": "SMS, EMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2004, 2Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "No",
+            "Internal": "13.5 MB",
+            "Phonebook": "800 entries, Photo call"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Pantech GI100",
+        "image": {
+            "href": "http://www.gsmarena.com/pantech_gi100-pictures-806.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/pthgi100.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/pantech_gi100-806.php"
+    }
+}

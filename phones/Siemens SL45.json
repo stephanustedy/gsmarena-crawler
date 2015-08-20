@@ -1,0 +1,96 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 540 mAh battery",
+            "Stand-by": "60 - 170 h",
+            "Talk time": "1 - 4 h"
+        },
+        "Body": {
+            "Dimensions": "105 x 46 x 17 mm, 69 cc (4.13 x 1.81 x 0.67 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "88 g (3.10 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Navi key",
+            "Resolution": "101 x 80 pixels, 7 lines (~86 ppi pixel density)",
+            "Size": "1.5 inches, 24 x 29 mm (~14.6% screen-to-body ratio)",
+            "Type": "Monochrome graphic"
+        },
+        "Features": {
+            "": "- MP3 player\n- Predictive text input\n- Voice memo (300 min)\n- Organizer\n- Stopwatch\n- Voice dial\n- Comes with headset and datacable\n- User profiles",
+            "Alarm": "Yes",
+            "Browser": "WAP 1.1",
+            "Clock": "Yes",
+            "Games": "7",
+            "Java": "No",
+            "Languages": "20",
+            "Messaging": "SMS"
+        },
+        "Launch": {
+            "Announced": "2000",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- 100 SMS messages",
+            "Call records": "10 dialed, 10 received, 10 missed calls",
+            "Card slot": "MMC, 32 MB included",
+            "Phonebook": "500, 14 fields each"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Monophonic ringtones, composer",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Siemens SL45",
+        "image": {
+            "href": "http://www.gsmarena.com/siemens_sl45-pictures-198.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/sisl45b.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/siemens_sl45-198.php"
+    }
+}

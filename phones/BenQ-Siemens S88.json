@@ -1,0 +1,96 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 920 mAh battery",
+            "Stand-by": "Up to 110 h",
+            "Talk time": "Up to 3 h 15 min"
+        },
+        "Body": {
+            "Dimensions": "99 x 47 x 17 mm (3.90 x 1.85 x 0.67 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "105 g (3.70 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels, autofocus, LED flash",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "176 x 220 pixels (~141 ppi pixel density)",
+            "Size": "2.0 inches, 31 x 39 mm (~27.1% screen-to-body ratio)",
+            "Type": "AMOLED, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/AAC player\n- Predictive text input\n- Voice memo\n- Stopwatch\n- Organizer",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2006, January",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "10 dialed, 10 received, 10 missed calls",
+            "Card slot": "microSD",
+            "Internal": "20 MB",
+            "Phonebook": "Yes, Photo call"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "": "- 3D surrounding sound",
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones, composer",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "BenQ-Siemens S88",
+        "image": {
+            "href": "http://www.gsmarena.com/benq_siemens_s88-pictures-1411.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/benqsiemens-s88.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/benq_siemens_s88-1411.php"
+    }
+}

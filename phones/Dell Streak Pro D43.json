@@ -1,0 +1,83 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1520 mAh battery",
+            "Stand-by": "Up to 281 h (2G) / Up to 353 h (3G)",
+            "Talk time": "Up to 13 h (2G) / Up to 9 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "124.9 x 64.5 x 10.3 mm (4.92 x 2.54 x 0.41 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "145 g (5.11 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash",
+            "Secondary": "1.3 MP",
+            "Video": "1080p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "540 x 960 pixels (~256 ppi pixel density)",
+            "Size": "4.3 inches (~63.3% screen-to-body ratio)",
+            "Type": "Super AMOLED capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- SNS integration\n- MP4/WMV/H.264 player\n- MP3/WAV/eAAC+ player\n- Organizer\n- Photo/video editor\n- Document editor\n- Voice memo/dial/commands\n- Predictive text input",
+            "Browser": "HTML",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS(threaded view), MMS, Email, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2011, December",
+            "Status": "Available. Released 2012, Q3"
+        },
+        "Memory": {
+            "Call records": "Practically unlimited",
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "8 GB ROM, 1 GB RAM",
+            "Phonebook": "Practically unlimited entries and fields, Photocall"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "8/10 (About 450 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 1700 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 14.4/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.5 GHz Scorpion",
+            "Chipset": "Qualcomm MSM8260 Snapdragon S3",
+            "GPU": "Adreno 220"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Dell Streak Pro D43",
+        "image": {
+            "href": "http://www.gsmarena.com/dell_streak_pro_d43-pictures-4384.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/dell-streak-pro-d43.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/dell_streak_pro_d43-4384.php"
+    }
+}

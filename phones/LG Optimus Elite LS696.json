@@ -1,0 +1,82 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1520 mAh battery",
+            "Stand-by": "",
+            "Talk time": "Up to 7 h 20 min"
+        },
+        "Body": {
+            "Dimensions": "117 x 63 x 10 mm (4.61 x 2.48 x 0.39 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "120 g (4.23 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "5 MP, 2560 x 1920 pixels, autofocus, LED flash",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "NFC": "Yes",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "320 x 480 pixels (~165 ppi pixel density)",
+            "Size": "3.5 inches (~49.5% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen"
+        },
+        "Features": {
+            "": "- MP4/H.264/WMV player\n- MP3/WAV/WMA/eAAC+ player\n- Document viewer\n- Organizer\n- Voice memo/dial\n- Predictive text input",
+            "Browser": "HTML, Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2012, May",
+            "Status": "Available. Released 2012, May"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "4 GB, 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Silver, white",
+            "Price group": "3/10 (About 110 EUR)"
+        },
+        "Network": {
+            "2G bands": "CDMA 800 / 1900",
+            "3G bands": "CDMA2000 1xEV-DO",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Speed": "EV-DO Rev.A 3.1 Mbps",
+            "Technology": "CDMA / EVDO"
+        },
+        "Platform": {
+            "CPU": "800 MHz",
+            "Chipset": "Qualcomm MSM8655 Snapdragon S2",
+            "GPU": "Adreno 205",
+            "OS": "Android OS, v2.3.7 (Gingerbread)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "For Sprint",
+        "device_name": "LG Optimus Elite LS696",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_optimus_elite_ls696-pictures-4749.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-elite-ls696.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_optimus_elite_ls696-4749.php"
+    }
+}

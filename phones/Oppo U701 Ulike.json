@@ -1,0 +1,80 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1710 mAh battery",
+            "Stand-by": "Up to 400 h (2G) / Up to 400 h (3G)",
+            "Talk time": "Up to 9 h 20 min (2G) / Up to 7 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "123 x 64 x 9.7 mm (4.84 x 2.52 x 0.38 in)",
+            "SIM": "Yes",
+            "Weight": "130 g (4.59 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, LED flash",
+            "Secondary": "2 MP",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "480 x 800 pixels (~233 ppi pixel density)",
+            "Size": "4.0 inches (~57.9% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/H.264/WMV player\n- MP3/eAAC+/WMA/WAV player\n- Document viewer\n- Photo viewer/editor",
+            "Browser": "HTML5",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2012, June",
+            "Status": "Available. Released 2012, June"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "4 GB, 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "White",
+            "Price group": "2/10 (About 80 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "1 GHz Cortex-A9",
+            "Chipset": "Mediatek MT6575",
+            "GPU": "PowerVR SGX531",
+            "OS": "Android OS, v2.3 (Gingerbread)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Oppo U701 Ulike",
+        "image": {
+            "href": "http://www.gsmarena.com/oppo_u701_ulike-pictures-5172.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/oppo-u701-ulike.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/oppo_u701_ulike-5172.php"
+    }
+}

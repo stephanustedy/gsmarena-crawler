@@ -1,0 +1,97 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 830 mAh battery (BLB-2)",
+            "Stand-by": "50 - 150 h",
+            "Talk time": "2 h - 3 h 20 min"
+        },
+        "Body": {
+            "Dimensions": "100 x 44 x 18 mm, 70 cc (3.94 x 1.73 x 0.71 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "91 g (3.21 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Dynamic font size \n- Softkey",
+            "Resolution": "5 lines",
+            "Size": "",
+            "Type": "Monochrome graphic"
+        },
+        "Features": {
+            "": "- Picture messaging\n- Predictive text input\n- Smart Messaging\n- Organizer\n- Infrared transfer of names and phone numbers",
+            "Alarm": "Yes",
+            "Browser": "",
+            "Clock": "Yes",
+            "Games": "4",
+            "Java": "No",
+            "Languages": "23",
+            "Messaging": "SMS"
+        },
+        "Launch": {
+            "Announced": "2000",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- Memory for 8 voice dialnumbers\n- 50 calendar notes",
+            "Call records": "10 dialed, 10 received, 10 missed calls",
+            "Card slot": "No",
+            "Phonebook": "250"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1900",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "": "- Space for 5 received ringing tones",
+            "3.5mm jack": "No",
+            "Alert types": "Downloadable monophonic ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 8890",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_8890-pictures-22.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/no8890t.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_8890-22.php"
+    }
+}

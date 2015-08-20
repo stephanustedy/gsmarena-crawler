@@ -1,0 +1,81 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1520 mAh battery",
+            "Stand-by": "Up to 300 h (2G) / Up to 240 h (3G)",
+            "Talk time": "Up to 9 h (2G) / Up to 7 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "122 x 66 x 14 mm (4.80 x 2.60 x 0.55 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "184 g (6.49 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face, smile detection, HDR",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, dual-LED flash",
+            "Secondary": "Yes",
+            "Video": "1080p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, DLNA, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "480 x 800 pixels (~252 ppi pixel density)",
+            "Size": "3.7 inches (~48.4% screen-to-body ratio)",
+            "Type": "S-LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- T-Mobile TV\n- MP4/WMV/H.264 player\n- MP3/WAV/WMA/eAAC+ player\n- Organizer\n- Document viewer \n- Voice memo/dial/commands\n- Predictive text input",
+            "Browser": "HTML, Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2011, June",
+            "Status": "Available. Released 2011, July"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB, 8 GB included",
+            "Internal": "4 GB, 768 MB RAM"
+        },
+        "Misc": {
+            "Colors": "White, Black",
+            "Price group": "7/10 (About 350 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 1700 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 14.4/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.2 GHz Scorpion",
+            "GPU": "Adreno 220",
+            "OS": "Android OS, v2.3.4 (Gingerbread)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as T-Mobile Doubleshot",
+        "device_name": "T-Mobile myTouch 4G Slide",
+        "image": {
+            "href": "http://www.gsmarena.com/t_mobile_mytouch_4g_slide-pictures-4018.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/t-mobile-mytouch-4g-slide.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/t_mobile_mytouch_4g_slide-4018.php"
+    }
+}

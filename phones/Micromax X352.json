@@ -1,0 +1,71 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 3000 mAh battery",
+            "Stand-by": "Up to 700 h",
+            "Talk time": "Up to 11 h"
+        },
+        "Body": {
+            "Dimensions": "125 x 56 x 16 mm (4.92 x 2.20 x 0.63 in)",
+            "SIM": "Dual SIM",
+            "Weight": "-"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0",
+            "GPS": "No",
+            "Radio": "FM radio",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~143 ppi pixel density)",
+            "Size": "2.8 inches (~34.7% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- Audio/video player",
+            "Browser": "Yes",
+            "Games": "Downloadable",
+            "Java": "No",
+            "Messaging": "SMS"
+        },
+        "Launch": {
+            "Announced": "2014, May",
+            "Status": "Available. Released 2014, May"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 8 GB",
+            "Phonebook": "500 entries"
+        },
+        "Misc": {
+            "Colors": "Silver",
+            "Price group": "1/10 (About 20 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+            "EDGE": "No",
+            "GPRS": "Yes",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "TBD",
+            "Alert types": "Vibration, Polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Micromax X352",
+        "image": {
+            "href": "http://www.gsmarena.com/micromax_x352-pictures-6364.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/micromax-x352.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/micromax_x352-6364.php"
+    }
+}

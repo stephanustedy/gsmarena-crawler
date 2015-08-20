@@ -1,0 +1,76 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 800 mAh battery",
+            "Stand-by": "Up to 350 h",
+            "Talk time": "Up to 7 h 30 min"
+        },
+        "Body": {
+            "Dimensions": "93 x 45 x 17.6 mm (3.66 x 1.77 x 0.69 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "84.7 g (2.96 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "No",
+            "Radio": "Stereo FM radio with RDS; FM recording",
+            "USB": "microUSB v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- External 1.1 inch CSTN display(96 x 96 pixels)",
+            "Resolution": "176 x 220 pixels (~141 ppi pixel density)",
+            "Size": "2.0 inches (~30.1% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- Auto EQ - automatic equalizer\n- Find Music recognition service\n- MP3/e-AAC+/WMA player\n- MP4/3GP player\n- Organizer\n- Mobile Tracker\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2009, June",
+            "Status": "Available. Released 2009, August"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 8 GB",
+            "Internal": "9 MB",
+            "Phonebook": "1000 contacts, Photo call"
+        },
+        "Misc": {
+            "Colors": "Blue, Red",
+            "Price group": "2/10 (About 60 EUR)",
+            "SAR EU": "0.87 W/kg (head)",
+            "SAR US": "1.01 W/kg (head) \u00a0 \u00a0 0.23 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "": "- Dedicated music keys\n- DNSe (Digital Natural Sound Engine)",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Samsung M2310",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_m2310-pictures-2853.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-m2310.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_m2310-2853.php"
+    }
+}

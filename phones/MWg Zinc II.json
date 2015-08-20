@@ -1,0 +1,101 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 1530 mAh battery",
+            "Stand-by": "Up to 250 h",
+            "Talk time": "Up to 5 h"
+        },
+        "Body": {
+            "Dimensions": "109.5 x 59 x 18 mm (4.31 x 2.32 x 0.71 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "185 g (6.53 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "Yes, SiRF Star III chipset",
+            "Radio": "No",
+            "USB": "miniUSB v1.1",
+            "WLAN": "Wi-Fi 802.11b/g"
+        },
+        "Display": {
+            "": "- Handwriting recognition",
+            "Resolution": "240 x 320 pixels (~143 ppi pixel density)",
+            "Size": "2.8 inches (~37.6% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 256K colors (65K effective)"
+        },
+        "Features": {
+            "": "- Pocket Office \n- MP3/WMA/WMV/WAV/MP4 player\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML (PocketIE)",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS (threaded view), MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2008, May",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "microSD",
+            "Internal": "64 MB RAM, 256 MB ROM"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 1900 / 2100",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Speed": "HSPA 3.6/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Samsung 2442 500 MHz",
+            "OS": "Microsoft Windows Mobile 6.1 Professional"
+        },
+        "Sound": {
+            "": "- Stereo speakers",
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "MWg Zinc II",
+        "image": {
+            "href": "http://www.gsmarena.com/mwg_zinc_ii-pictures-2557.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/mwg-zinc-ii.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/mwg_zinc_ii-2557.php"
+    }
+}

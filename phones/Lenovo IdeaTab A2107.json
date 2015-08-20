@@ -1,0 +1,81 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 3550 mAh battery",
+            "Stand-by": "Up to 500 h",
+            "Talk time": "Up to 7 h"
+        },
+        "Body": {
+            "Dimensions": "195.1 x 125 x 11.9 mm (7.68 x 4.92 x 0.47 in)",
+            "SIM": "Optional Dual SIM (Mini-SIM, dual stand-by)",
+            "Weight": "400 g (14.11 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "3.15 MP, 2048 x 1536 pixels",
+            "Secondary": "VGA",
+            "Video": "720p"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "600 x 1024 pixels (~170 ppi pixel density)",
+            "Size": "7.0 inches (~56.5% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP3/WAV/WMA/AAC player\n- MP4/H.264 player\n- Document viewer\n- Photo viewer/editor",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2013, January",
+            "Status": "Available. Released 2013, January"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "16 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "3/10 (About 150 EUR)"
+        },
+        "Network": {
+            "": "HSDPA 2100 - SIM 1 only",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 850 / 1900 - for AT&T",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "1 GHz Cortex-A9",
+            "Chipset": "Mediatek MT6575",
+            "GPU": "PowerVR SGX531",
+            "OS": "Android OS, v4.0.3 (Ice Cream Sandwich)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Lenovo IdeaTab A2107",
+        "image": {
+            "href": "http://www.gsmarena.com/lenovo_ideatab_a2107-pictures-5247.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lenovo-ideatab-a2107.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lenovo_ideatab_a2107-5247.php"
+    }
+}

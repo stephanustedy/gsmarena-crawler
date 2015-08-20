@@ -1,0 +1,103 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 2000 mAh battery",
+            "Stand-by": "Up to 600 h (2G) / Up to 550 h (3G)",
+            "Talk time": "Up to 22 h (2G) / Up to 12 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "108.5 x 46.3 x 13.1 mm (4.27 x 1.82 x 0.52 in)",
+            "SIM": "Dual SIM (Mini-SIM, dual stand-by)",
+            "Weight": "150 g (5.29 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face/smile detection, HDR, panorama",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, LED flash",
+            "Secondary": "VGA",
+            "Video": "720p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, EDR",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, DLNA, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "540 x 960 pixels (~245 ppi pixel density)",
+            "Size": "4.5 inches (~111.1% screen-to-body ratio)",
+            "Type": "IPS capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/H.264 player\n- MP3/WAV/eAAC+/FLAC player\n- Photo/video editor\n- Document viewer",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2014, January",
+            "Status": "Available. Released 2014, April"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "4 GB, 512 MB RAM"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 850 / 1900",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 21.1/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1 GHz Cortex-A7",
+            "Chipset": "Mediatek MT6572M",
+            "GPU": "Mali-400",
+            "OS": "Android OS, v4.2.2 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "device_name": "Posh Orion",
+        "image": {
+            "href": "http://www.gsmarena.com/posh_orion-pictures-7178.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/posh-s450.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/posh_orion-7178.php"
+    }
+}

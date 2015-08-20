@@ -1,0 +1,69 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion battery",
+            "Stand-by": "Up to 700 h",
+            "Talk time": "Up to 10 h"
+        },
+        "Body": {
+            "": "- SOS button\n- Flashlight",
+            "Dimensions": "110 x 56.5 x 13.5 mm (4.33 x 2.22 x 0.53 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "68 g (2.40 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "FM radio",
+            "USB": "Yes (charging only)",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "128 x 160 pixels (~121 ppi pixel density)",
+            "Size": "1.7 inches (~14.6% screen-to-body ratio)",
+            "Type": "TFT"
+        },
+        "Features": {
+            "": "- Organizer\n- Speed dial",
+            "Browser": "No",
+            "Games": "No",
+            "Java": "No",
+            "Messaging": "SMS"
+        },
+        "Launch": {
+            "Announced": "2012",
+            "Status": "Available"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "No",
+            "Internal": "0.3 MB",
+            "Phonebook": "Yes"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "1/10 (About 30 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Polyphonic",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Vodafone 155",
+        "image": {
+            "href": "http://www.gsmarena.com/vodafone_155-pictures-4969.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/vodafone-155.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/vodafone_155-4969.php"
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion battery",
+            "Stand-by": "Up to 200 h",
+            "Talk time": "Up to 3 h"
+        },
+        "Body": {
+            "Dimensions": "117 x 59 x 19 mm, 115 cc (4.61 x 2.32 x 0.75 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "160 g (5.64 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels",
+            "Secondary": "VGA videocall camera",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Downloadable wallpapers, screensavers",
+            "Resolution": "208 x 320 pixels (~132 ppi pixel density)",
+            "Size": "2.9 inches, 40 x 62 mm (~35.9% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- VPN support\n- MP3/MP4 player\n- Predictive text input\n- SyncML",
+            "Browser": "HTML",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, EMail, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2005, 1Q",
+            "Status": "Cancelled"
+        },
+        "Memory": {
+            "Card slot": "microSD",
+            "Internal": "48 MB"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "3G bands": "UMTS 2100",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Speed": "Yes, 384 kbps",
+            "Technology": "GSM / UMTS"
+        },
+        "Platform": {
+            "CPU": "168 MHz ARM925T",
+            "Chipset": "TI OMAP 1510",
+            "OS": "Symbian OS v7.0, UIQ v2.1 UI"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Motorola A1010",
+        "image": {
+            "href": "http://www.gsmarena.com/motorola_a1010-pictures-1054.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/moa1010.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/motorola_a1010-1054.php"
+    }
+}

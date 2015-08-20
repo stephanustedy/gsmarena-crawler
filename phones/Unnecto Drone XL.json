@@ -1,0 +1,103 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1100 mAh battery",
+            "Music play": "Up to 20 h",
+            "Stand-by": "Up to 40 h (3G)",
+            "Talk time": "Up to 5 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "115 x 61 x 10.5 mm (4.53 x 2.40 x 0.41 in)",
+            "SIM": "Dual SIM (dual stand-by)",
+            "Weight": "110 g (3.88 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "3.15 MP, 2048 x 1536 pixels, LED flash",
+            "Secondary": "VGA",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes, up to 2 fingers",
+            "Resolution": "320 x 480 pixels (~165 ppi pixel density)",
+            "Size": "3.5 inches (~52.0% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/H.264 player\n- MP3/WAV/AAC player\n- Photo editor\n- Document viewer",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2015, January",
+            "Status": "Available. Released 2015, March"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "512 MB, 256 MB RAM"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 850 / 1900 / 2100",
+            "EDGE": "Up to 296 kbps",
+            "GPRS": "Up to 107 kbps",
+            "Speed": "HSPA 21.1/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "1.2 GHz",
+            "GPU": "Mali-400",
+            "OS": "Android OS, v4.4.2 (KitKat)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "device_name": "Unnecto Drone XL",
+        "image": {
+            "href": "http://www.gsmarena.com/unnecto_drone_xl-pictures-7020.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/unnecto-drone-xl.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/unnecto_drone_xl-7020.php"
+    }
+}

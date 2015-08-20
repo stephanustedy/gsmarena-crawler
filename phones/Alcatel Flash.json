@@ -1,0 +1,103 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 3200 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "152.1 x 76.2 x 8.1 mm (5.99 x 3.00 x 0.32 in)",
+            "SIM": "Yes",
+            "Weight": "-"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection, HDR, panorama",
+            "Primary": "13 MP, 4128 x 3096 pixels, autofocus, LED flash",
+            "Secondary": "5 MP",
+            "Video": "1080p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "720 x 1280 pixels (~267 ppi pixel density)",
+            "Size": "5.5 inches (~72.0% screen-to-body ratio)",
+            "Type": "Capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP3/AAC+/WAV player\n- MP4/H.264 player\n- Document viewer\n- Photo/video editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2014, September",
+            "Status": "Available. Released 2014, September"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "8 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Octa-core 1.4 GHz Cortex-A7",
+            "Chipset": "Mediatek MT6592M",
+            "GPU": "Mali-450MP4",
+            "OS": "Android OS, v4.4 (KitKat)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Alcatel Flash",
+        "image": {
+            "href": "http://www.gsmarena.com/alcatel_flash-pictures-7189.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/alcatel-flash.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/alcatel_flash-7189.php"
+    }
+}

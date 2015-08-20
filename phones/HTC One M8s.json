@@ -1,0 +1,86 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po 2840 mAh battery",
+            "Stand-by": "Up to 753 h (3G)",
+            "Talk time": "Up to 20 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "146.4 x 70.6 x 9.6 mm (5.76 x 2.78 x 0.38 in)",
+            "SIM": "Nano-SIM",
+            "Weight": "160 g (5.64 oz)"
+        },
+        "Camera": {
+            "Features": "Automatic simultaneous video and image recording, geo-tagging, face/smile detection, HDR, panorama",
+            "Primary": "13 MP + 2MP, 4128 x 3096 pixels, autofocus, dual-LED (dual tone) flash",
+            "Secondary": "5 MP, 1080p@30fps, HDR",
+            "Video": "1080p@60fps, 720p@120fps, HDR, stereo sound rec."
+        },
+        "Comms": {
+            "Bluetooth": "v4.1, A2DP, apt-X",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "Infrared port": "Yes",
+            "NFC": "Yes (market/operator dependent)",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0 (MHL TV-out), USB Host",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- HTC Sense UI 7.0",
+            "Multitouch": "Yes",
+            "Protection": "To be confirmed",
+            "Resolution": "1080 x 1920 pixels (~441 ppi pixel density)",
+            "Size": "5.0 inches (~66.7% screen-to-body ratio)",
+            "Type": "Super LCD3 capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Google Drive (100 GB cloud storage)\n- Active noise cancellation with dedicated mic\n- DivX/XviD/MP4/H.264/WMV player\n- MP3/eAAC+/WMA/WAV/FLAC player\n- Document editor\n- Photo/video editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email",
+            "Sensors": "Accelerometer, gyro, proximity, compass, barometer"
+        },
+        "Launch": {
+            "Announced": "2015, April",
+            "Status": "Available. Released 2015, May"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 128 GB",
+            "Internal": "16/32 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Gunmetal Gray, Glacial Silver, Amber Gold",
+            "Price group": "9/10 (About 520 EUR)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 900 / 2100 - Germany",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100 - EMEA",
+            "4G bands": "LTE band 3(1800), 5(850), 7(2600), 8(900), 20(800) - EMEA",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1 GHz Cortex-A53 & Quad-core 1.7 GHz Cortex-A57",
+            "Chipset": "Qualcomm MSM8939 Snapdragon 615",
+            "GPU": "Adreno 405",
+            "OS": "Android OS, v5.0 (Lollipop)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "device_name": "HTC One M8s",
+        "image": {
+            "href": "http://www.gsmarena.com/htc_one_m8s-pictures-7165.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/htc-one-m8s.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/htc_one_m8s-7165.php"
+    }
+}

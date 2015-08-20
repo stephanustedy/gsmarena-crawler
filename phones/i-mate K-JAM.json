@@ -1,0 +1,80 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 1250 mAh battery",
+            "Stand-by": "Up to 200 h",
+            "Talk time": "Up to 5 h"
+        },
+        "Body": {
+            "Dimensions": "108 x 58 x 23.7 mm (4.25 x 2.28 x 0.93 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "160 g (5.64 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 960 pixels, LED flash",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "miniUSB",
+            "WLAN": "Wi-Fi 802.11b/g"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels, 2.8 inches (~143 ppi pixel density)",
+            "Size": "2.8 inches, 42 x 57 mm (~38.8% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 65K colors"
+        },
+        "Features": {
+            "": "- Microsoft ActiveSync\n- Pocket Office \n- MP3/AAC player",
+            "Browser": "WAP 2.0/xHTML, HTML (PocketIE)",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2005, September",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "miniSD, up to 2 GB",
+            "Internal": "64 MB RAM, 128 MB ROM"
+        },
+        "Misc": {
+            "Colors": "Stylish black",
+            "Price group": "6/10 (About 280 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Platform": {
+            "CPU": "200 MHz ARM926EJ-S",
+            "Chipset": "TI OMAP 850",
+            "OS": "Microsoft Windows Mobile 5.0 PocketPC"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": {
+            "href": "http://www.gsmarena.com/htc_pocketpc_smartphone.php3",
+            "text": "Produced by HTC. Functionally identical to Qtek 9100, O2 XDA mini S, T-Mobile MDA Vario"
+        },
+        "device_name": "i-mate K-JAM",
+        "image": {
+            "href": "http://www.gsmarena.com/i_mate_k_jam-pictures-1278.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/imate-k-jam.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/i_mate_k_jam-1278.php"
+    }
+}

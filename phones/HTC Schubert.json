@@ -1,0 +1,154 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "-",
+            "SIM": "Mini-SIM",
+            "Weight": "-"
+        },
+        "Camera": {
+            "Primary": "Yes",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g"
+        },
+        "Display": {
+            "Resolution": "",
+            "Size": "",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP3/AAC+/WAV/WMA9 player\n- MP4/H.264/WMV9 player\n- Organizer\n- Document viewer/editor\n- Voice memo\n- Predictive text input",
+            "Browser": "HTML",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "Not officially announced yet",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "0": "C",
+            "1": "a",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "r",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "g",
+            "25": "l",
+            "26": "o",
+            "27": "s",
+            "28": "s",
+            "29": "a",
+            "3": "d",
+            "30": "r",
+            "31": "y",
+            "32": ".",
+            "33": "p",
+            "34": "h",
+            "35": "p",
+            "36": "3",
+            "37": "?",
+            "38": "t",
+            "39": "e",
+            "4": " ",
+            "40": "r",
+            "41": "m",
+            "42": "=",
+            "43": "m",
+            "44": "e",
+            "45": "m",
+            "46": "o",
+            "47": "r",
+            "48": "y",
+            "49": "-",
+            "5": "s",
+            "50": "c",
+            "51": "a",
+            "52": "r",
+            "53": "d",
+            "54": "-",
+            "55": "s",
+            "56": "l",
+            "57": "o",
+            "58": "t",
+            "6": "l",
+            "7": "o",
+            "8": "t",
+            "9": "w"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Speed": "HSPA",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "1 GHz Scorpion",
+            "Chipset": "Qualcomm QSD8250 Snapdragon S1",
+            "GPU": "Adreno 200",
+            "OS": "Microsoft Windows Phone 7"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Unofficial preliminary specifications",
+        "device_name": "HTC Schubert",
+        "index": 1,
+        "url": "http://www.gsmarena.com/htc_schubert-3469.php"
+    }
+}

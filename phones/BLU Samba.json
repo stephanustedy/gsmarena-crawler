@@ -1,0 +1,74 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 750 mAh battery",
+            "Stand-by": "Up to 450 h",
+            "Talk time": "Up to 6 h"
+        },
+        "Body": {
+            "Dimensions": "111 x 56 x 14 mm (4.37 x 2.20 x 0.55 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Dual SIM (Mini-SIM)",
+            "Weight": "96 g (3.39 oz)"
+        },
+        "Camera": {
+            "Primary": "CIF, 352x288 pixels",
+            "Secondary": "No",
+            "Video": "No"
+        },
+        "Comms": {
+            "Bluetooth": "v1.2",
+            "GPS": "No",
+            "Radio": "FM radio",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "",
+            "Size": "1.8 inches",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- MP3 player\n- Organizer\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML (Opera Mini)",
+            "Games": "Downloadable",
+            "Java": "No",
+            "Messaging": "SMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2010, June",
+            "Status": "Available. Released 2010, June"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 2 GB",
+            "Internal": "16 MB",
+            "Phonebook": "200 entries"
+        },
+        "Misc": {
+            "Colors": "Silver, Red, Yellow, Blue, Green, Purple, Pink",
+            "Price group": "1/10 (About 30 EUR)"
+        },
+        "Network": {
+            "": "GSM 850 / 900 / 1800 / 1900 - SIM 2",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1",
+            "EDGE": "No",
+            "GPRS": "Yes",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "BLU Samba",
+        "image": {
+            "href": "http://www.gsmarena.com/blu_samba-pictures-3567.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/blu-samba.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/blu_samba-3567.php"
+    }
+}

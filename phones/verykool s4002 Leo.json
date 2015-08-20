@@ -1,0 +1,78 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1450 mAh battery",
+            "Stand-by": "Up to 240 h (3G)",
+            "Talk time": "Up to 7 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "122 x 63 x 10.7 mm (4.80 x 2.48 x 0.42 in)",
+            "SIM": "Dual SIM (Mini-SIM)",
+            "Weight": "112 g (3.95 oz)"
+        },
+        "Camera": {
+            "Features": "Touch focus",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, LED flash",
+            "Secondary": "1.3 MP",
+            "Video": "720p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, LE",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "480 x 800 pixels (~233 ppi pixel density)",
+            "Size": "4.0 inches (~59.3% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/H.263 player\n- MP3/WAV/AAC player\n- Document viewer\n- Photo editor",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2015, January",
+            "Status": "Available. Released 2015, January"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "512 MB, 256 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White, Yellow, Blue",
+            "Price group": "2/10 (About 50 EUR)",
+            "SAR EU": "0.49 W/kg (head) \u00a0 \u00a0 0.74 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Technology": "GSM"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.3 GHz Cortex-A7",
+            "Chipset": "Mediatek MT6571E",
+            "OS": "Android OS, v4.4.2 (KitKat)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "verykool s4002 Leo",
+        "image": {
+            "href": "http://www.gsmarena.com/verykool_s4002_leo-pictures-6993.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/verykool-s4002.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/verykool_s4002_leo-6993.php"
+    }
+}

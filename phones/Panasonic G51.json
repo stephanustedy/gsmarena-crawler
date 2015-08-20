@@ -1,0 +1,92 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 780 mAh battery",
+            "Stand-by": "Up to 200 h",
+            "Talk time": "Up to 2 h 30 min"
+        },
+        "Body": {
+            "Dimensions": "80 x 43 x 18 mm, 66 cc (3.15 x 1.69 x 0.71 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "74 g (2.61 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Downloadable wallpapers",
+            "Resolution": "128 x 96 pixels",
+            "Size": "",
+            "Type": "CSTN, 4096 colors"
+        },
+        "Features": {
+            "": "- Predictive text input\n- Organizer",
+            "Browser": "WAP 1.2.1",
+            "Games": "Yes",
+            "Java": "No",
+            "Messaging": "SMS, EMS"
+        },
+        "Launch": {
+            "Announced": "2003, 4Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 10 received, 10 missed calls",
+            "Card slot": "No",
+            "Phonebook": "255"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 8 (G51 Only)",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "2 submodels: G51e and G51m",
+        "device_name": "Panasonic G51",
+        "image": {
+            "href": "http://www.gsmarena.com/panasonic_g51-pictures-556.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/pag51.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/panasonic_g51-556.php"
+    }
+}

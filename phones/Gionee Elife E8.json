@@ -1,0 +1,86 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 3500 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "": "- Fingerprint sensor",
+            "Dimensions": "-",
+            "SIM": "Dual SIM (Micro-SIM, dual stand-by)",
+            "Weight": "-"
+        },
+        "Camera": {
+            "Features": "1/2.3'' sensor size, geo-tagging, touch focus, face/smile detection, panorama, HDR",
+            "Primary": "24 MP, 5632 x 4224 pixels, optical image stabilization, phase detection autofocus, dual-LED (dual tone) flash",
+            "Secondary": "8 MP, autofocus",
+            "Video": "2160p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "NFC": "Yes",
+            "Radio": "FM radio; recording",
+            "USB": "microUSB v2.0, USB Host",
+            "WLAN": "Yes"
+        },
+        "Display": {
+            "": "- Amigo 3.1 UI",
+            "Multitouch": "Yes",
+            "Resolution": "1440 x 2560 pixels (~490 ppi pixel density)",
+            "Size": "6.0 inches",
+            "Type": "AMOLED capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP4/H.264 player\n- MP3/WAV/eAAC+ player\n- Photo/video editor\n- Document viewer",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2015, June",
+            "Status": "Coming soon. Exp. release 2015, August"
+        },
+        "Memory": {
+            "Card slot": "To be confirmed",
+            "Internal": "64 GB, 3 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Various",
+            "Price group": "9/10 (About 570 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 900 / 2100",
+            "4G bands": "LTE",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA, LTE Cat4 150/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Octa-core 2 GHz Cortex-A53",
+            "Chipset": "Mediatek MT6795",
+            "GPU": "PowerVR G6200",
+            "OS": "Android OS, v5.1 (Lollipop)"
+        },
+        "Sound": {
+            "": "- Hi-Fi audio",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Preliminary specifications",
+        "device_name": "Gionee Elife E8",
+        "image": {
+            "href": "http://www.gsmarena.com/gionee_elife_e8-pictures-7254.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/gionee-marathon-m5.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/gionee_elife_e8-7254.php"
+    }
+}

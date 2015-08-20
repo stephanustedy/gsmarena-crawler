@@ -1,0 +1,81 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 2400 mAh battery",
+            "Stand-by": "Up to 240 h (2G) / Up to 240 h (3G)",
+            "Talk time": "Up to 9 h 40 min (2G) / Up to 8 h 40 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "157 x 77.7 x 8.4 mm (6.18 x 3.06 x 0.33 in)",
+            "SIM": "Dual SIM (Micro-SIM, dual stand-by)",
+            "Weight": "146.4 g (5.15 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection, panorama, HDR",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash",
+            "Secondary": "2 MP",
+            "Video": "1080p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "720 x 1280 pixels (~267 ppi pixel density)",
+            "Size": "5.5 inches (~68.4% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP4/H.264 player\n- MP3/WAV/eAAC+ player\n- Photo/video editor\n- Document viewer",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2014, July",
+            "Status": "Available. Released 2014, July"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "8 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "5/10 (About 230 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Hexa-core 1.5 GHz Cortex-A7",
+            "Chipset": "Mediatek MT6591",
+            "GPU": "Mali-450MP4",
+            "OS": "Android OS, v4.4.2 (KitKat)"
+        },
+        "Sound": {
+            "": "- DTS sound\n- Yamaha Audio Amplifier",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Allview P7 Seon",
+        "image": {
+            "href": "http://www.gsmarena.com/allview_p7_seon-pictures-6858.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/allview-p7-seon.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/allview_p7_seon-6858.php"
+    }
+}

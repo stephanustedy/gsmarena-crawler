@@ -1,0 +1,80 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 950 mAh battery (BL-5F)",
+            "Stand-by": "Up to 280 h (2G) / 216 h (3G)",
+            "Talk time": "Up to 3 h 30 min (2G) / 3 h 18 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "108 x 58 x 25 mm, 115 cc (4.25 x 2.28 x 0.98 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "163 g (5.75 oz)"
+        },
+        "Camera": {
+            "Primary": "3.15 MP, 2048 x 1536 pixels, 3x optical zoom, Carl Zeiss optics, autofocus, LED flash",
+            "Secondary": "CIF videocall camera",
+            "Video": "480p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP (latest firmware only)",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "Stereo FM radio",
+            "USB": "Pop-Port v2.0",
+            "WLAN": "Wi-Fi 802.11b/g"
+        },
+        "Display": {
+            "": "- Second 65K colors OLED display (128 x 36 pixels)\n- Twist and rotating screen\n- Downloadable themes",
+            "Resolution": "240 x 320 pixels (~167 ppi pixel density)",
+            "Size": "2.4 inches, 36 x 48 mm (~28.5% screen-to-body ratio)",
+            "Type": "TFT, 16M colors"
+        },
+        "Features": {
+            "": "- Video download\n- UPnP technology\n- Push to talk\n- WMV/RV/MP4/3GP player\n- MP3/WMA/WAV/RA/AAC/M4A player\n- Predictive text input\n- TV-out\n- Voice command/memo\n- Organizer\n- Printing\n- Photo/video editor",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2007, January",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "miniSD",
+            "Internal": "50 MB, 64 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Silver, Black",
+            "Price group": "7/10 (About 340 EUR)",
+            "SAR EU": "0.65 W/kg (head)",
+            "SAR US": "0.37 W/kg (head) \u00a0 \u00a0 0.53 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "3G bands": "UMTS 2100",
+            "EDGE": "Class 32, 296 kbps; DTM Class 11, 236.8 kbps",
+            "GPRS": "Class 32, 107.2/64.2 kbps",
+            "Speed": "Yes, 384 kbps",
+            "Technology": "GSM / UMTS"
+        },
+        "Platform": {
+            "CPU": "332 MHz Dual ARM 11",
+            "GPU": "3D Graphics HW Accelerator",
+            "OS": "Symbian OS 9.1, S60 3rd edition"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Nokia N93i",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_n93i-pictures-1823.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-n93i.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_n93i-1823.php"
+    }
+}

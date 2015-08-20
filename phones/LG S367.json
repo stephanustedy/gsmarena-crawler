@@ -1,0 +1,73 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 900 mAh battery",
+            "Stand-by": "Up to 400 h",
+            "Talk time": "Up to 9 h"
+        },
+        "Body": {
+            "Dimensions": "117 x 50.9 x 11.5 mm (4.61 x 2.00 x 0.45 in)",
+            "SIM": "Dual SIM (Mini-SIM, dual stand-by)",
+            "Weight": "85 g (3.00 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP, EDR",
+            "GPS": "No",
+            "Radio": "Stereo FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~167 ppi pixel density)",
+            "Size": "2.4 inches (~30.0% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- SNS widgets\n- MP3/eAAC+/WAV player\n- MP4/H.263 player\n- Mobile tracker",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "No",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2011, October",
+            "Status": "Available. Released 2011, December"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "miniSD, up to 16 GB",
+            "Internal": "15 MB",
+            "Phonebook": "1000 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "2/10 (About 60 EUR)"
+        },
+        "Network": {
+            "": "GSM 850 / 900 / 1800 / 1900 - SIM 2",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM1",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "LG S367",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_s367-pictures-4253.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-s367.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_s367-4253.php"
+    }
+}

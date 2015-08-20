@@ -1,0 +1,85 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po 2400 mAh battery",
+            "Stand-by": "Up to 410 h",
+            "Talk time": "Up to 19 h"
+        },
+        "Body": {
+            "": "- Padfone Station with 10.1 inches IPS display, 1920 x 1200 pixels, 5000 mAh battery, 1 MP front camera. 264.6 x 181.6 x 10.7mm, 530g.",
+            "Dimensions": "143.5 x 72.8 x 8.9 mm (5.65 x 2.87 x 0.35 in)",
+            "SIM": "Nano-SIM",
+            "Weight": "141 g (4.97 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection",
+            "Primary": "13 MP, 4128 x 3096 pixels, autofocus, LED flash",
+            "Secondary": "2 MP, 1080p@30fps",
+            "Video": "1080p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "NFC": "Yes",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0 (SlimPort TV-out), USB Host",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes, up to 10 fingers",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "1080 x 1920 pixels (~441 ppi pixel density)",
+            "Size": "5.0 inches (~66.0% screen-to-body ratio)",
+            "Type": "Super IPS+ LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- ASUS WebStorage (50 GB storage)\n- MP3/WAV/eAAC+ player\n- MP4/H.264 player\n- Document viewer\n- Photo viewer/editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2013, February",
+            "Status": "Available. Released 2013, April"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "32/64 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Titanium Gray, Champagne Gold, Hot Pink",
+            "Price group": "9/10 (About 1000 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "4G bands": "LTE band 1(2100), 3(1800), 7(2600), 20(800)",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat3 100/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.7 GHz Krait",
+            "Chipset": "Qualcomm APQ8064T Snapdragon 600",
+            "GPU": "Adreno 320",
+            "OS": "Android OS, v4.1.2 (Jelly Bean), upgradable to v4.4.2 (KitKat)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Asus PadFone Infinity (A80)",
+        "device_name": "Asus PadFone Infinity",
+        "image": {
+            "href": "http://www.gsmarena.com/asus_padfone_infinity-pictures-5328.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/asus-padfone-infinity.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/asus_padfone_infinity-5328.php"
+    }
+}

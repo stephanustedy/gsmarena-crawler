@@ -1,0 +1,69 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1000 mAh battery",
+            "Stand-by": "Up to 500 h",
+            "Talk time": "Up to 3 h 20 min"
+        },
+        "Body": {
+            "Dimensions": "104 x 54 x 12.4 mm (4.09 x 2.13 x 0.49 in)",
+            "SIM": "Dual SIM (Mini-SIM)",
+            "Weight": "65.2 g (2.29 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "No",
+            "Radio": "Wireless FM",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~143 ppi pixel density)",
+            "Size": "2.8 inches (~43.2% screen-to-body ratio)",
+            "Type": "TFT touchscreen, 56K colors"
+        },
+        "Features": {
+            "Browser": "No",
+            "Games": "Downloadable",
+            "Java": "No",
+            "Messaging": "Yes"
+        },
+        "Launch": {
+            "Announced": "2012, September",
+            "Status": "Available. Released 2012, September"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 8 GB",
+            "Phonebook": "250 entries"
+        },
+        "Misc": {
+            "Colors": "White",
+            "Price group": "1/10 (About 30 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Spice M-5566 Flo Entertainer",
+        "image": {
+            "href": "http://www.gsmarena.com/spice_m_5566_flo_entertainer-pictures-5043.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/spice-flo-entertainer-m-5566.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/spice_m_5566_flo_entertainer-5043.php"
+    }
+}

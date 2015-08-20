@@ -1,0 +1,73 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1000 mAh battery (BLC-2)",
+            "Stand-by": "Up to 360 h",
+            "Talk time": "Up to 6 h"
+        },
+        "Body": {
+            "Dimensions": "119 x 55 x 23 mm, 105 cc (4.69 x 2.17 x 0.91 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "122 g (4.30 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "v1.1",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "Stereo FM radio",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Five-way scroll",
+            "Resolution": "128 x 128 pixels, 8 lines (~113 ppi pixel density)",
+            "Size": "1.6 inches (~12.6% screen-to-body ratio)",
+            "Type": "CSTN, 4096 colors"
+        },
+        "Features": {
+            "": "- Predictive text input\n- Voice dial/memo",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes + downloadable",
+            "Java": "Yes",
+            "Languages": "Major European and Asia-Pacific languages",
+            "Messaging": "SMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "4Q, 2003",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "No",
+            "Internal": "3.5 MB",
+            "Phonebook": "Yes"
+        },
+        "Misc": {
+            "Colors": "",
+            "SAR EU": "0.82 W/kg (head)",
+            "SAR US": "0.75 W/kg (head) \u00a0 \u00a0 0.86 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "Yes, 118.4 kbps",
+            "GPRS": "Class 4",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, monophonic ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 6810",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_6810-pictures-564.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/no6810.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_6810-564.php"
+    }
+}

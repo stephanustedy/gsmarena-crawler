@@ -1,0 +1,82 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 2000 mAh battery",
+            "Music play": "Up to 176 h",
+            "Stand-by": "Up to 984 h",
+            "Talk time": "Up to 57 h"
+        },
+        "Body": {
+            "Dimensions": "8.5 mm thickness",
+            "SIM": "Dual SIM",
+            "Weight": "-"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, panorama",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash",
+            "Secondary": "2 MP",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "720 x 1280 pixels (~294 ppi pixel density)",
+            "Size": "5.0 inches (~65.6% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- OneDrive (15 GB cloud storage)\n- MP3/WAV/eAAC+/WMA player\n- MP4/H.264/WMV player\n- Document viewer\n- Video/photo editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2014, July",
+            "Status": "Available. Released 2014, August"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "8 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "4/10 (About 170 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 21.1/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.2 GHz Cortex-A7",
+            "Chipset": "Qualcomm MSM8212 Snapdragon 200",
+            "GPU": "Adreno 302",
+            "OS": "Microsoft Windows Phone 8.1"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Prestigio MultiPhone 8500 Duo",
+        "image": {
+            "href": "http://www.gsmarena.com/prestigio_multiphone_8500_duo-pictures-6526.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/prestigio-multiphone-8500-duo.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/prestigio_multiphone_8500_duo-6526.php"
+    }
+}

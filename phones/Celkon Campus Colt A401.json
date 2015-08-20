@@ -1,0 +1,79 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1400 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "124.9 x 64 x 10.4 mm (4.92 x 2.52 x 0.41 in)",
+            "SIM": "Dual SIM",
+            "Weight": "-"
+        },
+        "Camera": {
+            "Primary": "3.15 MP, 2048 x 1536 pixels, LED flash",
+            "Secondary": "Yes",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0",
+            "GPS": "Yes",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Yes"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "480 x 800 pixels (~233 ppi pixel density)",
+            "Size": "4.0 inches (~57.0% screen-to-body ratio)",
+            "Type": "Capacitive touchscreen"
+        },
+        "Features": {
+            "": "- MP4/H.264 player\n- MP3/WAV/eAAC player\n- Document viewer\n- Photo editor\n- Voice memo/dial",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2014, October",
+            "Status": "Available. Released 2014, October"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "4 GB, 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White, Blue",
+            "SAR EU": "0.32 W/kg (head) \u00a0 \u00a0 0.60 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "Yes",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "1 GHz",
+            "Chipset": "Spreadtrum SC7715",
+            "GPU": "Mali-400",
+            "OS": "Android OS, v4.4.2 (KitKat)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Celkon Campus Colt A401",
+        "image": {
+            "href": "http://www.gsmarena.com/celkon_campus_colt_a401-pictures-6756.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/celkon-a401.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/celkon_campus_colt_a401-6756.php"
+    }
+}

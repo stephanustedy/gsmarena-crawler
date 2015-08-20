@@ -1,0 +1,80 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po 4100 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "193.4 x 120.6 x 9.9 mm (7.61 x 4.75 x 0.39 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "350 g (12.35 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "3.15 MP, 2048 x 1536 pixels",
+            "Secondary": "VGA",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "": "- Emotion UI 1.6",
+            "Multitouch": "Yes, up to 5 fingers",
+            "Resolution": "600 x 1024 pixels (~170 ppi pixel density)",
+            "Size": "7.0 inches (~59.1% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen"
+        },
+        "Features": {
+            "": "- MP3/WAV/WMA/Flac player\n- MP4/H.264/WMV player\n- Document viewer/editor\n- Photo viewer/editor\n- Voice memo",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2014, January",
+            "Status": "Available. Released 2014, March"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "4/8 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black/Gold",
+            "Price group": "4/10 (About 160 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 21.1/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.2 GHz Cortex-A7",
+            "OS": "Android OS, v4.3 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Tablet with support for GSM voice communication, SMS, and MMS",
+        "device_name": "Huawei MediaPad 7 Youth2",
+        "image": {
+            "href": "http://www.gsmarena.com/huawei_mediapad_7_youth2-pictures-5981.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/huawei-mediapad-7-youth2.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/huawei_mediapad_7_youth2-5981.php"
+    }
+}

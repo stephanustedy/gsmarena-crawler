@@ -1,0 +1,72 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 800 mAh battery",
+            "Stand-by": "Up to 220 h",
+            "Talk time": "Up to 5 h"
+        },
+        "Body": {
+            "Dimensions": "83.4 x 44.5 x 17.8 mm (3.28 x 1.75 x 0.70 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "76 g (2.68 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "No"
+        },
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "No",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "128 x 160 pixels (~116 ppi pixel density)",
+            "Size": "1.77 inches (~26.6% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- Converter\n- Calculator\n- Built-in speakerphone\n- Predictive text input\n- Voice memo",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes",
+            "Java": "No",
+            "Messaging": "SMS, EMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2007, October",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "20 dialed, received, missed calls",
+            "Card slot": "No",
+            "Internal": "2 MB",
+            "Phonebook": "1000 entries"
+        },
+        "Misc": {
+            "Colors": "Black, Red",
+            "SAR EU": "0.96 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Samsung C500",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_c500-pictures-2546.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-c500.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_c500-2546.php"
+    }
+}

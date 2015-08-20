@@ -1,0 +1,77 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1400 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "114.3 x 61.6 x 11.5 mm (4.5 x 2.43 x 0.45 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "120 g (4.23 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "3.15 MP, 2048 x 1536 pixels, autofocus",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "NFC": "Yes",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "320 x 480 pixels (~165 ppi pixel density)",
+            "Size": "3.5 inches (~51.8% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- MP4/H.264/WMV player\n- MP3/eAAC+/WMA/WAV player\n- Document viewer/editor\n- Voice memo/dial\n- Predictive text input",
+            "Browser": "HTML",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2012, February",
+            "Status": "Available. Released 2012, July"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB, 2 GB included",
+            "Internal": "512 MB, 256 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "4/10 (About 160 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Technology": "GSM"
+        },
+        "Platform": {
+            "CPU": "800 MHz",
+            "OS": "Android OS, v2.3 (Gingerbread)"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "ZTE Kis V788",
+        "image": {
+            "href": "http://www.gsmarena.com/zte_kis_v788-pictures-4586.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/zte-kis.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/zte_kis_v788-4586.php"
+    }
+}

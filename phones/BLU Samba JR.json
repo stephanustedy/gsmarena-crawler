@@ -1,0 +1,71 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 850 mAh battery",
+            "Stand-by": "Up to 168 h",
+            "Talk time": "Up to 3 h"
+        },
+        "Body": {
+            "Dimensions": "99.3 x 55.9 x 13.8 mm (3.91 x 2.20 x 0.54 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "75 g (2.65 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "Stereo FM radio",
+            "USB": "microUSB",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "160 x 128 pixels (~116 ppi pixel density)",
+            "Size": "1.77 inches (~17.8% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- Facebook, Twitter\n- Music player\n- Video player\n- Organizer",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Downloadable",
+            "Java": "No",
+            "Messaging": "SMS, MMS, IM"
+        },
+        "Launch": {
+            "Announced": "2011, July",
+            "Status": "Available. Released 2011, Q3"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 8 GB",
+            "Internal": "64 MB ROM, 32 MB RAM",
+            "Phonebook": "Yes"
+        },
+        "Misc": {
+            "Colors": "Light blue, Red, Silver, Violet, Magenta, Green",
+            "Price group": "1/10 (About 30 EUR)"
+        },
+        "Network": {
+            "": "GSM 850 / 900 / 1800 / 1900 - SIM 2 (Q51 only)",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Q50 - Single SIM\nQ51 - Dual SIM",
+        "device_name": "BLU Samba JR",
+        "image": {
+            "href": "http://www.gsmarena.com/blu_samba_jr-pictures-4175.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/blu-samba-jr.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/blu_samba_jr-4175.php"
+    }
+}

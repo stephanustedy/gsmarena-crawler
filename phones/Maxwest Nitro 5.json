@@ -1,0 +1,103 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 2000 mAh battery",
+            "Stand-by": "Up to 170 h (3G)",
+            "Talk time": "Up to 12 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "145.6 x 72 x 9.6 mm (5.73 x 2.83 x 0.38 in)",
+            "SIM": "Dual SIM (dual stand-by)",
+            "Weight": "155 g (5.47 oz)"
+        },
+        "Camera": {
+            "Features": "Yes",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, LED flash",
+            "Secondary": "VGA",
+            "Video": "1080p@25fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "540 x 960 pixels (~220 ppi pixel density)",
+            "Size": "5.0 inches (~65.7% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- DivX/XviD/WMV/MP4/H.264 player\n- MP3/WAV/WMA/AAC player\n- Photo/video editor\n- Document viewer",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, IM",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2015, June",
+            "Status": "Available. Released 2015, July"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "4 GB, 512 MB RAM"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 850 / 1900",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 21.1/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.2 GHz Cortex-A7",
+            "Chipset": "Spreadtrum SC7731",
+            "GPU": "Mali-400",
+            "OS": "Android OS, v4.4.2 (KitKat)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Maxwest Nitro 5",
+        "image": {
+            "href": "http://www.gsmarena.com/maxwest_nitro_5-pictures-7379.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/maxwest-nitro-5.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/maxwest_nitro_5-7379.php"
+    }
+}

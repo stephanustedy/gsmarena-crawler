@@ -1,0 +1,81 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 2500 mAh battery",
+            "Music play": "Up to 84 h",
+            "Stand-by": "Up to 384 h",
+            "Talk time": "Up to 15 h 30 min"
+        },
+        "Body": {
+            "Dimensions": "140 x 72.8 x 9.3 mm (5.51 x 2.87 x 0.37 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "164 g (5.78 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection, HDR, panorama",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, LED flash",
+            "Secondary": "1.1 MP, 720p",
+            "Video": "1080p"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, LE",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "540 x 960 pixels (~220 ppi pixel density)",
+            "Size": "5.0 inches (~67.6% screen-to-body ratio)",
+            "Type": "Capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- BlackBerry maps\n- Organizer\n- Document viewer\n- Photo viewer/editor\n- Video editor\n- MP3/WAV/eAAC+/FlAC/WMA player\n- MP4/H.264/WMV player\n- Voice memo/dial\n- Predictive text input",
+            "Browser": "HTML5",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS, MMS, Email, Push Email, IM, BBM 6",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2014, February",
+            "Status": "Available. Released 2014, May"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "8 GB, 1.5 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "5/10 (About 210 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 1900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.2 GHz Krait 200",
+            "Chipset": "Qualcomm MSM8230 Snapdragon 400",
+            "GPU": "Adreno 305",
+            "OS": "BlackBerry OS 10.2.1, upgradable to v10.3.1"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "BlackBerry Z3",
+        "image": {
+            "href": "http://www.gsmarena.com/blackberry_z3-pictures-6163.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/blackberry-z3-new.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/blackberry_z3-6163.php"
+    }
+}

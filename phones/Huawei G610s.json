@@ -1,0 +1,81 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 2150 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "142 x 73.6 x 9.9 mm (5.59 x 2.90 x 0.39 in)",
+            "SIM": "Dual SIM (Mini-SIM)",
+            "Weight": "170 g (6.00 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, LED flash",
+            "Secondary": "VGA",
+            "Video": "720p"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot, DLNA"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "540 x 960 pixels (~220 ppi pixel density)",
+            "Size": "5.0 inches (~65.9% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP3/WAV/eAAC+ player\n- MP4/H.264 player\n- Document viewer\n- Photo viewer/editor\n- Voice memo/dial",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2013, July",
+            "Status": "Available. Released 2013, August"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "4 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "4/10 (About 150 EUR)",
+            "SAR EU": "0.39 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 900 / 2100 - SIM 1",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 7.2/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.2 GHz Cortex-A7",
+            "Chipset": "Mediatek MT6589",
+            "GPU": "PowerVR SGX544",
+            "OS": "Android OS, v4.2 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Huawei G610s",
+        "image": {
+            "href": "http://www.gsmarena.com/huawei_g610s-pictures-5699.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/huawei-g610s.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/huawei_g610s-5699.php"
+    }
+}

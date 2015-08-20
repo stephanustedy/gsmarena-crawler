@@ -1,0 +1,100 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1340 mAh battery",
+            "Stand-by": "Up to 350 h",
+            "Talk time": "Up to 4 h 10 min"
+        },
+        "Body": {
+            "Dimensions": "106 x 52 x 18 mm (4.17 x 2.05 x 0.71 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "150 g (5.29 oz)"
+        },
+        "Camera": {
+            "Primary": "3.15 MP, 2048 x 1536 pixels, autofocus, LED flash",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "miniUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g"
+        },
+        "Display": {
+            "": "- TouchFLO 3D finger swipe navigation\n- Handwriting recognition",
+            "Resolution": "480 x 640 pixels (~286 ppi pixel density)",
+            "Size": "2.8 inches (~44.0% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 65K colors"
+        },
+        "Features": {
+            "": "- MP4/WMV/H.264 player\n- MP3/AAC+/WAV/WMA\n- Pocket Office \n- Voice memo/dial/commands\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2008, June. Released 2008, August",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "microSD",
+            "Internal": "288 MB RAM, 512 MB ROM"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "CDMA 800 / 1900",
+            "3G bands": "CDMA2000 1xEV-DO",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Speed": "EV-DO Rev.A 3.1 Mbps",
+            "Technology": "CDMA / EVDO"
+        },
+        "Platform": {
+            "CPU": "528 MHz ARM 11",
+            "Chipset": "Qualcomm MSM7501A",
+            "GPU": "Adreno 130",
+            "OS": "Microsoft Windows Mobile 6.1 Professional"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration, MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as HTC Herman",
+        "device_name": "HTC Touch Pro CDMA",
+        "index": 1,
+        "url": "http://www.gsmarena.com/htc_touch_pro_cdma-3483.php"
+    }
+}

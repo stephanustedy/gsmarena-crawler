@@ -1,0 +1,81 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1300 mAh battery",
+            "Stand-by": "Up to 510 h (2G) / Up to 400 h (3G)",
+            "Talk time": "Up to 3 h 30 min (2G) / Up to 9 h 30 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "122 x 64.4 x 11.2 mm (4.80 x 2.54 x 0.44 in)",
+            "SIM": "Dual SIM (Mini-SIM, dual stand-by)",
+            "Weight": "120 g (4.23 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, HDR",
+            "Primary": "3.15 MP, 2048 x 1536 pixels",
+            "Secondary": "VGA",
+            "Video": "720p@24fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "480 x 800 pixels (~233 ppi pixel density)",
+            "Size": "4.0 inches (~58.0% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/H.264 player\n- MP3/WAV/eAAC+ player\n- Photo/video editor\n- Document viewer\n- Voice memo/dial",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2013, October",
+            "Status": "Available. Released 2013, October"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "4 GB, 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Pure White, Bluish Black",
+            "Price group": "2/10 (About 70 EUR)",
+            "SAR EU": "0.85 W/kg (head) \u00a0 \u00a0 1.18 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 850 / 1900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 21.1/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.3 GHz Cortex-A7",
+            "Chipset": "Mediatek MT6572M",
+            "GPU": "Mali-400",
+            "OS": "Android OS, v4.2.2 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Panasonic T31",
+        "image": {
+            "href": "http://www.gsmarena.com/panasonic_t31-pictures-5815.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/panasonic-t31.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/panasonic_t31-5815.php"
+    }
+}

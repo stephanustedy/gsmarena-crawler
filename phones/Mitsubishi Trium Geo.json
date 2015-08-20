@@ -1,0 +1,92 @@
+{
+    "data": {
+        "Battery": {
+            "": "NiMH 900 mAh battery",
+            "Stand-by": "150 h",
+            "Talk time": "3 h"
+        },
+        "Body": {
+            "Dimensions": "132 x 49 x 29 mm, 140 cc (5.20 x 1.93 x 1.14 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "149 g (5.26 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Picture menu\n- Softkey",
+            "Resolution": "5 x 13 to 25 chars",
+            "Size": "",
+            "Type": "Monochrome graphic"
+        },
+        "Features": {
+            "": "- Scratchpad\n- Currency converter",
+            "Alarm": "Yes",
+            "Browser": "",
+            "Clock": "Yes",
+            "Games": "No",
+            "Java": "No",
+            "Languages": "8",
+            "Messaging": "SMS"
+        },
+        "Launch": {
+            "Announced": "1999",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- Detailed call duration reports",
+            "Call records": "10 dialed, 5 received, 5 missed calls",
+            "Card slot": "No",
+            "Phonebook": "100"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "": "- Ascending ring tone",
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Monophonic ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Mitsubishi Trium Geo",
+        "index": 1,
+        "url": "http://www.gsmarena.com/mitsubishi_trium_geo-58.php"
+    }
+}

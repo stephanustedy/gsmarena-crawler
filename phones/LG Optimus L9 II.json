@@ -1,0 +1,87 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 2150 mAh battery",
+            "Stand-by": "Up to 480 h (2G) / Up to 480 h (3G)",
+            "Talk time": "Up to 7 h 40 min (2G) / Up to 10 h 50 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "128.4 x 66.5 x 9 mm (5.06 x 2.62 x 0.35 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "120 g (4.23 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash",
+            "Secondary": "1.3 MP",
+            "Video": "1080p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, LE",
+            "GPS": "Yes, with A-GPS",
+            "Infrared port": "Yes",
+            "NFC": "Yes",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0 HS",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, DLNA, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "720 x 1280 pixels (~312 ppi pixel density)",
+            "Size": "4.7 inches (~71.3% screen-to-body ratio)",
+            "Type": "True HD-IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- DivX/Xvid/MP4/H.264/WMV player\n- MP3/WAV/WMA/eAAC+ player\n- Document viewer\n- Photo viewer/editor\n- Voice memo/dial/commands",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2013, August",
+            "Status": "Available. Released 2013, October"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "8 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "White, Black",
+            "Price group": "5/10 (About 250 EUR)",
+            "SAR EU": "0.47 W/kg (head) \u00a0 \u00a0 0.46 W/kg (body)",
+            "SAR US": "0.42 W/kg (head) \u00a0 \u00a0 0.82 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 900 / 1900 / 2100",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 42.2/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.4 GHz Krait",
+            "Chipset": "Qualcomm MSM8230 Snapdragon 400",
+            "GPU": "Adreno 305",
+            "OS": "Android OS, v4.1.2 (Jelly Bean), upgrad\u0430ble to v4.4.2 (KitKat)"
+        },
+        "Sound": {
+            "": "- Dolby mobile",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as LG Optimus L9 II D605",
+        "device_name": "LG Optimus L9 II",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_optimus_l9_ii-pictures-5650.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-optimus-l9-ii-new.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_optimus_l9_ii-5650.php"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "data": {
+        "Battery": {
+            "": "",
+            "Stand-by": "Up to 300 h",
+            "Talk time": "Up to 6 h"
+        },
+        "Body": {
+            "Dimensions": "114.3 x 53.3 x 17.8 mm (4.5 x 2.10 x 0.70 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "121.9 g (4.27 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 1024 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "176 x 220 pixels (~134 ppi pixel density)",
+            "Size": "2.1 inches (~22.8% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- MP4 player\n- MP3 player\n- Organizer\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2008, November. Released 2008, November",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "30 dialed, 30 received, 30 missed calls",
+            "Card slot": "microSD",
+            "Phonebook": "1000 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Aqua, Lime",
+            "Price group": "2/10 (About 90 EUR)",
+            "SAR US": "0.15 W/kg (head) \u00a0 \u00a0 0.16 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "For T-Mobile",
+        "device_name": "Samsung T459 Gravity",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_t459_gravity-pictures-2588.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-gravity.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_t459_gravity-2588.php"
+    }
+}

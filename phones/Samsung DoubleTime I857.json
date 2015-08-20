@@ -1,0 +1,84 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1200 mAh battery",
+            "Stand-by": "Up to 250 h",
+            "Talk time": "Up to 6 h"
+        },
+        "Body": {
+            "Dimensions": "113 x 62 x 15 mm (4.45 x 2.44 x 0.59 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "148 g (5.22 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "3.15 MP, 2048 x 1536 pixels, autofocus",
+            "Secondary": "No",
+            "Video": "320p"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Secondary TFT capacitive touchscreen (with multitouch), 320 x 480 pixels, 3.2 inches, \n- TouchWiz UI",
+            "Multitouch": "Yes",
+            "Resolution": "320 x 480 pixels (~180 ppi pixel density)",
+            "Size": "3.2 inches (~43.5% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- MP4/H.264 player\n- MP3/WAV/eAAC+ player\n- Organizer\n- Photo/video editor\n- Document viewer\n- Voice memo/dial/commands\n- Predictive text input",
+            "Browser": "HTML, Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS(threaded view), MMS, Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2011, October",
+            "Status": "Available. Released 2011, November"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "260 MB, 256 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black/white",
+            "Price group": "2/10 (About 70 EUR)",
+            "SAR US": "0.54 W/kg (head) \u00a0 \u00a0 0.97 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 1900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 7.2/2 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "800 MHz Scorpion",
+            "Chipset": "Qualcomm MSM7230",
+            "GPU": "Adreno 205",
+            "OS": "Android OS, v2.2 (Froyo)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "For AT&T",
+        "device_name": "Samsung DoubleTime I857",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_doubletime_i857-pictures-4239.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-doubletime.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_doubletime_i857-4239.php"
+    }
+}

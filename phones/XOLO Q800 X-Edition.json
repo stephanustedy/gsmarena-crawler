@@ -1,0 +1,81 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 2100 mAh battery",
+            "Stand-by": "Up to 360 h (2G) / Up to 360 h (3G)",
+            "Talk time": "Up to 16 h (2G) / Up to 10 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "135.5 x 67 x 9.6 mm (5.33 x 2.64 x 0.38 in)",
+            "SIM": "Dual SIM (Mini-SIM)",
+            "Weight": "143.5 g (5.04 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash",
+            "Secondary": "1 MP",
+            "Video": "1080p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "FM radio; FM recording",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "540 x 960 pixels (~245 ppi pixel density)",
+            "Size": "4.5 inches (~61.5% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/WMV/H.264 player\n- MP3/WAV/AAC+ player\n- Document viewer\n- Photo/video editor\n- Voice memo",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2013, February",
+            "Status": "Available. Released 2013, February"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "4 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "2/10 (About 100 EUR)",
+            "SAR EU": "0.65 W/kg (head) \u00a0 \u00a0 0.95 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 21.1/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.2 GHz Cortex-A7",
+            "Chipset": "Mediatek MT6589",
+            "GPU": "PowerVR SGX544",
+            "OS": "Android OS, v4.1.2 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "XOLO Q800 X-Edition",
+        "image": {
+            "href": "http://www.gsmarena.com/xolo_q800_x_edition-pictures-5845.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/xolo-q800x.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/xolo_q800_x_edition-5845.php"
+    }
+}

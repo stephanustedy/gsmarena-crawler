@@ -1,0 +1,77 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 2800 mAh battery",
+            "Stand-by": "",
+            "Talk time": "Up to 5 h (multimedia)"
+        },
+        "Body": {
+            "Dimensions": "-",
+            "SIM": "No",
+            "Weight": "-"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": ""
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "",
+            "Radio": "No",
+            "USB": "v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "480 x 800 pixels (~133 ppi pixel density)",
+            "Size": "7.0 inches",
+            "Type": "TFT capacitive touchscreen"
+        },
+        "Features": {
+            "": "- MP3/WAV/WMA/AAC/Flac player\n- DivX/XviD/MP4/WMV/H.264 player\n- Photo editor\n- Document viewer/editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "Email, IM",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2012, September",
+            "Status": "Available. Released 2012, October"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "4 GB, 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Gray",
+            "Price group": "2/10 (About 90 EUR)"
+        },
+        "Network": {
+            "2G bands": "N/A",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "No cellular connectivity"
+        },
+        "Platform": {
+            "CPU": "1 GHz Cortex-A8",
+            "GPU": "Mali-400",
+            "OS": "Android OS, v4.0.3 (Ice Cream Sandwich)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Tablet with no support for GSM voice communication",
+        "device_name": "Micromax Funbook Alfa P250",
+        "image": {
+            "href": "http://www.gsmarena.com/micromax_funbook_alfa_p250-pictures-5053.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/micromax-funbook-alfa.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/micromax_funbook_alfa_p250-5053.php"
+    }
+}

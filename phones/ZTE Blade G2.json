@@ -1,0 +1,81 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 2000 mAh battery",
+            "Stand-by": "Up to 300 h (2G) / Up to 300 h (3G)",
+            "Talk time": "Up to 15 h (2G) / Up to 12 h 30 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "133 x 66 x 9.9 mm (5.24 x 2.60 x 0.39 in)",
+            "SIM": "Dual SIM (Mini-SIM, dual stand-by)",
+            "Weight": "145 g (5.11 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, LED flash",
+            "Secondary": "VGA",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "FM radio, built-in antenna",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "480 x 854 pixels (~218 ppi pixel density)",
+            "Size": "4.5 inches (~63.6% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/H.264 player\n- MP3/WAV/eAAC+/Flac player\n- Photo viewer/editor\n- Voice memo/dial",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2013, July",
+            "Status": "Available. Released 2013, September"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "4 GB, 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "3/10 (About 100 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 21.1/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.2 GHz Cortex-A7",
+            "Chipset": "Mediatek MT6589",
+            "GPU": "PowerVR SGX544",
+            "OS": "Android OS, v4.2.1 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as ZTE Blade G2 V880H",
+        "device_name": "ZTE Blade G2",
+        "image": {
+            "href": "http://www.gsmarena.com/zte_blade_g2-pictures-6381.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/zte-blade-g2.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/zte_blade_g2-6381.php"
+    }
+}

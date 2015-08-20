@@ -1,0 +1,81 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 2800 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "-",
+            "SIM": "Yes",
+            "Weight": "-"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, panorana. HDR",
+            "Primary": "5 MP / 8 MP, autofocus, LED flash",
+            "Secondary": "2 MP / 5 MP",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "720 x 1280 pixels (~267 ppi pixel density)",
+            "Size": "5.5 inches",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP3/AAC+/WAV player\n- MP4/H.264 player\n- Document viewer\n- Photo/video editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2015, March",
+            "Status": "Coming soon. Exp. release 2015, October"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 128 GB",
+            "Internal": "8 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Volcano Black, White, Amber Orange, Tango Red, Neon Pink, Laser Yellow, Vivid Green, Sharp Blue, Metallic Silver",
+            "Price group": "3/10 (About 120 EUR)"
+        },
+        "Network": {
+            "": "LTE band 1(2100), 2(1900), 4(1700/2100), 7(2600), 28(700) - LATAM",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+            "4G bands": "LTE band 1(2100), 3(1800), 7(2600), 8(900), 20(800) - EMEA",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 21.1/5.76 Mbps, LTE Cat4 150/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core",
+            "OS": "Android OS, v5.0 (Lollipop)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Alcatel Pixi 3 (5.5) 4G",
+        "device_name": "Alcatel Pixi 3 (5.5) LTE",
+        "image": {
+            "href": "http://www.gsmarena.com/alcatel_pixi_3_(5_5)_lte-pictures-7093.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/alcatel-pixi3-55.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/alcatel_pixi_3_(5_5)_lte-7093.php"
+    }
+}

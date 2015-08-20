@@ -1,0 +1,86 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 2460 mAh battery",
+            "Stand-by": "Up to 800 h (3G)",
+            "Talk time": "Up to 12 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "121.5 x 66.6 x 9.7 mm (4.78 x 2.62 x 0.38 in)",
+            "SIM": "Yes",
+            "Weight": "118 g (4.16 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash",
+            "Secondary": "VGA",
+            "Video": "w480p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "NFC": "Yes (market dependent)",
+            "Radio": "FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot, DLNA"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "480 x 800 pixels (~217 ppi pixel density)",
+            "Size": "4.3 inches (~65.0% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- DivX/Xvid/MP4/H.264/WMV player\n- MP3/WAV/WMA/eAAC+ player\n- Document viewer",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2013, February",
+            "Status": "Available. Released 2013, March"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "4 GB, 768 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "4/10 (About 180 EUR)",
+            "SAR EU": "0.66 W/kg (head) \u00a0 \u00a0 0.57 W/kg (body)",
+            "SAR US": "0.50 W/kg (head) \u00a0 \u00a0 1.11 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 1900 / 2100 - P714",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - all versions",
+            "3G bands": "HSDPA 900 / 1900 / 2100 or 900 / 1700 / 2100 - P710",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 7.2/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1 GHz Cortex-A5",
+            "Chipset": "Qualcomm MSM8225 Snapdragon S4 Play",
+            "GPU": "Adreno 203",
+            "OS": "Android OS, v4.1.2 (Jelly Bean), upgradable to v4.4.2 (KitKat)"
+        },
+        "Sound": {
+            "": "- Dolby mobile",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as LG Optimus L7X P714",
+        "device_name": "LG Optimus L7 II P710",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_optimus_l7_ii_p710-pictures-5275.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-optimus-l7-ii.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_optimus_l7_ii_p710-5275.php"
+    }
+}

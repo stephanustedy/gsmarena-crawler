@@ -1,0 +1,105 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 2300 mAh battery",
+            "Stand-by": "Up to 200 h",
+            "Talk time": "Up to 14 h"
+        },
+        "Body": {
+            "Dimensions": "139 x 69 x 7 mm (5.47 x 2.72 x 0.28 in)",
+            "SIM": "Dual SIM (Nano-SIM/ Micro-SIM)",
+            "Weight": "115 g (4.06 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection",
+            "Primary": "13 MP, 4128 x 3096 pixels, autofocus, LED flash",
+            "Secondary": "5 MP",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, LE",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes, up to 5 fingers",
+            "Protection": "Corning Gorilla Glass 3",
+            "Resolution": "1080 x 1920 pixels (~441 ppi pixel density)",
+            "Size": "5.0 inches (~71.9% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP3/AAC+/WAV player\n- MP4/H.264 player\n- Document viewer\n- Photo/video editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2015, January",
+            "Status": "Available. Released 2015, April"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "32 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 900 / 2100",
+            "4G bands": "LTE band 3(1800), 7(2600), 20(800)",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 42.2/11.5 Mbps, LTE Cat4 150/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.7 GHz Cortex-A53 & quad-core 1.0 GHz Cortex-A53",
+            "Chipset": "Qualcomm MSM8939 Snapdragon 615",
+            "GPU": "Adreno 405",
+            "OS": "Android OS, v4.4 (KitKat)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Gigabyte GSmart Guru GX",
+        "image": {
+            "href": "http://www.gsmarena.com/gigabyte_gsmart_guru_gx-pictures-6985.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/gigabyte-gsmart-guru-gx.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/gigabyte_gsmart_guru_gx-6985.php"
+    }
+}

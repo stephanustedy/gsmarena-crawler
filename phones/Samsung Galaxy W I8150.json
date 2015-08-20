@@ -1,0 +1,89 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1500 mAh battery",
+            "Stand-by": "Up to 570 h (2G) / Up to 420 h (3G)",
+            "Talk time": "Up to 17 h 50 min (2G) / Up to 8 h 20 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "115.5 x 59.8 x 11.5 mm (4.55 x 2.35 x 0.45 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "114.7 g (4.02 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face/smile detection",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, LED flash, check quality",
+            "Secondary": "VGA",
+            "Video": "720p@30fps, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "480 x 800 pixels (~252 ppi pixel density)",
+            "Size": "3.7 inches (~56.4% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/DivX/XviD/WMV/H.264 player\n- MP3/WAV/eAAC+/Flac player\n- Photo/video editor\n- Document viewer/editor",
+            "Browser": "HTML, Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2011, August",
+            "Status": "Available. Released 2011, October"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "2 GB, 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "4/10 (About 160 EUR)",
+            "SAR EU": "0.52 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 14.4/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "1.4 GHz Scorpion",
+            "Chipset": "Qualcomm MSM8255T Snapdragon S2",
+            "GPU": "Adreno 205",
+            "OS": "Android OS, v2.3.5 (Gingerbread)"
+        },
+        "Sound": {
+            "": "- DNSe sound",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -87.8dB / Crosstalk -87.3dB",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 853:1 (nominal)",
+            "Loudspeaker": "Voice 69dB / Noise 66dB / Ring 67dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Samsung Galaxy Wonder",
+        "device_name": "Samsung Galaxy W I8150",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_galaxy_w_i8150-pictures-4114.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-ancora.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_galaxy_w_i8150-4114.php"
+    }
+}

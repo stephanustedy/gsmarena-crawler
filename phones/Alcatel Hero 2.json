@@ -1,0 +1,86 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 3100 mAh battery",
+            "Stand-by": "Up to 500 h (2G) / Up to 380 h (3G)",
+            "Talk time": "Up to 15 h 30 min (2G) / Up to 10 h (3G)"
+        },
+        "Body": {
+            "": "- Stylus",
+            "Dimensions": "160.5 x 81.6 x 7.9 mm (6.32 x 3.21 x 0.31 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "175 g (6.17 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face/smile detection, HDR, panorama",
+            "Primary": "13.1 MP, optical image stabilization, autofocus, LED flash",
+            "Secondary": "5 MP, 1080p",
+            "Video": "1080p@30fps, optical stabilization"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "Infrared port": "Yes",
+            "NFC": "Yes",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, DLNA, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes, up to 5 fingers",
+            "Protection": "Dragontrail glass, oleophobic coating",
+            "Resolution": "1080 x 1920 pixels (~367 ppi pixel density)",
+            "Size": "6.0 inches (~75.8% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP3/AAC+/WAV player\n- MP4/H.264 player\n- Document viewer\n- Photo viewer/editor\n- Voice memo/dial",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2014, September",
+            "Status": "Available. Released 2014, September"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "16 GB (12.9 GB user available), 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Dark Gray",
+            "Price group": "8/10 (About 460 EUR)"
+        },
+        "Network": {
+            "": "LTE band 1(2100), 3(1800), 7(2600), 8(900), 20(800) - 8030Y",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - 8030B, 8030Y",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100 - 8030B, 8030Y",
+            "4G bands": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 7(2600), 28(700) - 8030B",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 42.2/11.5 Mbps, LTE Cat4 150/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Octa-core 2.0 GHz Cortex-A7",
+            "Chipset": "Mediatek MT8392",
+            "GPU": "Mali-450MP4",
+            "OS": "Android OS, v4.4.2 (KitKat)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Alcatel Hero 2",
+        "image": {
+            "href": "http://www.gsmarena.com/alcatel_hero_2-pictures-6653.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/alcatel-hero-2.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/alcatel_hero_2-6653.php"
+    }
+}

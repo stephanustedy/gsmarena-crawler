@@ -1,0 +1,81 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1800 mAh battery",
+            "Stand-by": "Up to 252 h (3G)",
+            "Talk time": "Up to 6 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "137.4 x 68.6 x 10.2 mm (5.41 x 2.70 x 0.40 in)",
+            "SIM": "Yes",
+            "Weight": "137.5 g (4.87 oz)"
+        },
+        "Camera": {
+            "Features": "Yes",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, LED flash",
+            "Secondary": "2 MP",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "To be confirmed",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "480 x 854 pixels (~218 ppi pixel density)",
+            "Size": "4.5 inches (~59.2% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/H.264 player\n- MP3/WAV/eAAC+/Flac player\n- Photo/video editor\n- Document viewer",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2015, August",
+            "Status": "Coming soon. Exp. release 2015, August"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "4 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "2/10 (About 90 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 1700(AWS) / 1900",
+            "4G bands": "LTE band 2(1900), 4(1700/2100), 12(700)",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 42.2/5.76 Mbps, LTE",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1 GHz Cortex-A53",
+            "Chipset": "Mediatek MT6735M",
+            "GPU": "Mali-T720MP2",
+            "OS": "Android OS, v5.1 (Lollipop)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "ZTE Obsidian",
+        "image": {
+            "href": "http://www.gsmarena.com/zte_obsidian-pictures-7481.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/zte-obsidian.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/zte_obsidian-7481.php"
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1500 mAh battery",
+            "Stand-by": "Up to 160 h",
+            "Talk time": "Up to 6 h 20 min"
+        },
+        "Body": {
+            "Dimensions": "114 x 62 x 12 mm (4.49 x 2.44 x 0.47 in)",
+            "SIM": "Dual SIM (Mini-SIM, dual stand-by)",
+            "Weight": "115 g (4.02 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "5 MP, 2592 x 1936 pixels, autofocus, LED flash",
+            "Secondary": "VGA",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "": "- Moto Switch UI",
+            "Multitouch": "Yes",
+            "Resolution": "320 x 480 pixels (~165 ppi pixel density)",
+            "Size": "3.5 inches (~51.6% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/WAV/AAC+ player\n- MP4/H.264/WMV player\n- Document viewer\n- Photo viewer\n- Organizer\n- Voice memo/dial\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2011, December",
+            "Status": "Available. Released 2011, December"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "512 MB, 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "2/10 (About 70 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 850 / 2100 - SIM 1 only",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "800 MHz",
+            "Chipset": "Qualcomm MSM7227T-1 Snapdragon S1",
+            "GPU": "Adreno 200",
+            "OS": "Android OS, v2.3.7 (Gingerbread)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Motorola XT532",
+        "image": {
+            "href": "http://www.gsmarena.com/motorola_xt532-pictures-4355.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/motorola-xt532.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/motorola_xt532-4355.php"
+    }
+}

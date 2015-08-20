@@ -1,0 +1,82 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1300 mAh battery",
+            "Stand-by": "Up to 286 h",
+            "Talk time": "Up to 6 h 40 min"
+        },
+        "Body": {
+            "": "- Optical trackpad",
+            "Dimensions": "114 x 58 x 15 mm (4.49 x 2.28 x 0.59 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "167 (5.89 oz)"
+        },
+        "Camera": {
+            "Primary": "5 MP, 2592 x 1944 pixels, autofocus, LED flash",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g"
+        },
+        "Display": {
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "320 x 480 pixels (~170 ppi pixel density)",
+            "Size": "3.4 inches (~52.1% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 65K colors"
+        },
+        "Features": {
+            "": "- MP4/H.264 player\n- MP3/WAV/eAAC+ player\n- Organizer\n- Document viewer \n- Voice memo\n- Predictive text input",
+            "Browser": "HTML",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2010, April",
+            "Status": "Available. Released 2010, June"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 16 GB, 8 GB included",
+            "Internal": "512 MB RAM, 512 MB"
+        },
+        "Misc": {
+            "Colors": "White, Black, Red",
+            "Price group": "7/10 (About 330 EUR)",
+            "SAR US": "0.75 W/kg (head) \u00a0 \u00a0 0.65 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 1700 / 2100",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Speed": "HSPA 7.2/2 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "600 MHz ARM 11",
+            "GPU": "Adreno 130",
+            "OS": "Android OS, v2.1 (Eclair), upgradable to v2.2 (Froyo)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as T-Mobile myTouch2",
+        "device_name": "T-Mobile myTouch 3G Slide",
+        "image": {
+            "href": "http://www.gsmarena.com/t_mobile_mytouch_3g_slide-pictures-3270.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/t-mobile-mytouch-slide-ofic.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/t_mobile_mytouch_3g_slide-3270.php"
+    }
+}

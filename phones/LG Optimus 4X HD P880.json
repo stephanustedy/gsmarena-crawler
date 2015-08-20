@@ -1,0 +1,91 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 2150 mAh battery",
+            "Stand-by": "Up to 730 h (2G) / Up to 686 h (3G)",
+            "Talk time": "Up to 9 h 20 min (2G) / Up to 10 h 50 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "132.4 x 68.1 x 8.9 mm (5.21 x 2.68 x 0.35 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "133 g (4.69 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face/smile detection, touch focus",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash, check quality",
+            "Secondary": "1.3 MP",
+            "Video": "1080p@30fps, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, LE",
+            "GPS": "Yes, with A-GPS",
+            "NFC": "Yes",
+            "Radio": "Stereo FM",
+            "USB": "microUSB v2.0 (MHL TV-out)",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- Optimus UI v3.0",
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "720 x 1280 pixels (~312 ppi pixel density)",
+            "Size": "4.7 inches (~67.5% screen-to-body ratio)",
+            "Type": "True HD-IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- DivX/Xvid/MP4/H.264/WMV player\n- MP3/WAV/WMA/eAAC+ player\n- Document editor\n- Organizer\n- Voice memo/dial/commands\n- Predictive text input",
+            "Browser": "HTML5, Adobe Flash",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2012, February",
+            "Status": "Available. Released 2012, June"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "16 GB (12 GB user available), 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "5/10 (About 220 EUR)",
+            "SAR EU": "0.62 W/kg (head) \u00a0 \u00a0 0.37 W/kg (body)",
+            "SAR US": "0.51 W/kg (head) \u00a0 \u00a0 0.74 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+            "EDGE": "Class 33",
+            "GPRS": "Class 33",
+            "Speed": "HSPA 21.1/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.5 GHz Cortex-A9",
+            "Chipset": "Nvidia Tegra 3",
+            "GPU": "ULP GeForce",
+            "OS": "Android OS, v4.0 (Ice Cream Sandwich), upgradable to v4.1 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -74.8dB / Crosstalk -81.6dB",
+            "Battery life": "Endurance rating 40h",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 1102:1 (nominal) / 1.691:1 (sunlight)"
+        }
+    },
+    "main": {
+        "device_name": "LG Optimus 4X HD P880",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_optimus_4x_hd_p880-pictures-4563.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-optimus-4g-hd-ofic.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_optimus_4x_hd_p880-4563.php"
+    }
+}

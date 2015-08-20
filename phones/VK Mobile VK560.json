@@ -1,0 +1,95 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "76 x 44 x 19 mm (2.99 x 1.73 x 0.75 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "75 g (2.65 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "No"
+        },
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second external CSTN display, 65K colors (96 x 64 pixels)",
+            "Resolution": "128 x 143 pixels",
+            "Size": "",
+            "Type": "CSTN, 65K colors"
+        },
+        "Features": {
+            "": "- Predictive text input\n- Organizer\n- Bio Rhythm",
+            "Browser": "WAP 1.2.1",
+            "Games": "Yes",
+            "Java": "No",
+            "Messaging": "SMS, EMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2004, 3Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "10 dialed, 10 received, 10 missed calls",
+            "Card slot": "No",
+            "Phonebook": "Yes"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "VK Mobile VK560",
+        "image": {
+            "href": "http://www.gsmarena.com/vk_mobile_vk560-pictures-1031.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/vk560.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/vk_mobile_vk560-1031.php"
+    }
+}

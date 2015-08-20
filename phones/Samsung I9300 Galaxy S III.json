@@ -1,0 +1,92 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 2100 mAh battery",
+            "Stand-by": "Up to 590 h (2G) / Up to 790 h (3G)",
+            "Talk time": "Up to 21 h 40 min (2G) / Up to 11 h 40 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "136.6 x 70.6 x 8.6 mm (5.38 x 2.78 x 0.34 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "133 g (4.69 oz)"
+        },
+        "Camera": {
+            "Features": "Simultaneous HD video and image recording, geo-tagging, touch focus, face/smile detection",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash, check quality",
+            "Secondary": "1.9 MP, 720p@30fps",
+            "Video": "1080p@30fps, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, EDR, apt-X",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "NFC": "Yes",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0 (MHL TV-out), USB Host",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- TouchWiz UI",
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 2",
+            "Resolution": "720 x 1280 pixels (~306 ppi pixel density)",
+            "Size": "4.8 inches (~65.9% screen-to-body ratio)",
+            "Type": "Super AMOLED capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- S-Voice natural language commands and dictation\n- Smart Stay eye tracking\n- Dropbox (50 GB cloud storage)\n- Active noise cancellation with dedicated mic\n- MP4/DivX/XviD/WMV/H.264 player\n- MP3/WAV/eAAC+/AC3/FLAC player\n- Photo/video editor\n- Document viewer",
+            "Browser": "HTML, Adobe Flash",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass, barometer"
+        },
+        "Launch": {
+            "Announced": "2012, May",
+            "Status": "Available. Released 2012, May"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "16/32/64 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Pebble blue, Marble white, Amber brown, Garnet red, Sapphire black, Titanium grey, La Fleur",
+            "Price group": "4/10 (About 190 EUR)",
+            "SAR EU": "0.21 W/kg (head)",
+            "SAR US": "0.55 W/kg (head) \u00a0 \u00a0 1.49 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 21.1/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.4 GHz Cortex-A9",
+            "Chipset": "Exynos 4412 Quad",
+            "GPU": "Mali-400MP4",
+            "OS": "Android OS, v4.0.4 (Ice Cream Sandwich), 4.3 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -90.3dB / Crosstalk -92.6dB",
+            "Battery life": "Endurance rating 50h",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: Infinite (nominal) / 3.419:1 (sunlight)",
+            "Loudspeaker": "Voice 75dB / Noise 66dB / Ring 75dB"
+        }
+    },
+    "main": {
+        "device_name": "Samsung I9300 Galaxy S III",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_i9300_galaxy_s_iii-pictures-4238.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-i9300-galaxy-s-iii-ofic.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_i9300_galaxy_s_iii-4238.php"
+    }
+}

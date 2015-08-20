@@ -1,0 +1,79 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1300 mAh battery",
+            "Stand-by": "Up to 300 h",
+            "Talk time": "Up to 7 h"
+        },
+        "Body": {
+            "Dimensions": "113.3 x 63 x 11.9 mm (4.46 x 2.48 x 0.47 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "109 g (3.84 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels",
+            "Secondary": "Videocall camera",
+            "Video": "480p@25fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "320 x 240 pixels (~154 ppi pixel density)",
+            "Size": "2.6 inches (~29.3% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- Pocket Office \n- Voice memo/dial\n- MP3/AAC/AAC+/WMA/OGG/AMR player\n- WMV/MP4 player\n- Predictive text input",
+            "Browser": "WAP 2.0 / HTML",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS (threaded view), MMS, EMail, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2008, October. Released 2009, March",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 8 GB",
+            "Internal": "100 MB"
+        },
+        "Misc": {
+            "Colors": "Black, Wine red, Apple green, Navy blue",
+            "Price group": "3/10 (About 140 EUR)",
+            "SAR EU": "0.66 W/kg (head)",
+            "SAR US": "0.55 W/kg (head) \u00a0 \u00a0 0.68 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "3G bands": "HSDPA 2100",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Speed": "HSPA 3.6/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "393 MHz STMicroelectronics Nomadik STn8810",
+            "OS": "Microsoft Windows Mobile 6.1 Standard"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "- Also known as Samsung C6625 Valencia\n- Samsung C6625v for Vodafone",
+        "device_name": "Samsung C6625",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_c6625-pictures-2723.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-c6625.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_c6625-2723.php"
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "86.2 x 43.9 x 19.7 mm (3.39 x 1.73 x 0.78 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "76 g (2.68 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "FM radio",
+            "USB": "No",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Embedded wallpapers",
+            "Resolution": "128 x 160 pixels, 8 lines",
+            "Size": "",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- Organizer\n- Voice memo",
+            "Browser": "WAP 1.2",
+            "Games": "No",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2006, May",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "No",
+            "Internal": "1.8 MB",
+            "Phonebook": "1000 entries"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "SAR EU": "0.47 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Samsung X210",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_x210-pictures-1579.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-x210.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_x210-1579.php"
+    }
+}

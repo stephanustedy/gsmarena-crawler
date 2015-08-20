@@ -1,0 +1,87 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po 2300 mAh battery",
+            "Stand-by": "Up to 500 h (2G) / Up to 480 h (3G)",
+            "Talk time": "Up to 27 h (2G) / Up to 18 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "137.8 x 69.3 x 10.4 mm (5.43 x 2.73 x 0.41 in)",
+            "SIM": "Dual SIM (Micro-SIM, dual stand-by)",
+            "Weight": "156 g (5.50 oz)"
+        },
+        "Camera": {
+            "Features": "1/3'' sensor size, 2\u00b5m pixel size, simultaneous HD video and image recording, geo-tagging, face/smile detection",
+            "Primary": "4 MP, 2688 x 1520 pixels, autofocus, optical image stabilization, LED flash",
+            "Secondary": "2.1 MP, 1080p@30fps, HDR",
+            "Video": "1080p@30fps, 720p@60fps, optical stabilization, HDR, stereo sound rec."
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, apt-X",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "Infrared port": "Yes",
+            "NFC": "Yes (Market dependent)",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0 (MHL TV-out)",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, Wi-Fi Direct, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- HTC Sense UI 5.0",
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 2",
+            "Resolution": "1080 x 1920 pixels (~471 ppi pixel density)",
+            "Size": "4.68 inches (~63.2% screen-to-body ratio)",
+            "Type": "Super LCD3 capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Dropbox (25 GB cloud storage)\n- Active noise cancellation with dedicated mic\n- DivX/XviD/MP4/H.264/WMV player\n- MP3/eAAC+/WMA/WAV/FLAC player\n- Document viewer/editor\n- Photo viewer/editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2013, June",
+            "Status": "Available. Released 2013, August"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "32 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Silver, Black",
+            "Price group": "7/10 (About 400 EUR)",
+            "SAR US": "1.27 W/kg (head)"
+        },
+        "Network": {
+            "": "HSDPA 900 / 2100 - SIM 1",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 850 / 1900 / 2100 - SIM 1",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 21.1/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.7 GHz Krait 300",
+            "Chipset": "Qualcomm APQ8064T Snapdragon 600",
+            "GPU": "Adreno 320",
+            "OS": "Android OS, v4.1.2 (Jelly Bean), upgradable to v5.0 (Lollipop)"
+        },
+        "Sound": {
+            "": "- Beats Audio",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "device_name": "HTC One Dual Sim",
+        "image": {
+            "href": "http://www.gsmarena.com/htc_one_dual_sim-pictures-5498.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/htc-one-m7-new1.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/htc_one_dual_sim-5498.php"
+    }
+}

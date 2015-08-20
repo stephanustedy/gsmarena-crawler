@@ -1,0 +1,145 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1620 mAh battery",
+            "Stand-by": "Up to 288 h",
+            "Talk time": "Up to 7 h 40 min"
+        },
+        "Body": {
+            "Dimensions": "128.8 x 67.1 x 11.2 mm (5.07 x 2.64 x 0.44 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "176.9 g (6.21 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face detection",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, dual-LED flash",
+            "Secondary": "1.3 MP",
+            "Video": "1080p"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- HTC Sense UI",
+            "Multitouch": "Yes",
+            "Resolution": "540 x 960 pixels (~245 ppi pixel density)",
+            "Size": "4.5 inches (~64.6% screen-to-body ratio)",
+            "Type": "S-LCD capacitive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/AAC+/WAV/WMA player\n- MP4/H.264/WMV player\n- Organizer\n- Document viewer\n- Voice memo/dial/commands\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML, Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2011, October",
+            "Status": "Available. Released 2011, November"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "16 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "4/10 (About 160 EUR)",
+            "SAR US": "1.28 W/kg (head) \u00a0 \u00a0 1.09 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 1900 / 2100",
+            "4G bands": "LTE band 4(1700/2100), 17(700)",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA, LTE",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.2 GHz Scorpion",
+            "Chipset": "Qualcomm APQ8060 Snapdragon S3",
+            "GPU": "Adreno 220",
+            "OS": "Android OS, v2.3.4 (Gingerbread), upgradable to v4.0 (Ice Cream Sandwich)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "0": "B",
+            "1": "a",
+            "10": "f",
+            "11": "e",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "t",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "g",
+            "25": "s",
+            "26": "m",
+            "27": "a",
+            "28": "r",
+            "29": "e",
+            "3": "t",
+            "30": "n",
+            "31": "a",
+            "32": "_",
+            "33": "l",
+            "34": "a",
+            "35": "b",
+            "36": "_",
+            "37": "t",
+            "38": "e",
+            "39": "s",
+            "4": "e",
+            "40": "t",
+            "41": "s",
+            "42": "-",
+            "43": "r",
+            "44": "e",
+            "45": "v",
+            "46": "i",
+            "47": "e",
+            "48": "w",
+            "49": "-",
+            "5": "r",
+            "50": "7",
+            "51": "5",
+            "52": "1",
+            "53": "p",
+            "54": "6",
+            "55": ".",
+            "56": "p",
+            "57": "h",
+            "58": "p",
+            "6": "y",
+            "7": " ",
+            "8": "l",
+            "9": "i"
+        }
+    },
+    "main": {
+        "canonical_name": "For AT&T",
+        "device_name": "HTC Vivid",
+        "image": {
+            "href": "http://www.gsmarena.com/htc_vivid-pictures-4302.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/htc-vivid.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/htc_vivid-4302.php"
+    }
+}

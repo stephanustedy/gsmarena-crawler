@@ -1,0 +1,96 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1500 mAh battery",
+            "Stand-by": "Up to 150 h",
+            "Talk time": "Up to 4 h"
+        },
+        "Body": {
+            "Dimensions": "126 x 64 x 21 mm (4.96 x 2.52 x 0.83 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "190 g (6.70 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "v2.0",
+            "GPS": "Yes, SiRF GCS3F receiver",
+            "Radio": "No",
+            "USB": "Yes",
+            "WLAN": "Wi-Fi 802.11b/g"
+        },
+        "Display": {
+            "": "- 5-way navigation key",
+            "Resolution": "240 x 240 pixels (~141 ppi pixel density)",
+            "Size": "2.4 inches (~23.0% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 65K colors"
+        },
+        "Features": {
+            "": "- Pocket Office \n- MP3/AAC/AAC+/WMA/OGG/AMR player\n- WMV/MP4 player\n- Organizer\n- Voice memo",
+            "Browser": "HTML (PocketIE)",
+            "Java": "No",
+            "Messaging": "SMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2006, August",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "SD",
+            "Internal": "64 MB RAM, 128 MB ROM"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "3G bands": "UMTS 2100",
+            "EDGE": "No",
+            "GPRS": "Yes",
+            "Speed": "Yes, 384 kbps",
+            "Technology": "GSM / UMTS"
+        },
+        "Platform": {
+            "CPU": "Intel PXA272 416 MHz",
+            "OS": "Microsoft Windows Mobile 5.0 Phone Edition"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Fujitsu Siemens T810",
+        "image": {
+            "href": "http://www.gsmarena.com/fujitsu_siemens_t810-pictures-1953.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/fs-t810.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/fujitsu_siemens_t810-1953.php"
+    }
+}

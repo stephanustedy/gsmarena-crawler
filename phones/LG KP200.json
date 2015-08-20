@@ -1,0 +1,73 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 830 mAh battery",
+            "Stand-by": "Up to 250 h",
+            "Talk time": "Up to 2 h 30 min"
+        },
+        "Body": {
+            "Dimensions": "86 x 45 x 20.1 mm (3.39 x 1.77 x 0.79 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "76 g (2.68 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "No"
+        },
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "FM radio",
+            "USB": "No",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second external STN, mono display (96 x 64 pixels)",
+            "Resolution": "128 x 128 pixels",
+            "Size": "",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- Predictive text input\n- Organizer\n- Voice memo",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Sudoku Puzzle, ZooZoo Club",
+            "Java": "Yes",
+            "Messaging": "SMS, EMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2007, June",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "10 dialed, 10 received, 10 missed calls",
+            "Card slot": "No",
+            "Internal": "8 MB",
+            "Phonebook": "500 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Pink, Black",
+            "Price group": "2/10 (About 50 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Yes",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "LG KP200",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_kp200-pictures-2067.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-kp200.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_kp200-2067.php"
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 700 mAh battery (BL-4B)",
+            "Stand-by": "Up to 250 h",
+            "Talk time": "Up to 2 h 30 min"
+        },
+        "Body": {
+            "Dimensions": "88 x 43 x 23 mm, 75 cc (3.46 x 1.69 x 0.91 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "104 g (3.67 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels",
+            "Secondary": "No",
+            "Video": "QCIF"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "Stereo FM radio; Visual radio",
+            "USB": "Pop-Port",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- 180-degree rotator design\n- Downloadable themes, wallpapers",
+            "Resolution": "240 x 320 pixels (~200 ppi pixel density)",
+            "Size": "2.0 inches, 30 x 40 mm (~32.7% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/AAC/M4A/eAAC+/AAC+ player\n- Push to talk\n- Predictive text input\n- Organizer\n- Voice memo/dial",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Sudoku, Music Guess",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2006, September",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- 2.5 MB free memory",
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "microSD, up to 2 GB",
+            "Internal": "8 MB",
+            "Phonebook": "1000 x 23 fields, Photo call"
+        },
+        "Misc": {
+            "Colors": "Bronze Black, Powder Pink",
+            "Price group": "4/10 (About 150 EUR)",
+            "SAR EU": "0.73 W/kg (head)",
+            "SAR US": "0.56 W/kg (head) \u00a0 \u00a0 0.47 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3, AAC ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 7373",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_7373-pictures-1690.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-7373.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_7373-1690.php"
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 6340 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "259.8 x 178 x 8.7 mm (10.23 x 7.01 x 0.34 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "580 g (1.28 lb)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus",
+            "Secondary": "1.3 MP",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot, DLNA"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "800 x 1280 pixels (~151 ppi pixel density)",
+            "Size": "10.0 inches (~62.7% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen"
+        },
+        "Features": {
+            "": "- HDMI port\n- MP4/H.264 player\n- MP3/WAV/eAAC+ player\n- Photo/video editor\n- Document viewer",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "Email, Push Mail, IM",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2012, November",
+            "Status": "Available. Released 2012, November"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "16 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Gray",
+            "Price group": "6/10 (About 270 EUR)",
+            "SAR EU": "1.10 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.5 GHz",
+            "Chipset": "Qualcomm MSM8260 Snapdragon S3",
+            "OS": "Android OS, v4.0.3 (Ice Cream Sandwich)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "canonical_name": "Tablet with no support for GSM voice communication, SMS, and MMS",
+        "device_name": "Vodafone Smart Tab II 10",
+        "image": {
+            "href": "http://www.gsmarena.com/vodafone_smart_tab_ii_10-pictures-5121.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/vodafone-smart-tab-10-ii.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/vodafone_smart_tab_ii_10-5121.php"
+    }
+}

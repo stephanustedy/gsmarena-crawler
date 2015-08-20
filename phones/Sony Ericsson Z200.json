@@ -1,0 +1,69 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion battery",
+            "Stand-by": "Up to 200 h",
+            "Talk time": "Up to 4 h 30 min"
+        },
+        "Body": {
+            "Dimensions": "96 x 52 x 25 mm (3.78 x 2.05 x 0.98 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "98 g (3.46 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second external monochrome display\n- Wallpapers, screensavers\n- 5-way navigation key\n- Menu shortcuts\n- Downloadable wallpapers",
+            "Resolution": "128 x 128 pixels",
+            "Size": "",
+            "Type": "STN, 4096 colors"
+        },
+        "Features": {
+            "": "- Predictive text input\n- Organizer\n- Stopwatch\n- Exchangeable front cover (2 faceplates included)",
+            "Browser": "WAP 1.2.1",
+            "Games": "3 - Mini-golf, AlienScum and HoneyCave 2",
+            "Java": "No",
+            "Messaging": "SMS, EMS"
+        },
+        "Launch": {
+            "Announced": "2003, 3Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "10 dialed, 10 received, 10 missed calls",
+            "Card slot": "No",
+            "Phonebook": "300 entries, Photo call"
+        },
+        "Misc": {
+            "Colors": "4 - Velvet Blue, Cosmo Silver, Frosty White, Pulse Red",
+            "SAR EU": "0.94 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 8",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic ringtones, composer",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Sony Ericsson Z200",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_ericsson_z200-pictures-523.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/snz200.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_ericsson_z200-523.php"
+    }
+}

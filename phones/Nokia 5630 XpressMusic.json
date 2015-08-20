@@ -1,0 +1,84 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 860 mAh battery (BL-4CT)",
+            "Music play": "Up to 25 h",
+            "Stand-by": "Up to 400 h (2G) / 408 h (3G)",
+            "Talk time": "Up to 7 h (2G) / 4 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "112 x 46 x 12 mm (4.41 x 1.81 x 0.47 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "83 g (2.93 oz)"
+        },
+        "Camera": {
+            "Primary": "3.15 MP, 2048 x 1536 pixels, enhanced fixed focus, LED flash, check quality",
+            "Secondary": "VGA videocall camera",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g, UPnP technology"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~182 ppi pixel density)",
+            "Size": "2.2 inches (~29.1% screen-to-body ratio)",
+            "Type": "TFT, 16M colors"
+        },
+        "Features": {
+            "": "- WMV/RV/MP4/3GP player\n- MP3/WMA/WAV/RA/AAC/M4A player\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2009, February",
+            "Status": "Available. Released 2009, June"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 16 GB, 4 GB included",
+            "Internal": "60 MB, 128 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Red on black, Blue on grey, Chrome on grey",
+            "Price group": "3/10 (About 120 EUR)",
+            "SAR EU": "1.17 W/kg (head)",
+            "SAR US": "1.17 W/kg (head) \u00a0 \u00a0 0.56 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 2100 / 900",
+            "EDGE": "Class 32",
+            "GPRS": "Class 32",
+            "Speed": "HSPA 10.2/2 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "600 MHz ARM 11",
+            "OS": "Symbian OS, S60 rel. 3.2"
+        },
+        "Sound": {
+            "": "- Dedicated music keys",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -94.0dB / Crosstalk -97.3dB",
+            "Camera": "Photo",
+            "Loudspeaker": "Voice 68dB / Noise 65dB / Ring 76dB"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 5630 XpressMusic",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_5630_xpressmusic-pictures-2670.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-5630-e.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_5630_xpressmusic-2670.php"
+    }
+}

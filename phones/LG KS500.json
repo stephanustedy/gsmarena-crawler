@@ -1,0 +1,77 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 950 mAh battery",
+            "Stand-by": "Up to 300 h",
+            "Talk time": "Up to 4 h"
+        },
+        "Body": {
+            "": "- Optical trackpad",
+            "Dimensions": "102.8 x 49.2 x 14.9 mm (4.05 x 1.94 x 0.59 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "106 g (3.74 oz)"
+        },
+        "Camera": {
+            "Primary": "3.15 MP, 2048 x 1536 pixels",
+            "Secondary": "Videocall camera",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~200 ppi pixel density)",
+            "Size": "2.0 inches (~24.5% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/WMA/RA/AAC+ audio player\n- MP4/H.264/RV player\n- Voice memo\n- Speakerphone\n- Organizer",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2008, October. Released 2009, March",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "40 dialed, 40 received, 40 missed calls",
+            "Card slot": "microSD, up to 8 GB",
+            "Internal": "100 MB",
+            "Phonebook": "1000 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "2/10 (About 70 EUR)",
+            "SAR EU": "0.87 W/kg (head)",
+            "SAR US": "0.50 W/kg (head) \u00a0 \u00a0 0.22 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Class 11",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 3.6/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "LG KS500",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_ks500-pictures-2567.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-ks500.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_ks500-2567.php"
+    }
+}

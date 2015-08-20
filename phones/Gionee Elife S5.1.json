@@ -1,0 +1,90 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 2050 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "139.8 x 67.4 x 5.2 mm (5.50 x 2.65 x 0.20 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "97.7 g (3.42 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection, panorama, HDR",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash, check quality",
+            "Secondary": "5 MP",
+            "Video": "1080p@30fps, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0, USB Host",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "": "- Amigo OS 2.0",
+            "Multitouch": "Yes",
+            "Resolution": "720 x 1280 pixels (~306 ppi pixel density)",
+            "Size": "4.8 inches (~67.4% screen-to-body ratio)",
+            "Type": "AMOLED capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP4/H.264 player\n- MP3/WAV/eAAC+ player\n- Photo/video editor\n- Document viewer",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2014, September",
+            "Status": "Available. Released 2014, November"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "16 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White, Pink, Mint Green",
+            "Price group": "5/10 (About 240 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Class 12",
+            "Speed": "HSPA",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Octa-core 1.7 GHz Cortex-A7",
+            "Chipset": "Mediatek MT6592",
+            "GPU": "Mali-450MP4",
+            "OS": "Android OS, v4.4.2 (KitKat)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -91.2dB / Crosstalk -82.7dB",
+            "Battery life": "Endurance rating 55h",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: Infinite (nominal), 2.812 (sunlight)",
+            "Loudspeaker": "Voice 64dB / Noise 64dB / Ring 66dB",
+            "Performance": "Basemark OS II: 613 / Basemark OS II 2.0: 546\nBasemark X: 4150"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Gionee GN9005",
+        "device_name": "Gionee Elife S5.1",
+        "image": {
+            "href": "http://www.gsmarena.com/gionee_elife_s5_1-pictures-6540.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/gionee-elife-s5.1.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/gionee_elife_s5_1-6540.php"
+    }
+}

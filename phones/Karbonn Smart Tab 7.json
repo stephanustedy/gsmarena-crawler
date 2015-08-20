@@ -1,0 +1,74 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 3700 mAh battery",
+            "Stand-by": "",
+            "Talk time": "Up to 7 h (multimedia)"
+        },
+        "Body": {
+            "Dimensions": "-",
+            "SIM": "No",
+            "Weight": "-"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "Yes",
+            "WLAN": "Wi-Fi 802.11 b/g/n"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "480 x 800 pixels (~117 ppi pixel density)",
+            "Size": "8.0 inches",
+            "Type": "TFT capacitive touchscreen"
+        },
+        "Features": {
+            "": "- HDMI port\n- MP3/AAC/WMA/WAV player\n- MP4/WMV/H.264 player\n- Document editor",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "Email, Push Email, IM",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2012",
+            "Status": "Available. Released 2012"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "1 GB, 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black/White",
+            "Price group": "2/10 (About 80 EUR)"
+        },
+        "Network": {
+            "2G bands": "N/A",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "No cellular connectivity"
+        },
+        "Platform": {
+            "CPU": "1.2 GHz",
+            "Chipset": "Vivante GC860",
+            "GPU": "Mali-400",
+            "OS": "Android OS, v4.0 (Ice Cream Sandwich), upgradeable to 4.1 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Tablet with no support for GSM voice communication, SMS, and MMS",
+        "device_name": "Karbonn Smart Tab 7",
+        "index": 1,
+        "url": "http://www.gsmarena.com/karbonn_smart_tab_7-5217.php"
+    }
+}

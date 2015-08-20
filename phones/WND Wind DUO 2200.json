@@ -1,0 +1,96 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 930 mAh battery",
+            "Stand-by": "Up to 180 h",
+            "Talk time": "Up to 3 h"
+        },
+        "Body": {
+            "Dimensions": "98 x 47.5 x 17.3 mm (3.86 x 1.87 x 0.68 in)",
+            "SIM": "Dual SIM (Mini-SIM)",
+            "Weight": "95 g (3.35 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP (on each side), 1600 x 1200 pixels",
+            "Secondary": "No",
+            "Video": "No"
+        },
+        "Comms": {
+            "Bluetooth": "v1.2, A2DP",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "v1.1",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Downloadable wallpapers, screensavers",
+            "Resolution": "240 x 320 pixels (~222 ppi pixel density)",
+            "Size": "1.8 inches (~21.6% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/AAC player\n- MP4/3gp player\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2007, October",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- Call register and phonebooks are shared between faces",
+            "Call records": "20 received, 20 dialed, 20 missed calls",
+            "Card slot": "microSD on both sides",
+            "Phonebook": "1000 entries on each side, Photocall"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MIDI, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "WND Wind DUO 2200",
+        "image": {
+            "href": "http://www.gsmarena.com/wnd_wind_duo_2200-pictures-2166.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/wind-duo-2200.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/wnd_wind_duo_2200-2166.php"
+    }
+}

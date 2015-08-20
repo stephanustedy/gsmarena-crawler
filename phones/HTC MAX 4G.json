@@ -1,0 +1,82 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1500 mAh battery",
+            "Stand-by": "Up to 350 h",
+            "Talk time": "Up to 7 h"
+        },
+        "Body": {
+            "Dimensions": "113.5 x 63.1 x 13.9 mm (4.47 x 2.48 x 0.55 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "151 g (5.33 oz)"
+        },
+        "Camera": {
+            "Primary": "3.15 MP, 2048 x 1536 pixels, autofocus",
+            "Secondary": "VGA videocall camera",
+            "Video": "CIF@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "miniUSB",
+            "WLAN": "Wi-Fi 802.11 b/g, WiMAX 802.16 e"
+        },
+        "Display": {
+            "": "- TouchFLO 3D finger swipe navigation\n- Handwriting recognition",
+            "Resolution": "480 x 800 pixels (~246 ppi pixel density)",
+            "Size": "3.8 inches (~57.4% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 65K colors"
+        },
+        "Features": {
+            "": "- Yota Mobile WiMAX 2.5-2.7 GHz\n- Yota TV\n- MP3/MP4 player\n- Pocket Office \n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS (threaded view), MMS, Email, Instant Messaging",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2008, November. Released 2009",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "microSD",
+            "Internal": "8 GB, 288 MB RAM, 256 MB ROM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "7/10 (About 310 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Platform": {
+            "CPU": "400 MHz ARM 11",
+            "Chipset": "Qualcomm ESM7206A",
+            "GPU": "Adreno 130",
+            "OS": "Microsoft Windows Mobile 6.1 Professional"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -85.2dB / Crosstalk -75.0dB",
+            "Loudspeaker": "Voice 70dB / Noise 80dB / Ring 66dB"
+        }
+    },
+    "main": {
+        "canonical_name": "For Yota Russia",
+        "device_name": "HTC MAX 4G",
+        "image": {
+            "href": "http://www.gsmarena.com/htc_max_4g-pictures-2605.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/htc-max-4g.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/htc_max_4g-2605.php"
+    }
+}

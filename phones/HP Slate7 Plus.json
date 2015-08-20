@@ -1,0 +1,77 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po 4000 mAh battery",
+            "Stand-by": "",
+            "Talk time": "Up to 7 h 30 min (multimedia)"
+        },
+        "Body": {
+            "Dimensions": "194.7 x 122.7 x 10.7 mm (7.67 x 4.83 x 0.42 in)",
+            "SIM": "No",
+            "Weight": "340.2 (11.99 oz)"
+        },
+        "Camera": {
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus",
+            "Secondary": "VGA",
+            "Video": "720p"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0",
+            "GPS": "Yes",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "800 x 1280 pixels (~216 ppi pixel density)",
+            "Size": "7.0 inches (~59.5% screen-to-body ratio)",
+            "Type": "Capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Box (25 GB lifetime cloud storage)\n- MP4/H.264 player\n- MP3/WAV/eAAC+ player\n- Photo/video editor\n- Document viewer\n- Voice memo",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "Email, Push Email, IM",
+            "Sensors": "Accelerometer, compass"
+        },
+        "Launch": {
+            "Announced": "2013, December",
+            "Status": "Available. Released 2013, December"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "8 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black/Silver",
+            "Price group": "3/10 (About 110 EUR)"
+        },
+        "Network": {
+            "2G bands": "N/A",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "No cellular connectivity"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.3 GHz Cortex-A9",
+            "Chipset": "Nvidia Tegra 3",
+            "OS": "Android OS, v4.2.2 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "canonical_name": "Tablet with no support for GSM voice communication, SMS, and MMS",
+        "device_name": "HP Slate7 Plus",
+        "image": {
+            "href": "http://www.gsmarena.com/hp_slate7_plus-pictures-5882.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/hp-slate7-plus.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/hp_slate7_plus-5882.php"
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "": "- Flashlight",
+            "Dimensions": "105 x 45 x 20 mm (4.13 x 1.77 x 0.79 in)",
+            "SIM": "Dual SIM (Mini-SIM)",
+            "Weight": "80 g (2.82 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "No",
+            "Radio": "WFM",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "176 x 220 pixels (~141 ppi pixel density)",
+            "Size": "2.0 inches (~26.6% screen-to-body ratio)",
+            "Type": "TFT"
+        },
+        "Features": {
+            "": "- Audio/video player",
+            "Browser": "Yes",
+            "Games": "Yes",
+            "Java": "No",
+            "Messaging": "SMS, MMS",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2010",
+            "Status": "Available"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "microSD, up to 8 GB",
+            "Phonebook": "1000 entries"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "1/10 (About 30 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "EDGE": "No",
+            "GPRS": "Yes",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "Alert types": "Vibration, Polyphonic",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Celkon C567",
+        "image": {
+            "href": "http://www.gsmarena.com/celkon_c567-pictures-4538.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/celkon-c567.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/celkon_c567-4538.php"
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 820 mAh battery",
+            "Stand-by": "Up to 350 h",
+            "Talk time": "Up to 4 h"
+        },
+        "Body": {
+            "Dimensions": "85 x 45 x 24 mm (3.35 x 1.77 x 0.94 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "97 g (3.42 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "FM radio",
+            "USB": "Pop-Port",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second external display 4096 colors (96 x 65 pixels)\n- 5-way navi key\n- Downloadable themes",
+            "Resolution": "128 x 160 pixels (~114 ppi pixel density)",
+            "Size": "1.8 inches, 28 x 35 mm (~26.7% screen-to-body ratio)",
+            "Type": "TFT, 65k colors"
+        },
+        "Features": {
+            "": "- Push to Talk\n- SyncML\n- Predictive text input\n- Presence enhanced contacts\n- Organizer\n- Voice dial/memo",
+            "Browser": "WAP/xHTML",
+            "Games": "3 + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Languages": "Major European and Asia-Pacific languages",
+            "Messaging": "SMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2006, 1Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "No",
+            "Internal": "4.2 MB",
+            "Phonebook": "500 x 10 fields, Photo call"
+        },
+        "Misc": {
+            "Colors": "Black, Red",
+            "Price group": "2/10 (About 100 EUR)",
+            "SAR EU": "0.74 W/kg (head)",
+            "SAR US": "0.64 W/kg (head) \u00a0 \u00a0 0.50 W/kg (body)"
+        },
+        "Network": {
+            "": "GSM 850 / 1800 / 1900 - US version",
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "Class 6",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 6103",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_6103-pictures-1403.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-6103.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_6103-1403.php"
+    }
+}

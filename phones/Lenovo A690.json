@@ -1,0 +1,81 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1500 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "124 x 65 x 11 mm (4.88 x 2.56 x 0.43 in)",
+            "SIM": "Dual SIM (Mini-SIM)",
+            "Weight": "134 g (4.73 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "3.15 MP, 2048 x 1536 pixels",
+            "Secondary": "No",
+            "Video": "480p"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "480 x 800 pixels (~233 ppi pixel density)",
+            "Size": "4.0 inches (~56.5% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/WMV/H.264 player\n- MP3/WAV/WMA/eAAC+ player\n- Photo/video editor\n- Document viewer",
+            "Browser": "HTML",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS(threaded view), MMS, Email",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2013, January",
+            "Status": "Available. Released 2013, January"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "512 MB RAM, 512 MB"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "2/10 (About 90 EUR)",
+            "SAR EU": "0.25 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "1 GHz Cortex-A9",
+            "Chipset": "Mediatek MT6575",
+            "GPU": "PowerVR SGX531",
+            "OS": "Android OS, v2.3.6 (Gingerbread)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Lenovo A690",
+        "image": {
+            "href": "http://www.gsmarena.com/lenovo_a690-pictures-5246.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lenovo-a690.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lenovo_a690-5246.php"
+    }
+}

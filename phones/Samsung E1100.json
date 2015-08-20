@@ -1,0 +1,71 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 750 mAh battery",
+            "Stand-by": "Up to 500 h",
+            "Talk time": "Up to 7 h 30 min"
+        },
+        "Body": {
+            "": "- Flashlight",
+            "Dimensions": "105 x 44 x 15.2 mm (4.13 x 1.73 x 0.60 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "70.2 g (2.47 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "FM radio (1105T only)",
+            "USB": "No",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "128 x 128 pixels (~119 ppi pixel density)",
+            "Size": "1.52 inches (~16.1% screen-to-body ratio)",
+            "Type": "CSTN, 65K colors"
+        },
+        "Features": {
+            "": "- Mobile Tracker\n- Organizer\n- Voice memo\n- Predictive text input",
+            "Browser": "No",
+            "Games": "Yes",
+            "Java": "No",
+            "Messaging": "SMS"
+        },
+        "Launch": {
+            "Announced": "2009, February",
+            "Status": "Available. Released 2009, June"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "No",
+            "Internal": "1 MB",
+            "Phonebook": "Yes, up to 200 entries"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "2/10 (About 50 EUR)",
+            "SAR EU": "0.71 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Samsung Guru1100\nSamsung 1105T - FM radio version",
+        "device_name": "Samsung E1100",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_e1100-pictures-2673.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-e1100.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_e1100-2673.php"
+    }
+}

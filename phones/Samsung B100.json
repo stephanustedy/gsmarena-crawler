@@ -1,0 +1,69 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1000 mAh battery",
+            "Stand-by": "Up to 450 h",
+            "Talk time": "Up to 9 h"
+        },
+        "Body": {
+            "Dimensions": "104 x 44 x 16.3 mm (4.09 x 1.73 x 0.64 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "78 g (2.75 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "No",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "128 x 128 pixels (~119 ppi pixel density)",
+            "Size": "1.52 inches (~16.3% screen-to-body ratio)",
+            "Type": "CSTN, 65K colors"
+        },
+        "Features": {
+            "": "- Voice memo\n- vCalendar\n- Calculator\n- World time\n- Mobile Tracker\n- SOS message \n- Predictive text input",
+            "Browser": "No",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2008, January. Released 2008, June",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "30 dialed, 30 received, 30 missed calls",
+            "Card slot": "No",
+            "Internal": "2 MB",
+            "Phonebook": "Yes"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "2/10 (About 70 EUR)",
+            "SAR EU": "0.91 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Samsung B100",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_b100-pictures-2317.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-b100.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_b100-2317.php"
+    }
+}

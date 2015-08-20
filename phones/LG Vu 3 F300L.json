@@ -1,0 +1,86 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 2610 mAh battery",
+            "Stand-by": "Up to 775 h",
+            "Talk time": "Up to 13 h 20 min"
+        },
+        "Body": {
+            "Dimensions": "",
+            "SIM": "Micro-SIM",
+            "Weight": "-"
+        },
+        "Camera": {
+            "Features": "Simultaneous video and image recording, geo-tagging, face detection, HDR",
+            "Primary": "13 MP, 4208 x 3120 pixels, autofocus, LED flash",
+            "Secondary": "2.1 MP",
+            "Video": "1080p@60fps, HDR, stereo sound rec."
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, LE",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "Infrared port": "Yes",
+            "NFC": "Yes",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0 (SlimPort), USB Host",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, DLNA, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 2",
+            "Resolution": "960 x 1280 pixels (~308 ppi pixel density)",
+            "Size": "5.2 inches",
+            "Type": "True HD-IPS + LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP4/DviX/XviD/H.264/WMV player\n- MP3/WAV/FLAC/eAAC+/WMA player\n- Photo viewer/editor\n- Document viewer\n- Voice memo/dial/commands",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2013, September",
+            "Status": "Available. Released 2013, October"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "16 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "SAR EU": "0.41 W/kg (head) \u00a0 \u00a0 0.47 W/kg (body)",
+            "SAR US": "0.50 W/kg (head) \u00a0 \u00a0 0.69 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+            "4G bands": "LTE 800",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat3 100/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 2.26 GHz Krait 400",
+            "Chipset": "Qualcomm MSM8974 Snapdragon 800",
+            "GPU": "Adreno 330",
+            "OS": "Android OS, v4.2.2 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "For South Korea",
+        "device_name": "LG Vu 3 F300L",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_vu_3_f300l-pictures-5723.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-vu3.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_vu_3_f300l-5723.php"
+    }
+}

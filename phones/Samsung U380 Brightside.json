@@ -1,0 +1,78 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 1000 mAh battery",
+            "Stand-by": "Up to 350 h",
+            "Talk time": "Up to 6 h 30 min"
+        },
+        "Body": {
+            "Dimensions": "111 x 60 x 14 mm (4.37 x 2.36 x 0.55 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "122 g (4.30 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "3.15 MP, 2048 x 1536 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "USB": "microUSB v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~129 ppi pixel density)",
+            "Size": "3.1 inches (~44.7% screen-to-body ratio)",
+            "Type": "TFT touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- SNS integration\n- MP4/H.264 player\n- MP3/WMA/eAAC+ player\n- Organizer\n- Document viewer\n- Photo/video editor\n- Voice memo/dial/commands\n- Predictive text input",
+            "Browser": "HTML",
+            "Games": "Yes",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, compass"
+        },
+        "Launch": {
+            "Announced": "2012, February",
+            "Status": "Available. Released 2012, March"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "256 MB, 128 MB RAM",
+            "Phonebook": "Yes, Photocall"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "2/10 (About 100 EUR)",
+            "SAR US": "0.75 W/kg (head) \u00a0 \u00a0 0.75 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "CDMA 800 / 1900",
+            "3G bands": "CDMA2000 1xEV-DO",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Speed": "EV-DO Rev.0, 153.2 Kbps",
+            "Technology": "CDMA / EVDO"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, Polyphonic(72), MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Samsung SCH-U380\nFor Verizon",
+        "device_name": "Samsung U380 Brightside",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_u380_brightside-pictures-4641.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-u380-brightside.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_u380_brightside-4641.php"
+    }
+}

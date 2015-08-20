@@ -1,0 +1,81 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 2100 mAh battery",
+            "Stand-by": "Up to 360 h (3G)",
+            "Talk time": "Up to 10 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "134.9 x 66 x 9.9 mm (5.31 x 2.60 x 0.39 in)",
+            "SIM": "Yes",
+            "Weight": "133.5 g (4.73 oz)"
+        },
+        "Camera": {
+            "Features": "Yes",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, LED flash",
+            "Secondary": "VGA",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "TBC",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "480 x 854 pixels (~218 ppi pixel density)",
+            "Size": "4.5 inches (~62.7% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/H.264 player\n- MP3/WAV/eAAC+/Flac player\n- Photo/video editor\n- Document viewer",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2015, June",
+            "Status": "Available. Released 2015, June"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "8 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "2/10 (About 50 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 1900 / 2100",
+            "4G bands": "LTE band 2(1900), 4(1700/2100), 5(850), 17(700)",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA, LTE",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.2 GHz",
+            "Chipset": "Qualcomm Snapdragon 400",
+            "GPU": "Adreno 305",
+            "OS": "Android OS, v5.1 (Lollipop)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "ZTE Maven",
+        "image": {
+            "href": "http://www.gsmarena.com/zte_maven-pictures-7355.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/zte-maven.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/zte_maven-7355.php"
+    }
+}

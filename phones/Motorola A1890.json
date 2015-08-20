@@ -1,0 +1,116 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1000 mAh battery (BC70)",
+            "Stand-by": "Up to 160 h",
+            "Talk time": "Up to 5 h"
+        },
+        "Body": {
+            "Dimensions": "95.3 x 52.5 x 25 mm, 101 cc (3.75 x 2.07 x 0.98 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "132 g (4.66 oz)"
+        },
+        "Camera": {
+            "Primary": "3.15 MP, 2048 x 1536 pixels, autofocus",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v1.2, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio",
+            "USB": "microUSB v1.1",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Handwriting and speech recognition (Chi & Eng)",
+            "Resolution": "240 x 320 pixels (~167 ppi pixel density)",
+            "Size": "2.4 inches (~35.7% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/WAV/WMA/AAC+ player\n- Document viewer (Word, Excel, PowerPoint, PDF)\n- Organizer\n- Business card scanner\n- Voice memo",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS, Email, IM"
+        },
+        "Launch": {
+            "Announced": "2008, September. Released 2009, Q4",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "174 MB"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "3/10 (About 140 EUR)",
+            "SAR EU": "1.68 W/kg (head)",
+            "SAR US": "1.26 W/kg (head) \u00a0 \u00a0 0.64 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900 / CDMA 800",
+            "3G bands": "EV-DO 800",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Platform": {
+            "0": "O",
+            "1": "S",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "t",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "g",
+            "25": "l",
+            "26": "o",
+            "27": "s",
+            "28": "s",
+            "29": "a",
+            "3": "p",
+            "30": "r",
+            "31": "y",
+            "32": ".",
+            "33": "p",
+            "34": "h",
+            "35": "p",
+            "36": "3",
+            "37": "?",
+            "38": "t",
+            "39": "e",
+            "4": ":",
+            "40": "r",
+            "41": "m",
+            "42": "=",
+            "43": "o",
+            "44": "s",
+            "5": "/",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Motorola A1890",
+        "index": 1,
+        "url": "http://www.gsmarena.com/motorola_a1890-2980.php"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 860 mAh battery (BL-5B)",
+            "Stand-by": "Up to 300 h",
+            "Talk time": "Up to 3 h 30 min"
+        },
+        "Body": {
+            "Dimensions": "105.4 x 44.3 x 18.6 mm, 73 cc (4.15 x 1.74 x 0.73 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "88 g (3.10 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "SQCIF"
+        },
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "Stereo FM radio",
+            "USB": "Pop-Port",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Downloadable wallpapers, screensavers",
+            "Resolution": "128 x 160 pixels (~110 ppi pixel density)",
+            "Size": "1.87 inches (~23.6% screen-to-body ratio)",
+            "Type": "CSTN, 65K colors"
+        },
+        "Features": {
+            "": "- Push to talk\n- Video/music player\n- Voice memo\n- Voice command\n- Predictive text input\n- Organizer",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes + Downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2007, March",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "No",
+            "Internal": "4 MB",
+            "Phonebook": "Yes, Photo call"
+        },
+        "Misc": {
+            "Colors": "Red, Blue",
+            "Price group": "1/10 (About 50 EUR)",
+            "SAR EU": "0.73 W/kg (head)",
+            "SAR US": "1.06 W/kg (head) \u00a0 \u00a0 0.46 W/kg (body)"
+        },
+        "Network": {
+            "": "GSM 850 / 1800 / 1900 - US version",
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "Class 6",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3, MIDI ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 5070",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_5070-pictures-1935.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-5070.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_5070-1935.php"
+    }
+}

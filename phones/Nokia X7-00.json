@@ -1,0 +1,88 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1200 mAh battery (BL-5K)",
+            "Music play": "Up to 50 h",
+            "Stand-by": "Up to 450 h (2G) / Up to 450 h (3G)",
+            "Talk time": "Up to 6 h 30 min (2G) / Up to 4 h 30 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "119.7 x 62.8 x 11.9 mm, 85 cc (4.71 x 2.47 x 0.47 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "146 g (5.15 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face detection",
+            "Primary": "8 MP, 3264 x 2448 pixels, fixed focus, dual-LED flash, check quality",
+            "Secondary": "No",
+            "Video": "720p@25fps, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0, USB Host",
+            "WLAN": "Wi-Fi 802.11 b/g/n"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "360 x 640 pixels (~184 ppi pixel density)",
+            "Size": "4.0 inches (~58.7% screen-to-body ratio)",
+            "Type": "AMOLED capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Stainless steel panels\n- MP3/WMA/WAV/eAAC+ player\n- DivX/XviD/MP4/H.264/WMV player\n- Quickoffice document viewer (Word, Excel, PowerPoint, PDF)\n- Adobe Reader\n- Voice memo/dial/command\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML, Adobe Flash Lite",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS, MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2011, April",
+            "Status": "Available. Released 2011, June"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB, 8 GB included",
+            "Internal": "256 MB RAM, 1 GB ROM"
+        },
+        "Misc": {
+            "Colors": "Dark steel, Silver steel",
+            "Price group": "4/10 (About 180 EUR)",
+            "SAR EU": "0.61 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 1700 / 1900 / 2100",
+            "EDGE": "Class 33",
+            "GPRS": "Class 33",
+            "Speed": "HSPA 10.2/2 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "680 MHz ARM 11",
+            "GPU": "Broadcom BCM2727",
+            "OS": "Symbian Anna OS, upgradeable to Nokia Belle OS"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        },
+        "Tests": {
+            "Audio quality": "Noise -88.9dB / Crosstalk -89.1dB",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: Infinite (nominal)",
+            "Loudspeaker": "Voice 66dB / Noise 61dB / Ring 80dB"
+        }
+    },
+    "main": {
+        "device_name": "Nokia X7-00",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_x7_00-pictures-3664.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-x7-ofic.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_x7_00-3664.php"
+    }
+}

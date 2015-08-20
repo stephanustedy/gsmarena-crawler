@@ -1,0 +1,72 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po battery",
+            "Stand-by": "Up to 200 h",
+            "Talk time": "Up to 4 h 30 min"
+        },
+        "Body": {
+            "Dimensions": "99 x 43.5 x 17.7 mm (3.90 x 1.71 x 0.70 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "75 g (2.65 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Blue backlight\n- Downloadable pictures",
+            "Resolution": "",
+            "Size": "",
+            "Type": "Grayscale graphics, 4 shades"
+        },
+        "Features": {
+            "": "- Predictive text input\n- Organizer\n- Stopwatch\n- Photo editor",
+            "Alarm": "Yes",
+            "Browser": "WAP 1.2.1",
+            "Clock": "Yes",
+            "Games": "Yes",
+            "Java": "No",
+            "Messaging": "SMS, EMS"
+        },
+        "Launch": {
+            "Announced": "Q4, 2002",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- 10 SMS templates",
+            "Call records": "20 received, dialed and missed calls",
+            "Card slot": "No",
+            "Phonebook": "100 entries, Photo call"
+        },
+        "Misc": {
+            "Colors": "4 - Icy Blue, Gentle Gold, Fresh White, Soft Silver",
+            "SAR EU": "0.84 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "": "- Ringtones can be assigned to phonebook entries",
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable monophonic ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Sony Ericsson T100",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_ericsson_t100-pictures-349.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/snt100.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_ericsson_t100-349.php"
+    }
+}

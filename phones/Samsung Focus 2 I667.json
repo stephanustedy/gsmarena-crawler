@@ -1,0 +1,83 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1750 mAh battery",
+            "Stand-by": "Up to 250 h",
+            "Talk time": "Up to 6 h"
+        },
+        "Body": {
+            "Dimensions": "121.7 x 62.7 x 11 mm (4.79 x 2.47 x 0.43 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "122 g (4.30 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "5 MP, 2592 x 1944 pixels, autofocus, LED flash",
+            "Secondary": "VGA",
+            "Video": "720p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "480 x 800 pixels (~233 ppi pixel density)",
+            "Size": "4.0 inches (~59.7% screen-to-body ratio)",
+            "Type": "Super AMOLED capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Document viewer/editor\n- MP4/WMV player\n- MP3/WAV/WMA/eAAC+ player\n- Facebook integration",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2012, May",
+            "Status": "Available. Released 2012, May"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "8 GB"
+        },
+        "Misc": {
+            "Colors": "White",
+            "Price group": "3/10 (About 110 EUR)",
+            "SAR US": "0.68 W/kg (head) \u00a0 \u00a0 0.99 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 2100",
+            "4G bands": "LTE band 4(1700/2100), 17(700)",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 21.1/5.76 Mbps, LTE Cat3 100/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "1.4 GHz Scorpion",
+            "Chipset": "Qualcomm MSM8255T Snapdragon S2",
+            "GPU": "Adreno 205",
+            "OS": "Microsoft Windows Phone 7.5 Mango"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "For AT&T",
+        "device_name": "Samsung Focus 2 I667",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_focus_2_i667-pictures-4745.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-focus-2.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_focus_2_i667-4745.php"
+    }
+}

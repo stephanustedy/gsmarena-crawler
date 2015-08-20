@@ -1,0 +1,88 @@
+{
+    "data": {
+        "Battery": {
+            "": "Ni-Cd",
+            "Stand-by": "45 h",
+            "Talk time": "60 min"
+        },
+        "Body": {
+            "Dimensions": "162 x 60 x 17 mm (6.38 x 2.36 x 0.67 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "169 g (5.96 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Soft keys\n- Fixed icons",
+            "Resolution": "3 x 12 chars",
+            "Size": "",
+            "Type": "Alphanumeric"
+        },
+        "Features": {
+            "Alarm": "No",
+            "Browser": "",
+            "Clock": "No",
+            "Games": "No",
+            "Java": "No",
+            "Messaging": "SMS"
+        },
+        "Launch": {
+            "Announced": "1996",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "",
+            "Card slot": "No",
+            "Phonebook": "SIM only"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Monophonic ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Philips Fizz",
+        "index": 1,
+        "url": "http://www.gsmarena.com/philips_fizz-143.php"
+    }
+}

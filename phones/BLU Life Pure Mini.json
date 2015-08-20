@@ -1,0 +1,82 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 3000 mAh battery",
+            "Stand-by": "Up to 980 h (2G) / Up to 890 h (3G)",
+            "Talk time": "Up to 35 h (2G) / Up to 24 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "130 x 64.4 x 8.9 mm (5.12 x 2.54 x 0.35 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "149 g (5.26 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection, panorama, HDR",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash",
+            "Secondary": "2 MP",
+            "Video": "1080p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "720 x 1280 pixels (~326 ppi pixel density)",
+            "Size": "4.5 inches (~66.7% screen-to-body ratio)",
+            "Type": "LED-backlit IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Air gestures\n- Motion controls\n- MP4/WMV/H.264 player\n- MP3/WAV/WMA/AAC player\n- Photo/video editor\n- Voice memo",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, gyro, proximity"
+        },
+        "Launch": {
+            "Announced": "2014, February",
+            "Status": "Available. Released 2014, February"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "16 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "4/10 (About 190 EUR)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 2100 - L220i",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 1900 - L220a",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 42.2/11.5 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.5 GHz Cortex-A7",
+            "Chipset": "Mediatek MT6589T",
+            "GPU": "PowerVR SGX544MP2",
+            "OS": "Android OS, v4.2 (Jelly Bean)"
+        },
+        "Sound": {
+            "": "- DTS sound",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "BLU Life Pure Mini",
+        "image": {
+            "href": "http://www.gsmarena.com/blu_life_pure_mini-pictures-6041.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/blu-life-pure-mini.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/blu_life_pure_mini-6041.php"
+    }
+}

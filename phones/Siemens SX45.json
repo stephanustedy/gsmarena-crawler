@@ -1,0 +1,94 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1550 mAh battery",
+            "Stand-by": "Up to 150 h",
+            "Talk time": "Up to 2 h"
+        },
+        "Body": {
+            "Dimensions": "134 x 87 x 26 mm, 309 cc (5.28 x 3.43 x 1.02 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "330 g (11.64 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- 57.6 mm x 76.8 mm\n- 0.24 mm pixel pitch",
+            "Resolution": "240 x 320 pixels",
+            "Size": "",
+            "Type": "TFT resistive touchscreen, 65K colors"
+        },
+        "Features": {
+            "": "- Full PocketPC functionality\n- Media player (MP3)",
+            "Alarm": "Yes",
+            "Browser": "WAP 1.2, HTML",
+            "Clock": "Yes",
+            "Java": "No",
+            "Messaging": "SMS"
+        },
+        "Launch": {
+            "Announced": "2001",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- Expandable through MMC or CF",
+            "Card slot": "No",
+            "Internal": "32 MB"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "GSM"
+        },
+        "Platform": {
+            "CPU": "64-bit NEC VR4122 150 MHz",
+            "OS": "Microsoft Windows CE 3.0 for PocketPC"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Monophonic ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "canonical_name": "PDA + mobile phone",
+        "device_name": "Siemens SX45",
+        "index": 1,
+        "url": "http://www.gsmarena.com/siemens_sx45-300.php"
+    }
+}

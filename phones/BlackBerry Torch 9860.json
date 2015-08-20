@@ -1,0 +1,89 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1230 mAh battery",
+            "Music play": "Up to 44 h",
+            "Stand-by": "Up to 330 h (2G) / Up to 320 h (3G)",
+            "Talk time": "Up to 4 h 40 min (2G) / Up to 6 h 50 min (3G)"
+        },
+        "Body": {
+            "": "- Optical trackpad",
+            "Dimensions": "120 x 62 x 11.5 mm (4.72 x 2.44 x 0.45 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "135 g (4.76 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face detection",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, LED flash, check quality",
+            "Secondary": "No",
+            "Video": "720p, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "480 x 800 pixels (~252 ppi pixel density)",
+            "Size": "3.7 inches (~52.4% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Social feeds\n- BlackBerry maps\n- Document viewer\n- MP3/WMA/WAV/eAAC+/FlAC player\n- DivX/XviD/MP4/WMV/H.264 player\n- Organizer\n- Voice memo/dial",
+            "Browser": "HTML",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS, MMS, Email, Push Email, IM, BBM 6",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2011, August",
+            "Status": "Available. Released 2011, September"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "4 GB, 768 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "3/10 (About 130 EUR)",
+            "SAR EU": "0.82 W/kg (head) \u00a0 \u00a0 0.45 W/kg (body)",
+            "SAR US": "1.12 W/kg (head) \u00a0 \u00a0 0.86 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 1900 / 2100 / 800",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 1700 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 14.4/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "1.2 GHz QC 8655",
+            "OS": "BlackBerry OS 7"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -86.8dB / Crosstalk -86.5dB",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 1413:1 (nominal)",
+            "Loudspeaker": "Voice 67dB / Noise 65dB / Ring 75dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as BlackBerry Monza, Blackberry Touch",
+        "device_name": "BlackBerry Torch 9860",
+        "image": {
+            "href": "http://www.gsmarena.com/blackberry_torch_9860-pictures-3926.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/bb-torch-9860-new.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/blackberry_torch_9860-3926.php"
+    }
+}

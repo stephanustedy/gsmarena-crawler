@@ -1,0 +1,75 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 800 mAh battery",
+            "Stand-by": "Up to 400 h",
+            "Talk time": "Up to 6 h 30 min"
+        },
+        "Body": {
+            "Dimensions": "88 x 44 x 16.7 mm (3.46 x 1.73 x 0.66 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "82 g (2.89 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0",
+            "GPS": "No",
+            "Radio": "FM radio",
+            "USB": "v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- no external display",
+            "Resolution": "128 x 160 pixels (~108 ppi pixel density)",
+            "Size": "1.9 inches (~29.3% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- MP3 player\n- Organizer\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2008, November. Released 2008",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "30 dialed, 30 received, 30 missed calls",
+            "Card slot": "microSD, up to 2 GB",
+            "Internal": "15 MB",
+            "Phonebook": "Yes, up to 500 entries"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "1/10 (About 50 EUR)",
+            "SAR EU": "0.34 W/kg (head)",
+            "SAR US": "0.30 W/kg (head) \u00a0 \u00a0 0.39 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Samsung E2510",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_e2510-pictures-2584.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-e2510.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_e2510-2584.php"
+    }
+}

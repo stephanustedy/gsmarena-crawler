@@ -1,0 +1,92 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 600 mAh battery",
+            "Stand-by": "Up to 280 h",
+            "Talk time": "Up to 4 h 15 min"
+        },
+        "Body": {
+            "Dimensions": "86.5 x 44.5 x 25 mm (3.41 x 1.75 x 0.98 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "92 g (3.25 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "miniUSB",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second external B/W display 96 x 32 pixels \n- Screensavers and wallpapers\n- Downloadable logos",
+            "Resolution": "128 x 128 pixels",
+            "Size": "",
+            "Type": "CSTN, 65K colors"
+        },
+        "Features": {
+            "": "- Predictive text input (iTAP)\n- Organizer",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes + Java downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2005, 1Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "10 dialed, 10 received, 10 missed calls",
+            "Card slot": "No",
+            "Internal": "1.5 MB",
+            "Phonebook": "1000 entries"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones, composer",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Motorola V186",
+        "image": {
+            "href": "http://www.gsmarena.com/motorola_v186-pictures-1121.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/motorola-v186.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/motorola_v186-1121.php"
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1900 mAh battery",
+            "Music play": "Up to 49 h",
+            "Stand-by": "Up to 300 h (3G)",
+            "Talk time": "Up to 12 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "124.6 x 61.3 x 8.9 mm (4.91 x 2.41 x 0.35 in)",
+            "SIM": "Optional Dual SIM",
+            "Weight": "107 g (3.77 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection, HDR, panorama",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash, check quality",
+            "Secondary": "1.9 MP",
+            "Video": "1080p@30fps, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, EDR, LE, apt-X",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "Infrared port": "Yes",
+            "NFC": "Yes (GT-I9195 model only)",
+            "Radio": "Stereo FM radio with RDS/ SGH-I257M model with no radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 2",
+            "Resolution": "540 x 960 pixels (~256 ppi pixel density)",
+            "Size": "4.3 inches (~66.7% screen-to-body ratio)",
+            "Type": "Super AMOLED capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/DivX/XviD/WMV/H.264 player\n- MP3/WAV/eAAC+/AC3/FLAC player\n- Photo/video editor\n- Document viewer",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2013, May",
+            "Status": "Available. Released 2013, July"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "8 GB, 1.5 GB RAM"
+        },
+        "Misc": {
+            "Colors": "White Frost, Black Mist, Blue, Pink, Orange, Purple, Black Edition",
+            "Price group": "4/10 (About 200 EUR)",
+            "SAR EU": "0.33 W/kg (head) \u00a0 \u00a0 0.32 W/kg (body)",
+            "SAR US": "0.89 W/kg (head) \u00a0 \u00a0 1.38 W/kg (body)"
+        },
+        "Network": {
+            "": "LTE - I9197",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - all versions",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100 - I9190, I9195, I9197",
+            "4G bands": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 20(800) - I9195",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 42.2(LTE)/21.1(3G)/5.76 Mbps, LTE Cat3 100/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.7 GHz Krait 300",
+            "Chipset": "Qualcomm MSM8930AB Snapdragon 400",
+            "GPU": "Adreno 305",
+            "OS": "Android OS, v4.2.2 (Jelly Bean), upgradable to v4.4.2 (KitKat)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -93.5dB / Crosstalk -86.2dB",
+            "Battery life": "Endurance rating 54h",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: Infinite (nominal), 3.127 (sunlight)",
+            "Loudspeaker": "Voice 66dB / Noise 64dB / Ring 75dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Samsung I9190 Galaxy S IV mini\nAvailable as Samsung I9192 Galaxy S4 mini with dual SIM card support",
+        "device_name": "Samsung I9190 Galaxy S4 mini",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_i9190_galaxy_s4_mini-pictures-5375.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s4-mini-I9190-ofic.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_i9190_galaxy_s4_mini-5375.php"
+    }
+}

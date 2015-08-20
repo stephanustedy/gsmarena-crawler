@@ -1,0 +1,82 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 4290 mAh battery",
+            "Stand-by": "Up to 696 h",
+            "Talk time": "Up to 8 h (multimedia)"
+        },
+        "Body": {
+            "Dimensions": "210 x 125 x 8.9 mm (8.27 x 4.92 x 0.35 in)",
+            "SIM": "Dual SIM (Micro-SIM, dual stand-by)",
+            "Weight": "360 g (12.70 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus",
+            "Secondary": "2 MP",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0",
+            "GPS": "To be confirmed",
+            "Radio": "To be confirmed",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes, up to 5 fingers",
+            "Resolution": "800 x 1280 pixels (~184 ppi pixel density)",
+            "Size": "8.0 inches (~74.6% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP3/WAV/AAC player\n- MP4/H.264 player\n- Document viewer\n- Photo/video editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2015, March",
+            "Status": "Available. Released 2015, June"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "8/16 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Pearl White, Ebony, Midnight Blue, Neon Pink",
+            "Price group": "3/10 (About 120 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA",
+            "4G bands": "LTE",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA, LTE Cat4 150/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.3 GHz",
+            "Chipset": "Mediatek MT8735 - 4G model\nMediatek MT8161 - Wi-Fi model",
+            "OS": "Android OS, v5.0 (Lollipop)"
+        },
+        "Sound": {
+            "": "- Dolby Atmos",
+            "3.5mm jack": "Yes",
+            "Alert types": "Yes",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "canonical_name": "Available as:\nWi-Fi only\nWi-Fi + 4G/3G (Data only)",
+        "device_name": "Lenovo Tab 2 A8-50",
+        "image": {
+            "href": "http://www.gsmarena.com/lenovo_tab_2_a8_50-pictures-7090.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lenovo-tab-2-a8.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lenovo_tab_2_a8_50-7090.php"
+    }
+}

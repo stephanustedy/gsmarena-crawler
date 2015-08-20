@@ -1,0 +1,94 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion battery",
+            "Stand-by": "330 h",
+            "Talk time": "5 h"
+        },
+        "Body": {
+            "Dimensions": "104 x 46 x 20 mm, 73 cc (4.09 x 1.81 x 0.79 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "85 g (3.00 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Zoom function",
+            "Resolution": "101 x 80 pixels, 8 lines",
+            "Size": "",
+            "Type": "Graphics"
+        },
+        "Features": {
+            "": "- Predictive text input\n- Voice dial\n- Voice memo\n- Organizer\n- Snap-in front cover",
+            "Alarm": "Yes",
+            "Browser": "WAP 1.2.1",
+            "Clock": "Yes",
+            "Games": "Yes",
+            "Java": "No",
+            "Messaging": "SMS, Email"
+        },
+        "Launch": {
+            "Announced": "2002",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- 7 fields per contact",
+            "Call records": "10 dialed, 10 received, 10 missed calls",
+            "Card slot": "No",
+            "Phonebook": "300 entries, Photo call"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable monophonic ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Philips Fisio 625",
+        "image": {
+            "href": "http://www.gsmarena.com/philips_fisio_625-pictures-355.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/ph625.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/philips_fisio_625-355.php"
+    }
+}

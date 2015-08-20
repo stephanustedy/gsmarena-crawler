@@ -1,0 +1,93 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1750 mAh battery",
+            "Stand-by": "Up to 607 h (2G) / Up to 618 h (3G)",
+            "Talk time": "Up to 5 h 36 min (2G) / Up to 7 h 18 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "124.3 x 61.2 x 9.2 mm (4.89 x 2.41 x 0.36 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "124 g (4.37 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, LED flash, check quality",
+            "Secondary": "VGA",
+            "Video": "480p"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- Timescape UI\n- Sony Mobile BRAVIA Engine",
+            "Multitouch": "Yes, up to 2 fingers",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "480 x 854 pixels (~245 ppi pixel density)",
+            "Size": "4.0 inches (~58.0% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- 50 GB of Cloud storage (time limited offer)\n- Active noise cancellation with dedicated mic\n- MP4/H.264/WMV player\n- MP3/eAAC+/WMA/WAV player\n- Document viewer\n- Voice memo/dial\n- Predictive text input",
+            "Browser": "HTML5, Adobe Flash",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, IM, Push Email",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2012, August",
+            "Status": "Available. Released 2012, October"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "4 GB (2 GB user available), 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White, Gold, Pink",
+            "Price group": "3/10 (About 140 EUR)",
+            "SAR EU": "0.73 W/kg (head)",
+            "SAR US": "0.63 W/kg (head) \u00a0 \u00a0 0.50 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 1900 / 2100 - ST26a",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100 - ST26i",
+            "EDGE": "Up to 237 kbps",
+            "GPRS": "Up to 86 kbps",
+            "Speed": "HSPA 7.2/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "1 GHz Cortex-A5",
+            "Chipset": "Qualcomm MSM7227A Snapdragon S1",
+            "GPU": "Adreno 200",
+            "OS": "Android OS, v4.0.4 (Ice Cream Sandwich), upgradable to v4.1.2 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -80.8dB / Crosstalk -80.8dB",
+            "Battery life": "Endurance rating 50h",
+            "Camera": "Photo",
+            "Display": "Contrast ratio: 1359:1 (nominal) / 1.932:1 (sunlight)",
+            "Loudspeaker": "Voice 66dB / Noise 61dB / Ring 72dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Sony ST26i/ST26a",
+        "device_name": "Sony Xperia J",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_xperia_j-pictures-4930.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/sony-xperia-j.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_xperia_j-4930.php"
+    }
+}

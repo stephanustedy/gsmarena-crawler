@@ -1,0 +1,100 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 1530 mAh battery",
+            "Stand-by": "Up to 200 h",
+            "Talk time": "Up to 4 h"
+        },
+        "Body": {
+            "Dimensions": "106 x 58 x 18 mm (4.17 x 2.28 x 0.71 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "145 g (5.11 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels, LED flash",
+            "Secondary": "VGA videocall camera",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v1.2",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "miniUSB",
+            "WLAN": "Wi-Fi 802.11b/g"
+        },
+        "Display": {
+            "": "- Handwriting recognition\n- Stereo speakers",
+            "Resolution": "240 x 320 pixels (~148 ppi pixel density)",
+            "Size": "2.7 inches (~36.7% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 256K colors (65K effective)"
+        },
+        "Features": {
+            "": "- Pocket Office \n- Voice memo\n- MP3/WMA/WMV/WAV/MP4 player\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML (PocketIE)",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2007, January",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "miniSD",
+            "Internal": "64 MB RAM, 1 GB ROM"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "3G bands": "HSDPA 1900 / 2100",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Speed": "HSPA 3.6/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Intel XScale PXA 270 624 MHz",
+            "OS": "Microsoft Windows Mobile 6 Professional"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "MWg Atom Life",
+        "image": {
+            "href": "http://www.gsmarena.com/mwg_atom_life-pictures-2556.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/mwg-atom-life.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/mwg_atom_life-2556.php"
+    }
+}

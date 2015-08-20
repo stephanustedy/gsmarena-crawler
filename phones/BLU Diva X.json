@@ -1,0 +1,75 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1400 mAh battery",
+            "Stand-by": "Up to 1600 h",
+            "Talk time": "Up to 15 h"
+        },
+        "Body": {
+            "": "- Flashlight",
+            "Dimensions": "127 x 55 x 13.5 mm (5.0 x 2.17 x 0.53 in)",
+            "SIM": "Dual SIM (Mini-SIM)",
+            "Weight": "95 g (3.35 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 1024 pixels, LED flash",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0",
+            "GPS": "No",
+            "Radio": "FM radio; built-in antenna",
+            "USB": "microUSB",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~143 ppi pixel density)",
+            "Size": "2.8 inches (~34.8% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- SNS apps\n- Analog TV\n- MP3/AAC/WMA/WAV player\n- MP4/H.264/WMV player\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Downloadable",
+            "Java": "No",
+            "Messaging": "SMS, MMS, IM"
+        },
+        "Launch": {
+            "Announced": "2013, April",
+            "Status": "Available. Released 2013, May"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "64 MB ROM, 64 MB RAM",
+            "Phonebook": "Yes"
+        },
+        "Misc": {
+            "Colors": "Black, Blue, Pink, Silver, White",
+            "Price group": "1/10 (About 30 EUR)"
+        },
+        "Network": {
+            "": "GSM 850 / 900 / 1800 / 1900 - SIM 2 (T372T only)",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "T362T - Single SIM\nT372T- Dual SIM",
+        "device_name": "BLU Diva X",
+        "image": {
+            "href": "http://www.gsmarena.com/blu_diva_x-pictures-5410.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/blu-diva-x.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/blu_diva_x-5410.php"
+    }
+}

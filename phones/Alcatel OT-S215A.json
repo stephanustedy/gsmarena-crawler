@@ -1,0 +1,64 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 670 mAh battery",
+            "Stand-by": "Up to 400 h",
+            "Talk time": "Up to 7 h"
+        },
+        "Body": {
+            "Dimensions": "98 x 43.6 x 13.8 mm (3.86 x 1.72 x 0.54 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "70 g (2.47 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "Stereo FM radio",
+            "USB": "No",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "128 x 160 pixels (~114 ppi pixel density)",
+            "Size": "1.8 inches (~23.9% screen-to-body ratio)",
+            "Type": "CSTN, 65K colors"
+        },
+        "Features": {
+            "": "- MP3/MP4 player\n- Organizer\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0 / xHTML",
+            "Games": "1",
+            "Java": "No",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2008. Released 2008",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "No",
+            "Internal": "2 MB",
+            "Phonebook": "800 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Various",
+            "SAR EU": "1.10 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Alcatel OT-S215A",
+        "index": 1,
+        "url": "http://www.gsmarena.com/alcatel_ot_s215a-3132.php"
+    }
+}

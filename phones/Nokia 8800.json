@@ -1,0 +1,77 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 600 mAh battery (BL-5X)",
+            "Stand-by": "Up to 190 h",
+            "Talk time": "Up to 3 h"
+        },
+        "Body": {
+            "Dimensions": "107 x 45 x 15 mm, 67 cc (4.21 x 1.77 x 0.59 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "134 g (4.73 oz)"
+        },
+        "Camera": {
+            "Primary": "SVGA, 800x600 pixels",
+            "Secondary": "No",
+            "Video": "QCIF"
+        },
+        "Comms": {
+            "Bluetooth": "v1.2, A2DP",
+            "GPS": "No",
+            "Radio": "FM radio",
+            "USB": "No",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Downloadable wallpapers, screensavers",
+            "Protection": "Scratch-resistant glass",
+            "Resolution": "208 x 208 pixels (~173 ppi pixel density)",
+            "Size": "1.7 inches, 31 x 31 mm (~19.4% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- Predictive text input\n- SyncML\n- Organizer\n- Presence-enhanced contacts\n- Profiles",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "3 + Java downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS, EMail, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2005, 1Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "No",
+            "Internal": "64 MB",
+            "Phonebook": "1000 entries, Photo call"
+        },
+        "Misc": {
+            "Colors": "Silver, Black Edition (for the Russian market)",
+            "Price group": "7/10 (About 330 EUR)",
+            "SAR EU": "0.39 W/kg (head)",
+            "SAR US": "0.34 W/kg (head) \u00a0 \u00a0 0.60 W/kg (body)"
+        },
+        "Network": {
+            "": "GSM 850 / 1800 / 1900 - Nokia 8801 for US",
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "Class 10",
+            "GPRS": "Class 8",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3, AAC ringtones, composer",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 8800",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_8800-pictures-1144.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-8800.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_8800-1144.php"
+    }
+}

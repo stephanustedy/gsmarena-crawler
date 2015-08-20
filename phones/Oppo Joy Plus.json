@@ -1,0 +1,81 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1700 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "124 x 63 x 9.9 mm (4.88 x 2.48 x 0.39 in)",
+            "SIM": "Dual SIM (Mini-SIM/ Micro-SIM)",
+            "Weight": "125 g (4.41 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "3.15 MP, 2048 x 1536 pixels, LED flash",
+            "Secondary": "VGA",
+            "Video": "720p"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- ColorOS 2.0 UI",
+            "Multitouch": "Yes",
+            "Resolution": "480 x 800 pixels (~233 ppi pixel density)",
+            "Size": "4.0 inches (~58.3% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/H.264/FLAC player\n- MP3/eAAC+/WAV player\n- Document viewer\n- Photo/video editor",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2015, April",
+            "Status": "Available. Released 2015, May"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "4 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "White, Blue",
+            "Price group": "3/10 (About 100 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 850 / 900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.3 GHz",
+            "Chipset": "Mediatek MT6572",
+            "GPU": "Mali-400",
+            "OS": "Android OS, v4.4 (KitKat)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Oppo Joy Plus",
+        "image": {
+            "href": "http://www.gsmarena.com/oppo_joy_plus-pictures-7208.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/oppo-joy-plus.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/oppo_joy_plus-7208.php"
+    }
+}

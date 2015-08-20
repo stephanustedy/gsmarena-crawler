@@ -1,0 +1,69 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1180 mAh battery",
+            "Stand-by": "Up to 220 h",
+            "Talk time": "Up to 5 h 30 min"
+        },
+        "Body": {
+            "": "- IP67 certified - dust tight and water proof (up to 1m for 30 mins)\n- MIL-STD-810F certified - salt, dust, humidity, rain, vibration, solar radiation, transport and thermal shock resistant\n- Drop-to-concrete resistance from up to 2m",
+            "Dimensions": "118.8 x 56.3 x 24.6 mm (4.68 x 2.22 x 0.97 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "140 g (4.94 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "Yes v1.2",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "miniUSB",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Wallpapers",
+            "Resolution": "128 x 160 pixels (~116 ppi pixel density)",
+            "Size": "1.77 inches (~14.7% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- Organizer\n- Voice memo\n- Stopwatch\n- Count-down timer\n- File manager",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes",
+            "Java": "No",
+            "Messaging": "SMS (1000)"
+        },
+        "Launch": {
+            "Announced": "2008, November. Released 2008, November",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "No",
+            "Phonebook": "Yes, up to 1000 entries"
+        },
+        "Misc": {
+            "Colors": "Black, Yellow",
+            "Price group": "7/10 (About 380 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Polyphonic, MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Sonim XP3 Enduro",
+        "image": {
+            "href": "http://www.gsmarena.com/sonim_xp3_enduro-pictures-2614.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/sonim-xp3.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sonim_xp3_enduro-2614.php"
+    }
+}

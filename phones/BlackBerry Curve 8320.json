@@ -1,0 +1,77 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1100 mAh battery",
+            "Stand-by": "Up to 408 h",
+            "Talk time": "Up to 4 h"
+        },
+        "Body": {
+            "": "- Trackball",
+            "Dimensions": "107 x 60 x 15.5 mm (4.21 x 2.36 x 0.61 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "111 g (3.92 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels, LED flash",
+            "Secondary": "No",
+            "Video": "240x180@15fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "miniUSB v2.0",
+            "WLAN": "Wi-Fi 802.11b/g"
+        },
+        "Display": {
+            "Resolution": "320 x 240 pixels (~160 ppi pixel density)",
+            "Size": "2.5 inches (~30.1% screen-to-body ratio)",
+            "Type": "65K colors"
+        },
+        "Features": {
+            "": "- BlackBerry maps\n- Document editor (Word, Excel, PowerPoint, PDF)\n- MP4/WMV/H.264 player\n- MP3/WAV/eAAC+/WMA player\n- Organizer\n- Voice memo/dial",
+            "Browser": "HTML",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email, IM"
+        },
+        "Launch": {
+            "Announced": "2007, September",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 4 GB",
+            "Internal": "64 MB ROM"
+        },
+        "Misc": {
+            "Colors": "Titanium, Pale Gold",
+            "Price group": "3/10 (About 140 EUR)",
+            "SAR EU": "0.60 W/kg (head) \u00a0 \u00a0 1.13 W/kg (body)",
+            "SAR US": "1.08 W/kg (head) \u00a0 \u00a0 1.47 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Platform": {
+            "CPU": "32-bit Intel XScale PXA272 312 MHz",
+            "OS": "BlackBerry OS"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "BlackBerry Curve 8320",
+        "image": {
+            "href": "http://www.gsmarena.com/blackberry_curve_8320-pictures-2121.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/blackberry-curve-8320.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/blackberry_curve_8320-2121.php"
+    }
+}

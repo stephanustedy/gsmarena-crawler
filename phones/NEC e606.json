@@ -1,0 +1,101 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1200 mAh battery",
+            "Stand-by": "Up to 200 h",
+            "Talk time": "Up to 3 h 20 min"
+        },
+        "Body": {
+            "Dimensions": "109 x 53 x 32 mm, 140 cc (4.29 x 2.09 x 1.26 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "145 g (5.11 oz)"
+        },
+        "Camera": {
+            "Primary": "CIF, 352 x 288 pixels",
+            "Secondary": "Yes",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v1.1",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Navi key\n- Wallpapers",
+            "Resolution": "132 x 160 pixels, 8 lines",
+            "Size": "",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- Media player (audio and video)\n- Predictive text input\n- Organizer\n- Voice dial/memo\n- Video download\n- Formats: MP4-Video, MP4 AAC, WMA, AMR, JPG, GIF, BMP, MIDI",
+            "Alarm": "Yes",
+            "Browser": "WAP",
+            "Clock": "Yes",
+            "Games": "Yes",
+            "Java": "Yes",
+            "Messaging": "SMS, EMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2003, 1Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- 20 sec voice memo\n- 12 sec video recorder",
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "No",
+            "Internal": "32 MB",
+            "Phonebook": "500 x 8 entries, Photo call"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "3G bands": "UMTS 2100",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Speed": "Yes, 384 kbps",
+            "Technology": "GSM / UMTS"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "NEC e606",
+        "image": {
+            "href": "http://www.gsmarena.com/nec_e606-pictures-481.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nee606.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nec_e606-481.php"
+    }
+}

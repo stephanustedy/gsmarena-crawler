@@ -1,0 +1,82 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 2300 mAh battery",
+            "Stand-by": "Up to 198 h (3G)",
+            "Talk time": "Up to 8 h 30 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "-",
+            "SIM": "Dual SIM (Nano-SIM/ Micro-SIM, dual stand-by)",
+            "Weight": "-"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection",
+            "Primary": "13 MP, 4128 x 3096 pixels, autofocus, dual-LED flash",
+            "Secondary": "13 MP, LED flash",
+            "Video": "1080p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 3",
+            "Resolution": "720 x 1280 pixels (~312 ppi pixel density)",
+            "Size": "4.7 inches",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP3/WAV/eAAC+ player\n- MP4/H.264 player\n- Photo/video editor\n- Document viewer",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2014, December",
+            "Status": "Available. Released 2015, February"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "16 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Angelic White, Mystic Blue",
+            "Price group": "5/10 (About 240 EUR)",
+            "SAR US": "0.82 W/kg (head) \u00a0 \u00a0 0.75 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 21.1/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Octa-core 1.7 GHz",
+            "Chipset": "Mediatek MT6592",
+            "GPU": "Mali-450MP4",
+            "OS": "Android OS, v4.4.2 (KitKat)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Micromax Canvas Selfie A255",
+        "image": {
+            "href": "http://www.gsmarena.com/micromax_canvas_selfie_a255-pictures-6970.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/micromax-canvas-selfie.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/micromax_canvas_selfie_a255-6970.php"
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion battery",
+            "Stand-by": "Up to 144 h",
+            "Talk time": "Up to 4 h"
+        },
+        "Body": {
+            "Dimensions": "110 x 61 x 12.5 mm (4.33 x 2.40 x 0.49 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "106 g (3.74 oz)"
+        },
+        "Camera": {
+            "Primary": "3.15 MP, 2048 x 1536 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "No",
+            "Radio": "Stereo FM radio",
+            "USB": "miniUSB",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "320 x 240 pixels (~167 ppi pixel density)",
+            "Size": "2.4 inches (~26.6% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- SNS applications\n- MP4/H.263 player\n- MP3/WAV/eAAC+ player\n- Organizer\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Games": "Yes",
+            "Java": "",
+            "Messaging": "SMS (threaded view), MMS, Email, IM",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2011, Q2",
+            "Status": "Available. Released 2011, Q2"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "80 MB",
+            "Phonebook": "Yes, Photocall"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 1900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA",
+            "Technology": "GSM / HSPA"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Orange Rio II",
+        "image": {
+            "href": "http://www.gsmarena.com/orange_rio_ii-pictures-4084.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/orange-rio-ii.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/orange_rio_ii-4084.php"
+    }
+}

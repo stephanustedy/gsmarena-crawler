@@ -1,0 +1,83 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 4290 mAh battery",
+            "Stand-by": "Up to 400 h (3G)",
+            "Talk time": "Up to 7 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "209.8 x 123.8 x 7.9 mm (8.26 x 4.87 x 0.31 in)",
+            "SIM": "Yes",
+            "Weight": "299 g (10.55 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash",
+            "Secondary": "1.6 MP, 720p",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "FM radio",
+            "USB": "microUSB v3.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes, up to 10 fingers",
+            "Resolution": "1200 x 1920 pixels (~283 ppi pixel density)",
+            "Size": "8.0 inches (~71.4% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP3/WAV/WMA/AAC player\n- MP4/H.264 player\n- Document viewer\n- Photo viewer/editor\n- Voice memo/dial",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2014, September",
+            "Status": "Available. Released 2014, September"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "16 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Ebony, Blue, Canary Yellow, White",
+            "Price group": "4/10 (About 150 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA",
+            "4G bands": "LTE",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA, LTE",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.86 GHz",
+            "Chipset": "Intel Atom Z3745",
+            "GPU": "Intel Gen 7 (Ivy Bridge)",
+            "OS": "Android OS, v4.4.2 (KitKat)"
+        },
+        "Sound": {
+            "": "- Dolby Digital Plus",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "canonical_name": "Available as Wi-Fi only or Wi-Fi + 3G/4G",
+        "device_name": "Lenovo Tab S8",
+        "image": {
+            "href": "http://www.gsmarena.com/lenovo_tab_s8-pictures-6681.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lenovo-tablet-s8.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lenovo_tab_s8-6681.php"
+    }
+}

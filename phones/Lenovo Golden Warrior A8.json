@@ -1,0 +1,83 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 2500 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "140.5 x 70.8 x 9 mm (5.53 x 2.79 x 0.35 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "180 g (6.35 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection, panorama, HDR",
+            "Primary": "13 MP, 4128 x 3096 pixels, autofocus, dual-LED flash",
+            "Secondary": "5 MP, 720p",
+            "Video": "1080p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "720 x 1280 pixels (~294 ppi pixel density)",
+            "Size": "5.0 inches (~69.3% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP4/H.264 player\n- MP3/WAV/eAAC+ player\n- Photo/video editor\n- Document viewer\n- Voice memo/dial",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2014, July",
+            "Status": "Available. Released 2014, August"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "16 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "4/10 (About 150 EUR)"
+        },
+        "Network": {
+            "": "LTE band 38(2600), 39(1900), 40(2300) - A808T",
+            "2G bands": "GSM 900 / 1800 / 1900 - all versions",
+            "3G bands": "HSDPA 900 / 2100 - A806",
+            "4G bands": "LTE band 1(2100), 3(1800) - A806",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA, LTE Cat4 150/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Octa-core 1.7 GHz Cortex-A7",
+            "Chipset": "Mediatek MT6592",
+            "GPU": "Mali-450MP4",
+            "OS": "Android OS, v4.4.2 (KitKat)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Available as:\nLenovo Golden Warrior A8 A808T for China Mobile\nLenovo Golden Warrior A8 A806 for EMEA region",
+        "device_name": "Lenovo Golden Warrior A8",
+        "image": {
+            "href": "http://www.gsmarena.com/lenovo_golden_warrior_a8-pictures-6529.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lenovo-golden-warrior-a8-a806.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lenovo_golden_warrior_a8-6529.php"
+    }
+}

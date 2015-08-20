@@ -1,0 +1,73 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion battery",
+            "Stand-by": "Up to 200 h",
+            "Talk time": "Up to 3 h 30 min"
+        },
+        "Body": {
+            "Dimensions": "89 x 45 x 21.5 mm (3.50 x 1.77 x 0.85 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "100 g (3.53 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 1024 pixels, LED flash",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v1.2, A2DP",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Downloadable wallpapers",
+            "Resolution": "176 x 220 pixels (~157 ppi pixel density)",
+            "Size": "1.8 inches (~25.5% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- MP3 player\n- Predictive text input\n- Organizer",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Chequered Flag, Mini Game World + download",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2006, November",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "40 dialed, 40 received, 40 missed calls",
+            "Card slot": "microSD",
+            "Internal": "14 MB",
+            "Phonebook": "Yes"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "3/10 (About 110 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "Yes",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "LG KE260",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_ke260-pictures-1791.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-ke260.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_ke260-1791.php"
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1500 mAh battery (BN-01)",
+            "Music play": "Up to 26 h",
+            "Stand-by": "Up to 408 h",
+            "Talk time": "Up to 13 h 20 min (2G) / Up to 10 h 30 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "115.5 x 63 x 10.4 mm, 73.2 cc (4.55 x 2.48 x 0.41 in)",
+            "SIM": "Optional Dual SIM (Micro-SIM)",
+            "Weight": "128.7 g (4.52 oz)"
+        },
+        "Camera": {
+            "Features": "1/5'' sensor size, panorama, face detection",
+            "Primary": "3.15 MP, 2048 x 1536 pixels",
+            "Secondary": "No",
+            "Video": "480p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "": "- Nokia X platform 1.0 UI",
+            "Multitouch": "Yes, up to 2 fingers",
+            "Resolution": "480 x 800 pixels (~233 ppi pixel density)",
+            "Size": "4.0 inches (~62.6% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP3/WAV/eAAC+/Flac player\n- MP4/H.264 player\n- Video/photo editor\n- Voice memo/dial",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2014, February",
+            "Status": "Available. Released 2014, May"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB, 4 GB included",
+            "Internal": "4 GB, 768 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Bright green, bright red, cyan, yellow, black, white",
+            "Price group": "3/10 (About 120 EUR)",
+            "SAR EU": "0.93 W/kg (head) \u00a0 \u00a0 0.75 W/kg (body)",
+            "SAR US": "1.30 W/kg (head) \u00a0 \u00a0 1.37 W/kg (body)"
+        },
+        "Network": {
+            "": "GSM 850 / 900 / 1800 / 1900",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Up to 236.8 kbps",
+            "GPRS": "Up to 85.6 kbps",
+            "Speed": "HSPA 7.2/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1 GHz Cortex-A5",
+            "Chipset": "Qualcomm MSM8225 Snapdragon S4 Play",
+            "GPU": "Adreno 203",
+            "OS": "Android OS, v4.1.2 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Nokia X plus, Nokia X+ Dual SIM RM-1053, Nokia X plus Dual SIM",
+        "device_name": "Nokia X+",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_x+-pictures-6147.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-x-plus.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_x+-6147.php"
+    }
+}

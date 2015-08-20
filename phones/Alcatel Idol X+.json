@@ -1,0 +1,90 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 2500 mAh battery",
+            "Music play": "Up to 36 h",
+            "Stand-by": "Up to 320 h (2G) / Up to 240 h (3G)",
+            "Talk time": "Up to 20 h (2G) / Up to 12 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "140.4 x 69.1 x 7.9 mm (5.53 x 2.72 x 0.31 in)",
+            "SIM": "Dual SIM (Micro-SIM, dual stand-by)",
+            "Weight": "125 g (4.41 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection, panorama",
+            "Primary": "13.1 MP, 4208 x 3120 pixels, autofocus, LED flash, check quality",
+            "Secondary": "2 MP, 1080p@30fps",
+            "Video": "1080p@30fps, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "FM Radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, DLNA, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes, up to 5 fingers",
+            "Protection": "Corning Gorilla Glass 2",
+            "Resolution": "1080 x 1920 pixels (~441 ppi pixel density)",
+            "Size": "5.0 inches (~71.0% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP3/eAAC+/WAV/FLAC player\n- Xvid/MP4/H.264/H.265 player\n- Document viewer\n- Photo/video editor\n- Voice memo/dial",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2014, January",
+            "Status": "Available. Released 2014, Q2"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "16 GB/ 32 GB (optional), 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "6/10 (About 290 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 21.1/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Octa-core 2 GHz Cortex-A7",
+            "Chipset": "Mediatek MT6592",
+            "GPU": "Mali-450MP4",
+            "OS": "Android OS, v4.2.1 (Jelly Bean), upgradable to v4.4.4 (KitKat)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        },
+        "Tests": {
+            "Audio quality": "Noise -92.0dB / Crosstalk -82.1dB",
+            "Battery life": "Endurance rating 45h",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 895:1 (nominal), 3.527 (sunlight)",
+            "Loudspeaker": "Voice 64dB / Noise 62dB / Ring 69dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Alcatel One Touch Idol X Plus, Alcatel Idol X+ 6043D",
+        "device_name": "Alcatel Idol X+",
+        "image": {
+            "href": "http://www.gsmarena.com/alcatel_idol_x+-pictures-5937.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/alcatel-idol-x-plus-new.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/alcatel_idol_x+-5937.php"
+    }
+}

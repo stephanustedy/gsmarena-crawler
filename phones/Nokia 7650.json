@@ -1,0 +1,80 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 750 mAh battery (BLB-2)",
+            "Stand-by": "90 h - 230 h",
+            "Talk time": "2 h - 4 h"
+        },
+        "Body": {
+            "Dimensions": "114 x 56 x 26 mm, 138 cc (4.49 x 2.20 x 1.02 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "154 g (5.43 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "No"
+        },
+        "Comms": {
+            "Bluetooth": "v1.1",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Act as a camera viewfinder \n- Advanced User Interface\n- Joystick with 5-way navigation \n- Photo album",
+            "Resolution": "176 x 208 pixels, 35 x 41mm (~130 ppi pixel density)",
+            "Size": "2.1 inches (~22.0% screen-to-body ratio)",
+            "Type": "TFT, 4096 colors"
+        },
+        "Features": {
+            "": "- Predictive text input\n- Calculator\n- Profile Selection",
+            "Alarm": "Yes",
+            "Browser": "WAP 1.2.1, xHTML",
+            "Clock": "Yes",
+            "Java": "Yes, MIDP 1.0",
+            "Languages": "English + 2 other per phone (28 total)",
+            "Messaging": "SMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "1Q 2002",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- 3 phone numbers per name\n- 25 voice dial numbers",
+            "Card slot": "No",
+            "Internal": "4 MB"
+        },
+        "Misc": {
+            "Colors": "",
+            "SAR EU": "0.35 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "Class 5",
+            "Technology": "GSM"
+        },
+        "Platform": {
+            "CPU": "104 MHz ARM 9",
+            "OS": "Symbian OS v6.1, Series 60 v1.0 UI"
+        },
+        "Sound": {
+            "": "- Ascending ringing tones\n- Personal alert tones",
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, monophonic ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 7650",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_7650-pictures-288.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/no7650.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_7650-288.php"
+    }
+}

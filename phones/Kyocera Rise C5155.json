@@ -1,0 +1,105 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1500 mAh battery",
+            "Stand-by": "",
+            "Talk time": "Up to 8 h 40 min"
+        },
+        "Body": {
+            "Dimensions": "113 x 60.5 x 14.3 mm (4.45 x 2.38 x 0.56 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "158 g (5.57 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "3.15 MP, 2048 x 1536 pixels, autofocus",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "320 x 480 pixels (~165 ppi pixel density)",
+            "Size": "3.5 inches (~53.4% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen"
+        },
+        "Features": {
+            "": "- MP4/WMV/H.264 player\n- MP3/WAV/eAAC+ player\n- Organizer\n- Photo/video editor\n- Document viewer\n- Voice memo/dial/commands\n- Predictive text input (Swype)",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2012, May",
+            "Status": "Available. Released 2012, August"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB, 2 GB included",
+            "Internal": "2 GB, 512 MB RAM"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "CDMA 800 / 1900",
+            "3G bands": "CDMA2000 1xEV-DO",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Speed": "EV-DO Rev.A 3.1 Mbps",
+            "Technology": "CDMA / EVDO"
+        },
+        "Platform": {
+            "CPU": "1 GHz",
+            "Chipset": "Qualcomm MSM8655 Snapdragon S2",
+            "GPU": "Adreno 205",
+            "OS": "Android OS, v4.0 (Ice Cream Sandwich)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "For Sprint, Virgin Mobile",
+        "device_name": "Kyocera Rise C5155",
+        "image": {
+            "href": "http://www.gsmarena.com/kyocera_rise_c5155-pictures-4747.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/kyocera-rise-c5155.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/kyocera_rise_c5155-4747.php"
+    }
+}

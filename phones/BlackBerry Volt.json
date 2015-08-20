@@ -1,0 +1,103 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "": "- Optical trackpad",
+            "Dimensions": "120 x 62 x 11.5 mm (4.72 x 2.44 x 0.45 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "-"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, LED flash",
+            "Secondary": "No",
+            "Video": "720p"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "NFC": "Yes",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n"
+        },
+        "Display": {
+            "Resolution": "480 x 800 pixels (~252 ppi pixel density)",
+            "Size": "3.7 inches (~52.4% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Document editor (Word, Excel, PowerPoint, PDF)\n- MP3/WMA/AAC+ player\n- MP4/H.264/WMV player\n- Organizer\n- Voice memo/dial\n- Predictive text input",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS, MMS, Email, Push Email, IM, RSS",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "Not officially announced yet",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "4 GB, 768 MB RAM"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "": "CDMA2000 1xEV-DO",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "UMTS 2100",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Speed": "EV-DO Rev.A 3.1 Mbps, UMTS",
+            "Technology": "GSM / CDMA / UMTS / EVDO"
+        },
+        "Platform": {
+            "CPU": "1.2GHz",
+            "OS": "BlackBerry OS 6.1"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": {
+            "href": "http://www.gsmarena.com/blackberry_torch_9850-4088.php",
+            "text": "Announced as BlackBerry Torch 9850\nPreviously known as BlackBerry Monaco"
+        },
+        "device_name": "BlackBerry Volt",
+        "index": 1,
+        "url": "http://www.gsmarena.com/blackberry_volt-3754.php"
+    }
+}

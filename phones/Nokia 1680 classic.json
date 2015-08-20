@@ -1,0 +1,76 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 700 mAh battery (BL-5CA)",
+            "Stand-by": "Up to 424 h",
+            "Talk time": "Up to 7 h 40 min"
+        },
+        "Body": {
+            "Dimensions": "108 x 46 x 15 mm, 66 cc (4.25 x 1.81 x 0.59 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "73.7 g (2.57 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "No",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Themes and wallpapers",
+            "Resolution": "128 x 160 pixels (~111 ppi pixel density)",
+            "Size": "1.85 inches (~21.7% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- Nokia Xpress Audio Messaging\n- Organizer\n- Voice memo",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2008, April. Released 2008, July",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "No",
+            "Internal": "11 MB",
+            "Phonebook": "Up to 1000 entries"
+        },
+        "Misc": {
+            "Colors": "Black, Slate Gray, Wine Red, Deep Plum",
+            "Price group": "1/10 (About 40 EUR)",
+            "SAR EU": "0.98 W/kg (head)",
+            "SAR US": "1.39 W/kg (head) \u00a0 \u00a0 1.09 W/kg (body)"
+        },
+        "Network": {
+            "": "GSM 850 / 1900 - American version",
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "Class 6",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Polyphonic(24), MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 1680 classic",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_1680_classic-pictures-2339.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-1680-classic.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_1680_classic-2339.php"
+    }
+}

@@ -1,0 +1,97 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 830 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "94 x 48 x 18.9 mm (3.70 x 1.89 x 0.74 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "90 g (3.17 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels",
+            "Secondary": "Yes",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- External CSTN, 1 inch",
+            "Resolution": "176 x 220 pixels (~141 ppi pixel density)",
+            "Size": "2.0 inches (~27.9% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- Organizer\n- Voice memo",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2009. Released 2009, May",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 8 GB",
+            "Phonebook": "Yes, Photocall"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 2100",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Speed": "HSPA 3.6/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "ZTE F233",
+        "image": {
+            "href": "http://www.gsmarena.com/zte_f233-pictures-3110.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/zte-f233.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/zte_f233-3110.php"
+    }
+}

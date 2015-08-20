@@ -1,0 +1,133 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "11.9 mm thickness",
+            "SIM": "Mini-SIM",
+            "Weight": "-"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face/smile detection",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, DLNA, hotspot"
+        },
+        "Display": {
+            "Resolution": "320 x 480 pixels (~180 ppi pixel density)",
+            "Size": "3.2 inches (~45.5% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- MP4/H.264/WMV player\n- MP3/WAV/WMA/eAAC+ player\n- Document viewer\n- Organizer\n- Voice memo\n- Predictive text input",
+            "Browser": "HTML",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "Not officially announced yet",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "0": "C",
+            "1": "a",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "r",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "g",
+            "25": "l",
+            "26": "o",
+            "27": "s",
+            "28": "s",
+            "29": "a",
+            "3": "d",
+            "30": "r",
+            "31": "y",
+            "32": ".",
+            "33": "p",
+            "34": "h",
+            "35": "p",
+            "36": "3",
+            "37": "?",
+            "38": "t",
+            "39": "e",
+            "4": " ",
+            "40": "r",
+            "41": "m",
+            "42": "=",
+            "43": "m",
+            "44": "e",
+            "45": "m",
+            "46": "o",
+            "47": "r",
+            "48": "y",
+            "49": "-",
+            "5": "s",
+            "50": "c",
+            "51": "a",
+            "52": "r",
+            "53": "d",
+            "54": "-",
+            "55": "s",
+            "56": "l",
+            "57": "o",
+            "58": "t",
+            "6": "l",
+            "7": "o",
+            "8": "t",
+            "9": "w"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "SAR EU": "0.71 W/kg (head) \u00a0 \u00a0 1.12 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "800 MHz",
+            "OS": "Android OS, v2.3 (Gingerbread)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": {
+            "href": "http://www.gsmarena.com/lg_optimus_hub-4157.php",
+            "text": "Officially announced as LG Optimus Hub"
+        },
+        "device_name": "LG Univa E510",
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_univa_e510-4065.php"
+    }
+}

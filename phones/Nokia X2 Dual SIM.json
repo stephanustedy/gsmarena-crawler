@@ -1,0 +1,85 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1800 mAh battery (BV-5S)",
+            "Music play": "Up to 86 h",
+            "Stand-by": "Up to 552 h",
+            "Talk time": "Up to 10 h (2G) / Up to 13 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "121.7 x 68.3 x 11.1 mm, 87.4 cc (4.79 x 2.69 x 0.44 in)",
+            "SIM": "Dual SIM (Micro-SIM, dual stand-by)",
+            "Weight": "150 g (5.29 oz)"
+        },
+        "Camera": {
+            "Features": "1/4'' sensor size, geo-tagging, touch focus",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, LED flash",
+            "Secondary": "VGA, 480p",
+            "Video": "720p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP",
+            "GPS": "Yes, with A-GPS, GLONASS, Beidou",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "": "- ClearBlack display\n- Nokia X platform 2.0 UI",
+            "Multitouch": "Yes",
+            "Protection": "Scratch-resistant glass",
+            "Resolution": "480 x 800 pixels (~217 ppi pixel density)",
+            "Size": "4.3 inches (~63.3% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- OneDrive (7 GB cloud storage)\n- MP3/WAV/eAAC+/Flac player\n- MP4/H.264 player\n- Photo editor\n- Voice memo/dial",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2014, June",
+            "Status": "Available. Released 2014, July"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "4 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Glossy green, orange black, yellow, white, matt dark grey",
+            "Price group": "2/10 (About 90 EUR)",
+            "SAR EU": "0.81 W/kg (head) \u00a0 \u00a0 0.78 W/kg (body)",
+            "SAR US": "0.99 W/kg (head) \u00a0 \u00a0 0.53 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Up to 236.8 kbps",
+            "GPRS": "Up to 85.6 kbps",
+            "Speed": "HSPA 21.1/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.2 GHz Cortex-A7",
+            "Chipset": "Qualcomm Snapdragon 200",
+            "OS": "Android OS, v4.3 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Nokia X2 RM-1013, Nokia X2DS",
+        "device_name": "Nokia X2 Dual SIM",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_x2_dual_sim-pictures-6383.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/Nokia-X2-Dual-SIM.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_x2_dual_sim-6383.php"
+    }
+}

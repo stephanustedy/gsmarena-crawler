@@ -1,0 +1,75 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1100 mAh battery",
+            "Music play": "Up to 50 h",
+            "Stand-by": "Up to 504 h",
+            "Talk time": "Up to 20 h"
+        },
+        "Body": {
+            "": "- Flashlight",
+            "Dimensions": "116 x 50 x 12.9 mm (4.57 x 1.97 x 0.51 in)",
+            "SIM": "Dual SIM (Mini-SIM)",
+            "Weight": "78.6 g (2.75 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "240p@15fps"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0",
+            "GPS": "No",
+            "Radio": "Stereo FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~167 ppi pixel density)",
+            "Size": "2.4 inches (~30.8% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- SNS applications\n- MP4/H.264 player\n- MP3/WAV/AAC player\n- Organizer\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes",
+            "Java": "",
+            "Messaging": "SMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2015, January",
+            "Status": "Available. Released 2015, February"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "8 MB RAM",
+            "Phonebook": "1000 entries"
+        },
+        "Misc": {
+            "Colors": "Black, White, Green",
+            "Price group": "1/10 (About 30 EUR)",
+            "SAR EU": "1.11 W/kg (head) \u00a0 \u00a0 0.62 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 - SIM 1 & SIM 2 - RM-1110",
+            "EDGE": "No",
+            "GPRS": "Yes",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 215 Dual SIM",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_215_dual_sim-pictures-6911.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-215-ds.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_215_dual_sim-6911.php"
+    }
+}

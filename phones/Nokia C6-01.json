@@ -1,0 +1,90 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1050 mAh battery (BL-5CT)",
+            "Music play": "Up to 50 h",
+            "Stand-by": "Up to 408 h (2G) / Up to 372 h (3G)",
+            "Talk time": "Up to 11 h 30 min (2G) / Up to 4 h 30 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "103.8 x 52.5 x 13.9 mm, 65 cc (4.09 x 2.07 x 0.55 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "131 g (4.62 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face detection",
+            "Primary": "8 MP, 3264x2448 pixels, fixed focus, dual-LED flash, check quality",
+            "Secondary": "VGA",
+            "Video": "720p@25fps, 720p@30fps (via SW update), check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0, USB Host",
+            "WLAN": "Wi-Fi 802.11 b/g/n"
+        },
+        "Display": {
+            "": "- Nokia ClearBlack display",
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "360 x 640 pixels (~229 ppi pixel density)",
+            "Size": "3.2 inches (~51.8% screen-to-body ratio)",
+            "Type": "AMOLED capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- TV-out\n- SNS integration\n- WebTV\n- MP3/WMA/WAV/eAAC+ player\n- DivX/XviD/MP4/WMV/H.264 player\n- Document viewer (Word, Excel, PowerPoint, PDF)\n- Voice command/dial\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML, Adobe Flash Lite",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS, MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2010, September",
+            "Status": "Available. Released 2010, November"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB, 2 GB included",
+            "Internal": "340 MB, 256 MB RAM, 1 GB ROM"
+        },
+        "Misc": {
+            "Colors": "Silver Grey, Black",
+            "Price group": "4/10 (About 170 EUR)",
+            "SAR EU": "1.10 W/kg (head)",
+            "SAR US": "1.00 W/kg (head) \u00a0 \u00a0 1.25 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 900 / 1700 / 1900 / 2100 - American version",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 1700 / 1900 / 2100",
+            "EDGE": "Class 33",
+            "GPRS": "Class 33",
+            "Speed": "HSPA 10.2/2 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "680 MHz ARM 11",
+            "GPU": "Broadcom BCM2727",
+            "OS": "Symbian^3 OS, upgradable to Nokia Belle OS"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3 ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -88.2dB / Crosstalk -89.4dB",
+            "Camera": "Photo / Video",
+            "Loudspeaker": "Voice 75dB / Noise 66dB / Ring 77dB"
+        }
+    },
+    "main": {
+        "device_name": "Nokia C6-01",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_c6_01-pictures-3524.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-c6-01-ofic.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_c6_01-3524.php"
+    }
+}

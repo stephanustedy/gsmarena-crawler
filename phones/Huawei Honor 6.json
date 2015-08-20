@@ -1,0 +1,94 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po 3100 mAh battery (11.8 Wh)",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "139.6 x 69.7 x 7.5 mm (5.50 x 2.74 x 0.30 in)",
+            "SIM": "Optional Dual SIM (Micro-SIM, dual stand-by)",
+            "Weight": "130 g (4.59 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection, HDR",
+            "Primary": "13 MP, 4128 x 3096 pixels, autofocus, dual-LED flash, check quality",
+            "Secondary": "5 MP",
+            "Video": "1080p@30fps, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, LE",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "Infrared port": "Yes",
+            "NFC": "Yes (market/operator dependent)",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0, USB Host",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- Emotion UI 3.0",
+            "Multitouch": "Yes, up to 10 fingers",
+            "Resolution": "1080 x 1920 pixels (~445 ppi pixel density)",
+            "Size": "5.0 inches (~69.6% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP3/WAV/eAAC+ player\n- MP4/H.264 player\n- Document viewer\n- Photo viewer/editor\n- Voice memo/dial/commands",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2014, June",
+            "Status": "Available. Released 2014, August"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "16/32 GB, 3 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "6/10 (About 270 EUR)"
+        },
+        "Network": {
+            "": "LTE band 38(2600), 39(1900), 40(2300) - H60-L01",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2 - H60-L02, H60-L12",
+            "3G bands": "HSDPA 900 / 2100 - H60-L02, H60-L12, H60-L04",
+            "4G bands": "LTE band 1(2100), 3(1800), 41(2500) - H60-L02, H60-L12",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat6 300/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.7 GHz Cortex-A15 & quad-core 1.3 GHz Cortex-A7",
+            "Chipset": "HiSilicon Kirin 920",
+            "GPU": "Mali-T628 MP4",
+            "OS": "Android OS, v4.4.2 (KitKat)"
+        },
+        "Sound": {
+            "": "- Dolby Digital Plus",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Battery life": "Endurance rating 67h",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 812 (nominal), 2.169 (sunlight)",
+            "Loudspeaker": "Voice 65dB / Noise 64dB / Ring 75dB",
+            "Performance": "Basemark OS II: 863 / Basemark OS II 2.0: 888\nBasemark X: 4868"
+        }
+    },
+    "main": {
+        "canonical_name": "Available versions:\n- H60-L01 TDD LTE (Single SIM)\n- H60-L02 FDD&TDD LTE, HSDPA\n- H60-L04 FDD&TDD LTE, HSDPA (Single SIM)\n- H60-L12 FDD LTE, HSDPA, NFC\n- H60-L12 FDD LTE, NFC",
+        "device_name": "Huawei Honor 6",
+        "image": {
+            "href": "http://www.gsmarena.com/huawei_honor_6-pictures-6461.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/huawei-honor-6.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/huawei_honor_6-6461.php"
+    }
+}

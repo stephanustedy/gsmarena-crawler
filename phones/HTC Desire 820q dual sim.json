@@ -1,0 +1,83 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po 2600 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "157.7 x 78.7 x 7.7 mm (6.21 x 3.10 x 0.30 in)",
+            "SIM": "Dual SIM (Nano-SIM, dual stand-by)",
+            "Weight": "155 g (5.47 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection, simultaneous HD video and image recording, HDR",
+            "Primary": "13 MP, 4160 x 3120 pixels, autofocus, LED flash",
+            "Secondary": "8 MP, 1080p",
+            "Video": "1080p@30fps, 720p@60fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, apt-X",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- HTC Sense UI 6.0",
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 3",
+            "Resolution": "720 x 1280 pixels (~267 ppi pixel density)",
+            "Size": "5.5 inches (~67.2% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/H.264/WMV player\n- MP3/eAAC+/WMA/WAV player\n- Document viewer\n- Photo/video editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2014, October",
+            "Status": "Available. Released 2014, October"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 128 GB",
+            "Internal": "16 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Santorini White, Tuxedo Gray, Milky-way Gray",
+            "Price group": "6/10 (About 260 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+            "4G bands": "LTE band 1(2100), 3(1800), 7(2600), 8(900), 38(2600), 39(1900), 40(2300), 41(2500)",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 42.2/5.76 Mbps, LTE",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.2 GHz Cortex-A53",
+            "Chipset": "Qualcomm MSM8916 Snapdragon 410",
+            "GPU": "Adreno 306",
+            "OS": "Android OS, v4.4.2 (KitKat)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "device_name": "HTC Desire 820q dual sim",
+        "image": {
+            "href": "http://www.gsmarena.com/htc_desire_820q_dual_sim-pictures-6854.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/htc-desire-820q.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/htc_desire_820q_dual_sim-6854.php"
+    }
+}

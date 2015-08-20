@@ -1,0 +1,74 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 800 mAh battery",
+            "Stand-by": "Up to 390 h",
+            "Talk time": "Up to 7 h 40 min"
+        },
+        "Body": {
+            "Dimensions": "105 x 49 x 14.9 mm (4.13 x 1.93 x 0.59 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "102 g (3.60 oz)"
+        },
+        "Camera": {
+            "Primary": "3.15 MP, 2048 x 1536 pixels, LED flash",
+            "Secondary": "No",
+            "Video": "320p@15fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "No",
+            "Radio": "FM radio with RDS, FM recording",
+            "USB": "v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~182 ppi pixel density)",
+            "Size": "2.2 inches (~29.1% screen-to-body ratio)",
+            "Type": "AMOLED, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/AAC/WMA player\n- Organizer\n- Document viewer (Word, Excel, PowerPoint, PDF)\n- Voice memo\n- Mobile Tracker\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML (Net Front 3.5)",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2009, February",
+            "Status": "Available. Released 2009, August"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 8 GB",
+            "Internal": "40 MB",
+            "Phonebook": "1000 contacts, Photo call"
+        },
+        "Misc": {
+            "Colors": "Yes",
+            "Price group": "3/10 (About 120 EUR)",
+            "SAR EU": "0.63 W/kg (head)",
+            "SAR US": "0.29 W/kg (head) \u00a0 \u00a0 0.31 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Samsung S5050",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_s5050-pictures-2808.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-s5050.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_s5050-2808.php"
+    }
+}

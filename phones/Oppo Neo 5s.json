@@ -1,0 +1,83 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po 2000 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "131.9 x 65.5 x 8 mm (5.19 x 2.58 x 0.31 in)",
+            "SIM": "Dual SIM (Nano-SIM/ Micro-SIM)",
+            "Weight": "135 g (4.76 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection, HDR, panorama",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash",
+            "Secondary": "2 MP",
+            "Video": "720p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "To be confirmed",
+            "USB": "microUSB v2.0, USB Host",
+            "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot"
+        },
+        "Display": {
+            "": "- Color OS v2.0.1",
+            "Multitouch": "Yes",
+            "Resolution": "480 x 854 pixels (~218 ppi pixel density)",
+            "Size": "4.5 inches (~64.6% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/H.264/FLAC player\n- MP3/eAAC+/WAV player\n- Document viewer\n- Photo viewer/editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2015, May",
+            "Status": "Available. Released 2015, May"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 128 GB",
+            "Internal": "8 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Blue, White",
+            "Price group": "4/10 (About 160 EUR)"
+        },
+        "Network": {
+            "": "LTE band 1(2100), 4(1700/2100), 7(2600) - for Mexico",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100 - SIM 1 & SIM 2",
+            "4G bands": "LTE band 1(2100), 3(1800), 7(2600) - SIM 1 & SIM 2",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.2 GHz Cortex-A53",
+            "Chipset": "Qualcomm MSM8916 Snapdragon 410",
+            "GPU": "Adreno 306",
+            "OS": "Android OS, v4.4.2 (KitKat)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Oppo Neo 5s",
+        "image": {
+            "href": "http://www.gsmarena.com/oppo_neo_5s-pictures-7248.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/oppo-neo-5s.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/oppo_neo_5s-7248.php"
+    }
+}

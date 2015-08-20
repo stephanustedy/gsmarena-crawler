@@ -1,0 +1,80 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 1930 mAh battery",
+            "Stand-by": "Up to 360 h",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "134 x 67.5 x 10.5 mm (5.28 x 2.66 x 0.41 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "145 g (5.11 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash",
+            "Secondary": "Yes",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "NFC": "Yes",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot, DLNA"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "540 x 960 pixels (~245 ppi pixel density)",
+            "Size": "4.5 inches (~61.7% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP3/WAV/eAAC+ player\n- MP4/H.264 player\n- Organizer\n- Document viewer\n- Photo viewer/editor\n- Voice memo/dial\n- Predictive text input",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2012, August",
+            "Status": "Available. Released 2012, September"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "4 GB, 768 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "3/10 (About 100 EUR)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 1900 / 2100",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.2 GHz",
+            "OS": "Android OS, v4.0.4 (Ice Cream Sandwich)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "device_name": "Huawei Ascend G600",
+        "image": {
+            "href": "http://www.gsmarena.com/huawei_ascend_g600-pictures-4963.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/huawei-g600.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/huawei_ascend_g600-4963.php"
+    }
+}

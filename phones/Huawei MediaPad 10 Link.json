@@ -1,0 +1,83 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po 6600 mAh battery",
+            "Stand-by": "",
+            "Talk time": "Up to 10 h (multimedia)"
+        },
+        "Body": {
+            "Dimensions": "257.4 x 175.9 x 9.9 mm (10.13 x 6.93 x 0.39 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "620 g (Wi-Fi) / 640 g (3G/LTE) (1.41 lb)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "3.15 MP, 2048 x 1536 pixels",
+            "Secondary": "VGA",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "1280 x 800 pixels (~149 ppi pixel density)",
+            "Size": "10.1 inches (~65.3% screen-to-body ratio)",
+            "Type": "IPS LCD, capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP3/WAV/WMA/eAAC+/FLAC player\n- MP4/WMV/H.264 player\n- Document viewer\n- Photo viewer/editor\n- Voice memo/dial",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2013",
+            "Status": "Available. Released 2013"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "8/16/32 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black/Silver",
+            "Price group": "5/10 (About 250 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA",
+            "4G bands": "LTE",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.2 GHz Cortex-A9",
+            "Chipset": "Huawei K3V2",
+            "GPU": "Vivante GC4000",
+            "OS": "Android OS, v4.0 (Ice Cream Sandwich), upgradable to v4.1 (Jelly Bean)"
+        },
+        "Sound": {
+            "": "- Dolby Digital Plus",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "canonical_name": "HSDPA/LTE versions are market and carrier dependent",
+        "device_name": "Huawei MediaPad 10 Link",
+        "image": {
+            "href": "http://www.gsmarena.com/huawei_mediapad_10_link-pictures-5507.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/Huawei-MediaPad-101-Link.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/huawei_mediapad_10_link-5507.php"
+    }
+}

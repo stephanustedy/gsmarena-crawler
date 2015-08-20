@@ -1,0 +1,80 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1800 mAh battery",
+            "Stand-by": "Up to 260 h",
+            "Talk time": "Up to 5 h"
+        },
+        "Body": {
+            "Dimensions": "135 x 68.7 x 11.3 mm (5.31 x 2.70 x 0.44 in)",
+            "SIM": "Dual SIM (Mini-SIM)",
+            "Weight": "-"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, dual-LED flash",
+            "Secondary": "Yes",
+            "Video": "720p"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0",
+            "GPS": "Yes",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Yes"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "480 x 854 pixels (~218 ppi pixel density)",
+            "Size": "4.5 inches (~60.2% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP3/AAC/WMA/WAV player\n- MP4/WMV/H.264 player\n- Document viewer\n- Photo viewer/editor",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2013",
+            "Status": "Available. Released 2013"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "4 GB (2 GB user available), 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "3/10 (About 110 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 2100",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1 GHz Cortex-A9",
+            "Chipset": "Mediatek MT6577",
+            "GPU": "PowerVR SGX531u",
+            "OS": "Android OS, v4.1.1 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Micromax A88",
+        "image": {
+            "href": "http://www.gsmarena.com/micromax_a88-pictures-5483.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/micromax-a88.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/micromax_a88-5483.php"
+    }
+}

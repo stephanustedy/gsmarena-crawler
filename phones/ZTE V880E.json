@@ -1,0 +1,78 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1650 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "122.5 x 64.6 x 12 mm (4.82 x 2.54 x 0.47 in)",
+            "SIM": "Dual SIM (Mini-SIM)",
+            "Weight": "130 g (4.59 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus",
+            "Secondary": "VGA",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "480 x 800 pixels (~233 ppi pixel density)",
+            "Size": "4.0 inches (~57.5% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen"
+        },
+        "Features": {
+            "": "- MP4/H.264/WMV player\n- MP3/eAAC+/WMA/WAV player\n- Document viewer\n- Photo viewer/editor\n- Voice memo/dial\n- Predictive text input",
+            "Browser": "HTML",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2012, February",
+            "Status": "Available. Released 2012, May"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "4 GB (2.5 GB user available), 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "4/10 (About 180 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "1 GHz",
+            "OS": "Android OS, v2.3.6 (Gingerbread)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "ZTE V880E",
+        "image": {
+            "href": "http://www.gsmarena.com/zte_v880e-pictures-4598.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/zte-v880e.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/zte_v880e-4598.php"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 800 mAh battery",
+            "Stand-by": "Up to 430 h",
+            "Talk time": "Up to 8 h"
+        },
+        "Body": {
+            "Dimensions": "108 x 45.5 x 13.5 mm (4.25 x 1.79 x 0.53 in)",
+            "SIM": "Dual SIM (Mini-SIM)",
+            "Weight": "-"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "FM radio",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "128 x 128 pixels (~119 ppi pixel density)",
+            "Size": "1.52 inches (~15.2% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "Browser": "No",
+            "Games": "No",
+            "Java": "No",
+            "Messaging": "SMS"
+        },
+        "Launch": {
+            "Announced": "2013, February",
+            "Status": "Available. Released 2013, March"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "No",
+            "Phonebook": "Yes"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "1/10 (About 20 EUR)",
+            "SAR EU": "0.92 W/kg (head) \u00a0 \u00a0 0.40 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Samsung E1207T",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_e1207t-pictures-5361.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-e1207t.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_e1207t-5361.php"
+    }
+}

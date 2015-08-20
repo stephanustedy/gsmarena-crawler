@@ -1,0 +1,85 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 2100 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "127.5 x 67.9 x 10.6 mm (5.02 x 2.67 x 0.42 in)",
+            "SIM": "Optional Dual SIM (Micro-SIM, dual stand-by)",
+            "Weight": "129.6 g (4.55 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, panorama",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, LED flash",
+            "Secondary": "VGA",
+            "Video": "720p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "480 x 800 pixels (~207 ppi pixel density)",
+            "Size": "4.5 inches (~66.6% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Xvid/MP4/H.264 player\n- MP3/eAAC+/WAV/WMA/FLAC player\n- Photo editor\n- Document viewer\n- Voice memo/dial",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2014, September",
+            "Status": "Available. Released 2014, October"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "4/8 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "White, Black",
+            "Price group": "3/10 (About 130 EUR)",
+            "SAR EU": "0.66 W/kg (head) \u00a0 \u00a0 0.56 W/kg (body)",
+            "SAR US": "1.36 W/kg (head) \u00a0 \u00a0 0.99 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 900 / 2100 - D392",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2 - D392",
+            "3G bands": "HSDPA 900 / 1900 / 2100 - D390N",
+            "4G bands": "LTE band 3(1800), 7(2600), 20(800) - D390N",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 42.2/11.5 Mbps, LTE Cat4 150/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.2 GHz Cortex-A53",
+            "Chipset": "Qualcomm MSM8916 Snapdragon 410",
+            "GPU": "Adreno 306",
+            "OS": "Android OS, v4.4.2 (KitKat)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Available as:\nLG F60 D390N with single SIM\nLG F60 Dual D392 with dual SIM",
+        "device_name": "LG F60",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_f60-pictures-6709.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-l-fino.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_f60-6709.php"
+    }
+}

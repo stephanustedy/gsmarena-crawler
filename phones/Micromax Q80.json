@@ -1,0 +1,78 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1200 mAh battery",
+            "Stand-by": "Up to 130 h",
+            "Talk time": "Up to 5 h"
+        },
+        "Body": {
+            "": "- Optical trackpad",
+            "Dimensions": "117 x 60 x 13 mm (4.61 x 2.36 x 0.51 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Dual SIM (Mini-SIM)",
+            "Weight": "118 g (4.16 oz)"
+        },
+        "Camera": {
+            "Features": "Face, smile detection",
+            "Primary": "3.15 MP, 2048 x 1536 pixels",
+            "Secondary": "VGA",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "No",
+            "Radio": "FM radio",
+            "USB": "Yes",
+            "WLAN": "Wi-Fi 802.11 b/g/n"
+        },
+        "Display": {
+            "Resolution": "320 x 240 pixels (~167 ppi pixel density)",
+            "Size": "2.4 inches (~25.4% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- SNS applications\n- MP3/MP4/H.263 player\n- Organizer\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML (Opera Mini)",
+            "Games": "Downloadable",
+            "Java": "Yes",
+            "Messaging": "SMS, MMS, Email, Push Email, IM"
+        },
+        "Launch": {
+            "Announced": "2011, June",
+            "Status": "Available. Released 2011, July"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 8 GB",
+            "Internal": "68 MB",
+            "Phonebook": "Yes, Photocall"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "2/10 (About 80 EUR)"
+        },
+        "Network": {
+            "": "GSM 900 / 1800 - SIM 2",
+            "2G bands": "GSM 900 / 1800 - SIM 1",
+            "3G bands": "HSDPA 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA",
+            "Technology": "GSM / HSPA"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, Polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "device_name": "Micromax Q80",
+        "image": {
+            "href": "http://www.gsmarena.com/micromax_q80-pictures-4029.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/micromax-q80.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/micromax_q80-4029.php"
+    }
+}

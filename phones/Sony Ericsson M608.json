@@ -1,0 +1,73 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion battery",
+            "Stand-by": "Up to 340 h",
+            "Talk time": "Up to 7 h"
+        },
+        "Body": {
+            "Dimensions": "107 x 57 x 15 mm (4.21 x 2.24 x 0.59 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "112 g (3.95 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Handwriting recognition",
+            "Resolution": "240 x 320 pixels (~154 ppi pixel density)",
+            "Size": "2.6 inches, 39 x 53 mm (~34.3% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/AAC/H.263 player\n- Sync ML\n- Document viewer (Word, Excel, PowerPoint, PDF)\n- Organizer\n- Voice memo",
+            "Browser": "HTML (Opera 8)",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2006, May",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "Memory Stick Micro (M2), up to 4 GB, 64 MB included",
+            "Internal": "80 MB"
+        },
+        "Misc": {
+            "Colors": "Granite Black, Crystal White",
+            "Price group": "3/10 (About 120 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Platform": {
+            "CPU": "32-bit Philips Nexperia PNX4008 208 MHz",
+            "OS": "Symbian OS v9.1, UIQ 3.0"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3, AAC ringtones, composer",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "canonical_name": "M608c for China",
+        "device_name": "Sony Ericsson M608",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_ericsson_m608-pictures-1565.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/sonyericsson-m600.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_ericsson_m608-1565.php"
+    }
+}

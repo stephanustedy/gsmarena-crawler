@@ -1,0 +1,105 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1490 mAh battery",
+            "Stand-by": "",
+            "Talk time": "Up to 7 h 40 min"
+        },
+        "Body": {
+            "Dimensions": "105 x 61 x 17.1 mm (4.13 x 2.40 x 0.67 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "158 g (5.57 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "3.15 MP, 2048 x 1536 pixels, autofocus",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot (charges may apply)"
+        },
+        "Display": {
+            "": "",
+            "Multitouch": "Yes",
+            "Resolution": "240 x 320 pixels (~133 ppi pixel density)",
+            "Size": "3.0 inches (~43.5% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/WAV/AAC+ player\n- MP4/H.263 player\n- Organizer\n- Voice memo\n- Predictive text input (Swype)",
+            "Browser": "HTML",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2011, September",
+            "Status": "Available. Released 2011, September"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB, 2 GB included",
+            "Internal": "512 MB, 512 MB RAM"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "CDMA 800 / 1900 / 1700",
+            "3G bands": "CDMA2000 1xEV-DO",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Speed": "EV-DO Rev.A 3.1 Mbps",
+            "Technology": "CDMA / EVDO"
+        },
+        "Platform": {
+            "CPU": "800 MHz",
+            "Chipset": "Qualcomm MSM7627T",
+            "OS": "Android OS, v2.3 (Gingerbread)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "For Sprint",
+        "device_name": "Kyocera Milano C5121",
+        "image": {
+            "href": "http://www.gsmarena.com/kyocera_milano_c5121-pictures-4316.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/kyocera-milano-c5121.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/kyocera_milano_c5121-4316.php"
+    }
+}

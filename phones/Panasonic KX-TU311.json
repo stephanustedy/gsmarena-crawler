@@ -1,0 +1,91 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 940 mAh battery",
+            "Stand-by": "Up to 280 h",
+            "Talk time": "Up to 4 h"
+        },
+        "Body": {
+            "": "- Flashlight\n- MIL-STD-810E certified - shock resistant\n- Priority Call Key",
+            "Dimensions": "121 x 57 x 19 mm (4.76 x 2.24 x 0.75 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "110 g (3.88 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "No",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "220 x 176 pixels (~148 ppi pixel density)",
+            "Size": "1.9 inches (~16.5% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "Browser": "No",
+            "Games": "No",
+            "Java": "No",
+            "Messaging": "SMS"
+        },
+        "Launch": {
+            "Announced": "2011, October",
+            "Status": "Available"
+        },
+        "Memory": {
+            "Call records": "50 dialed, 50 received, 20 missed calls",
+            "Card slot": "No",
+            "Phonebook": "100 entries"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "": "- 2.5 mm audio jack\n- Hearing aid compatible (M3)\n- Audible Dialling",
+            "3.5mm jack": "No",
+            "Alert types": "Vibration, Polyphonic(25)",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Panasonic KX-TU311",
+        "image": {
+            "href": "http://www.gsmarena.com/panasonic_kx_tu311-pictures-4655.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/panasonic-kx-tu311.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/panasonic_kx_tu311-4655.php"
+    }
+}

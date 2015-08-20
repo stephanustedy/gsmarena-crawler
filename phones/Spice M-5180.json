@@ -1,0 +1,71 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1800 mAh battery",
+            "Stand-by": "Up to 500 h",
+            "Talk time": "Up to 5 h"
+        },
+        "Body": {
+            "Dimensions": "105.7 x 46.5 x 15.2 mm (4.16 x 1.83 x 0.60 in)",
+            "SIM": "Dual SIM (Mini-SIM)",
+            "Weight": "90 g (3.17 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v1.2",
+            "GPS": "No",
+            "Radio": "FM radio; FM recording",
+            "USB": "No",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "128 x 160 pixels (~116 ppi pixel density)",
+            "Size": "1.77 inches (~20.1% screen-to-body ratio)",
+            "Type": "TFT"
+        },
+        "Features": {
+            "": "- MP3/MP4/H.263 player",
+            "Browser": "WAP",
+            "Games": "Downloadable",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS"
+        },
+        "Launch": {
+            "Announced": "2011",
+            "Status": "Available"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 8 GB",
+            "Phonebook": "500 entries"
+        },
+        "Misc": {
+            "Colors": "Various",
+            "Price group": "1/10 (About 30 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+            "EDGE": "No",
+            "GPRS": "Yes",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Spice M-5180",
+        "image": {
+            "href": "http://www.gsmarena.com/spice_m_5180-pictures-4250.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/spice-m-5180.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/spice_m_5180-4250.php"
+    }
+}

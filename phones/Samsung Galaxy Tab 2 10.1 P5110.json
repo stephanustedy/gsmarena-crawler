@@ -1,0 +1,89 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po 7000 mAh battery",
+            "Stand-by": "Up to 2570 h",
+            "Talk time": "93 h (media player)"
+        },
+        "Body": {
+            "Dimensions": "256.6 x 175.3 x 9.7 mm (10.10 x 6.90 x 0.38 in)",
+            "SIM": "No",
+            "Weight": "581 g (1.28 lb)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "3.15 MP, 2048 x 1536 pixels, check quality",
+            "Secondary": "VGA",
+            "Video": "720p, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "Yes; GLONASS",
+            "Radio": "No",
+            "USB": "v2.0, USB Host",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, hotspot"
+        },
+        "Display": {
+            "": "- TouchWiz UX UI",
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "800 x 1280 pixels (~149 ppi pixel density)",
+            "Size": "10.1 inches (~65.8% screen-to-body ratio)",
+            "Type": "PLS TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- TV-out\n- MP4/DivX/Xvid/FLV/MKV/H.264 player\n- MP3/WAV/eAAC+/Flac player\n- Photo/video editor\n- Document editor/viewer",
+            "Browser": "HTML, Adobe Flash",
+            "Java": "No",
+            "Messaging": "Email, Push Email, IM",
+            "Sensors": "Accelerometer, gyro, compass"
+        },
+        "Launch": {
+            "Announced": "2012, February",
+            "Status": "Available. Released 2012, May"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "8/16/32 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "6/10 (About 290 EUR)",
+            "SAR EU": "0.20 W/kg (body)",
+            "SAR US": "0.51 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "N/A",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "No cellular connectivity"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1 GHz Cortex-A9",
+            "Chipset": "TI OMAP 4430",
+            "GPU": "PowerVR SGX540",
+            "OS": "Android OS, v4.0.3 (Ice Cream Sandwich), upgradable to v4.2.2 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        },
+        "Tests": {
+            "Audio quality": "Noise -90.4dB / Crosstalk -91.8dB",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 878:1 (nominal)",
+            "Loudspeaker": "Voice 72dB / Noise 66dB / Ring 82dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Tablet with no support for GSM voice communication, SMS, and MMS",
+        "device_name": "Samsung Galaxy Tab 2 10.1 P5110",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_galaxy_tab_2_10_1_p5110-pictures-4669.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-tab-2-101.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_galaxy_tab_2_10_1_p5110-4669.php"
+    }
+}

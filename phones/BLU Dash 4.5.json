@@ -1,0 +1,82 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 2000 mAh battery",
+            "Stand-by": "Up to 900 h (2G) / Up to 750 h (3G)",
+            "Talk time": "Up to 24 h (2G) / Up to 10 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "133 x 65 x 12 mm (5.24 x 2.56 x 0.47 in)",
+            "SIM": "Dual SIM (Mini-SIM, dual stand-by)",
+            "Weight": "144 g (5.08 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face/smile detection",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, LED flash",
+            "Secondary": "VGA",
+            "Video": "720p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "480 x 854 pixels (~218 ppi pixel density)",
+            "Size": "4.5 inches (~64.5% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP3/AAC/WMA/WAV/Flac player\n- DivX/XviD/MP4/H.264/WMV player\n- Document editor\n- Photo viewer/editor\n- Voice memo/dial/commands",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2013, July",
+            "Status": "Available. Released 2013, July"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "4 GB, 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "2/10 (About 100 EUR)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 2100 - D310i",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 850 / 1900 - D310a",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 42.2/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.2 GHz Cortex-A7",
+            "Chipset": "Mediatek MT6589M",
+            "GPU": "PowerVR SGX544",
+            "OS": "Android OS, v4.2 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "D300 - Single SIM\nD310 - Dual SIM",
+        "device_name": "BLU Dash 4.5",
+        "image": {
+            "href": "http://www.gsmarena.com/blu_dash_4_5-pictures-5593.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/blu-dash-45.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/blu_dash_4_5-5593.php"
+    }
+}

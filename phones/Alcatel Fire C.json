@@ -1,0 +1,78 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1300 mAh battery",
+            "Stand-by": "Up to 433 h (2G) / Up to 325 h (3G)",
+            "Talk time": "Up to 6 h 40 min (2G) / Up to 2 h 40 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "112.2 x 62 x 12 mm (4.42 x 2.44 x 0.47 in)",
+            "SIM": "Yes",
+            "Weight": "100 g (3.53 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "480p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Multitouch": "No",
+            "Resolution": "320 x 480 pixels (~165 ppi pixel density)",
+            "Size": "3.5 inches (~52.4% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/AAC+/WAV player\n- DivX/MP4/H.264 player\n- Photo viewer\n- Predictive text input",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), Email, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2014, February",
+            "Status": "Available. Released 2014, Q2"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "4 GB, 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Mozilla Orange, White/Bluish Black, White",
+            "Price group": "1/10 (About 30 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 21.1/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.2 GHz",
+            "OS": "Firefox OS 1.3"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Alcatel Fire C",
+        "image": {
+            "href": "http://www.gsmarena.com/alcatel_fire_c-pictures-6138.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/alcatel-fire-c.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/alcatel_fire_c-6138.php"
+    }
+}

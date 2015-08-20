@@ -1,0 +1,85 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1130 mAh battery",
+            "Stand-by": "Up to 267 h (2G) / Up to 334 h (3G)",
+            "Talk time": "Up to 6 h 45 min (2G) / Up to 5 h (3G)"
+        },
+        "Body": {
+            "": "- BACKTRACK touch panel",
+            "Dimensions": "98.4 x 67.2 x 11.4 mm, 75 cc (3.87 x 2.65 x 0.45 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "110 g (3.88 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "3.15 MP, 2048x1536 pixels",
+            "Secondary": "No",
+            "Video": "24fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n"
+        },
+        "Display": {
+            "": "- MOTOBLUR UI v1.5 with Live Widgets",
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "320 x 240 pixels (~143 ppi pixel density)",
+            "Size": "2.8 inches (~36.7% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP3/eAAC+/WAV/WMA player\n- MP4/WMV/H.264 player\n- Organizer\n- Document viewer\n- Voice memo/dial\n- Predictive text input",
+            "Browser": "HTML",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2010, July",
+            "Status": "Available. Released Released 2010, August"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB, 2 GB included",
+            "Internal": "512 MB RAM; 512 MB"
+        },
+        "Misc": {
+            "Colors": "Golden Bronze, Cabernet",
+            "Price group": "3/10 (About 150 EUR)",
+            "SAR US": "1.43 W/kg (head) \u00a0 \u00a0 1.53 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 1700 / 2100",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 3.6/2 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "600 MHz Cortex-A8",
+            "Chipset": "TI OMAP 3410",
+            "GPU": "PowerVR SGX530",
+            "OS": "Android OS, v2.1 (Eclair)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Motorola CHARM",
+        "image": {
+            "href": "http://www.gsmarena.com/motorola_charm-pictures-3420.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/motorola-charm-ofic.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/motorola_charm-3420.php"
+    }
+}

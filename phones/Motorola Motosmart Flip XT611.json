@@ -1,0 +1,83 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1540 mAh battery",
+            "Stand-by": "Up to 500 h (2G) / Up to 400 h (3G)",
+            "Talk time": "Up to 10 h (2G) / Up to 6 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "110 x 58.5 x 13.9 mm / 14.4 mm (w/ NFC)",
+            "SIM": "Mini-SIM",
+            "Weight": "110 g (3.88 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, LED flash",
+            "Secondary": "VGA",
+            "Video": "480p@26-30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "NFC": "Optional",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "": "- Handwriting recognition",
+            "Multitouch": "Yes",
+            "Resolution": "320 x 480 pixels (~180 ppi pixel density)",
+            "Size": "3.2 inches (~47.4% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/WAV/AAC+ player\n- MP4/DivX/Xvid/H.264/WMV player\n- Document viewer\n- Photo viewer\n- Organizer\n- Voice memo/dial\n- Predictive text input",
+            "Browser": "HTML, Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS(threaded view), MMS, Email, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2012, March",
+            "Status": "Available. Released 2012, March"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "512 MB, 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "3/10 (About 150 EUR)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 2100",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 1900",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "800 MHz",
+            "Chipset": "Qualcomm MSM7227T-1 Snapdragon S1",
+            "GPU": "Adreno 200",
+            "OS": "Android OS, v2.3 (Gingerbread)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Motorola Motosmart Flip XT611",
+        "image": {
+            "href": "http://www.gsmarena.com/motorola_motosmart_flip_xt611-pictures-4713.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/motorola-motosmart-flip-xt611.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/motorola_motosmart_flip_xt611-4713.php"
+    }
+}

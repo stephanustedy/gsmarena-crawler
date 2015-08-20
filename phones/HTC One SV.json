@@ -1,0 +1,91 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1800 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "128 x 66.9 x 9.2 mm (5.04 x 2.63 x 0.36 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "122 g (4.30 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, LED flash",
+            "Secondary": "1.6 MP, 720p@30fps",
+            "Video": "1080p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, apt-X",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "NFC": "Yes",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0 (MHL TV-out)",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- HTC Sense UI",
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 2",
+            "Resolution": "480 x 800 pixels (~217 ppi pixel density)",
+            "Size": "4.3 inches (~61.5% screen-to-body ratio)",
+            "Type": "Super LCD2 capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Dropbox (25 GB cloud storage)\n- DivX/XviD/MP4/H.264/WMV player\n- MP3/eAAC+/WMA/WAV player\n- Document viewer\n- Photo viewer/editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2012, November",
+            "Status": "Available. Released 2013, January"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "8 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "4/10 (About 200 EUR)",
+            "SAR US": "0.61 W/kg (head) \u00a0 \u00a0 0.93 W/kg (body)"
+        },
+        "Network": {
+            "": "LTE band 3(1800), 7(2600) - Asia",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 1900 / 2100 - EU",
+            "4G bands": "LTE band 3(1800), 7(2600), 20(800) - EU",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat3 100/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.2 GHz Krait",
+            "Chipset": "Qualcomm MSM8960 Snapdragon S4 Plus",
+            "GPU": "Adreno 305",
+            "OS": "Android OS, v4.0.4 (Ice Cream Sandwich), upgradeable to 4.1.2 (Jelly Bean)"
+        },
+        "Sound": {
+            "": "- Beats Audio",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -82.3dB / Crosstalk -81.5dB",
+            "Battery life": "Endurance rating 38h"
+        }
+    },
+    "main": {
+        "device_name": "HTC One SV",
+        "image": {
+            "href": "http://www.gsmarena.com/htc_one_sv-pictures-5105.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/htc-one-sv.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/htc_one_sv-5105.php"
+    }
+}

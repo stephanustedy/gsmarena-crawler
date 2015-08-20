@@ -1,0 +1,80 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 2800 mAh battery",
+            "Stand-by": "Up to 264 h",
+            "Talk time": "Up to 21 h (2G) / Up to 15 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "153.6 x 78 x 9.3 mm (6.05 x 3.07 x 0.37 in)",
+            "SIM": "Dual SIM (Mini-SIM)",
+            "Weight": "189.9 g (6.67 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face/smile detection, HDR",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash",
+            "Secondary": "2 MP",
+            "Video": "720p"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Yes, hotspot, DLNA"
+        },
+        "Display": {
+            "Multitouch": "Yes, up to 5 fingers",
+            "Resolution": "540 x 960 pixels (~208 ppi pixel density)",
+            "Size": "5.3 inches (~64.6% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/H.264 player\n- MP3/WAV/eAAC+ player\n- Photo/video editor\n- Document viewer\n- Voice memo/dial",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2013",
+            "Status": "Available. Released 2013"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "4 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "SAR EU": "0.33 W/kg (head) \u00a0 \u00a0 0.75 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 7.2/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.2 GHz Cortex-A5",
+            "Chipset": "Qualcomm MSM8225Q Snapdragon S4 Play",
+            "GPU": "Adreno 203",
+            "OS": "Android OS, v4.1.2 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Archos 53 Platinum",
+        "image": {
+            "href": "http://www.gsmarena.com/archos_53_platinum-pictures-6059.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/archos-platinum-53.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/archos_53_platinum-6059.php"
+    }
+}

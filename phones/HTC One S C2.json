@@ -1,0 +1,90 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po 1650 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "130.9 x 65 x 7.8 mm (5.15 x 2.56 x 0.31 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "119.5 g (4.20 oz)"
+        },
+        "Camera": {
+            "Features": "Simultaneous HD video and image recording, geo-tagging, face/smile detection",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash",
+            "Secondary": "VGA",
+            "Video": "1080p@30fps, stereo sound rec."
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, apt-X",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0 (MHL TV-out)",
+            "WLAN": "Wi-Fi 802.11 b/g/n, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- HTC Sense UI",
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "540 x 960 pixels (~256 ppi pixel density)",
+            "Size": "4.3 inches (~59.9% screen-to-body ratio)",
+            "Type": "Super AMOLED capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP4/H.264/WMV player\n- MP3/eAAC+/WMA/WAV player\n- Document viewer\n- Voice memo/dial\n- Predictive text input",
+            "Browser": "HTML, Adobe Flash",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2012, May",
+            "Status": "Available. Released 2012, June"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "16 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "4/10 (About 180 EUR)",
+            "SAR EU": "0.69 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.7 GHz Scorpion",
+            "Chipset": "Qualcomm MSM8260 Snapdragon S3",
+            "GPU": "Adreno 220",
+            "OS": "Android OS, v4.0 (Ice Cream Sandwich), upgradable to v4.1 (Jelly Bean)"
+        },
+        "Sound": {
+            "": "- Beats Audio",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -91.0dB / Crosstalk -92.6dB",
+            "Battery life": "Endurance rating 35h",
+            "Display": "Contrast ratio: Infinite (nominal) / 2.901:1 (sunlight)",
+            "Loudspeaker": "Voice 65dB / Noise 64dB / Ring 76dB"
+        }
+    },
+    "main": {
+        "device_name": "HTC One S C2",
+        "image": {
+            "href": "http://www.gsmarena.com/htc_one_s_c2-pictures-4836.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/htc-one-s-new.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/htc_one_s_c2-4836.php"
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po 2300 mAh battery",
+            "Stand-by": "Up to 417 h (2G) / Up to 528 h (3G)",
+            "Talk time": "Up to 30 h (2G) / Up to 22 h (3G)"
+        },
+        "Body": {
+            "": "- Padfone Station with 9 inches IPS display, 1920 x 1200 pixels, 4990 mAh battery, front camera. 250.4 x 172.3 x 11.6 mm, 514 grams",
+            "Dimensions": "143.4 x 72.5 x 10 mm (5.65 x 2.85 x 0.39 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "150 g (5.29 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection",
+            "Primary": "13 MP, 4128 x 3096 pixels, autofocus, LED flash",
+            "Secondary": "2 MP, 1080p@30fps",
+            "Video": "2160p@12-25fps, 1080p@30fps, 720p@60fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "NFC": "Yes",
+            "Radio": "To be confirmed",
+            "USB": "microUSB v2.0 (SlimPort TV-out), USB Host",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes, up to 10 fingers",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "1080 x 1920 pixels (~441 ppi pixel density)",
+            "Size": "5.0 inches (~66.3% screen-to-body ratio)",
+            "Type": "Super IPS+ LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- ASUS WebStorage (50 GB storage)\n- MP3/WAV/eAAC+ player\n- MP4/H.264 player\n- Document viewer\n- Photo/video editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2014, March",
+            "Status": "Available. Released 2014, July"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "16 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Titanium Black, Platinum White, Dark Ruby",
+            "Price group": "5/10 (About 250 EUR)"
+        },
+        "Network": {
+            "": "LTE 800 / 900 / 1700/2100 / 1800 / 1900 / 2100 / 2600",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 1900 / 2100",
+            "4G bands": "LTE 700 / 900 / 1700/2100 / 1800 / 1900 / 2100 / 2600",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 2.3 GHz Krait 400",
+            "Chipset": "Qualcomm MSM8974AB Snapdragon 801",
+            "GPU": "Adreno 330",
+            "OS": "Android OS, v4.4.2 (KitKat)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Asus PadFone S PF500KL",
+        "device_name": "Asus PadFone S",
+        "image": {
+            "href": "http://www.gsmarena.com/asus_padfone_s-pictures-6238.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/asus-padfone-s-new.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/asus_padfone_s-6238.php"
+    }
+}

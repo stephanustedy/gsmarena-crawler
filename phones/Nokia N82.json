@@ -1,0 +1,83 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1050 mAh battery (BP-6MT)",
+            "Stand-by": "Up to 225 h (2G) / 216 h (3G)",
+            "Talk time": "Up to 4 h 20 min (2G) / 3 h 10 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "112 x 50.2 x 17.3 mm, 90 cc (4.41 x 1.98 x 0.68 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "114 g (4.02 oz)"
+        },
+        "Camera": {
+            "Primary": "5 MP, 2592 x 1944 pixels, Carl Zeiss optics, autofocus, xenon flash",
+            "Secondary": "CIF videocall camera",
+            "Video": "480p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "Yes, with A-GPS; Nokia Maps",
+            "Radio": "Stereo FM radio; Visual radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g, UPnP technology"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~167 ppi pixel density)",
+            "Size": "2.4 inches (~31.7% screen-to-body ratio)",
+            "Type": "TFT, 16M colors"
+        },
+        "Features": {
+            "": "- MP3/WMA/WAV/RA/AAC/M4A player\n- MP4/H.264/RV/AVC player\n- Document viewer (Word, Excel, PowerPoint, PDF)\n- Organizer\n- Voice dial/memo\n- TV-out\n- Push to talk\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email, Instant Messaging",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2007, November. Released 2007, November",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 16 GB, 2 GB included",
+            "Internal": "100 MB, 128 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Silver, Black",
+            "Price group": "4/10 (About 170 EUR)",
+            "SAR EU": "1.07 W/kg (head)",
+            "SAR US": "1.16 W/kg (head) \u00a0 \u00a0 1.20 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 2100",
+            "EDGE": "Class 32, 296 kbps; DTM Class 11, 177 kbps",
+            "GPRS": "Class 32, 107 kbps",
+            "Speed": "HSPA",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "332 MHz Dual ARM 11",
+            "GPU": "3D Graphics HW Accelerator",
+            "OS": "Symbian OS 9.2, S60 rel. 3.1"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; Downloadable polyphonic, monophonic, MP3 ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        },
+        "Tests": {
+            "Audio quality": "Noise -81.6dB / Crosstalk -69.3dB",
+            "Loudspeaker": "Voice 70dB / Noise 61dB / Ring 65dB"
+        }
+    },
+    "main": {
+        "device_name": "Nokia N82",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_n82-pictures-2177.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-n82.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_n82-2177.php"
+    }
+}

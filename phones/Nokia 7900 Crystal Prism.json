@@ -1,0 +1,76 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 850 mAh battery (BL-6P)",
+            "Stand-by": "Up to 240 h",
+            "Talk time": "Up to 3 h"
+        },
+        "Body": {
+            "Dimensions": "112 x 45 x 11.3 mm, 55 cc (4.41 x 1.77 x 0.44 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "101 g (3.56 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels, LED flash",
+            "Secondary": "No",
+            "Video": "QCIF"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "microUSB",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~200 ppi pixel density)",
+            "Size": "2.0 inches (~24.6% screen-to-body ratio)",
+            "Type": "OLED, 16M colors"
+        },
+        "Features": {
+            "": "- UPnP technology\n- MP3/AAC/eAAC+/WMA player\n- Predictive text input\n- Organizer\n- Voice memo\n- Living wallpaper\n- Configurable keypad backlighting color",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2008, January. Released 2008, June",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "No",
+            "Internal": "1 GB",
+            "Phonebook": "Yes"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "4/10 (About 170 EUR)",
+            "SAR EU": "0.93 W/kg (head)",
+            "SAR US": "0.83 W/kg (head) \u00a0 \u00a0 0.81 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "UMTS 850 / 2100",
+            "EDGE": "Class 32, 296 kbps",
+            "GPRS": "Class 32, 107 kbps",
+            "Speed": "Yes, 384 kbps",
+            "Technology": "GSM / UMTS"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 7900 Crystal Prism",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_7900_crystal_prism-pictures-2225.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-7900-crystal.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_7900_crystal_prism-2225.php"
+    }
+}

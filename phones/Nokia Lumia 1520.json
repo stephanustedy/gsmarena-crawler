@@ -1,0 +1,97 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 3400 mAh battery (BV-4BW)",
+            "Music play": "Up to 124 h",
+            "Stand-by": "Up to 768 h (2G) / Up to 768 h (3G)",
+            "Talk time": "Up to 27 h 40 min (2G) / Up to 25 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "162.8 x 85.4 x 8.7 mm, 120.3 cc (6.41 x 3.36 x 0.34 in)",
+            "SIM": "Nano-SIM",
+            "Weight": "209 g (7.37 oz)"
+        },
+        "Camera": {
+            "Features": "1/2.5'' sensor size, 1.12 \u00b5m pixel size, PureView technology, dual capture, geo-tagging, face detection, panorama",
+            "Primary": "20 MP, 4992 \u0445 3744 pixels, Carl Zeiss optics, optical image stabilization, autofocus, dual-LED flash, check quality",
+            "Secondary": "1.2 MP, 720p@30fps",
+            "Video": "2160p@30fps (after WP8 Denim update), 1080p@30fps, optical stabilization, stereo sound rec., check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, EDR, LE/ apt-X after WP8 Denim update",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "NFC": "Yes",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, hotspot"
+        },
+        "Display": {
+            "": "- ClearBlack display",
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 2",
+            "Resolution": "1080 x 1920 pixels (~367 ppi pixel density)",
+            "Size": "6.0 inches (~71.4% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Wireless charging (Qi-enabled)\n- Active noise cancellation with a dedicated mic\n- OneDrive (15 GB cloud storage)\n- MP3/WMA/WAV/eAAC+ player\n- MP4/DivX/XviD/H.264/WMV player\n- Document viewer\n- Video/photo editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass, sensor core"
+        },
+        "Launch": {
+            "Announced": "2013, October",
+            "Status": "Available. Released 2013, November"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "16 GB (RM-940 only)/32 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Yellow, white, black, red, green (AT&T)",
+            "Price group": "7/10 (About 350 EUR)",
+            "SAR EU": "0.64 W/kg (head) \u00a0 \u00a0 0.20 W/kg (body)"
+        },
+        "Network": {
+            "": "LTE band 2(1900), 4(1700/2100), 5(850), 7(2600), 17(700) - RM-938, RM-940",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - all versions",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100 - RM-937, RM-939, RM-940",
+            "4G bands": "LTE band 1(2100), 3(1800), 7(2600), 8(900), 20(800) - RM-937",
+            "EDGE": "Up to 236.8 kbps",
+            "GPRS": "Yes",
+            "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 2.2 GHz Krait 400",
+            "Chipset": "Qualcomm MSM8974 Snapdragon 800",
+            "GPU": "Adreno 330",
+            "OS": "Microsoft Windows Phone 8, upgradeable to v8.1, planned upgrade to Windows 10"
+        },
+        "Sound": {
+            "": "- Dolby Headphone",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -89.3dB / Crosstalk -89.4dB",
+            "Battery life": "Endurance rating 107h",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 1207:1 (nominal) / 1.813:1 (sunlight)",
+            "Loudspeaker": "Voice 73dB / Noise 66dB / Ring 74dB",
+            "Performance": "Basemark OS II: 1116"
+        }
+    },
+    "main": {
+        "canonical_name": "RM-937 - global version\nRM-938 - US version\nRM-939 - WCDMA HSPA+ version\nRM-940 - AT&T version",
+        "device_name": "Nokia Lumia 1520",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_lumia_1520-pictures-5760.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-lumia-1520-ofic.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_lumia_1520-5760.php"
+    }
+}

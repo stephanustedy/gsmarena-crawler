@@ -1,0 +1,93 @@
+{
+    "data": {
+        "Battery": {
+            "": "NiMH battery",
+            "Stand-by": "100 h",
+            "Talk time": "2 h 30 min"
+        },
+        "Body": {
+            "Dimensions": "139.5 x 84 x 19 mm (5.49 x 3.31 x 0.75 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "200 g (7.05 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels",
+            "Size": "",
+            "Type": "Monochrome resistive touchscreen, 16 shades"
+        },
+        "Features": {
+            "": "- Predictive text input\n- Calculator\n- PDA compatible\n- MP3 reader",
+            "Alarm": "Yes",
+            "Browser": "WAP 1.1",
+            "Clock": "Yes",
+            "Java": "No",
+            "Languages": "8",
+            "Messaging": "SMS"
+        },
+        "Launch": {
+            "Announced": "2000",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- Detailed call duration reports",
+            "Card slot": "No"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "GSM"
+        },
+        "Platform": {
+            "CPU": "64-bit NEC VR4131 166 MHz",
+            "OS": "Microsoft Windows PocketPC"
+        },
+        "Sound": {
+            "": "- Ascending ring tone",
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Monophonic ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Mitsubishi Trium Mondo",
+        "index": 1,
+        "url": "http://www.gsmarena.com/mitsubishi_trium_mondo-64.php"
+    }
+}

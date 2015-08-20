@@ -1,0 +1,77 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 950 mAh battery (BST-33)",
+            "Stand-by": "Up to 370 h",
+            "Talk time": "Up to 9 h 30 min"
+        },
+        "Body": {
+            "Dimensions": "104 x 48 x 10 mm (4.09 x 1.89 x 0.39 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "78 g (2.75 oz)"
+        },
+        "Camera": {
+            "Features": "Video-calling, geo-tagging (cell-ID)",
+            "Primary": "3.15 MP, 2048 x 1536 pixels, LED flash",
+            "Secondary": "No",
+            "Video": "320p@15fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Wallpapers, screensavers",
+            "Resolution": "240 x 320 pixels (~200 ppi pixel density)",
+            "Size": "2.0 inches (~24.8% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/eAAC+/WMA/WMApro player\n- MP4/WMV/H.263 player\n- TrackID\n- Predictive text input\n- Organizer\n- Voice memo",
+            "Browser": "WAP 2.0/HTML(NetFront)",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email, Push Email"
+        },
+        "Launch": {
+            "Announced": "2008, August. Released 2008, September",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "30 received, dialed and missed calls",
+            "Card slot": "Memory Stick Micro (M2), up to 8 GB, 512 MB included",
+            "Internal": "25 MB",
+            "Phonebook": "1000 contacts, Photo call"
+        },
+        "Misc": {
+            "Colors": "Black on Silver, Black on Red, Silver, Black, Red on Silver",
+            "Price group": "3/10 (About 130 EUR)",
+            "SAR EU": "1.55 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 2100",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Speed": "HSPA 3.6/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3, AAC ringtones, composer",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Sony Ericsson T700",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_ericsson_t700-pictures-2481.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/se-t700.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_ericsson_t700-2481.php"
+    }
+}

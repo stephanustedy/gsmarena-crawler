@@ -1,0 +1,94 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 600 mAh battery",
+            "Stand-by": "220 h",
+            "Talk time": "5 h"
+        },
+        "Body": {
+            "Dimensions": "73 x 39 x 22 mm, 59 cc (2.87 x 1.54 x 0.87 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "73 g (2.57 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Dual screen display\n- Navi key",
+            "Resolution": "112 x 64 pixels",
+            "Size": "",
+            "Type": "Monochrome graphic"
+        },
+        "Features": {
+            "": "- Predictive text input\n- Organizer",
+            "Alarm": "Yes",
+            "Browser": "WAP 1.2.1",
+            "Clock": "Yes",
+            "Games": "Yes",
+            "Java": "No",
+            "Messaging": "SMS, EMS"
+        },
+        "Launch": {
+            "Announced": "2002, Aug",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "10 dialed, 10 received, 10 missed calls",
+            "Card slot": "No",
+            "Phonebook": ""
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "": "- Personalized sounds and pictures",
+            "3.5mm jack": "No",
+            "Alert types": "Downloadable monophonic ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Siemens CL50",
+        "image": {
+            "href": "http://www.gsmarena.com/siemens_cl50-pictures-337.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/sicl50.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/siemens_cl50-337.php"
+    }
+}

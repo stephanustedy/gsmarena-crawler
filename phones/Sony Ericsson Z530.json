@@ -1,0 +1,75 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 900 mAh battery (BST-33)",
+            "Stand-by": "Up to 400 h",
+            "Talk time": "Up to 9 h"
+        },
+        "Body": {
+            "Dimensions": "90 x 47 x 24 mm (3.54 x 1.85 x 0.94 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "93 g (3.28 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "QCIF"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second external mono display (101 x 80 pixels)\n- Wallpapers, screensavers",
+            "Resolution": "128 x 160 pixels (~114 ppi pixel density)",
+            "Size": "1.8 inches, 28 x 35 mm (~24.1% screen-to-body ratio)",
+            "Type": "UBC, 65K colors"
+        },
+        "Features": {
+            "": "- Media player \n- Predictive text input\n- Photo editor\n- Organizer\n- RSS reader\n- Voice memo\n- Exchangeable Style-Up covers",
+            "Browser": "WAP 2.0/xHTML, HTML (NetFront)",
+            "Games": "Neopets, PuzzleSlider, QuadraPop + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2006, February",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "30 received, dialed and missed calls",
+            "Card slot": "Memory Stick Micro (M2), up to 2 GB",
+            "Internal": "24 MB",
+            "Phonebook": "1000 x 20 fields, Photo call"
+        },
+        "Misc": {
+            "Colors": "Soft Black, Chromic Grey, Elegant Red",
+            "Price group": "2/10 (About 90 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones, composer",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Z530c - Triple-band 900/1800/1900 for China \nZ530i - Triple-band 900/1800/1900",
+        "device_name": "Sony Ericsson Z530",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_ericsson_z530-pictures-1487.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/sonyericsson-z530.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_ericsson_z530-1487.php"
+    }
+}

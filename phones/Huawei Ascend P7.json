@@ -1,0 +1,94 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po 2500 mAh battery",
+            "Stand-by": "Up to 422 h (3G)",
+            "Talk time": "Up to 22 h (2G) / Up to 14 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "139.8 x 68.8 x 6.5 mm (5.50 x 2.71 x 0.26 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "124 g (4.37 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face/smile detection, panorama, HDR",
+            "Primary": "13 MP, 4160 x 3120 pixels, autofocus, LED flash, check quality",
+            "Secondary": "8 MP",
+            "Video": "1080p@30fps, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, LE",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "NFC": "Yes",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0, USB Host",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- Emotion UI 2.3",
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 3",
+            "Resolution": "1080 x 1920 pixels (~441 ppi pixel density)",
+            "Size": "5.0 inches (~71.7% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- XviD/MP4/H.264/WMV player\n- MP3/eAAC+/WMA/WAV/Flac player\n- Document viewer\n- Photo viewer/editor\n- Voice memo/dial/commands",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2014, May",
+            "Status": "Available. Released 2014, June"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "16 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, white, pink",
+            "Price group": "7/10 (About 300 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+            "4G bands": "LTE band 1(2100), 3(1800), 7(2600), 8(900), 20(800)",
+            "EDGE": "Up to 236.8 kbps",
+            "GPRS": "Up to 60 kbps",
+            "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.8 GHz Cortex-A9",
+            "Chipset": "HiSilicon Kirin 910T",
+            "GPU": "Mali-450MP4",
+            "OS": "Android OS, v4.4.2 (KitKat)"
+        },
+        "Sound": {
+            "": "- Dolby Digital Plus",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -92.7dB / Crosstalk -32.0dB",
+            "Battery life": "Endurance rating 53h",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 843 (nominal), 1.992 (sunlight)",
+            "Loudspeaker": "Voice 63dB / Noise 66dB / Ring 70dB",
+            "Performance": "Basemark OS II 2.0: 552"
+        }
+    },
+    "main": {
+        "canonical_name": "Also available as:\nHuawei Ascend P7 Dual SIM with dual sim card slots (Micro SIM + Nano SIM w/o microSD) in certain markets",
+        "device_name": "Huawei Ascend P7",
+        "image": {
+            "href": "http://www.gsmarena.com/huawei_ascend_p7-pictures-6124.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/huawei-ascend-p7-new.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/huawei_ascend_p7-6124.php"
+    }
+}

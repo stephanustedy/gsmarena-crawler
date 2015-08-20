@@ -1,0 +1,75 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1200 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "127.9 x 57.4 x 10.9 mm (5.04 x 2.26 x 0.43 in)",
+            "SIM": "Dual SIM",
+            "Weight": "-"
+        },
+        "Camera": {
+            "Features": "No",
+            "Primary": "Yes, LED flash",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "No",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Multitouch": "No",
+            "Resolution": "240 x 320 pixels (~125 ppi pixel density)",
+            "Size": "3.2 inches (~43.2% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- QApps\n- MP4/H.263 player\n- Organizer\n- Voice memo",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Downloadable",
+            "Java": "No",
+            "Messaging": "SMS, MMS",
+            "Sensors": "No"
+        },
+        "Launch": {
+            "Announced": "2014, July",
+            "Status": "Available. Released 2014, July"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 16 GB",
+            "Internal": "128 MB, 64 MB RAM",
+            "Phonebook": "Yes"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "1/10 (About 30 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "QMobile B800",
+        "image": {
+            "href": "http://www.gsmarena.com/qmobile_b800-pictures-7415.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/qmobile-b800.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/qmobile_b800-7415.php"
+    }
+}

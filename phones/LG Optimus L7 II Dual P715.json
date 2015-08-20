@@ -1,0 +1,84 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 2460 mAh battery",
+            "Stand-by": "Up to 800 h (2G) / Up to 800 h (3G)",
+            "Talk time": "Up to 9 h 30 min (2G) / Up to 12 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "122.2 x 66.6 x 9.7 mm (4.81 x 2.62 x 0.38 in)",
+            "SIM": "Dual SIM",
+            "Weight": "115.5 g (4.06 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash",
+            "Secondary": "VGA",
+            "Video": "480p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot, DLNA"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "480 x 800 pixels (~217 ppi pixel density)",
+            "Size": "4.3 inches (~64.7% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- DivX/Xvid/MP4/H.264/WMV player\n- MP3/WAV/WMA/eAAC+ player\n- Document editor",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2013, February",
+            "Status": "Available. Released 2013, March"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "4 GB, 768 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "4/10 (About 150 EUR)",
+            "SAR EU": "0.49 W/kg (head) \u00a0 \u00a0 0.69 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 1900 / 2100 - P716",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 900 / 1900 / 2100 - P715",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 7.2/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1 GHz Cortex-A5",
+            "Chipset": "Qualcomm MSM8225 Snapdragon S4 Play",
+            "GPU": "Adreno 203",
+            "OS": "Android OS, v4.1.2 (Jelly Bean)"
+        },
+        "Sound": {
+            "": "- Dolby mobile",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as LG Optimus Duet+, LG Optimus L7 II P716 Dual",
+        "device_name": "LG Optimus L7 II Dual P715",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_optimus_l7_ii_dual_p715-pictures-5372.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-optimus-l7-ii-dual-p715.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_optimus_l7_ii_dual_p715-5372.php"
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 860 mAh battery (BL-4CT)",
+            "Music play": "Up to 27 h",
+            "Stand-by": "Up to 370 h (2G) / Up to 395 h (3G)",
+            "Talk time": "Up to 5 h 24 min (2G) / Up to 3 h 40 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "98 x 48 x 14.8 mm, 64 cc (3.86 x 1.89 x 0.58 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "100 g (3.53 oz)"
+        },
+        "Camera": {
+            "Primary": "3.15 MP, 2048 x 1536 pixels",
+            "Secondary": "No",
+            "Video": "QCIF@8fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "No",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~167 ppi pixel density)",
+            "Size": "2.4 inches (~37.9% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/eAAC+/WAV/WMA player\n- MP4/H.264/WMV player\n- Flickr/Ovi Upload\n- Nokia Maps\n- Nokia Life Tools\n- Widsets\n- Voice command/dial/memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML, Adobe Flash Lite",
+            "Games": "Snake III, Bounce II, Sudoku II, Rally Start + downloadable",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS, MMS, Email, IM"
+        },
+        "Launch": {
+            "Announced": "2009, November",
+            "Status": "Available. Released 2010, February"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "microSD, up to 16 GB, 2 GB included",
+            "Internal": "45 MB",
+            "Phonebook": "2000 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Graphite, Hot Pink",
+            "Price group": "2/10 (About 80 EUR)",
+            "SAR EU": "0.97 W/kg (head)",
+            "SAR US": "1.14 W/kg (head) \u00a0 \u00a0 0.39 W/kg (body)"
+        },
+        "Network": {
+            "": "UMTS 850 / 1900 / 2100 - American version",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "UMTS 900 / 2100 / 1900",
+            "EDGE": "Class 32, 296 kbits",
+            "GPRS": "Class 32, 100 kbps",
+            "Speed": "Yes, 384 kbps",
+            "Technology": "GSM / UMTS"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 7230",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_7230-pictures-3034.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-7230.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_7230-3034.php"
+    }
+}

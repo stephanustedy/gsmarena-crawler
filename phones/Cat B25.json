@@ -1,0 +1,76 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1300 mAh battery",
+            "Stand-by": "Up to 156 h",
+            "Talk time": "Up to 9 h 30 min"
+        },
+        "Body": {
+            "": "- IP67 certified - dust and water proof (up to 1m for 30 mins)\n- Flashlight\n- Drop-to-concrete resistance from up to 1.8m",
+            "Dimensions": "125 x 57 x 22 mm (4.92 x 2.24 x 0.87 in)",
+            "SIM": "Dual SIM",
+            "Weight": "161 g (5.68 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels, autofocus",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1",
+            "GPS": "No",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~200 ppi pixel density)",
+            "Size": "2.0 inches (~17.4% screen-to-body ratio)",
+            "Type": "TFT"
+        },
+        "Features": {
+            "": "- MP3/MP4/H.263 player",
+            "Browser": "",
+            "Games": "No",
+            "Java": "",
+            "Messaging": "SMS"
+        },
+        "Launch": {
+            "Announced": "2013",
+            "Status": "Available. Released 2013"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 8 GB",
+            "Phonebook": "Yes"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "3/10 (About 140 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Technology": "GSM"
+        },
+        "Platform": {
+            "CPU": "208 MHz",
+            "Chipset": "Mediatek MT6235"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; Polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Cat B25",
+        "image": {
+            "href": "http://www.gsmarena.com/cat_b25-pictures-5983.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/cat-b25.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/cat_b25-5983.php"
+    }
+}

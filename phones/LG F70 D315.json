@@ -1,0 +1,84 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 2440 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "127.2 x 66.4 x 10 mm (5.01 x 2.61 x 0.39 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "129.6 g (4.59 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection, panorama",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, LED flash",
+            "Secondary": "VGA",
+            "Video": "1080p"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "NFC": "Yes (LTE model only)",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "480 x 800 pixels (~207 ppi pixel density)",
+            "Size": "4.5 inches (~68.2% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- XviD/MP4/H.264 player\n- MP3/WAV/eAAC+/Flac player\n- Photo viewer/editor\n- Document viewer\n- Voice memo/dial",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2014, February",
+            "Status": "Available. Released 2014, May"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "4/8 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "White, Black",
+            "Price group": "4/10 (About 200 EUR)",
+            "SAR EU": "0.51 W/kg (head) \u00a0 \u00a0 0.58 W/kg (body)",
+            "SAR US": "0.36 W/kg (head) \u00a0 \u00a0 0.73 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "4G bands": "LTE band 3(1800), 7(2600), 20(800)",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 42.2/5.76 Mbps, LTE",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.2 GHz Cortex-A7",
+            "Chipset": "Qualcomm MSM8926 Snapdragon 400",
+            "GPU": "Adreno 305",
+            "OS": "Android OS, v4.4.2 (KitKat)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "LG F70 D315",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_f70_d315-pictures-6133.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-f70.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_f70_d315-6133.php"
+    }
+}

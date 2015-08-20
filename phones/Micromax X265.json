@@ -1,0 +1,69 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1200 mAh battery",
+            "Stand-by": "Up to 312 h",
+            "Talk time": "Up to 6 h"
+        },
+        "Body": {
+            "": "- Flashlight",
+            "Dimensions": "113.7 x 50 x 14.7 mm (4.48 x 1.97 x 0.58 in)",
+            "SIM": "Dual SIM (Mini-SIM)",
+            "Weight": "95 g (3.35 oz)"
+        },
+        "Camera": {
+            "Primary": "Yes",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "No",
+            "Radio": "Stereo FM radio",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "176 x 220 pixels (~128 ppi pixel density)",
+            "Size": "2.2 inches (~26.8% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- MP3 player\n- H.263 player\n- Organizer\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML (Opera Mini)",
+            "Games": "Downloadable",
+            "Java": "",
+            "Messaging": "SMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2010. Released 2010",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 2 GB",
+            "Phonebook": "Yes"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "1/10 (About 30 EUR)"
+        },
+        "Network": {
+            "": "GSM 900 / 1800 - SIM 2",
+            "2G bands": "GSM 900 / 1800 - SIM 1",
+            "EDGE": "No",
+            "GPRS": "Yes",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, Polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "device_name": "Micromax X265",
+        "index": 1,
+        "url": "http://www.gsmarena.com/micromax_x265-3873.php"
+    }
+}

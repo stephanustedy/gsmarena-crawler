@@ -1,0 +1,81 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 2250 mAh battery",
+            "Stand-by": "Up to 480 h (2G) / Up to 480 h (3G)",
+            "Talk time": "Up to 25 h (2G) / Up to 12 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "154 x 77.7 x 7.9 mm (6.06 x 3.06 x 0.31 in)",
+            "SIM": "Dual SIM",
+            "Weight": "159 g (5.61 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash",
+            "Secondary": "2 MP",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual band"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "720 x 1280 pixels (~277 ppi pixel density)",
+            "Size": "5.3 inches (~64.7% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP4/WMV/H.264 player\n- MP3/WAV/WMA/eAAC+ player\n- Photo/video editor\n- Document viewer",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2013, March",
+            "Status": "Available. Released 2013, May"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "4 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "White, Blue",
+            "Price group": "5/10 (About 250 EUR)",
+            "SAR EU": "0.46 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 7.2/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.2 GHz Cortex-A7",
+            "Chipset": "Mediatek MT6589",
+            "GPU": "PowerVR SGX544",
+            "OS": "Android OS, v4.2.1 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Lenovo S920",
+        "image": {
+            "href": "http://www.gsmarena.com/lenovo_s920-pictures-5385.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lenovo-s920.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lenovo_s920-5385.php"
+    }
+}

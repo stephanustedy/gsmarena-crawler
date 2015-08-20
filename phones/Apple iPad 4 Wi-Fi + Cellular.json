@@ -1,0 +1,89 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po 11560 mAh battery (42.5 Wh)",
+            "Stand-by": "Up to 720 h",
+            "Talk time": "Up to 9 h"
+        },
+        "Body": {
+            "Dimensions": "241.2 x 185.7 x 9.4 mm (9.50 x 7.31 x 0.37 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "662 g (1.46 lb)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection",
+            "Primary": "5 MP, 2592 x 1944 pixels, autofocus",
+            "Secondary": "1.2 MP, 720p@30fps, face detection, FaceTime over Wi-Fi or Cellular",
+            "Video": "1080p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "Radio": "No",
+            "USB": "v2.0, reversible connector",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Scratch-resistant glass, oleophobic coating",
+            "Resolution": "1536 x 2048 pixels (~264 ppi pixel density)",
+            "Size": "9.7 inches (~65.1% screen-to-body ratio)",
+            "Type": "LED-backlit IPS LCD, capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- iCloud cloud service\n- Twitter and Facebook integration\n- TV-out\n- Maps\n- Audio/video player/editor\n- Organizer\n- Document viewer/editor\n- Photo viewer/editor\n- Voice memo\n- Predictive text input",
+            "Browser": "HTML5 (Safari)",
+            "Java": "No",
+            "Messaging": "iMessage, Email, Push Email, IM",
+            "Sensors": "Accelerometer, gyro, compass"
+        },
+        "Launch": {
+            "Announced": "2012, October",
+            "Status": "Available. Released 2012, November"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "16/32/64/128 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "7/10 (About 380 EUR)"
+        },
+        "Network": {
+            "": "LTE 700 / 850 / 1800 / 1900 / 2100 - A1460",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - A1459/ A1460",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100 - A1459/ A1460",
+            "4G bands": "LTE band 4(1700/2100), 17(700) - A1459",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 42.2/5.76 Mbps, LTE, EV-DO Rev.A 3.1 Mbps",
+            "Technology": "GSM / CDMA / HSPA / EVDO / LTE"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.4 GHz",
+            "Chipset": "Apple A6X",
+            "GPU": "PowerVR SGX554MP4 (quad-core graphics)",
+            "OS": "iOS 6, upgradable to iOS 8.4"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "N/A",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -85.7dB / Crosstalk -85.2dB",
+            "Display": "Contrast ratio: 762:1 (nominal)",
+            "Loudspeaker": "Voice 67dB / Noise 66dB / Ring 75dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Apple iPad 4 Wi-Fi + 4G, Apple iPad with Retina display",
+        "device_name": "Apple iPad 4 Wi-Fi + Cellular",
+        "image": {
+            "href": "http://www.gsmarena.com/apple_ipad_4_wi_fi_+_cellular-pictures-5071.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/apple-ipad-3-new.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/apple_ipad_4_wi_fi_+_cellular-5071.php"
+    }
+}

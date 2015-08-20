@@ -1,0 +1,92 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po 5100 mAh battery",
+            "Stand-by": "Up to 1200 h (2G) / Up to 1100 h (3G)",
+            "Talk time": "Up to 34 h 10 min (2G) / Up to 20 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "196.7 x 133 x 7.9 mm (7.74 x 5.24 x 0.31 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "340 g (11.99 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "3.15 MP, 2048 x 1536 pixels, autofocus, LED flash, check quality",
+            "Secondary": "2 MP",
+            "Video": "720p@30fps, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "v2.0 (TV-out), USB Host",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, hotspot"
+        },
+        "Display": {
+            "": "- TouchWiz UX UI",
+            "Multitouch": "Yes",
+            "Resolution": "800 x 1280 pixels (~196 ppi pixel density)",
+            "Size": "7.7 inches (~65.7% screen-to-body ratio)",
+            "Type": "Super AMOLED Plus capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/DivX/Xvid/FLV/MKV/H.264 player\n- MP3/WAV/eAAC+/Flac player\n- Photo/video editor\n- Quickoffice HD editor/viewer",
+            "Browser": "HTML, Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2011, September",
+            "Status": "Available. Released 2011, December"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "16/32/64 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "6/10 (About 280 EUR)",
+            "SAR EU": "0.08 W/kg (head)",
+            "SAR US": "0.51 W/kg (head) \u00a0 \u00a0 1.13 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+            "EDGE": "Class 33",
+            "GPRS": "Class 33",
+            "Speed": "HSPA 21.1/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.4 GHz Cortex-A9",
+            "Chipset": "Exynos",
+            "GPU": "Mali-400",
+            "OS": "Android OS, v3.2 (Honeycomb)"
+        },
+        "Sound": {
+            "": "- DNSe sound",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        },
+        "Tests": {
+            "Audio quality": "Noise -90.3dB / Crosstalk -87.7dB",
+            "Battery life": "Endurance rating 80h",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: Infinite (nominal)",
+            "Loudspeaker": "Voice 69dB / Noise 66dB / Ring 75dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Tablet with support for GSM voice communication, SMS, and MMS",
+        "device_name": "Samsung P6800 Galaxy Tab 7.7",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_p6800_galaxy_tab_7_7-pictures-4136.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-p6800-galaxy-tab-7-7.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_p6800_galaxy_tab_7_7-4136.php"
+    }
+}

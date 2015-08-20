@@ -1,0 +1,83 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1300 mAh battery",
+            "Stand-by": "Up to 373 h",
+            "Talk time": "Up to 3 h 30 min"
+        },
+        "Body": {
+            "Dimensions": "113 x 56 x 13 mm (4.45 x 2.20 x 0.51 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "120 g (4.23 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "5 MP, 2560 x 1920 pixels, autofocus",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g"
+        },
+        "Display": {
+            "": "- HTC Sense UI",
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "320 x 480 pixels (~180 ppi pixel density)",
+            "Size": "3.2 inches (~48.2% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- Dedicated search key\n- MP3/eAAC+/WAV/WMA player\n- MP4/H.264/WMV player\n- Voice memo/dial/commands\n- Predictive text input",
+            "Browser": "HTML",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2009, October",
+            "Status": "Available. Released 2009, November"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB, 8 GB included",
+            "Internal": "288 MB RAM; 512 MB"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "2/10 (About 80 EUR)",
+            "SAR US": "1.19 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "CDMA 800 / 1900",
+            "3G bands": "CDMA2000 1xEV-DO",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Speed": "EV-DO Rev.A 3.1 Mbps",
+            "Technology": "CDMA / EVDO"
+        },
+        "Platform": {
+            "CPU": "528 MHz ARM 11",
+            "Chipset": "Qualcomm MSM7600",
+            "OS": "Android OS, v2.1 (Eclair)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "For Verizon",
+        "device_name": "HTC DROID ERIS",
+        "image": {
+            "href": "http://www.gsmarena.com/htc_droid_eris-pictures-3428.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/htc-droid-eris.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/htc_droid_eris-3428.php"
+    }
+}

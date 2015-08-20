@@ -1,0 +1,85 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1700 mAh battery",
+            "Stand-by": "Up to 372 h (2G) / Up to 610 h (3G)",
+            "Talk time": "Up to 6 h (2G) / Up to 8 h 30 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "125.3 x 66.1 x 8.5 mm (4.93 x 2.60 x 0.33 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "116 g (4.09 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face/smile detection",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash",
+            "Secondary": "2 MP",
+            "Video": "1080p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP, apt-X",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "microUSB v2.0 (MHL TV-out), USB Host",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- TouchWiz UI v4.0",
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "480 x 800 pixels (~217 ppi pixel density)",
+            "Size": "4.3 inches (~63.5% screen-to-body ratio)",
+            "Type": "Super AMOLED Plus capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP4/DivX/XviD/WMV/H.264 player\n- MP3/WAV/eAAC+/AC3/FLAC player\n- Photo/video editor\n- Document editor",
+            "Browser": "HTML, Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2011, July",
+            "Status": "Available. Released 2011, July"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "16 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "6/10 (About 260 EUR)",
+            "SAR EU": "0.34 W/kg (head)",
+            "SAR US": "0.16 W/kg (head) \u00a0 \u00a0 0.96 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100 /1800",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 21.1/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.2 GHz Cortex-A9",
+            "Chipset": "Exynos",
+            "GPU": "Mali-400",
+            "OS": "Android OS, v2.3 (Gingerbread)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "For Virgin Mobile and Bell in Canada",
+        "device_name": "Samsung Galaxy S II 4G I9100M",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_galaxy_s_ii_4g_i9100m-pictures-4059.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s-ii-4g-new.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_galaxy_s_ii_4g_i9100m-4059.php"
+    }
+}

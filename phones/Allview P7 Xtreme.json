@@ -1,0 +1,82 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable 2200 mAh battery",
+            "Stand-by": "Up to 244 h",
+            "Talk time": "Up to 8 h 40 min"
+        },
+        "Body": {
+            "Dimensions": "139.7 x 66.3 x 8.5 mm (5.5 x 2.61 x 0.33 in)",
+            "SIM": "Dual SIM (Micro-SIM, dual stand-by)",
+            "Weight": "143.1 g (5.04 oz)"
+        },
+        "Camera": {
+            "Features": "Rotating lens, geo-tagging, touch focus, face/smile detection, panorama, HDR",
+            "Primary": "13 MP, 4160 x 3120 pixels, autofocus, LED flash",
+            "Secondary": "No",
+            "Video": "1080p"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0, USB Host",
+            "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Scratch-resistant glass",
+            "Resolution": "720 x 1280 pixels (~312 ppi pixel density)",
+            "Size": "4.7 inches (~65.7% screen-to-body ratio)",
+            "Type": "IGZO capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP4/WMV/H.264 player\n- MP3/WAV/WMA/eAAC+ player\n- Photo/video editor\n- Document viewer\n- Voice memo/dial",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2014, April",
+            "Status": "Available. Released 2014, April"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "16 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "6/10 (About 290 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Class 10",
+            "GPRS": "Class 12",
+            "Speed": "HSPA",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Octa-core 1.7 GHz Cortex-A7",
+            "Chipset": "Mediatek MT6592",
+            "GPU": "Mali-450MP4",
+            "OS": "Android OS, v4.2.2 (Jelly Bean)"
+        },
+        "Sound": {
+            "": "- DTS sound",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Allview P7 Xtreme",
+        "image": {
+            "href": "http://www.gsmarena.com/allview_p7_xtreme-pictures-6292.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/allview-p7-xtreme.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/allview_p7_xtreme-6292.php"
+    }
+}

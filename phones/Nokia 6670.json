@@ -1,0 +1,78 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 900 mAh battery (BL-5C)",
+            "Stand-by": "Up to 240 h",
+            "Talk time": "Up to 4 h"
+        },
+        "Body": {
+            "Dimensions": "108.6 x 53 x 20.9 mm, 98 cc (4.28 x 2.09 x 0.82 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "120 g (4.23 oz)"
+        },
+        "Camera": {
+            "Primary": "1 MP, 1152x864 pixels",
+            "Secondary": "No",
+            "Video": "QCIF"
+        },
+        "Comms": {
+            "Bluetooth": "v1.1",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "Pop-Port",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- 5-way navi key\n- Downloadable themes",
+            "Resolution": "176 x 208 pixels (~130 ppi pixel density)",
+            "Size": "2.1 inches, 35 x 41 mm (~24.4% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- MP3/AAC/MP4 player\n- Predictive text input\n- Organizer\n- Voice command/memo",
+            "Browser": "WAP 2.0/xHTML, HTML with .pdf support",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2004, 3Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- 10 min video clips",
+            "Card slot": "RS-DV-MMC, 64 MB included",
+            "Internal": "8 MB"
+        },
+        "Misc": {
+            "Colors": "Deep Blue, Aluminum Grey",
+            "SAR EU": "0.52 W/kg (head)",
+            "SAR US": "0.73 W/kg (head) \u00a0 \u00a0 0.60 W/kg (body)"
+        },
+        "Network": {
+            "": "GSM 850 / 1800 / 1900 - US version",
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 6",
+            "Technology": "GSM"
+        },
+        "Platform": {
+            "CPU": "123 MHz ARM925T",
+            "Chipset": "TI OMAP 1510",
+            "OS": "Symbian OS v7.0s, Series 60 v2.0 UI"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, monophonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 6670",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_6670-pictures-894.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/no6670.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_6670-894.php"
+    }
+}

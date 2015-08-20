@@ -1,0 +1,95 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 820 mAh battery",
+            "Stand-by": "Up to 300 h",
+            "Talk time": "Up to 5 h"
+        },
+        "Body": {
+            "Dimensions": "104 x 46.5 x 17.7 mm (4.09 x 1.83 x 0.70 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "90 g (3.17 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 1024 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v1.2, A2DP",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "132 x 176 pixels (~122 ppi pixel density)",
+            "Size": "1.8 inches, 27 x 36 mm (~20.7% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/AAC player\n- Predictive text input\n- Organizer\n- Voice memo",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, EMail, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2006, March",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "10 dialed, 10 received, 10 missed calls",
+            "Card slot": "RS-MMC",
+            "Internal": "23 MB",
+            "Phonebook": "Yes, Photo call"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3, AAC ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "BenQ-Siemens C81",
+        "image": {
+            "href": "http://www.gsmarena.com/benq_siemens_c81-pictures-1498.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/benqsiemens-c81.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/benq_siemens_c81-1498.php"
+    }
+}

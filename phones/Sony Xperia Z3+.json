@@ -1,0 +1,95 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 2930 mAh battery",
+            "Music play": "Up to 91 h",
+            "Stand-by": "Up to 580 h (2G) / Up to 590 h (3G)",
+            "Talk time": "Up to 12 h (2G) / Up to 17 h (3G)"
+        },
+        "Body": {
+            "": "- IP68 certified - dust proof and water resistant over 1.5 meter and 30 minutes",
+            "Dimensions": "146 x 72 x 6.9 mm (5.75 x 2.83 x 0.27 in)",
+            "SIM": "Nano-SIM",
+            "Weight": "144 g (5.08 oz)"
+        },
+        "Camera": {
+            "Features": "1/2.3'' sensor size, geo-tagging, touch focus, face detection, HDR, panorama",
+            "Primary": "20.7 MP, 5248 \u0445 3936 pixels, autofocus, LED flash, check quality",
+            "Secondary": "5.1 MP, 1080p@30fps, HDR",
+            "Video": "2160p@30fps, 1080p@60fps, 720p@120fps, HDR, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v4.1, A2DP, apt-X",
+            "GPS": "Yes, with A-GPS, GLONASS/ Beidou (market dependant)",
+            "NFC": "Yes",
+            "Radio": "FM radio with RDS",
+            "USB": "microUSB v2.0 (MHL 3 TV-out), USB Host",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- Triluminos display\n- X-Reality Engine",
+            "Multitouch": "Yes, up to 10 fingers",
+            "Protection": "Scratch-resistant glass, oleophobic coating",
+            "Resolution": "1080 x 1920 pixels (~424 ppi pixel density)",
+            "Size": "5.2 inches (~70.9% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Fast battery charging: 60% in 30 min (Quick Charge 2.0)\n- ANT+ support\n- Active noise cancellation with dedicated mic\n- Xvid/MP4/H.265 player\n- MP3/eAAC+/WAV/Flac player\n- Document viewer\n- Photo/video editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, IM, Push Email",
+            "Sensors": "Accelerometer, gyro, proximity, compass, barometer"
+        },
+        "Launch": {
+            "Announced": "2015, May",
+            "Status": "Available. Released 2015, June"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 128 GB",
+            "Internal": "32 GB, 3 GB RAM"
+        },
+        "Misc": {
+            "Colors": "White, black, copper, aqua green",
+            "Price group": "9/10 (About 620 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+            "4G bands": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 12(700), 17(700), 20(800), 28(700), 40(2300)",
+            "EDGE": "Up to 296 kbps",
+            "GPRS": "Up to 107 kbps",
+            "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat6 300/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.5 GHz Cortex-A53 & Quad-core 2 GHz Cortex-A57",
+            "Chipset": "Qualcomm MSM8994 Snapdragon 810",
+            "GPU": "Adreno 430",
+            "OS": "Android OS, v5.0 (Lollipop)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        },
+        "Tests": {
+            "Audio quality": "Noise -94.8dB / Crosstalk -94.3dB",
+            "Battery life": "Endurance rating 65h",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 1158 (nominal), 2.824 (sunlight)",
+            "Loudspeaker": "Voice 66dB / Noise 66dB / Ring 67dB",
+            "Performance": "Basemark OS II: 1572 / Basemark OS II 2.0: 1479\nBasemark X: 23334"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Sony Xperia Z3 Plus, Xperia Z4, Sony E6553",
+        "device_name": "Sony Xperia Z3+",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_xperia_z3+-pictures-6878.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/sony-xperia-z4.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_xperia_z3+-6878.php"
+    }
+}

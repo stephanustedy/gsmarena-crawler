@@ -1,0 +1,78 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1400 mAh battery",
+            "Stand-by": "Up to 135 h",
+            "Talk time": "Up to 5 h"
+        },
+        "Body": {
+            "Dimensions": "113 x 66 x 10.4 mm (4.45 x 2.60 x 0.41 in)",
+            "SIM": "Dual SIM",
+            "Weight": "-"
+        },
+        "Camera": {
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, LED flash",
+            "Secondary": "Yes",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "No",
+            "Radio": "FM radio",
+            "USB": "Yes",
+            "WLAN": "Yes"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "480 x 854 pixels (~218 ppi pixel density)",
+            "Size": "4.5 inches (~74.8% screen-to-body ratio)",
+            "Type": "Capacitive touchscreen"
+        },
+        "Features": {
+            "": "- MP3/AAC/WMA/WAV player\n- MP4/WMV/H.264 player\n- Document viewer\n- Voice memo/dial",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2013",
+            "Status": "Available. Released 2013"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "164 MB"
+        },
+        "Misc": {
+            "Colors": "White/Black",
+            "Price group": "2/10 (About 70 EUR)",
+            "SAR EU": "0.99 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Technology": "GSM"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1 GHz Cortex-A9",
+            "Chipset": "Mediatek MT6517",
+            "GPU": "PowerVR SGX531u",
+            "OS": "Android OS, v4.0 (Ice Cream Sandwich)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Karbonn A7 Star",
+        "image": {
+            "href": "http://www.gsmarena.com/karbonn_a7_star-pictures-5519.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/karbonn-a7.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/karbonn_a7_star-5519.php"
+    }
+}

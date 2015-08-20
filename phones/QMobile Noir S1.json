@@ -1,0 +1,80 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 2000 mAh battery",
+            "Stand-by": "Up to 200 h (3G)",
+            "Talk time": "Up to 10 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "143 x 71.8 x 8.9 mm (5.63 x 2.83 x 0.35 in)",
+            "SIM": "Dual SIM",
+            "Weight": "152 g (5.36 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, LED flash",
+            "Secondary": "5 MP",
+            "Video": "720p"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, LE",
+            "GPS": "A-GPS only",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "480 x 854 pixels (~196 ppi pixel density)",
+            "Size": "5.0 inches (~67.1% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP3/AAC/WMA/WAV player\n- MP4/DivX/XviD/WMV/H.264 player\n- Photo/video editor\n- Document viewer",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2015, July",
+            "Status": "Available. Released 2015, July"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "8 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "2/10 (About 100 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 850 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 42.2/11.5 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.3 GHz",
+            "Chipset": "Mediatek MT6582M",
+            "GPU": "Mali-400",
+            "OS": "Android OS, v5.0 (Lollipop)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "QMobile Noir S1",
+        "image": {
+            "href": "http://www.gsmarena.com/qmobile_noir_s1-pictures-7396.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/qmobile-noir-s1.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/qmobile_noir_s1-7396.php"
+    }
+}

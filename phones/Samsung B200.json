@@ -1,0 +1,69 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1000 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "104 x 44.5 x 16 mm (4.09 x 1.75 x 0.63 in)",
+            "SIM": "Mini-SIM",
+            "Weight": ""
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "FM radio; broadcast recording",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "128 x 128 pixels (~119 ppi pixel density)",
+            "Size": "1.52 inches (~16.1% screen-to-body ratio)",
+            "Type": "CSTN, 65K colors"
+        },
+        "Features": {
+            "": "- MP3 player\n- Mobile Tracker\n- Organizer\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2008, April. Released 2008, September",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "30 dialed, 30 received, 30 missed calls",
+            "Card slot": "No",
+            "Internal": "2 MB",
+            "Phonebook": "500 entries"
+        },
+        "Misc": {
+            "Colors": "Silver",
+            "Price group": "3/10 (About 120 EUR)",
+            "SAR EU": "0.67 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Samsung B200",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_b200-pictures-2359.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-b200.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_b200-2359.php"
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1000 mAh battery",
+            "Stand-by": "Up to 500 h (2G) / Up to 370 h (3G)",
+            "Talk time": "Up to 7 h 30 min (2G) / Up to 6 h 10 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "104 x 55 x 12.9 mm (4.09 x 2.17 x 0.51 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "110 g (3.88 oz)"
+        },
+        "Camera": {
+            "Primary": "3.15 MP, 2048 x 1536 pixels, check quality",
+            "Secondary": "No",
+            "Video": "CIF@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "miniUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g"
+        },
+        "Display": {
+            "": "- TouchFLO finger swipe navigation\n- Touch-sensitive zoom bar",
+            "Resolution": "240 x 320 pixels (~143 ppi pixel density)",
+            "Size": "2.8 inches (~42.4% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 65K colors"
+        },
+        "Features": {
+            "": "- MP3/WAV/eAAC+/WMA player\n- MP4/WMV/AVI/H.264 player\n- Pocket Office \n- Organizer\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML (Opera 9.5)",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS (threaded view), MMS, Email, IM, Push Email"
+        },
+        "Launch": {
+            "Announced": "2009, September",
+            "Status": "Available. Released 2009, September"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 16 GB",
+            "Internal": "256 MB RAM, 512 MB ROM"
+        },
+        "Misc": {
+            "Colors": "Black, Brown, Silver",
+            "Price group": "2/10 (About 90 EUR)",
+            "SAR US": "0.83 W/kg (head) \u00a0 \u00a0 1.07 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Speed": "HSPA 7.2/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "528 MHz ARM 11",
+            "Chipset": "Qualcomm MSM7225 Snapdragon S1",
+            "OS": "Microsoft Windows Mobile 6.5 Professional"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -84.6dB / Crosstalk -84.9dB",
+            "Camera": "Photo",
+            "Loudspeaker": "Voice 75dB / Noise 75dB / Ring 82dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as HTC T3333 Touch2",
+        "device_name": "HTC Touch2",
+        "image": {
+            "href": "http://www.gsmarena.com/htc_touch2-pictures-2924.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/htc-touch2-new.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/htc_touch2-2924.php"
+    }
+}

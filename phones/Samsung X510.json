@@ -1,0 +1,74 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 800 mAh battery",
+            "Stand-by": "Up to 320 h",
+            "Talk time": "Up to 4 h"
+        },
+        "Body": {
+            "Dimensions": "88 x 44 x 19 mm (3.46 x 1.73 x 0.75 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "75 g (2.65 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "No"
+        },
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "No",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "128 x 160 pixels (~114 ppi pixel density)",
+            "Size": "1.8 inches, 28 x 35 mm (~26.3% screen-to-body ratio)",
+            "Type": "UFB, 65K colors"
+        },
+        "Features": {
+            "": "- Predictive text input\n- Organizer\n- Voice memo",
+            "Browser": "WAP 1.2",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2006, October",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- 1 MB for pictures\n- 600 KB for ringtones\n- 100 KB for voice memo\n- 700 KB for MMS\n- 512 KB for Java",
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "No",
+            "Phonebook": "500 entries"
+        },
+        "Misc": {
+            "Colors": "Gold, Blue, Black, Red",
+            "SAR EU": "0.78 W/kg (head)",
+            "SAR US": "0.64 W/kg (head) \u00a0 \u00a0 0.63 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Samsung X510",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_x510-pictures-1762.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-x510.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_x510-1762.php"
+    }
+}

@@ -1,0 +1,97 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 3000 mAh battery",
+            "Stand-by": "Up to 565 h (2G) / Up to 553 h (3G)",
+            "Talk time": "Up to 19 h (2G) / Up to 21 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "146.3 x 74.6 x 8.9 mm (5.76 x 2.94 x 0.35 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "149 g (5.26 oz)"
+        },
+        "Camera": {
+            "Features": "1/3'' sensor size, simultaneous video and image recording, geo-tagging, face detection, HDR",
+            "Primary": "13 MP, 4160 x 3120 pixels, phase detection/laser autofocus, optical image stabilization, dual-LED (dual tone) flash, check quality",
+            "Secondary": "2.1 MP, 1080p@30fps",
+            "Video": "2160p@30fps, 1080p@30fps, optical stabilization, HDR, stereo sound rec., check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, LE, apt-X",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "Infrared port": "Yes",
+            "NFC": "Yes",
+            "Radio": "Stereo FM radio with RDS (D855 model only)",
+            "USB": "microUSB v2.0 (SlimPort), USB Host",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, DLNA, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 3",
+            "Resolution": "1440 x 2560 pixels (~538 ppi pixel density)",
+            "Size": "5.5 inches (~75.3% screen-to-body ratio)",
+            "Type": "True HD-IPS + LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Optional Wireless Charging (Qi-enabled)v\n- Active noise cancellation with dedicated mic\n- MP4/DviX/XviD/H.264/WMV player\n- MP3/WAV/FLAC/eAAC+/WMA player\n- Photo viewer/editor\n- Document viewer",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2014, May",
+            "Status": "Available. Released 2014, June"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 128 GB",
+            "Internal": "16 GB, 2 GB RAM/ 32 GB, 3 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Metallic Black, Silk White, Shine Gold, Moon Violet, Burgundy Red, Blue Steel",
+            "Price group": "6/10 (About 300 EUR)",
+            "SAR EU": "0.23 W/kg (head)",
+            "SAR US": "0.39 W/kg (head) \u00a0 \u00a0 0.48 W/kg (body)"
+        },
+        "Network": {
+            "": "LTE 700 / 850 / 1900 / 1700 / 2600 - D852\nLTE 700 / 1800 / 2100 / 2600 / TD2300 - Virgin Mobile",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - all versions",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100 - D855",
+            "4G bands": "LTE band 2(1900), 4(1700/2100), 7(2600), 17(700) - D851",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 42.2/21.1 Mbps, LTE Cat4 150/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 2.5 GHz Krait 400",
+            "Chipset": "Qualcomm MSM8975AC Snapdragon 801",
+            "GPU": "Adreno 330",
+            "OS": "Android OS, v4.4.2 (KitKat), upgradable to v5.0 (Lollipop)"
+        },
+        "Sound": {
+            "": "- Dolby mobile",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -99.4dB / Crosstalk -100.0dB",
+            "Battery life": "Endurance rating 63h",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 789:1 (nominal), 1.820 (sunlight)",
+            "Loudspeaker": "Voice 70dB / Noise 66dB / Ring 80dB",
+            "Performance": "Basemark OS II: 1126 / Basemark OS II 2.0: 1327\nBasemark X: 11552"
+        }
+    },
+    "main": {
+        "canonical_name": "Available as:\nLG G3 D855 for Europe\nLG G3 D850 for AT&T\nLG G3 D851 for T-Mobile\nLG G3 D852 for Canada",
+        "device_name": "LG G3",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_g3-pictures-6294.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-g3-1.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_g3-6294.php"
+    }
+}

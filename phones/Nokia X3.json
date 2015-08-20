@@ -1,0 +1,81 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 860 mAh battery (BL-4CT)",
+            "Music play": "Up to 26 h",
+            "Stand-by": "Up to 380 h",
+            "Talk time": "Up to 7 h 30 min"
+        },
+        "Body": {
+            "Dimensions": "96 x 49.3 x 14.1 mm, 65.8 cc (3.78 x 1.94 x 0.56 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "103 g (3.63 oz)"
+        },
+        "Camera": {
+            "Primary": "3.2 MP, 2048 x 1536 pixels, enhanced fixed focus, check quality",
+            "Secondary": "No",
+            "Video": "QCIF@15fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "No",
+            "Radio": "Stereo FM radio with RDS; built-in antenna",
+            "USB": "microUSB",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~182 ppi pixel density)",
+            "Size": "2.2 inches (~31.7% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- MP4/H.264/WMV player\n- MP3/WAV/eAAC+/WMA player\n- Organizer\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML, Adobe Flash Lite",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS (threaded view), MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2009, September",
+            "Status": "Available. Released 2009, December"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "microSD, up to 16 GB, 2 GB included",
+            "Internal": "46 MB",
+            "Phonebook": "2000 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Red on Black, Blue on Silver",
+            "Price group": "2/10 (About 90 EUR)",
+            "SAR EU": "0.73 W/kg (head)",
+            "SAR US": "1.28 W/kg (head) \u00a0 \u00a0 0.72 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "Class 32, 296 / 178.8 kbits",
+            "GPRS": "Class 32",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "": "- Dedicated music keys",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        },
+        "Tests": {
+            "Audio quality": "Noise -88.3dB / Crosstalk -89.0dB",
+            "Camera": "Photo",
+            "Loudspeaker": "Voice 65dB / Noise 66dB / Ring 66dB"
+        }
+    },
+    "main": {
+        "device_name": "Nokia X3",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_x3-pictures-2923.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-x3.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_x3-2923.php"
+    }
+}

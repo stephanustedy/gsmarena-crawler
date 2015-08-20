@@ -1,0 +1,91 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 690 mAh battery",
+            "Stand-by": "up to 90 h",
+            "Talk time": "up to 5 h"
+        },
+        "Body": {
+            "Dimensions": "120 x 45 x 14 mm, 90 cc (4.72 x 1.77 x 0.55 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "85 g (3.00 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- LCD illuminates in 3 different colours",
+            "Resolution": "11 lines x 16 chars",
+            "Size": "",
+            "Type": "Monochrome graphic"
+        },
+        "Features": {
+            "": "- Predictive text input\n- Voice memo\n- Organizer\n- Dictaphone",
+            "Alarm": "Yes",
+            "Browser": "WAP 1.2",
+            "Clock": "Yes",
+            "Games": "2",
+            "Java": "No",
+            "Messaging": "SMS, Email"
+        },
+        "Launch": {
+            "Announced": "2001",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- Message templates",
+            "Call records": "10 dialed, 10 received, 10 missed calls",
+            "Card slot": "No",
+            "Phonebook": "200"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "Class 8 (GD96 only)",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Monophonic ringtones, composer",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "canonical_name": "The GPRS version is called GD96",
+        "device_name": "Panasonic GD95",
+        "index": 1,
+        "url": "http://www.gsmarena.com/panasonic_gd95-242.php"
+    }
+}

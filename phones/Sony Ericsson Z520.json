@@ -1,0 +1,78 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 900 mAh battery (BST-37)",
+            "Stand-by": "Up to 400 h",
+            "Talk time": "Up to 9 h"
+        },
+        "Body": {
+            "Dimensions": "93 x 46 x 24 mm (3.66 x 1.81 x 0.94 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "96 g (3.39 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second external CSTN display 4096 colors (101 x 80 pixels)\n- Wallpapers, screensavers",
+            "Resolution": "128 x 160 pixels (~114 ppi pixel density)",
+            "Size": "1.8 inches, 29 x 35 mm (~23.8% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- MP3/MP4 player\n- Photo editor\n- Exchangeable covers\n- Organizer\n- SyncML",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2005, June",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "30 received, dialed and missed calls",
+            "Card slot": "No",
+            "Internal": "16 MB",
+            "Phonebook": "500 x 8 fields, Photo call"
+        },
+        "Misc": {
+            "Colors": "Light Blue, Pale Purple, Pale Pink, Pale Yellow",
+            "Price group": "2/10 (About 70 EUR)",
+            "SAR EU": "0.96 W/kg (head)",
+            "SAR US": "1.47 W/kg (head) \u00a0 \u00a0 0.70 W/kg (body)"
+        },
+        "Network": {
+            "": "GSM 850 / 900 / 1800 / 1900 - Z520a",
+            "2G bands": "GSM 900 / 1800 / 1900 - Z520i",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3, AAC ringtones, composer",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Z520i - GSM 900/1800/1900 in Europe and Asia \nZ520a - GSM 850/900/1800/1900 in America",
+        "device_name": "Sony Ericsson Z520",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_ericsson_z520-pictures-1202.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/sonyericsson-z520.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_ericsson_z520-1202.php"
+    }
+}

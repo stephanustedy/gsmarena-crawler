@@ -1,0 +1,89 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po 1700 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "120.5 x 63 x 10.3 mm (4.74 x 2.48 x 0.41 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "113 g (3.99 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, LED flash, check quality",
+            "Secondary": "No",
+            "Video": "Yes, 720p@30fps, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v3.1, A2DP, EDR/ v4.0, LE after Amber update",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "Radio": "FM radio",
+            "USB": "Yes, microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "480 x 800 pixels (~233 ppi pixel density)",
+            "Size": "4.0 inches (~60.0% screen-to-body ratio)",
+            "Type": "S-LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- OneDrive (15 GB cloud storage)\n- MP3/WAV/WMA/eAAC+ player\n- MP4/WMV/H.264/H.263 player\n- Document viewer\n- Voice memo/dial\n- Predictive text input",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2012, September",
+            "Status": "Available. Released 2012, November"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "4 GB, 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Domino, Fiesta Red, Atlantic Blue, High-Rise Gray",
+            "Price group": "3/10 (About 150 EUR)",
+            "SAR US": "0.97 W/kg (head) \u00a0 \u00a0 1.08 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1 GHz Krait",
+            "Chipset": "Qualcomm Snapdragon S4",
+            "GPU": "Adreno 305",
+            "OS": "Microsoft Windows Phone 8, upgradeable to WP8 GDR3"
+        },
+        "Sound": {
+            "": "- Beats Audio",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -79.7dB / Crosstalk -75.3dB",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 1318:1 (nominal)",
+            "Loudspeaker": "Voice 66dB / Noise 65dB / Ring 75dB"
+        }
+    },
+    "main": {
+        "device_name": "HTC Windows Phone 8S",
+        "image": {
+            "href": "http://www.gsmarena.com/htc_windows_phone_8s-pictures-5000.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/htc-8s.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/htc_windows_phone_8s-5000.php"
+    }
+}

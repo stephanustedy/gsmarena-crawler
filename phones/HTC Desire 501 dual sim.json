@@ -1,0 +1,84 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 2100 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "128.5 x 66.7 x 9.8 mm (5.06 x 2.63 x 0.39 in)",
+            "SIM": "Dual SIM, dual call (Micro-SIM, dual stand-by)",
+            "Weight": "130 g (4.59 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face/smile detection, simultaneous HD video and image recording, HDR",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash",
+            "Secondary": "2.1 MP",
+            "Video": "720p"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, apt-X",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "NFC": "Yes",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot, DLNA"
+        },
+        "Display": {
+            "": "- HTC Sense UI 4+",
+            "Multitouch": "Yes",
+            "Resolution": "480 x 800 pixels (~217 ppi pixel density)",
+            "Size": "4.3 inches (~61.4% screen-to-body ratio)",
+            "Type": "Super LCD2 capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP4/H.264/WMV player\n- MP3/eAAC+/WMA/WAV player\n- Document viewer\n- Photo viewer/editor\n- Voice memo/dial/commands",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2013, December",
+            "Status": "Available. Released 2014, February"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "8 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White, Pink",
+            "Price group": "4/10 (About 190 EUR)",
+            "SAR US": "0.51 W/kg (head) \u00a0 \u00a0 0.56 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 14.4/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.2 GHz Cortex-A9",
+            "Chipset": "NovaThor U8500",
+            "GPU": "Mali-400",
+            "OS": "Android OS, v4.1 (Jelly Bean)"
+        },
+        "Sound": {
+            "": "- Beats Audio",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "HTC Desire 501 dual sim",
+        "image": {
+            "href": "http://www.gsmarena.com/htc_desire_501_dual_sim-pictures-5907.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/htc-desire-501-dualsim.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/htc_desire_501_dual_sim-5907.php"
+    }
+}

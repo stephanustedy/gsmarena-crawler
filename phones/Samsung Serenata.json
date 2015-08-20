@@ -1,0 +1,73 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1000 mAh battery",
+            "Music play": "Up to 13 h (headset) / Up to 5 h (speaker)",
+            "Stand-by": "Up to 280 h",
+            "Talk time": "Up to 3 h"
+        },
+        "Body": {
+            "Dimensions": "109.5 x 63 x 19.7 mm (4.31 x 2.48 x 0.78 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "136 g (4.80 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "240 x 240 pixels (~150 ppi pixel density)",
+            "Size": "2.26 inches (~23.9% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/AAC/WMA player\n- Organizer\n- Voice memo\n- World time",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "No",
+            "Java": "No",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2007, October. Released 2007, November",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "No",
+            "Internal": "4 GB",
+            "Phonebook": "1000 entries"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "9/10 (About 1000 EUR)",
+            "SAR US": "0.46 W/kg (head) \u00a0 \u00a0 0.58 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "3G bands": "HSDPA 2100",
+            "EDGE": "No",
+            "GPRS": "Yes",
+            "Speed": "HSPA",
+            "Technology": "GSM / HSPA"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Polyphonic(64) ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Design by David Lewis for Bang & Olufsen and Samsung",
+        "device_name": "Samsung Serenata",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_serenata-pictures-2130.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-serenata.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_serenata-2130.php"
+    }
+}

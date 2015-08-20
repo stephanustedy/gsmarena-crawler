@@ -1,0 +1,76 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 930 mAh battery (BST-38)",
+            "Stand-by": "Up to 370 h",
+            "Talk time": "Up to 9 h"
+        },
+        "Body": {
+            "Dimensions": "99 x 47 x 14 mm (3.90 x 1.85 x 0.55 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "94 g (3.32 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Wallpapers, screensavers",
+            "Resolution": "240 x 320 pixels (~200 ppi pixel density)",
+            "Size": "2.0 inches (~26.6% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- TrackID music recognition \n- MP3/AAC/AAC+/eAAC+ player\n- Predictive text input\n- Organizer\n- Voice memo",
+            "Browser": "WAP 2.0/HTML(NetFront), RSS feeds",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2007, May",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "30 received, dialed and missed calls",
+            "Card slot": "Memory Stick Micro (M2), up to 2 GB",
+            "Internal": "12 MB",
+            "Phonebook": "1000 contacts, Photo call"
+        },
+        "Misc": {
+            "Colors": "Mysterious Green, Spring Yellow, Contrasted Copper, Ice Purple, Silver Steel",
+            "Price group": "2/10 (About 90 EUR)",
+            "SAR EU": "0.77 W/kg (head)",
+            "SAR US": "1.35 W/kg (head) \u00a0 \u00a0 0.59 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3, AAC ringtones, composer",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "- S500i 850/900/1800/1900 MHz for Europe, Middle East, Africa.\n- S500c 850/900/1800/1900 MHz for China Mainland",
+        "device_name": "Sony Ericsson S500",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_ericsson_s500-pictures-1983.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/sonyericsson-s500.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_ericsson_s500-1983.php"
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 850 mAh battery (BL-5C)",
+            "Stand-by": "Up to 170 h",
+            "Talk time": "Up to 4 h"
+        },
+        "Body": {
+            "Dimensions": "87 x 78 x 19 mm, 103 cc (3.43 x 3.07 x 0.75 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "123 g (4.34 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "SQCIF"
+        },
+        "Comms": {
+            "Bluetooth": "v1.1",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Wallpapers",
+            "Resolution": "128 x 160 pixels (~102 ppi pixel density)",
+            "Size": "2.0 inches (~18.6% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- Multitasking (talk & shoot)\n- MP3 player\n- Predictive text input\n- Organizer",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Downloadable Java games",
+            "Java": "Yes",
+            "Languages": "17",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2003, 4Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- Editable message templates\n- Calendar notes",
+            "Call records": "20 dialed, 10 received, 10 missed calls",
+            "Card slot": "No",
+            "Internal": "29 MB",
+            "Phonebook": "Up to available memory, Photo call"
+        },
+        "Misc": {
+            "Colors": "",
+            "SAR EU": "0.71 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "3G bands": "UMTS 2100",
+            "EDGE": "No",
+            "GPRS": "Yes",
+            "Speed": "Yes, 384 kbps",
+            "Technology": "GSM / UMTS"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, monophonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 7600",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_7600-pictures-538.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/no7600.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_7600-538.php"
+    }
+}

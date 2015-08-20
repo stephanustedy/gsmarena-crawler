@@ -1,0 +1,79 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 900 mAh battery (BP-5M)",
+            "Stand-by": "Up to 320h",
+            "Talk time": "Up to 6h"
+        },
+        "Body": {
+            "Dimensions": "98.5 x 48.5 x 17 mm, 75 cc (3.88 x 1.91 x 0.67 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "111 g (3.92 oz)"
+        },
+        "Camera": {
+            "Primary": "3.15 MP, 2048 x 1536 pixels, autofocus, LED flash",
+            "Secondary": "VGA videocall camera",
+            "Video": "480p@15fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "Stereo FM radio with RDS; Visual radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- NaviSlide navigation key\n- Downloadable themes",
+            "Resolution": "240 x 320 pixels (~182 ppi pixel density)",
+            "Size": "2.2 inches (~31.4% screen-to-body ratio)",
+            "Type": "TFT, 16M colors"
+        },
+        "Features": {
+            "": "- MP3/MP4/AAC/eAAc/WMA player\n- Nokia sensor\n- World Clock II\n- Converter II\n- Predictive text input\n- Stopwatch\n- Voice memo/commands",
+            "Browser": "WAP 2.0/xHTML, HTML (Opera mini)",
+            "Games": "Snake II, Rally 3D, Music Guess, Towerbloxx",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2007, August. Released 2007, October",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 8 GB",
+            "Internal": "20 MB",
+            "Phonebook": "2000 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Red, Blue",
+            "Price group": "3/10 (About 110 EUR)",
+            "SAR EU": "1.25 W/kg (head)",
+            "SAR US": "1.13 W/kg (head) \u00a0 \u00a0 0.81 W/kg (body)"
+        },
+        "Network": {
+            "": "UMTS 850 / 1900 - American version",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "UMTS 850 / 2100",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Speed": "Yes, 384 kbps",
+            "Technology": "GSM / UMTS"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3, MP4, WMA, AAC, video tones ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also GSM 850/900/1800/1900 MHz (China)",
+        "device_name": "Nokia 5610 XpressMusic",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_5610_xpressmusic-pictures-2086.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-5610.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_5610_xpressmusic-2086.php"
+    }
+}

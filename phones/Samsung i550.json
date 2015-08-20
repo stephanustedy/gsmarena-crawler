@@ -1,0 +1,85 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1200 mAh battery",
+            "Stand-by": "Up to 360 h",
+            "Talk time": "Up to 8 h"
+        },
+        "Body": {
+            "": "- Trackball",
+            "Dimensions": "115 x 53 x 13.8 mm (4.53 x 2.09 x 0.54 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "109 g (3.84 oz)"
+        },
+        "Camera": {
+            "Primary": "3.15 MP, 2048 x 1536 pixels, autofocus, LED flash",
+            "Secondary": "VGA videocall camera",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "Yes",
+            "Radio": "FM radio",
+            "USB": "v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g (Samsung i550w only)"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~154 ppi pixel density)",
+            "Size": "2.6 inches (~34.3% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- WMV/RV/MP4/3GP player\n- MP3/WMA/WAV/RA/AAC/M4A player\n- Organizer\n- Document viewer (Word, Excel, PowerPoint, PDF)",
+            "Browser": "WAP 2.0/xHTML",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2007, August. Released 2008, February",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "microSD",
+            "Internal": "150 MB"
+        },
+        "Misc": {
+            "Colors": "Black, Silver",
+            "Price group": "3/10 (About 130 EUR)",
+            "SAR EU": "0.72 W/kg (head)",
+            "SAR US": "0.32 W/kg (head) \u00a0 \u00a0 0.41 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "3G bands": "HSDPA 2100",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 3.6/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "330 MHz ARM 1136",
+            "Chipset": "TI OMAP 2430",
+            "GPU": "PowerVR MBX",
+            "OS": "Symbian OS 9.2, Series 60 v3.1 UI"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -90.8dB / Crosstalk -89.1dB",
+            "Loudspeaker": "Voice 73dB / Noise 66dB / Ring 78dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Also version Samsung i550w with WLAN",
+        "device_name": "Samsung i550",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_i550-pictures-2115.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-i550.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_i550-2115.php"
+    }
+}

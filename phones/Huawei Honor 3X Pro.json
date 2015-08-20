@@ -1,0 +1,82 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 3000 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "149.5 x 77.4 x 8.9 mm (5.89 x 3.05 x 0.35 in)",
+            "SIM": "Dual SIM (Mini-SIM, Micro-SIM, dual stand-by)",
+            "Weight": "162 g (5.71 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection, HDR",
+            "Primary": "13 MP, 4128 x 3096 pixels, autofocus, LED flash",
+            "Secondary": "5 MP",
+            "Video": "1080p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Yes"
+        },
+        "Display": {
+            "Multitouch": "Yes, up to 10 fingers",
+            "Resolution": "1080 x 1920 pixels (~401 ppi pixel density)",
+            "Size": "5.5 inches (~72.1% screen-to-body ratio)",
+            "Type": "LTPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP3/WAV/eAAC+ player\n- MP4/H.264 player\n- Document viewer\n- Photo viewer/editor\n- Voice memo/dial/commands",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2014, May",
+            "Status": "Available. Released 2014, June"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "32 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "4/10 (About 200 EUR)"
+        },
+        "Network": {
+            "": "HSDPA 900 / 1900 / 2100",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Octa-core 1.7 GHz Cortex-A7",
+            "Chipset": "Mediatek MT6592",
+            "GPU": "Mali-450MP4",
+            "OS": "Android OS, v4.2.2 (Jelly Bean)"
+        },
+        "Sound": {
+            "": "- DTS sound",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Huawei Honor 3X Pro",
+        "image": {
+            "href": "http://www.gsmarena.com/huawei_honor_3x_pro-pictures-6398.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/huawei-honor-3x-pro.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/huawei_honor_3x_pro-6398.php"
+    }
+}

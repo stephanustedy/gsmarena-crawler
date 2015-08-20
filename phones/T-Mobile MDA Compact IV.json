@@ -1,0 +1,79 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 900 mAh battery",
+            "Stand-by": "Up to 285 h",
+            "Talk time": "Up to 5 h 30 min"
+        },
+        "Body": {
+            "Dimensions": "110 x 52 x 12 mm (4.33 x 2.05 x 0.47 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "98 g (3.46 oz)"
+        },
+        "Camera": {
+            "Primary": "3.15 MP, 2048 x 1536 pixels, autofocus",
+            "Secondary": "VGA videocall camera",
+            "Video": "CIF@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "miniUSB",
+            "WLAN": "Wi-Fi 802.11 b/g"
+        },
+        "Display": {
+            "": "- TouchFLO 3D finger swipe navigation\n- Handwriting recognition",
+            "Resolution": "480 x 640 pixels (~286 ppi pixel density)",
+            "Size": "2.8 inches (~42.4% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 65K colors"
+        },
+        "Features": {
+            "": "- Pocket Office \n- Voice memo\n- MP3 player\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML (Opera 9.5)",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS (threaded view), MMS, Email, IM",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2008, May. Released 2009, Q1",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "4 GB, 128 MB RAM, 256 MB ROM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "SAR US": "1.33 W/kg (head) \u00a0 \u00a0 1.44 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 7.2/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "528 MHz ARM 11",
+            "Chipset": "Qualcomm MSM7201A",
+            "GPU": "Adreno 130",
+            "OS": "Microsoft Windows Mobile 6.1 Professional"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3, WAV, WMA ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "T-Mobile MDA Compact IV",
+        "image": {
+            "href": "http://www.gsmarena.com/t_mobile_mda_compact_iv-pictures-2582.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/mda-compact-4.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/t_mobile_mda_compact_iv-2582.php"
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 2000 mAh battery",
+            "Stand-by": "Up to 240 h (3G)",
+            "Talk time": "Up to 6 h (3G)"
+        },
+        "Body": {
+            "": "- Flashlight",
+            "Dimensions": "143 x 72.8 x 8.9 mm (5.63 x 2.87 x 0.35 in)",
+            "SIM": "Yes",
+            "Weight": "140 g (4.94 oz)"
+        },
+        "Camera": {
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash",
+            "Secondary": "2 MP",
+            "Video": "720p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Scratch-resistant glass",
+            "Resolution": "480 x 854 pixels (~196 ppi pixel density)",
+            "Size": "5.0 inches (~66.2% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/H.263 player\n- MP3/WAV/eAAC+ player\n- Photo/video viewer/editor\n- Voice memo/dial",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2014, September",
+            "Status": "Available. Released 2014, September"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "4 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "White",
+            "Price group": "4/10 (About 180 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 1700 / 1900 / 2100",
+            "4G bands": "LTE band 2(1900), 4(1700/2100), 17(700)",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 42.2/11.5 Mbps, LTE Cat4 150/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.2 GHz",
+            "OS": "Android OS, v4.4.2 (KitKat)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "verykool SL5000 Quantum",
+        "image": {
+            "href": "http://www.gsmarena.com/verykool_sl5000_quantum-pictures-6671.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/verykool-sl500.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/verykool_sl5000_quantum-6671.php"
+    }
+}

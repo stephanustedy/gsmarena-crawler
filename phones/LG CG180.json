@@ -1,0 +1,71 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 750 mAh battery",
+            "Stand-by": "Up to 250 h",
+            "Talk time": "Up to 3 h"
+        },
+        "Body": {
+            "Dimensions": "99 x 45 x 14.7 mm (3.90 x 1.77 x 0.58 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "67 g (2.36 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "No",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Downloadable wallpapers",
+            "Resolution": "128 x 128 pixels (~121 ppi pixel density)",
+            "Size": "1.5 inches (~16.3% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- Voice memo\n- Predictive text input\n- Organizer\n- Tip calculator\n- World clock\n- Stop watch",
+            "Browser": "No",
+            "Games": "Yes",
+            "Java": "No",
+            "Languages": "English, Spanish, French",
+            "Messaging": "SMS"
+        },
+        "Launch": {
+            "Announced": "2007, October",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "10 dialed, 10 received, 10 missed calls",
+            "Card slot": "No",
+            "Phonebook": "500 entries"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "1/10 (About 40 EUR)",
+            "SAR US": "1.17 W/kg (head) \u00a0 \u00a0 1.09 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Polyphonic(16) ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "For AT&T",
+        "device_name": "LG CG180",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_cg180-pictures-2211.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-cg180.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_cg180-2211.php"
+    }
+}

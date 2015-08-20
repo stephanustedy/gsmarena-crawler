@@ -1,0 +1,73 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion battery",
+            "Stand-by": "Up to 150 h",
+            "Talk time": "Up to 3 h"
+        },
+        "Body": {
+            "Dimensions": "91 x 45 x 20.9 mm (3.58 x 1.77 x 0.82 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "88 g (3.10 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels, LED flash",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "176 x 220 pixels (~157 ppi pixel density)",
+            "Size": "1.8 inches (~24.9% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- AAC/M4A player\n- Predictive text input\n- Organizer\n- Voice memo",
+            "Browser": "i-mode",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, DoJa 2.5",
+            "Messaging": "SMS, EMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2006, February",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "No",
+            "Internal": "13 MB",
+            "Phonebook": "1000 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "SAR EU": "0.66 W/kg (head)",
+            "SAR US": "0.36 W/kg (head) \u00a0 \u00a0 0.40 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, AAC ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Samsung S400i",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_s400i-pictures-1477.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-s400i.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_s400i-1477.php"
+    }
+}

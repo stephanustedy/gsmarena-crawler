@@ -1,0 +1,83 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1390 mAh battery",
+            "Stand-by": "Up to 200 h",
+            "Talk time": "Up to 5 h 40 min"
+        },
+        "Body": {
+            "": "- Built-in kickstand",
+            "Dimensions": "110 x 59.6 x 13.4 mm (4.33 x 2.35 x 0.53 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "109 g (3.84 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "3.15 MP, 2048 x 1536 pixels",
+            "Secondary": "VGA",
+            "Video": "480p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "": "- Touch sensitive controls",
+            "Multitouch": "Yes",
+            "Resolution": "320 x 480 pixels (~180 ppi pixel density)",
+            "Size": "3.2 inches (~46.5% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/WAV/WMA/AAC+ player\n- MP4/WMV/H.264 player\n- Document viewer\n- Photo viewer/editor\n- Organizer\n- Voice memo/dial\n- Predictive text input",
+            "Browser": "HTML",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS (threaded view), MMS, Email, IM, Push Email",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2011, October",
+            "Status": "Available. Released 2011, October"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB, 2 GB included",
+            "Internal": "512 MB, 256 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "3/10 (About 130 EUR)",
+            "SAR US": "0.68 W/kg (head) \u00a0 \u00a0 1.03 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 2100",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 7.2/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "800 MHz",
+            "Chipset": "Qualcomm MSM7227T-1 Snapdragon S1",
+            "GPU": "Adreno 200",
+            "OS": "Android OS, v2.3.4 (Gingerbread)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Motorola XT319",
+        "image": {
+            "href": "http://www.gsmarena.com/motorola_xt319-pictures-4918.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/motorola-xt319.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/motorola_xt319-4918.php"
+    }
+}

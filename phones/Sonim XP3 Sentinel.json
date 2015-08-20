@@ -1,0 +1,103 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1850 mAh battery",
+            "Stand-by": "Up to 1500 h",
+            "Talk time": "Up to 18 h"
+        },
+        "Body": {
+            "": "- IP67 certified - dust tight and water proof (up to 1m for 30 mins)\n- MIL-STD-810G certified - salt, dust, humidity, rain, vibration, solar radiation, transport and thermal shock resistant\n- Drop-to-concrete resistance from up to 2m\n- Operational range -20\u00b0C to +55\u00b0C\n- Dedicated red risk side button for emergency GPS alerts\n- Flashlight",
+            "Dimensions": "119 x 56 x 25 mm (4.69 x 2.20 x 0.98 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "170 g (6.00 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels, LED flash",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0",
+            "GPS": "Yes, with A-GPS; SIRF InstantFix",
+            "Radio": "Stereo FM radio",
+            "USB": "miniUSB v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "176 x 220 pixels",
+            "Size": "",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- Lone worker app with GPS tracking\n- Accelerometer-based Man-Down sensor\n- Organizer\n- Voice memo\n- Stopwatch\n- Count-down timer\n- File manager",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS (1000)",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2010, July",
+            "Status": "Available. Released 2010, July"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 2 GB",
+            "Phonebook": "Yes, up to 1000 entries"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "": "GSM 850 / 1800 / 1900",
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Platform": {
+            "CPU": "264 MHz ARM 9",
+            "Chipset": "Philips Nexperia 5210"
+        },
+        "Sound": {
+            "": "- 2.5 mm audio jack",
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Polyphonic(64), MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Sonim XP3 Sentinel",
+        "image": {
+            "href": "http://www.gsmarena.com/sonim_xp3_sentinel-pictures-3417.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/sonim-xp3-sentinel.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sonim_xp3_sentinel-3417.php"
+    }
+}

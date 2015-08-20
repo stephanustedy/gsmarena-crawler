@@ -1,0 +1,76 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion battery",
+            "Stand-by": "Up to 300 h",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "106 x 58 x 12 mm (4.17 x 2.28 x 0.47 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "86 g (3.03 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "No",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g"
+        },
+        "Display": {
+            "Resolution": "-",
+            "Size": "2.8 inches (~39.5% screen-to-body ratio)",
+            "Type": "TFT touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- SNS integration\n- MP4/H.263 player\n- MP3/AAC+ player\n- Organizer\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes + downloadable",
+            "Java": "Yes",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2011, June. Released 2011, June",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 4 GB",
+            "Internal": "50 MB",
+            "Phonebook": "Yes, Photocall"
+        },
+        "Misc": {
+            "Colors": "White",
+            "Price group": "2/10 (About 70 EUR)",
+            "SAR EU": "0.84 W/kg (head) \u00a0 \u00a0 0.83 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 1900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA",
+            "Technology": "GSM / HSPA"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "For Vodafone",
+        "device_name": "LG EGO Wi-Fi",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_ego_wi_fi-pictures-3994.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/LG-EGO-Wi-Fi.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_ego_wi_fi-3994.php"
+    }
+}

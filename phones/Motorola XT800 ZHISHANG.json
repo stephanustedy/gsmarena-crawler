@@ -1,0 +1,83 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 1390 mAh battery",
+            "Stand-by": "Up to 100 h",
+            "Talk time": "Up to 5 h 40 min"
+        },
+        "Body": {
+            "Dimensions": "120 x 61.8 x 11.4 mm, 79.5 cc (4.72 x 2.43 x 0.45 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "137 g (4.83 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "5 MP, 2592 x 1944 pixels, autofocus, dual-LED flash",
+            "Secondary": "Yes",
+            "Video": "480p@24fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "480 x 854 pixels (~265 ppi pixel density)",
+            "Size": "3.7 inches (~50.9% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP3/eAAC+/WAV/WMA player\n- MP4/H.264/WMV player\n- HDMI port\n- Document viewer\n- Photo viewer/editor\n- Organizer\n- Voice memo\n- Predictive text input",
+            "Browser": "HTML",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS (threaded view), MMS, Email, IM, Push Email",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2009, December",
+            "Status": "Available. Released 2010, March"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "512 MB RAM, 1 GB"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "5/10 (About 230 EUR)"
+        },
+        "Network": {
+            "": "CDMA 800 / 1900",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "CDMA2000 1xEV-DO",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "EV-DO Rev.A 3.1 Mbps",
+            "Technology": "GSM / CDMA / EVDO"
+        },
+        "Platform": {
+            "CPU": "550 MHz Cortex-A8",
+            "Chipset": "TI OMAP 3430",
+            "GPU": "PowerVR SGX530",
+            "OS": "Android OS, v2.0 (Eclair)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Motorola GLAM",
+        "device_name": "Motorola XT800 ZHISHANG",
+        "image": {
+            "href": "http://www.gsmarena.com/motorola_xt800_zhishang-pictures-3073.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/motorola-xt800.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/motorola_xt800_zhishang-3073.php"
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po 2300 mAh battery",
+            "Stand-by": "Up to 750 h (2G) / Up to 675 h (3G)",
+            "Talk time": "Up to 24 h (2G) / Up to 12 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "145.1 x 70.2 x 5.5 mm (5.71 x 2.76 x 0.22 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "129 g (4.55 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face detection, panorama, HDR",
+            "Primary": "13 MP, 4128 x 3096 pixels, autofocus, LED flash",
+            "Secondary": "5 MP",
+            "Video": "1080p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 3",
+            "Resolution": "1080 x 1920 pixels (~441 ppi pixel density)",
+            "Size": "5.0 inches (~67.7% screen-to-body ratio)",
+            "Type": "Super AMOLED capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- DivX/MP4/H.264 player\n- MP3/WAV/eAAC+ player\n- Document viewer\n- Photo/video viewer\n- Voice memo/dial",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, gyro, proximity"
+        },
+        "Launch": {
+            "Announced": "2014, May",
+            "Status": "Available. Released 2014, May"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "16 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White/Silver, White/Gold",
+            "Price group": "6/10 (About 260 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 1900 / 2100",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 21.1/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Octa-core 1.7 GHz Cortex-A7",
+            "Chipset": "Mediatek MT6592",
+            "GPU": "Mali-450MP4",
+            "OS": "Android OS, v4.2.2 (Jelly Bean), upgradable to v4.4.2 (KitKat)"
+        },
+        "Sound": {
+            "": "- DTS sound",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as BLU D970L",
+        "device_name": "BLU Vivo IV",
+        "image": {
+            "href": "http://www.gsmarena.com/blu_vivo_iv-pictures-6406.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/blu-vivo-iv.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/blu_vivo_iv-6406.php"
+    }
+}

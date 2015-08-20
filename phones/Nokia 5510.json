@@ -1,0 +1,75 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 950 mAh battery (BLC-2)",
+            "Stand-by": "55 h - 260 h",
+            "Talk time": "2 h 30 min - 4 h 30"
+        },
+        "Body": {
+            "Dimensions": "134 x 58 x 28 mm, 165 cc (5.28 x 2.28 x 1.10 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "155 g (5.47 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "Stereo FM radio",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Dynamic font size\n- Softkey\n- Screensavers\n- Welcome message",
+            "Resolution": "5 lines",
+            "Size": "",
+            "Type": "Monochrome graphic"
+        },
+        "Features": {
+            "": "- MP3 player and recorder\n- Smart messaging\n- Calculator\n- Voice Dial\n- Mobile chat\n- Profiles\n- Currency converter",
+            "Alarm": "Yes",
+            "Browser": "WAP",
+            "Clock": "Yes",
+            "Games": "5 ( Snake II, Pairs II, Space Impact, Bantumi, Bumper )",
+            "Java": "No",
+            "Languages": "23",
+            "Messaging": "SMS"
+        },
+        "Launch": {
+            "Announced": "4Q 2001",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- 150 messages or 50 picture messages\n- Message templates\n- 220 calendar notes\n- 8 voice dial numbers",
+            "Call records": "8 dialed, 8 received, 8 missed calls",
+            "Card slot": "No",
+            "Internal": "64 MB",
+            "Phonebook": "100"
+        },
+        "Misc": {
+            "Colors": "2 - Groove Red and Melody Blue",
+            "SAR EU": "0.74 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "": "- 6 Ringing tone levels\n- 10 Volume levels\n- Up to 10 h MP3 playback\n- Up to 13 h 30 min FM playback",
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable monophonic ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 5510",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_5510-pictures-284.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/no5510.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_5510-284.php"
+    }
+}

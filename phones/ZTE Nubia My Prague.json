@@ -1,0 +1,82 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 2200 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "148 x 72 x 5.5 mm (5.83 x 2.83 x 0.22 in)",
+            "SIM": "Dual SIM (Nano-SIM/ Micro-SIM, dual stand-by)",
+            "Weight": "140 g (4.94 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection, panorama, HDR",
+            "Primary": "13 MP, 4128 x 3096 pixels, autofocus, LED flash",
+            "Secondary": "8 MP, 1080p",
+            "Video": "1080p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, hotspot"
+        },
+        "Display": {
+            "": "- Nubia UI 3.0",
+            "Multitouch": "Yes",
+            "Resolution": "1080 x 1920 pixels (~424 ppi pixel density)",
+            "Size": "5.2 inches (~70.0% screen-to-body ratio)",
+            "Type": "AMOLED capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP4/H.264 player\n- MP3/WAV/FLAC/eAAC+ player\n- Photo/video editor\n- Document viewer",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2015, June",
+            "Status": "Available. Released 2015, August"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 128 GB (uses SIM 2 slot)",
+            "Internal": "16 GB, 2 GB RAM - White/Silver\n32 GB, 3 GB RAM - White/Gold"
+        },
+        "Misc": {
+            "Colors": "White/Silver, White/Gold",
+            "Price group": "7/10 (About 350 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+            "4G bands": "LTE 800 / 900 / 1800 / 2100 / 2600",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.5 GHz Cortex-A53 & quad-core 1.0 GHz Cortex-A53",
+            "Chipset": "Qualcomm MSM8939 Snapdragon 615",
+            "GPU": "Adreno 405",
+            "OS": "Android OS, v5.0.2 (Lollipop)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "ZTE Nubia My Prague",
+        "image": {
+            "href": "http://www.gsmarena.com/zte_nubia_my_prague-pictures-7485.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/zte-nubia-my-prague.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/zte_nubia_my_prague-7485.php"
+    }
+}

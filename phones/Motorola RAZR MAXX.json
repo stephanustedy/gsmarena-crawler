@@ -1,0 +1,89 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 3300 mAh battery",
+            "Stand-by": "Up to 607 h",
+            "Talk time": "Up to 17 h 40 min"
+        },
+        "Body": {
+            "": "- Splash resistant",
+            "Dimensions": "130.7 x 68.9 x 9 mm (5.15 x 2.71 x 0.35 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "145 g (5.11 oz)"
+        },
+        "Camera": {
+            "Features": "Touch focus, geo-tagging, face detection",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash, check quality",
+            "Secondary": "1.3 MP, 720p",
+            "Video": "1080p@30fps, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, EDR, LE",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, DLNA, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "540 x 960 pixels (~256 ppi pixel density)",
+            "Size": "4.3 inches (~56.6% screen-to-body ratio)",
+            "Type": "Super AMOLED Advanced capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- HDMI port\n- MP3/AAC+/WAV/WMA player\n- MP4/H.264/WMV player\n- Organizer\n- Document viewer/editor\n- Voice memo/dial/commands\n- Predictive text input (Swype)",
+            "Browser": "HTML, Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2012, April",
+            "Status": "Available. Released 2012, May"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "16 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "5/10 (About 230 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.2 GHz Cortex-A9",
+            "Chipset": "TI OMAP 4430",
+            "GPU": "PowerVR SGX540",
+            "OS": "Android OS, v2.3.6 (Gingerbread), upgradable to v4.1.2 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -91.0dB / Crosstalk -91.1dB",
+            "Battery life": "Endurance rating 87h",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 347 (nominal) / 3.420:1 (sunlight)",
+            "Loudspeaker": "Voice 70dB / Noise 66dB / Ring 81dB"
+        }
+    },
+    "main": {
+        "device_name": "Motorola RAZR MAXX",
+        "image": {
+            "href": "http://www.gsmarena.com/motorola_razr_maxx-pictures-4666.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/motorola-razr-maxx.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/motorola_razr_maxx-4666.php"
+    }
+}

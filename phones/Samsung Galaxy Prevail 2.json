@@ -1,0 +1,82 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1750 mAh battery",
+            "Stand-by": "Up to 490 h",
+            "Talk time": "Up to 8 h"
+        },
+        "Body": {
+            "Dimensions": "122 x 63.5 x 12.7 mm (4.80 x 2.5 x 0.5 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "130.4 g (4.59 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, smile detection, panorama",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, LED flash",
+            "Secondary": "1.3 MP",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "480 x 800 pixels (~233 ppi pixel density)",
+            "Size": "4.0 inches (~58.8% screen-to-body ratio)",
+            "Type": "Capacitive touchscreen"
+        },
+        "Features": {
+            "": "- MP4/H.264 player\n- MP3/WAV/eAAC+ player\n- Document viewer",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2013, July",
+            "Status": "Available. Released 2013, July"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB, 2 GB included",
+            "Internal": "4 GB, 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "White, Gray",
+            "Price group": "3/10 (About 140 EUR)",
+            "SAR US": "0.60 W/kg (head) \u00a0 \u00a0 1.34 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "CDMA 800 / 1900",
+            "3G bands": "CDMA2000 1xEV-DO",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Speed": "EV-DO Rev.A 3.1 Mbps",
+            "Technology": "CDMA / EVDO"
+        },
+        "Platform": {
+            "CPU": "1.4 GHz",
+            "Chipset": "Qualcomm MSM8655 Snapdragon S2",
+            "GPU": "Adreno 205",
+            "OS": "Android OS, v4.1 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Available as:\nSamsung Galaxy Prevail 2 for Boost Mobile\nSamsung Galaxy Ring M840 for Virgin Mobile",
+        "device_name": "Samsung Galaxy Prevail 2",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_galaxy_prevail_2-pictures-5597.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-prevail-2.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_galaxy_prevail_2-5597.php"
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion battery",
+            "Stand-by": "Up to 200 h",
+            "Talk time": "Up to 3 h 30 min"
+        },
+        "Body": {
+            "Dimensions": "100 x 58 x 14 mm (3.94 x 2.28 x 0.55 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "120 g (4.23 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "miniUSB",
+            "WLAN": "Wi-Fi 802.11b/g"
+        },
+        "Display": {
+            "": "- TouchFLO finger swipe navigation\n- Handwriting recognition\n- 5-way navigation",
+            "Resolution": "240 x 320 pixels (~143 ppi pixel density)",
+            "Size": "2.8 inches (~41.9% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 65K colors"
+        },
+        "Features": {
+            "": "- Pocket Office \n- Voice memo\n- MP3/AAC player",
+            "Browser": "WAP 2.0/xHTML, HTML (PocketIE)",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2007, June",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "microSD, 1 GB included",
+            "Internal": "128 MB RAM, 256 MB ROM"
+        },
+        "Misc": {
+            "Colors": "Soft Black, Wasabi Green",
+            "Price group": "9/10 (About 520 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "Yes",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Platform": {
+            "CPU": "200 MHz ARM926EJ-S",
+            "Chipset": "TI OMAP 850",
+            "OS": "Microsoft Windows Mobile 6.0 Professional"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": {
+            "href": "http://www.gsmarena.com/htc_pocketpc_smartphone.php3",
+            "text": "HTC Elf platform. Full HTC platforms guide"
+        },
+        "device_name": "O2 XDA Nova",
+        "image": {
+            "href": "http://www.gsmarena.com/o2_xda_nova-pictures-2183.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/o2-xda-nova.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/o2_xda_nova-2183.php"
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion (BST-20)",
+            "Stand-by": "90 h - 150 h",
+            "Talk time": "2 h - 4 h"
+        },
+        "Body": {
+            "Dimensions": "105 x 45 x 20 mm (4.13 x 1.77 x 0.79 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "82 g (2.89 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- LCD illuminates in 3 colours\n- Background pictures",
+            "Resolution": "5 lines",
+            "Size": "",
+            "Type": "Grayscale graphic"
+        },
+        "Features": {
+            "": "- SMS chat\n- Predictive text input\n- Organizer\n- Profiles",
+            "Alarm": "Yes",
+            "Browser": "WAP 1.2.1",
+            "Clock": "Yes",
+            "Games": "4 - Erix, Catcher, Pathy and Ripple",
+            "Java": "No",
+            "Messaging": "SMS, EMS"
+        },
+        "Launch": {
+            "Announced": "4Q 2001",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "10 received, dialed and missed calls",
+            "Card slot": "No",
+            "Phonebook": "200"
+        },
+        "Misc": {
+            "Colors": "2 - Ice Blue, Luminous Champagne",
+            "SAR EU": "0.89 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "Yes",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable monophonic ringtones, composer",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Ericsson R600",
+        "image": {
+            "href": "http://www.gsmarena.com/ericsson_r600-pictures-283.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/err600.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/ericsson_r600-283.php"
+    }
+}

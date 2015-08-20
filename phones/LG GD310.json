@@ -1,0 +1,74 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 900 mAh battery",
+            "Stand-by": "Up to 500 h",
+            "Talk time": "Up to 6 h 20 min"
+        },
+        "Body": {
+            "Dimensions": "102.9 x 52 x 15.5 mm (4.05 x 2.05 x 0.61 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "112 g (3.95 oz)"
+        },
+        "Camera": {
+            "Primary": "3.15 MP, 2048 x 1536 pixels",
+            "Secondary": "Yes",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "No",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- external hidden OLED display",
+            "Resolution": "240 x 320 pixels (~167 ppi pixel density)",
+            "Size": "2.4 inches (~33.3% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/AAC+ player\n- MP4/H.264 player\n- Organizer\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML, Adobe Flash Lite",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2009, October",
+            "Status": "Available. Released 2010, February"
+        },
+        "Memory": {
+            "Call records": "10 dialed, 10 received, 10 missed calls",
+            "Card slot": "microSD, up to 4 GB",
+            "Internal": "128 MB",
+            "Phonebook": "1000 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "White, Black, Pink",
+            "Price group": "2/10 (About 90 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Icecream II",
+        "device_name": "LG GD310",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_gd310_-pictures-3134.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-gd310.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_gd310_-3134.php"
+    }
+}

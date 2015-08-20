@@ -1,0 +1,81 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 950 mAh battery (BL-5F)",
+            "Stand-by": "Up to 220 h (2G) / 192 h (3G)",
+            "Talk time": "Up to 6 h 30 min (2G) / 2 h 42 min (3G)"
+        },
+        "Body": {
+            "": "- Dual slide design",
+            "Dimensions": "99 x 53 x 21 mm, 90 cc (3.90 x 2.09 x 0.83 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "120 g (4.23 oz)"
+        },
+        "Camera": {
+            "Primary": "5 MP, 2592 x 1944 pixels, Carl Zeiss optics, autofocus, LED flash",
+            "Secondary": "QVGA videocall camera",
+            "Video": "480p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "Yes, with A-GPS; Nokia Maps",
+            "Infrared port": "Yes",
+            "Radio": "Stereo FM radio; Visual radio",
+            "USB": "miniUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g, UPnP technology"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~154 ppi pixel density)",
+            "Size": "2.6 inches, 40 x 53 mm (~39.9% screen-to-body ratio)",
+            "Type": "TFT, 16M colors"
+        },
+        "Features": {
+            "": "- WMV/RV/MP4/3GP player\n- MP3/WMA/WAV/RA/AAC/M4A player\n- TV-out\n- Organizer\n- Document viewer (Word, Excel, PowerPoint, PDF)\n- Predictive text input\n- Push to talk \n- Voice dial/memo",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2006, September. Released 2007, March",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 8 GB, 128 MB included",
+            "Internal": "160 MB, 64 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Silver, Plum, Black, Pink, Red",
+            "Price group": "5/10 (About 210 EUR)",
+            "SAR EU": "0.50 W/kg (head)",
+            "SAR US": "0.79 W/kg (head) \u00a0 \u00a0 0.76 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 1900 - American version",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 2100",
+            "EDGE": "Class 32, 296 kbps; DTM Class 11, 177 kbps",
+            "GPRS": "Class 10",
+            "Speed": "HSPA",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "332 MHz Dual ARM 11",
+            "GPU": "3D Graphics HW Accelerator",
+            "OS": "Symbian OS 9.2, S60 rel. 3.1"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; Downloadable polyphonic, monophonic MP3 ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "device_name": "Nokia N95",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_n95-pictures-1716.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-n95.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_n95-1716.php"
+    }
+}

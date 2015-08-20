@@ -1,0 +1,97 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 600 mAh battery",
+            "Stand-by": "Up to 200 h",
+            "Talk time": "Up to 5 h"
+        },
+        "Body": {
+            "": "- Flashlight",
+            "Dimensions": "110.6 x 46.4 x 13.7 mm (4.35 x 1.83 x 0.54 in)",
+            "SIM": "Dual SIM (Mini-SIM)",
+            "Weight": "70 g (2.47 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "No",
+            "Radio": "Stereo FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "128 x 160 pixels (~114 ppi pixel density)",
+            "Size": "1.8 inches (~19.9% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- Music player\n- Video player\n- Organizer\n- Voice memo",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes",
+            "Java": "No",
+            "Messaging": "SMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2013, September",
+            "Status": "Available. Released 2013, Q4"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "32 Mbit + 32 Mbit",
+            "Phonebook": "Yes"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "EDGE": "No",
+            "GPRS": "Class 12",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "P112 - Dual SIM",
+        "device_name": "Parla Minu",
+        "image": {
+            "href": "http://www.gsmarena.com/parla_minu-pictures-5854.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/parla-minu.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/parla_minu-5854.php"
+    }
+}

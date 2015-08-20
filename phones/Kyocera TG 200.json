@@ -1,0 +1,87 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion battery",
+            "Stand-by": "110 h",
+            "Talk time": "3 h"
+        },
+        "Body": {
+            "Dimensions": "120 x 40 x 16 mm (4.72 x 1.57 x 0.63 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "75 g (2.65 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "5 lines",
+            "Size": "",
+            "Type": "Monochrome graphic"
+        },
+        "Features": {
+            "Alarm": "Yes",
+            "Browser": "",
+            "Clock": "Yes",
+            "Games": "",
+            "Java": "No",
+            "Messaging": "SMS"
+        },
+        "Launch": {
+            "Announced": "2000",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "",
+            "Card slot": "No",
+            "Phonebook": ""
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Monophonic ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Kyocera TG 200",
+        "index": 1,
+        "url": "http://www.gsmarena.com/kyocera_tg_200-184.php"
+    }
+}

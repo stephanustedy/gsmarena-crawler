@@ -1,0 +1,88 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1270 mAh battery",
+            "Music play": "Up to 54 h",
+            "Stand-by": "Up to 308 h (2G) / Up to 300 h (3G)",
+            "Talk time": "Up to 6 h 30 min (2G) / Up to 5 h 50 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "111 x 62 x 14.6 mm (4.37 x 2.44 x 0.57 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "161 g (5.68 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face detection",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, LED flash, check quality",
+            "Secondary": "No",
+            "Video": "720p, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, UMA (carrier-dependent)"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "480 x 640 pixels (~250 ppi pixel density)",
+            "Size": "3.2 inches (~46.1% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Document viewer (Word, Excel, PowerPoint)\n- MP3/WMA/WAV/eAAC+ player\n- DivX/XviD/MP4/WMV/H.264 player\n- Organizer\n- Voice memo/dial\n- Predictive text input",
+            "Browser": "HTML",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email, Push Email, IM",
+            "Sensors": "Proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2011, August",
+            "Status": "Available. Released 2011, August"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "8 GB, 768 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, Gray",
+            "Price group": "3/10 (About 120 EUR)",
+            "SAR EU": "0.97 W/kg (head) \u00a0 \u00a0 0.74 W/kg (body)",
+            "SAR US": "1.44 W/kg (head) \u00a0 \u00a0 0.94 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 1900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 14.4/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "1.2 GHz",
+            "OS": "BlackBerry OS 7.0"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -85.7dB / Crosstalk -87.9dB",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 1112:1 (nominal)",
+            "Loudspeaker": "Voice 67dB / Noise 65dB / Ring 66dB"
+        }
+    },
+    "main": {
+        "device_name": "BlackBerry Torch 9810",
+        "image": {
+            "href": "http://www.gsmarena.com/blackberry_torch_9810-pictures-3723.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/bb-torch-9810-new.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/blackberry_torch_9810-3723.php"
+    }
+}

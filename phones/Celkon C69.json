@@ -1,0 +1,71 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1600 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "-",
+            "SIM": "Dual SIM (Mini-SIM, dual stand-by)",
+            "Weight": "-"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "No",
+            "Radio": "FM radio",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Flashlight",
+            "Resolution": "240 x 320 pixels (~167 ppi pixel density)",
+            "Size": "2.4 inches",
+            "Type": "TFT"
+        },
+        "Features": {
+            "": "- Auto call record\n- Reject by SMS\n- MP4/H.263 player\n- MP3/WAV player",
+            "Browser": "No",
+            "Games": "Yes",
+            "Java": "No",
+            "Messaging": "SMS"
+        },
+        "Launch": {
+            "Announced": "2013, August",
+            "Status": "Available. Released 2013, August"
+        },
+        "Memory": {
+            "Call records": "20 entries",
+            "Card slot": "microSD, up to 8 GB",
+            "Phonebook": "300 contacts"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "SAR EU": "0.79 W/kg (head) \u00a0 \u00a0 0.93 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+            "EDGE": "No",
+            "GPRS": "Yes",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "Alert types": "Vibration, Polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Celkon C69",
+        "image": {
+            "href": "http://www.gsmarena.com/celkon_c69-pictures-5616.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/celkon-c69.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/celkon_c69-5616.php"
+    }
+}

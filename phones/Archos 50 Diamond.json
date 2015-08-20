@@ -1,0 +1,87 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po 2700 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "146 x 70.4 x 8 mm (5.75 x 2.77 x 0.31 in)",
+            "SIM": "Dual SIM (Micro-SIM, dual stand-by, dual call)",
+            "Weight": "142 g (5.01 oz)"
+        },
+        "Camera": {
+            "Features": "Yes",
+            "Primary": "16 MP, 5312 x 2988 pixels, autofocus, LED flash, check quality",
+            "Secondary": "8 MP",
+            "Video": "1080p, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "NFC": "Yes",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Yes, Wi-Fi Direct"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "1080 x 1920 pixels (~440 ppi pixel density)",
+            "Size": "5.0 inches (~67.4% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/H.264 player\n- MP3/WAV/eAAC+/Flac/AC3 player\n- Photo/video editor\n- Document viewer",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2014, October",
+            "Status": "Available. Released 2015, January"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 128 GB",
+            "Internal": "16 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Yes",
+            "Price group": "4/10 (About 200 EUR)",
+            "SAR EU": "0.40 W/kg (head) \u00a0 \u00a0 0.71 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 2100",
+            "4G bands": "LTE band 1(2100), 3(1800), 7(2600), 20(800)",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 42.2/11.5 Mbps, LTE Cat4 150/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.5 GHz Cortex-A53 & quad-core 1.0 GHz Cortex-A53",
+            "Chipset": "Qualcomm MSM8939 Snapdragon 615",
+            "GPU": "Adreno 405",
+            "OS": "Android OS, v4.4.4 (KitKat)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Battery life": "Endurance rating 60h",
+            "Camera": "Photo / Video"
+        }
+    },
+    "main": {
+        "device_name": "Archos 50 Diamond",
+        "image": {
+            "href": "http://www.gsmarena.com/archos_50_diamond-pictures-7042.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/archos-50-diamond.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/archos_50_diamond-7042.php"
+    }
+}

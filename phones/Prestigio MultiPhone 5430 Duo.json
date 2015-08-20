@@ -1,0 +1,80 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 2000 mAh battery",
+            "Music play": "Up to 24 h",
+            "Stand-by": "Up to 400 h",
+            "Talk time": "Up to 12 h"
+        },
+        "Body": {
+            "Dimensions": "126 x 64.7 x 10 mm (4.96 x 2.55 x 0.39 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "140 g (4.94 oz)"
+        },
+        "Camera": {
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, dual-LED flash",
+            "Secondary": "1.2 MP",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "540 x 960 pixels (~256 ppi pixel density)",
+            "Size": "4.3 inches (~62.5% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/WMV/H.264 player\n- MP3/WAV/eAAC+ player\n- Photo/video editor\n- Document viewer\n- Voice memo/dial",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, IM",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2013",
+            "Status": "Available. Released 2013"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "4 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "White",
+            "Price group": "5/10 (About 210 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "1.2 GHz",
+            "Chipset": "Intel Atom Z2420",
+            "GPU": "PowerVR SGX540",
+            "OS": "Android OS, v4.0 (Ice Cream Sandwich)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Prestigio MultiPhone 5430 Duo",
+        "image": {
+            "href": "http://www.gsmarena.com/prestigio_multiphone_5430_duo-pictures-5721.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/prestigio-multiphone-5430-duo.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/prestigio_multiphone_5430_duo-5721.php"
+    }
+}

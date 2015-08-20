@@ -1,0 +1,147 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po 2680 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Build": "Corning Gorilla Glass 3 back panel",
+            "Dimensions": "144.9 x 72.1 x 6.4 mm (5.70 x 2.84 x 0.25 in)",
+            "SIM": "Dual SIM (Nano-SIM, dual stand-by)",
+            "Weight": "144 g (5.08 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face/smile detection, panorama, HDR",
+            "Primary": "13 MP, 4160 x 3120 pixels, autofocus, optical image stabilization, dual-LED (dual tone) flash, check quality",
+            "Secondary": "8 MP, 1080p",
+            "Video": "1080p@30fps, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v4.1, A2DP, LE",
+            "GPS": "Yes, with A-GPS, GLONASS/ Beidou (market dependant)",
+            "NFC": "Yes",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0, USB Host",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, Wi-Fi Direct, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- Emotion 3.1 UI",
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 3",
+            "Resolution": "1080 x 1920 pixels (~424 ppi pixel density)",
+            "Size": "5.2 inches (~71.4% screen-to-body ratio)",
+            "Type": "IPS-NEO LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- XviD/MP4/H.264 player\n- MP3/eAAC+/WMA/WAV/Flac player\n- Document viewer\n- Photo/video editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2015, April",
+            "Status": "Available. Released 2015, April"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 128 GB (uses SIM 2 slot)",
+            "Internal": "16/64 GB, 3 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Titanium Grey, Mystic Champagne (16 GB model)\nCarbon Black, Prestige Gold (64 GB model)",
+            "Price group": "8/10 (About 500 EUR)"
+        },
+        "Network": {
+            "": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 12(700), 17(700), 18(800), 19(800), 20(800), 25(1900), 26(850), 28(700), 40(2300) - L09",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 850 / 900 / 1700 / 1900 / 2100 - UL00",
+            "4G bands": "LTE band 1(2100), 3(1800), 4(1700/2100), 7(2600), 38(2600), 39(1900), 40(2300), 41(2500) - UL00",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat6 300/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 2 GHz Cortex-A53 & quad-core 1.5 GHz Cortex-A53",
+            "Chipset": "HiSilicon Kirin 930/935",
+            "GPU": "Mali-T628 MP4",
+            "OS": "Android OS, v5.0.2 (Lollipop)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "0": "C",
+            "1": "a",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "m",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "g",
+            "25": "s",
+            "26": "m",
+            "27": "a",
+            "28": "r",
+            "29": "e",
+            "3": "e",
+            "30": "n",
+            "31": "a",
+            "32": "_",
+            "33": "l",
+            "34": "a",
+            "35": "b",
+            "36": "_",
+            "37": "t",
+            "38": "e",
+            "39": "s",
+            "4": "r",
+            "40": "t",
+            "41": "s",
+            "42": "-",
+            "43": "r",
+            "44": "e",
+            "45": "v",
+            "46": "i",
+            "47": "e",
+            "48": "w",
+            "49": "-",
+            "5": "a",
+            "50": "7",
+            "51": "5",
+            "52": "1",
+            "53": "p",
+            "54": "5",
+            "55": ".",
+            "56": "p",
+            "57": "h",
+            "58": "p",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        }
+    },
+    "main": {
+        "device_name": "Huawei P8",
+        "image": {
+            "href": "http://www.gsmarena.com/huawei_p8-pictures-7006.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/huawei-p8.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/huawei_p8-7006.php"
+    }
+}

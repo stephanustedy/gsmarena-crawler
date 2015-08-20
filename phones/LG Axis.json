@@ -1,0 +1,81 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1500 mAh battery",
+            "Stand-by": "Up to 500 h",
+            "Talk time": "Up to 7 h 30 min"
+        },
+        "Body": {
+            "Dimensions": "115.8 x 56.4 x 15.8 mm (4.56 x 2.22 x 0.62 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "158 g (5.57 oz)"
+        },
+        "Camera": {
+            "Primary": "3.15 MP, 2048 x 1536 pixels, autofocus, LED flash",
+            "Secondary": "No",
+            "Video": "480p"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n"
+        },
+        "Display": {
+            "Resolution": "480 x 800 pixels (~292 ppi pixel density)",
+            "Size": "3.2 inches (~44.6% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- MP4/H.264 player\n- MP3/eAAC+ player\n- Organizer\n- Voice memo/dial/commands\n- Predictive text input",
+            "Browser": "HTML",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS, MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, compass"
+        },
+        "Launch": {
+            "Announced": "2011, January",
+            "Status": "Available. Released 2011, January"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 16 GB",
+            "Internal": "512 MB, 256 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "2/10 (About 70 EUR)"
+        },
+        "Network": {
+            "": "CDMA PCS",
+            "2G bands": "CDMA 800",
+            "3G bands": "CDMA2000 1xEV-DO",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Speed": "EV-DO Rev.A 3.1 Mbps",
+            "Technology": "CDMA / EVDO"
+        },
+        "Platform": {
+            "CPU": "600 MHz ARM 11",
+            "Chipset": "Qualcomm MSM7627",
+            "GPU": "Adreno 200",
+            "OS": "Android OS, v2.1 (Eclair)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "For Alltel\nAlso known as LG AS740",
+        "device_name": "LG Axis",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_axis-pictures-3731.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-axis.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_axis-3731.php"
+    }
+}

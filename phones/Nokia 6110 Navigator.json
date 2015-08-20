@@ -1,0 +1,125 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 900 mAh battery",
+            "Stand-by": "Up to 265 h (2G) / 264 h (3G)",
+            "Talk time": "Up to 3 h 30 min (2G) / 3 h 30 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "101 x 49 x 20 mm, 89 cc (3.98 x 1.93 x 0.79 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "125 g (4.41 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels, LED flash",
+            "Secondary": "VGA videocall camera",
+            "Video": "320p"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "Yes, with A-GPS; Nokia Navigator",
+            "Radio": "Stereo FM radio",
+            "USB": "miniUSB v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Downloadable themes",
+            "Resolution": "240 x 320 pixels (~182 ppi pixel density)",
+            "Size": "2.2 inches (~30.3% screen-to-body ratio)",
+            "Type": "TFT, 16M colors"
+        },
+        "Features": {
+            "": "- Built-in maps\n- Push to talk \n- WMV/RV/MP4/3GP player\n- MP3/WMA/WAV/RA/AAC/M4A player\n- Document viewer (Word, Excel, PowerPoint, PDF)\n- Predictive text input\n- Voice command/memo\n- Organizer\n- Printing",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2007, February",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 8 GB",
+            "Internal": "40 MB, 128 MB RAM"
+        },
+        "Misc": {
+            "Colors": "White, Black",
+            "Price group": "5/10 (About 230 EUR)",
+            "SAR EU": "1.25 W/kg (head)",
+            "SAR US": "1.52 W/kg (head) \u00a0 \u00a0 0.51 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 2100",
+            "EDGE": "Class 32, 296 / 177.6 kbits",
+            "GPRS": "Class 32, 107 / 64.2 kbps",
+            "Speed": "HSPA 3.6/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "0": "O",
+            "1": "S",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "t",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "g",
+            "25": "l",
+            "26": "o",
+            "27": "s",
+            "28": "s",
+            "29": "a",
+            "3": "p",
+            "30": "r",
+            "31": "y",
+            "32": ".",
+            "33": "p",
+            "34": "h",
+            "35": "p",
+            "36": "3",
+            "37": "?",
+            "38": "t",
+            "39": "e",
+            "4": ":",
+            "40": "r",
+            "41": "m",
+            "42": "=",
+            "43": "o",
+            "44": "s",
+            "5": "/",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3, AAC ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        },
+        "Tests": {
+            "Audio quality": "Noise -75.1dB / Crosstalk -75.0dB",
+            "Loudspeaker": "Voice 65dB / Noise 65dB / Ring 72dB"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 6110 Navigator",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_6110_navigator-pictures-1861.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-6110navi.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_6110_navigator-1861.php"
+    }
+}

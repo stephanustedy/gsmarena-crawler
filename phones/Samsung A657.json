@@ -1,0 +1,73 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1420 mAh battery",
+            "Stand-by": "Up to 250 h",
+            "Talk time": "Up to 3 h"
+        },
+        "Body": {
+            "": "- Dust, shock and splash resistant\n- Flashlight",
+            "Dimensions": "115 x 52 x 19.5 mm (4.53 x 2.05 x 0.77 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "123 g (4.34 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Wallpapers",
+            "Resolution": "176 x 220 pixels (~148 ppi pixel density)",
+            "Size": "1.9 inches (~19.0% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/eAAC+/WMA player\n- MP4/H.263 player\n- Push to Talk\n- Organizer\n- Voice memo\n- Stopwatch\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2009, April",
+            "Status": "Available. Released 2009, Q2"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 8 GB",
+            "Internal": "128 MB",
+            "Phonebook": "1000 entries"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "SAR US": "1.46 W/kg (head) \u00a0 \u00a0 0.73 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 1900",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Speed": "HSPA 3.6/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Polyphonic(72), MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "For AT&T",
+        "device_name": "Samsung A657",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_a657-pictures-2781.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-a657.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_a657-2781.php"
+    }
+}

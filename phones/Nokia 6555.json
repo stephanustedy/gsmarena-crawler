@@ -1,0 +1,79 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1020 mAh battery (BL-5C)",
+            "Stand-by": "Up to 300 h (2G) / 264 h (3G)",
+            "Talk time": "Up to 6 h 30 min (2G) / 3 h 14 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "99.6 x 44.3 x 19.6 mm, 67.6 cc (3.92 x 1.74 x 0.77 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "97 g (3.42 oz)"
+        },
+        "Camera": {
+            "Primary": "1.23 MP, 1280 x 1024 pixels",
+            "Secondary": "No",
+            "Video": "QCIF@15fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second external display 256K colors (128 x 160 pixels)",
+            "Resolution": "240 x 320 pixels (~200 ppi pixel density)",
+            "Size": "2.0 inches (~28.1% screen-to-body ratio)",
+            "Type": "TFT, 16M colors"
+        },
+        "Features": {
+            "": "- MP3/AAC/eAAC+/WMA player\n- Video player\n- Predictive text input\n- Organizer\n- Voice memo\n- Flight mode",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2007, August",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "microSD, up to 8 GB",
+            "Internal": "30 MB",
+            "Phonebook": "1000 entries"
+        },
+        "Misc": {
+            "Colors": "Black, Red, Silver, Beige",
+            "Price group": "2/10 (About 80 EUR)",
+            "SAR EU": "0.81 W/kg (head)",
+            "SAR US": "1.25 W/kg (head) \u00a0 \u00a0 0.88 W/kg (body)"
+        },
+        "Network": {
+            "": "UMTS 850 / 1900 - American version",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "UMTS 850 / 2100",
+            "EDGE": "Class 11, 236.8 kbps",
+            "GPRS": "Class 32, 52.6 kbps",
+            "Speed": "Yes, 384 kbps",
+            "Technology": "GSM / UMTS"
+        },
+        "Sound": {
+            "": "- 2.5 mm audio jack",
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 6555",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_6555-pictures-2071.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-6555.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_6555-2071.php"
+    }
+}

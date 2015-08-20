@@ -1,0 +1,83 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 3000 mAh battery",
+            "Stand-by": "Up to 750 h (2G) / Up to 750 h (3G)",
+            "Talk time": "Up to 13 h 30 min (2G) / Up to 10 h 30 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "165.1 x 83.2 x 9 mm (6.5 x 3.28 x 0.35 in)",
+            "SIM": "Dual SIM (Mini-SIM/ Micro-SIM, dual stand-by)",
+            "Weight": "160 g (5.64 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash",
+            "Secondary": "2 MP",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, EDR",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "To be confirmed",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes, up to 5 fingers",
+            "Resolution": "720 x 1280 pixels (~245 ppi pixel density)",
+            "Size": "6.0 inches (~72.2% screen-to-body ratio)",
+            "Type": "IPS capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/H.264 player\n- MP3/eAAC+/WMA/WAV/Flac player\n- Document viewer\n- Photo viewer/editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, IM, Push Email",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2014, November",
+            "Status": "Available. Released 2014, November"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "16 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Silver",
+            "Price group": "4/10 (About 200 EUR)",
+            "SAR EU": "0.54 W/kg (head) \u00a0 \u00a0 0.28 W/kg (body)",
+            "SAR US": "0.15 W/kg (head) \u00a0 \u00a0 0.53 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 21.1/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.2 GHz",
+            "Chipset": "Marvell PXA1088",
+            "OS": "Android OS, v4.4.2 (KitKat)"
+        },
+        "Sound": {
+            "": "- DTS sound",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as HP Slate 6 VoiceTab II 6301ra",
+        "device_name": "HP Slate6 VoiceTab II",
+        "image": {
+            "href": "http://www.gsmarena.com/hp_slate6_voicetab_ii-pictures-6831.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/hp-slate-6-voicetab-ii.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/hp_slate6_voicetab_ii-6831.php"
+    }
+}

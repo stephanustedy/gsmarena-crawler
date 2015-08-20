@@ -1,0 +1,96 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 2950 mAh battery",
+            "Music play": "Up to 88 h",
+            "Stand-by": "",
+            "Talk time": "Up to 18 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "151.3 x 77.2 x 7.3 mm (5.96 x 3.04 x 0.29 in)",
+            "SIM": "Nano-SIM/ Optional Dual SIM (dual stand-by)",
+            "Weight": "141 g (4.97 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection, panorama, HDR",
+            "Primary": "13 MP, 4128 x 3096 pixels, autofocus, LED flash, check quality",
+            "Secondary": "5 MP, 1080p@30fps",
+            "Video": "1080p@30fps, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "NFC": "Yes (LTE model)",
+            "Radio": "FM radio with RDS; recording",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 4",
+            "Resolution": "720 x 1280 pixels (~267 ppi pixel density)",
+            "Size": "5.5 inches (~71.4% screen-to-body ratio)",
+            "Type": "Super AMOLED capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- ANT+ support\n- MP4/WMV/H.264 player\n- MP3/WAV/WMA/eAAC+/FLAC player\n- Photo/video editor\n- Document viewer",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2015, January",
+            "Status": "Available. Released 2015, February"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB (uses SIM 2 slot)",
+            "Internal": "16 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White, Brown, Blue",
+            "Price group": "7/10 (About 360 EUR)",
+            "SAR EU": "0.33 W/kg (head) \u00a0 \u00a0 0.47 W/kg (body)",
+            "SAR US": "0.64 W/kg (head) \u00a0 \u00a0 0.85 W/kg (body)"
+        },
+        "Network": {
+            "": "LTE band 1(2100), 3(1800), 7(2600), 38(2600), 39(1900), 40(2300), 41(2500) - E7000",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - E700F, E700H, E700M",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+            "4G bands": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 20(800) - E700F",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.2 GHz Cortex-A53",
+            "Chipset": "Qualcomm MSM8916 Snapdragon 410",
+            "GPU": "Adreno 306",
+            "OS": "Android OS, v4.4.4 (KitKat)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -94.4dB / Crosstalk -88.8dB",
+            "Battery life": "Endurance rating 76h",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: Infinite (nominal), 4.485 (sunlight)",
+            "Loudspeaker": "Voice 66dB / Noise 66dB / Ring 74dB",
+            "Performance": "Basemark OS II: 600 / Basemark OS II 2.0: 580\nBasemark X: 1915"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Samsung Galaxy E7 SM-E700\nAvailable versions: SM-E7000, SM-E7009, SM-E700F, SM-E700F/DS, SM-E700H, SM-E700H/DD, SM-E700H/DS, SM-E700M, SM-E700M/DS",
+        "device_name": "Samsung Galaxy E7",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_galaxy_e7-pictures-6879.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-e7.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_galaxy_e7-6879.php"
+    }
+}

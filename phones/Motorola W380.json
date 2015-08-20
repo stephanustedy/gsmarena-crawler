@@ -1,0 +1,74 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 850 mAh battery",
+            "Stand-by": "Up to 200 h",
+            "Talk time": "Up to 8 h 30 min"
+        },
+        "Body": {
+            "Dimensions": "99 x 45 x 18.2 mm (3.90 x 1.77 x 0.72 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "97 g (3.42 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "FM radio",
+            "USB": "v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second external mono display (32 x 96 pixels)\n- Screensavers and wallpapers\n- Downloadable logos",
+            "Resolution": "128 x 160 pixels",
+            "Size": "",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- iTAP 6.3\n- Organizer\n- Voice memo",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2007, March. Released 2008",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "40 dialed, 40 received, 40 missed calls",
+            "Card slot": "No",
+            "Internal": "7 MB",
+            "Phonebook": "Yes, Photocall"
+        },
+        "Misc": {
+            "Colors": "",
+            "Price group": "2/10 (About 80 EUR)"
+        },
+        "Network": {
+            "": "GSM 850 / 1800 / 1900 - US version",
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Yes",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3, AAC ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Motorola W380",
+        "image": {
+            "href": "http://www.gsmarena.com/motorola_w380-pictures-1931.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/motorola-w380.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/motorola_w380-1931.php"
+    }
+}

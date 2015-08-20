@@ -1,0 +1,104 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1780 mAh battery",
+            "Stand-by": "Up to 244 h",
+            "Talk time": "Up to 4 h"
+        },
+        "Body": {
+            "Dimensions": "130.1 x 68.1 x 13.7 mm (5.12 x 2.68 x 0.54 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "189.9 g (6.67 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, LED flash",
+            "Secondary": "VGA",
+            "Video": "1080p"
+        },
+        "Comms": {
+            "Bluetooth": "",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Yes"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "480 x 800 pixels (~217 ppi pixel density)",
+            "Size": "4.3 inches (~59.4% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- HDMI port\n- MP4/H.264 player\n- MP3/WAV/eAAC+ player\n- Photo viewer/editor",
+            "Browser": "HTML5",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2012, September",
+            "Status": "Available. Released 2012, September"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "4 GB (2.3 GB user available), 512 MB RAM"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "CDMA 800 / 1700 / 1900 / 2100",
+            "3G bands": "CDMA2000 1xEV-DO",
+            "4G bands": "LTE band 2(1900), 4(1700/2100)",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Speed": "EV-DO Rev.A 3.1 Mbps, LTE",
+            "Technology": "CDMA / EVDO / LTE"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.2 GHz",
+            "Chipset": "Qualcomm Snapdragon",
+            "OS": "Android OS, v2.3 (Gingerbread)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "For MetroPCS",
+        "device_name": "ZTE Anthem 4G",
+        "image": {
+            "href": "http://www.gsmarena.com/zte_anthem_4g-pictures-5006.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/zte-anthem-4g.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/zte_anthem_4g-5006.php"
+    }
+}

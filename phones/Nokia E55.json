@@ -1,0 +1,85 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 1500 mAh battery (BP-4L)",
+            "Music play": "Up to 18 h",
+            "Stand-by": "Up to 672 h (2G) / 432 h (3G)",
+            "Talk time": "Up to 8 h (2G) / 6 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "116 x 49 x 9.9 mm, 54 cc (4.57 x 1.93 x 0.39 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "98 g (3.46 oz)"
+        },
+        "Camera": {
+            "Primary": "3.2 MP, 2048 x 1536 pixels, fixed focus, LED flash, check quality",
+            "Secondary": "QVGA videocall camera",
+            "Video": "480p@15fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "Yes, with A-GPS; Nokia Maps 3.0",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g, UPnP technology"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~167 ppi pixel density)",
+            "Size": "2.4 inches (~31.4% screen-to-body ratio)",
+            "Type": "TFT, 16M colors"
+        },
+        "Features": {
+            "": "- WMV/RV/MP4/3GP player\n- MP3/WMA/WAV/RA/AAC/M4A player\n- Document editor (Word, Excel, PowerPoint, PDF) incl. MS Office 2007 support via free update\n- Voice memo",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS, MMS, Email",
+            "Sensors": "Accelerometer, compass"
+        },
+        "Launch": {
+            "Announced": "2009, February",
+            "Status": "Available. Released 2009, August"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 16 GB, 2 GB included",
+            "Internal": "60 MB"
+        },
+        "Misc": {
+            "Colors": "Black Aluminium, White Aluminium, Red",
+            "Price group": "4/10 (About 150 EUR)",
+            "SAR EU": "1.19 W/kg (head)",
+            "SAR US": "0.98 W/kg (head) \u00a0 \u00a0 0.70 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 1900 / 2100 - US version",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 1900 / 2100",
+            "EDGE": "Class 32, 296 / 178.8 kbits",
+            "GPRS": "Class 32",
+            "Speed": "HSPA 10.2/2 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "600 MHz ARM 11",
+            "OS": "Symbian OS, S60 rel. 3.2"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -83.6dB / Crosstalk -84.3dB",
+            "Camera": "Photo",
+            "Loudspeaker": "Voice 66dB / Noise 62dB / Ring 74dB"
+        }
+    },
+    "main": {
+        "device_name": "Nokia E55",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_e55-pictures-2685.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-e55.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_e55-2685.php"
+    }
+}

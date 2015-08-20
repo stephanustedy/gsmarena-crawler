@@ -1,0 +1,84 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po 2500 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "150.6 x 75 x 9.5 mm (5.93 x 2.95 x 0.37 in)",
+            "SIM": "Yes",
+            "Weight": "150 g (5.29 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face/smile detection",
+            "Primary": "16 MP, 4608 \u0445 3456 pixels, autofocus, LED flash",
+            "Secondary": "8 MP",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0",
+            "GPS": "Yes, with A-GPS",
+            "NFC": "Yes",
+            "Radio": "FM radio; recording",
+            "USB": "microUSB v2.0, USB Host",
+            "WLAN": "Yes, hotspot, Wi-Fi Direct"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 3",
+            "Resolution": "1080 x 1920 pixels (~401 ppi pixel density)",
+            "Size": "5.5 inches (~73.8% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP4/WMV/H.264 player\n- MP3/WAV/WMA/eAAC+ player\n- Photo/video editor\n- Document viewer\n- Voice memo/dial",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2013",
+            "Status": "Available. Released 2013"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "16 GB, 2 GB RAM/ 32 GB, 3 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "7/10 (About 340 EUR)"
+        },
+        "Network": {
+            "": "LTE band 38(2600), 39(1900), 41(2500)",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "4G bands": "LTE band 3(1800), 7(2600)",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA, LTE",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 2.2 GHz/ Quad-core 2.5 GHz",
+            "Chipset": "Qualcomm MSM8274 Snapdragon 800",
+            "GPU": "Adreno 330",
+            "OS": "Android OS, v4.2 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Gionee Elife E7",
+        "image": {
+            "href": "http://www.gsmarena.com/gionee_elife_e7-pictures-6082.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/gionee-e7-.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/gionee_elife_e7-6082.php"
+    }
+}

@@ -1,0 +1,97 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 900 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "94 x 48 x 25 mm (3.70 x 1.89 x 0.98 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "131 g (4.62 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 1024 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Handwriting Recognition\n- Swivel and rotate\n- Screensavers, logos",
+            "Resolution": "320 x 240 pixels",
+            "Size": "",
+            "Type": "TFT resistive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/MP4 player\n- Predictive text input\n- World clock\n- Organizer",
+            "Browser": "WAP 1.2.1",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "1Q, 2005",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "SDIO/MMC",
+            "Internal": "60 MB"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Platform": {
+            "CPU": "312 MHz",
+            "OS": "Linux"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Haier N60",
+        "image": {
+            "href": "http://www.gsmarena.com/haier_n60-pictures-1192.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/haier-n60.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/haier_n60-1192.php"
+    }
+}

@@ -1,0 +1,95 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 2500 mAh battery",
+            "Music play": "Up to 63 h",
+            "Stand-by": "Up to 639 h (2G) / Up to 688 h (3G)",
+            "Talk time": "Up to 12 h 46 min (2G) / Up to 14 h 47 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "150.7 x 77 x 7 mm (5.93 x 3.03 x 0.28 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "148 g (5.22 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face/smile detection, HDR, panorama",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash, check quality",
+            "Secondary": "1.1 MP, 720p@30fps",
+            "Video": "1080p@30fps, HDR, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, LE, apt-X",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "NFC": "Yes",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0, USB Host",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- Triluminos display\n- Mobile BRAVIA engine 2",
+            "Multitouch": "Yes, up to 4 fingers",
+            "Resolution": "720 x 1280 pixels (~277 ppi pixel density)",
+            "Size": "5.3 inches (~66.7% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- ANT+ support\n- Active noise cancellation with dedicated mic\n- Xvid/MP4/H.264 player\n- MP3/eAAC+/WMA/WAV/Flac player\n- Document viewer\n- Photo viewer/editor\n- Voice memo/dial",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, IM, Push Email",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2014, June",
+            "Status": "Available. Released 2014, July"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "8 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White, Purple",
+            "Price group": "7/10 (About 400 EUR)",
+            "SAR EU": "0.36 W/kg (head)",
+            "SAR US": "0.48 W/kg (head) \u00a0 \u00a0 0.97 W/kg (body)"
+        },
+        "Network": {
+            "": "LTE band 4(1700/2100), 7(2600), 17(700) - D5106",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - all versions",
+            "3G bands": "HSDPA 900 / 2100 - D5103",
+            "4G bands": "LTE band 1(2100), 3(1800), 7(2600), 8(900), 20(800) - D5103",
+            "EDGE": "Up to 296 kbps",
+            "GPRS": "Up to 107 kbps",
+            "Speed": "HSPA 42.2/21.1(D5102)/5.76 Mbps, LTE Cat4 150/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.4 GHz Cortex-A7",
+            "Chipset": "Qualcomm MSM8928-2 Snapdragon 400 (D5103/D5106)/ Qualcomm MSM8228 (D5102)",
+            "GPU": "Adreno 305",
+            "OS": "Android OS, v4.4.2 (KitKat)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -89.1dB / Crosstalk -46.5dB",
+            "Battery life": "Endurance rating 75h",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 963 (nominal), 2.609 (sunlight)",
+            "Loudspeaker": "Voice 69dB / Noise 66dB / Ring 75dB",
+            "Performance": "Basemark OS II: 535"
+        }
+    },
+    "main": {
+        "device_name": "Sony Xperia T3",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_xperia_t3-pictures-6408.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/sony-xperia-t3.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_xperia_t3-6408.php"
+    }
+}

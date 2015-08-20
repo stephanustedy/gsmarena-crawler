@@ -1,0 +1,87 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-ion 4250 mAh battery",
+            "Stand-by": "Up to 695 h",
+            "Talk time": "Up to 32 h (2G) / Up to 17 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "179.5 x 89 x 7.9 mm (7.07 x 3.50 x 0.31 in)",
+            "SIM": "Dual SIM",
+            "Weight": "215 g (7.58 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection, panorama, HDR",
+            "Primary": "13 MP, 4128 x 3096 pixels, optical image stabilization, autofocus, dual-LED flash",
+            "Secondary": "13 MP, 1080p@30fps",
+            "Video": "1080p@30fps, optical stabilization"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Infrared port": "Yes",
+            "NFC": "Yes",
+            "Radio": "FM radio",
+            "USB": "microUSB v3.0, USB Host",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, DLNA, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 3",
+            "Resolution": "1080 x 1920 pixels (~342 ppi pixel density)",
+            "Size": "6.44 inches (~71.6% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- HDMI port\n- Active noise cancellation with dedicated mic\n- MP4/H.264/WMV player\n- MP3/eAAC+/WMA/WAV player\n- Document viewer\n- Photo viewer/editor\n- Voice memo/dial",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2014, March",
+            "Status": "Available. Released 2014, April"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "32/64 GB, 2 GB RAM/ 128 GB, 3 GB RAM"
+        },
+        "Misc": {
+            "Colors": "White, Gold",
+            "Price group": "7/10 (About 350 EUR)"
+        },
+        "Network": {
+            "": "LTE band 38(2600), 39(1900), 40(2300)",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 850 / 1900 / 2100",
+            "4G bands": "LTE band 3(1800), 7(2600)",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 42.2/11.5 Mbps, LTE Cat4 150/50 Mbps, EV-DO Rev.A 3.1 Mbps",
+            "Technology": "GSM / CDMA / HSPA / EVDO / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 2.3/2.5 GHz Krait 400",
+            "Chipset": "Qualcomm MSM8974AB/ MSM8974AC Snapdragon 801",
+            "GPU": "Adreno 330",
+            "OS": "Android OS, v4.3 (Jelly Bean)"
+        },
+        "Sound": {
+            "": "- Dolby Mobile",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "canonical_name": "Available versions:\n- 32/64 GB, 2 GB RAM, MSM8974AB chipset, 2.3 GHz processor\n- 128 GB, 3 GB RAM, MSM8974AC chipset, 2.5 GHz processor",
+        "device_name": "ZTE Nubia X6",
+        "image": {
+            "href": "http://www.gsmarena.com/zte_nubia_x6-pictures-6236.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/zte-nubia-x6-new.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/zte_nubia_x6-6236.php"
+    }
+}

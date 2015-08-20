@@ -1,0 +1,74 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 880 mAh battery",
+            "Stand-by": "Up to 300 h",
+            "Talk time": "Up to 3 h"
+        },
+        "Body": {
+            "Dimensions": "97 x 47 x 19.9 mm (3.82 x 1.85 x 0.78 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "96 g (3.39 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g, UMA"
+        },
+        "Display": {
+            "": "- External STN display, monochrome (96 x 96 pixels), 1 inch",
+            "Resolution": "128 x 160 pixels (~102 ppi pixel density)",
+            "Size": "2.0 inches (~27.6% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- MP3/eAAC+/WMA player\n- MP4 player\n- Predictive text input\n- Organizer\n- Voice memo",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2007, December. Released 2008",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "No",
+            "Internal": "14 MB",
+            "Phonebook": "1000 entries, Photo call"
+        },
+        "Misc": {
+            "Colors": "Brown",
+            "Price group": "2/10 (About 90 EUR)",
+            "SAR EU": "0.88 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Samsung P180",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_p180-pictures-2403.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-p180.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_p180-2403.php"
+    }
+}

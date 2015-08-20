@@ -1,0 +1,75 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion battery",
+            "Stand-by": "Up to 400 h",
+            "Talk time": "Up to 9 h"
+        },
+        "Body": {
+            "Dimensions": "100 x 46 x 20.5 mm (3.94 x 1.81 x 0.81 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "99 g (3.49 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1632 x 1224 pixels, LED flash",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Wallpapers, screensavers",
+            "Resolution": "176 x 220 pixels (~157 ppi pixel density)",
+            "Size": "1.8 inches, 28 x 35 mm (~22.2% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/AAC player\n- Video player\n- Predictive text input\n- Photo editor\n- Organizer\n- Voice memo\n- SyncML",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2006, April",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "30 received, dialed and missed calls",
+            "Card slot": "Memory Stick Duo Pro, up to 4 GB, 256 MB included",
+            "Internal": "34 MB",
+            "Phonebook": "500 x 20 fields, Photo call"
+        },
+        "Misc": {
+            "Colors": "Titanium Gold",
+            "Price group": "3/10 (About 130 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3, AAC ringtones, composer",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "W700c for China",
+        "device_name": "Sony Ericsson W700",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_ericsson_w700-pictures-1527.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/sonyericsson-w700.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_ericsson_w700-1527.php"
+    }
+}

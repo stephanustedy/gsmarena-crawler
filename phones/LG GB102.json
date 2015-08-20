@@ -1,0 +1,68 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 800 mAh battery",
+            "Stand-by": "Up to 400 h",
+            "Talk time": "Up to 6 h 30 min"
+        },
+        "Body": {
+            "Dimensions": "103 x 45 x 14 mm (4.06 x 1.77 x 0.55 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "-"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "No",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "128 x 128 pixels (~121 ppi pixel density)",
+            "Size": "1.5 inches (~15.7% screen-to-body ratio)",
+            "Type": "CSTN, 65K colors"
+        },
+        "Features": {
+            "": "- Organizer\n- Predictive text input",
+            "Browser": "No",
+            "Games": "Yes",
+            "Java": "No",
+            "Messaging": "SMS"
+        },
+        "Launch": {
+            "Announced": "2009, February",
+            "Status": "Available. Released 2009, August"
+        },
+        "Memory": {
+            "Call records": "10 dialed, 10 received, 10 missed calls",
+            "Card slot": "No",
+            "Phonebook": "Yes"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "1/10 (About 30 EUR)",
+            "SAR US": "1.19 W/kg (head) \u00a0 \u00a0 0.58 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "LG GB102",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_gb102-pictures-2703.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-gb102.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_gb102-2703.php"
+    }
+}

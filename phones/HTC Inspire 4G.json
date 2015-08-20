@@ -1,0 +1,85 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1230 mAh battery",
+            "Stand-by": "Up to 372 h",
+            "Talk time": "Up to 6 h"
+        },
+        "Body": {
+            "Dimensions": "122.9 x 68.1 x 11.7 mm (4.84 x 2.68 x 0.46 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "163.9 g (5.75 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face detection",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, dual-LED flash",
+            "Secondary": "No",
+            "Video": "720p"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, DLNA, hotspot (charges may apply)"
+        },
+        "Display": {
+            "": "- HTC Sense UI",
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "480 x 800 pixels (~217 ppi pixel density)",
+            "Size": "4.3 inches (~62.9% screen-to-body ratio)",
+            "Type": "S-LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Dedicated search key\n- MP3/AAC+/WAV/WMA9 player\n- DivX/Xvid/MP4/H.264/WMV9/player\n- Voice memo\n- Predictive text input",
+            "Browser": "HTML, Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2011, January",
+            "Status": "Available. Released 2011, February"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB, 8 GB included",
+            "Internal": "4 GB, 768 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, Brown, Red",
+            "Price group": "3/10 (About 120 EUR)",
+            "SAR US": "1.14 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 1900",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 14.4/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "1 GHz Scorpion",
+            "Chipset": "Qualcomm MSM8255 Snapdragon S2",
+            "GPU": "Adreno 205",
+            "OS": "Android OS, v2.2 (Froyo), upgradable to v2.3 (Gingerbread)"
+        },
+        "Sound": {
+            "": "- Dolby Mobile, SRS sound",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "For AT&T",
+        "device_name": "HTC Inspire 4G",
+        "image": {
+            "href": "http://www.gsmarena.com/htc_inspire_4g-pictures-3706.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/htc-inspire-4g.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/htc_inspire_4g-3706.php"
+    }
+}

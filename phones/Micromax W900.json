@@ -1,0 +1,74 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1500 mAh battery",
+            "Stand-by": "Up to 480 h",
+            "Talk time": "Up to 5 h"
+        },
+        "Body": {
+            "Dimensions": "112 x 55 x 14.2 mm (4.41 x 2.17 x 0.56 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "113 g (3.99 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600x1200 pixels",
+            "Secondary": "No",
+            "Video": "No"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "Yes",
+            "WLAN": "Wi-Fi 802.11 b/g"
+        },
+        "Display": {
+            "Resolution": "240 x 400 pixels (~146 ppi pixel density)",
+            "Size": "3.2 inches (~47.3% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- Organizer\n- Document viewer\n- MP3/AAC+/WAV/WMA player\n- MP4/H.264/WMV player\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML",
+            "Java": "No",
+            "Messaging": "SMS, EMS, MMS, Email",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2010, February",
+            "Status": "Available. Released 2010, February"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 16 GB, 2 GB included",
+            "Internal": "256 MB ROM, 128 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "2/10 (About 60 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Platform": {
+            "CPU": "K3 Hi3611 460MHz",
+            "OS": "Microsoft Windows Mobile 6.1 Professional"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, Polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Micromax W900",
+        "image": {
+            "href": "http://www.gsmarena.com/micromax_w900-pictures-3306.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/w900.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/micromax_w900-3306.php"
+    }
+}

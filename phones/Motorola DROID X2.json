@@ -1,0 +1,82 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1540 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "127.5 x 65.5 x 9.9 mm (5.02 x 2.58 x 0.39 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "155 g (5.47 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face detection",
+            "Primary": "8 MP, 3266 x 2450 pixels, autofocus, dual-LED flash",
+            "Secondary": "No",
+            "Video": "720p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, DLNA, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "540 x 960 pixels (~256 ppi pixel density)",
+            "Size": "4.3 inches (~61.0% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP3/WAV/WMA/AAC+ player\n- MP4/WMV/H.264 player\n- HDMI port\n- Active noise cancellation with dedicated mic\n- Document viewer\n- Photo viewer/editor\n- Organizer\n- Voice memo/dial/commands\n- Predictive text input",
+            "Browser": "HTML, Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS (threaded view), MMS, Email, IM, Push Email",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2011, May",
+            "Status": "Available. Released 2011, May"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB, 8 GB included",
+            "Internal": "8 GB, 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "5/10 (About 230 EUR)",
+            "SAR US": "0.74 W/kg (head) \u00a0 \u00a0 1.50 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "CDMA 800 / 1900",
+            "3G bands": "CDMA2000 1xEV-DO",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Speed": "EV-DO Rev.A 3.1 Mbps",
+            "Technology": "CDMA / EVDO"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1 GHz Cortex-A9",
+            "Chipset": "Nvidia Tegra 2 AP20H",
+            "GPU": "ULP GeForce",
+            "OS": "Android OS, v2.3 (Gingerbread), not upgradable to v4.1 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Motorola DROID X2",
+        "image": {
+            "href": "http://www.gsmarena.com/motorola_droid_x2-pictures-3959.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/motorola-droid-x2.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/motorola_droid_x2-3959.php"
+    }
+}

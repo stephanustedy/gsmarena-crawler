@@ -1,0 +1,75 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 950 mAh battery",
+            "Stand-by": "Up to 580 h",
+            "Talk time": "Up to 9 h"
+        },
+        "Body": {
+            "Dimensions": "113 x 61.9 x 12.9 mm (4.45 x 2.44 x 0.51 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "102 g (3.60 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "No",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "320 x 240 pixels (~174 ppi pixel density)",
+            "Size": "2.3 inches (~23.4% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- SNS integration\n- MP3/eAAC+/WAV player\n- MP4/H.263 player\n- Organizer\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email, IM"
+        },
+        "Launch": {
+            "Announced": "2011",
+            "Status": "Available"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 8 GB",
+            "Internal": "50 MB",
+            "Phonebook": "1000 contacts, Photocall"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "2/10 (About 80 EUR)",
+            "SAR EU": "0.88 W/kg (head) \u00a0 \u00a0 0.69 W/kg (body)",
+            "SAR US": "0.79 W/kg (head) \u00a0 \u00a0 1.01 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "LG C360",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_c360-pictures-4635.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-c360.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_c360-4635.php"
+    }
+}

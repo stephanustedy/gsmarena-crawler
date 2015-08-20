@@ -1,0 +1,85 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 2000 mAh battery",
+            "Stand-by": "Up to 700 h (2G) / Up to 400 h (3G)",
+            "Talk time": "Up to 6 h (2G) / Up to 8 h 30 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "133.5 x 66.8 x 7.4 mm (5.26 x 2.63 x 0.29 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "110 g (3.88 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection, panorama, HDR",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash",
+            "Secondary": "1.3 MP",
+            "Video": "1080p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, DLNA, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes, up to 5 fingers",
+            "Protection": "Oleophobic coating, Dragon Trail Glass",
+            "Resolution": "720 x 1280 pixels (~312 ppi pixel density)",
+            "Size": "4.7 inches (~68.3% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP3/AAC+/WAV player\n- MP4/H.264 player\n- Document viewer\n- Photo viewer/editor\n- Voice memo",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2013, August",
+            "Status": "Available. Released 2013, December"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "4 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Slate, Fresh Rose, Cherry Red",
+            "Price group": "4/10 (About 160 EUR)",
+            "SAR EU": "0.48 W/kg (head) \u00a0 \u00a0 1.00 W/kg (body)"
+        },
+        "Network": {
+            "": "LTE band 1(2100), 7(2600), 8(900) - 6034M",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 2100",
+            "4G bands": "LTE band 1(2100), 3(1800), 7(2600), 8(900), 20(800) - 6034R",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat3 100/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.2 GHz Cortex-A9",
+            "Chipset": "Mediatek MT6577",
+            "GPU": "PowerVR SGX531u",
+            "OS": "Android OS, v4.2 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Alcatel OT-6034R, Alcatel OT-6034Y, Alcatel OT-6034M",
+        "device_name": "Alcatel Idol S",
+        "image": {
+            "href": "http://www.gsmarena.com/alcatel_idol_s-pictures-5668.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/alcatel-idol-s-new.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/alcatel_idol_s-5668.php"
+    }
+}

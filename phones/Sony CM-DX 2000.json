@@ -1,0 +1,88 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1800 mAh battery",
+            "Stand-by": "100 h",
+            "Talk time": "10 h"
+        },
+        "Body": {
+            "Dimensions": "147 x 46 x 27 mm, 155 cc (5.79 x 1.81 x 1.06 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "185 g (6.53 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Fixed icons\n- Dynamic font size\n- Jog Dial",
+            "Resolution": "97 x 33 pixels, 4 x 16 chars",
+            "Size": "",
+            "Type": "Monochrome graphic"
+        },
+        "Features": {
+            "Alarm": "No",
+            "Browser": "",
+            "Clock": "No",
+            "Games": "No",
+            "Java": "No",
+            "Messaging": "SMS"
+        },
+        "Launch": {
+            "Announced": "1997",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "",
+            "Card slot": "No",
+            "Phonebook": "50"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Monophonic ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Sony CM-DX 2000",
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_cm_dx_2000-128.php"
+    }
+}

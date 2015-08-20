@@ -1,0 +1,84 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1000 mAh battery (LGIP-550N)",
+            "Stand-by": "Up to 330 h",
+            "Talk time": "Up to 7 h"
+        },
+        "Body": {
+            "Dimensions": "102 x 47.6 x 10.6 mm (4.02 x 1.87 x 0.42 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "99 g (3.49 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face/smile detection",
+            "Primary": "5 MP, 2560 x 1920 pixels, autofocus, check quality",
+            "Secondary": "Yes",
+            "Video": "480p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g, DLNA"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "480 x 854 pixels (~306 ppi pixel density)",
+            "Size": "3.2 inches (~58.1% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- SNS integration\n- MP4/DivX/XviD/H.264 player\n- MP3/WMA/eAAC+ player\n- Organizer\n- Document viewer (Word, Excel, PowerPoint, PDF)\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS, MMS, Email, Push Email",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2010, February",
+            "Status": "Available. Released 2010, April"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "330 MB",
+            "Phonebook": "1000 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "3/10 (About 120 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Speed": "HSPA 7.2/2 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Sound": {
+            "": "- Dolby Mobile",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -59.9dB / Crosstalk -72.2dB",
+            "Camera": "Photo",
+            "Loudspeaker": "Voice 67dB / Noise 66dB / Ring 76dB"
+        }
+    },
+    "main": {
+        "device_name": "LG GD880 Mini",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_gd880_mini-pictures-3078.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-gd880--.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_gd880_mini-3078.php"
+    }
+}

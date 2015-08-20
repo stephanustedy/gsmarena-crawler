@@ -1,0 +1,81 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1540 mAh battery",
+            "Stand-by": "Up to 264 h",
+            "Talk time": "Up to 5 h 12 min"
+        },
+        "Body": {
+            "Dimensions": "124.1 x 66.3 x 11.8 mm (4.89 x 2.61 x 0.46 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "119 g (4.20 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, panorama",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, LED flash",
+            "Secondary": "VGA",
+            "Video": "480p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "480 x 800 pixels (~217 ppi pixel density)",
+            "Size": "4.3 inches (~64.0% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- DivX/MP4/H.264 player\n- MP3/WAV/FLAC/eAAC+ player\n- Photo viewer/editor\n- Document viewer\n- Voice memo/dial/commands",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2014, August",
+            "Status": "Available. Released 2014, August"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "4 GB, 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "2/10 (About 90 EUR)",
+            "SAR EU": "0.50 W/kg (head) \u00a0 \u00a0 0.68 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 21.1/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.3 GHz",
+            "GPU": "Adreno 305",
+            "OS": "Android OS, v4.4.2 (KitKat)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as LG L60 X145",
+        "device_name": "LG L60",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_l60-pictures-6606.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-l60.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_l60-6606.php"
+    }
+}

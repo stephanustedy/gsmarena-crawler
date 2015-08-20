@@ -1,0 +1,75 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1000 mAh battery",
+            "Stand-by": "Up to 480 h",
+            "Talk time": "Up to 6 h"
+        },
+        "Body": {
+            "Dimensions": "103 x 53 x 17 mm (4.06 x 2.09 x 0.67 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "123.9 g (4.34 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 1024 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP, EDR",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "240 x 400 pixels (~167 ppi pixel density)",
+            "Size": "2.8 inches (~40.9% screen-to-body ratio)",
+            "Type": "TFT touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- MP4/H.264 player\n- MP3/eAAC+ player\n- Organizer\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Games": "Yes",
+            "Java": "No",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2010, November",
+            "Status": "Available. Released 2010, December"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 16 GB",
+            "Phonebook": "Yes, Photocall"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "SAR US": "0.84 W/kg (head) \u00a0 \u00a0 0.45 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "CDMA 800 / 1900",
+            "3G bands": "CDMA2000 1x",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Speed": "Yes",
+            "Technology": "CDMA / CDMA2000"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "For Verizon\nAlso known as LG VN270",
+        "device_name": "LG Cosmos Touch VN270",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_cosmos_touch_vn270-pictures-3631.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-cosmos-touch.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_cosmos_touch_vn270-3631.php"
+    }
+}

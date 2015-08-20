@@ -1,0 +1,77 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 780 mAh battery (BST-36)",
+            "Music play": "Up to 15 h",
+            "Stand-by": "Up to 300 h",
+            "Talk time": "Up to 7 h"
+        },
+        "Body": {
+            "Dimensions": "104 x 43 x 10.5 mm (4.09 x 1.69 x 0.41 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "80 g (2.82 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 1024 pixels",
+            "Secondary": "No",
+            "Video": "No"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Wallpapers, screensavers",
+            "Resolution": "176 x 220 pixels (~148 ppi pixel density)",
+            "Size": "1.9 inches (~25.4% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- Walkman player \n- TrackID music recognition\n- Predictive text input\n- Photo editor\n- Organizer\n- Voice memo",
+            "Browser": "WAP 2.0/xHTML, HTML (NetFront), RSS reader",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2008, January. Released 2008, May",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "30 received, dialed and missed calls",
+            "Card slot": "Memory Stick Micro (M2), up to 4 GB, 512 MB included",
+            "Internal": "14 MB",
+            "Phonebook": "1000 x 20 fields, Photo call"
+        },
+        "Misc": {
+            "Colors": "Electric black, Ice blue, Hypnotic black, Graphic white, Wisteria Purple, Turbo Red, Pink",
+            "Price group": "2/10 (About 70 EUR)",
+            "SAR US": "1.48 W/kg (head) \u00a0 \u00a0 0.90 W/kg (body)"
+        },
+        "Network": {
+            "": "GSM 850 / 1800 / 1900 - W350a",
+            "2G bands": "GSM 900 / 1800 / 1900 - W350i",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3, AAC ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "W350i - 900/1800/1900 MHz\nW350c - 900/1800/1900 MHz for China\nW350a - 850/1800/1900 MHz for America",
+        "device_name": "Sony Ericsson W350",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_ericsson_w350-pictures-2198.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/sonyericsson-w350.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_ericsson_w350-2198.php"
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1200 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "115.1 x 57.9 x 10.9 mm (4.53 x 2.28 x 0.43 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "117.4 g (4.13 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, LED flash",
+            "Secondary": "VGA",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "NFC": "Yes",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "480 x 800 pixels (~267 ppi pixel density)",
+            "Size": "3.5 inches (~52.3% screen-to-body ratio)",
+            "Type": "Super AMOLED capacitive touchscreen"
+        },
+        "Features": {
+            "": "- MP4/H.264 player\n- MP3/WAV/eAAC+ player\n- Organizer\n- Voice memo/dial\n- Predictive text input",
+            "Browser": "HTML",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2012, February",
+            "Status": "Available. Released 2012, March"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "512 MB RAM, 512 MB"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "5/10 (About 230 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 7.2/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "1 GHz Cortex-A5",
+            "Chipset": "Qualcomm MSM7227A Snapdragon S1",
+            "GPU": "Adreno 200",
+            "OS": "Android OS, v2.3.6 (Gingerbread), upgradable to v4.0 (Ice Cream Sandwich)"
+        },
+        "Sound": {
+            "": "- Dolby mobile",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "ZTE Blade II V880+",
+        "image": {
+            "href": "http://www.gsmarena.com/zte_blade_ii_v880+-pictures-4608.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/zte-blade-ii.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/zte_blade_ii_v880+-4608.php"
+    }
+}

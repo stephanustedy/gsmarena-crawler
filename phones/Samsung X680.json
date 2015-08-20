@@ -1,0 +1,75 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 800 mAh battery",
+            "Stand-by": "Up to 250 h",
+            "Talk time": "Up to 3 h"
+        },
+        "Body": {
+            "Dimensions": "88 x 44 x 19 mm (3.46 x 1.73 x 0.75 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "80 g (2.82 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v1.2",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second external mono display 96 x 96 pixels",
+            "Resolution": "128 x 160 pixels (~114 ppi pixel density)",
+            "Size": "1.8 inches (~26.3% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- MP3/AAC player\n- Predictive text input\n- Organizer\n- Voice memo",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2006, 2Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- 23 MB Media\n- 3 MB MMS\n- 2 MB Java\n- 1.5 MB Organiser & Contacts",
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "No",
+            "Internal": "30 MB",
+            "Phonebook": "1000 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Black, Blue, Silver, Pink",
+            "SAR EU": "0.80 W/kg (head)",
+            "SAR US": "0.69 W/kg (head) \u00a0 \u00a0 0.49 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Samsung X680",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_x680-pictures-1620.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-x680.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_x680-1620.php"
+    }
+}

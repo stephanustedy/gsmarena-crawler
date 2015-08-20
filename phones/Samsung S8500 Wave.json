@@ -1,0 +1,91 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1500 mAh battery",
+            "Music play": "Up to 35 h",
+            "Stand-by": "Up to 600 h (2G) / Up to 550 h (3G)",
+            "Talk time": "Up to 15 h (2G) / Up to 7 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "118 x 56 x 10.9 mm (4.65 x 2.20 x 0.43 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "118 g (4.16 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face, smile and blink detection, image stablilization, touch focus",
+            "Primary": "5 MP, 2592 x 1944 pixels, autofocus, LED flash, check quality",
+            "Secondary": "Yes",
+            "Video": "720p@30fps, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "Yes, with A-GPS, Samsung Mobile Navigator",
+            "Radio": "Stereo FM radio with RDS, FM recording",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "": "- TouchWiz UI 3.0\n- Handwriting recognition",
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "480 x 800 pixels (~283 ppi pixel density)",
+            "Size": "3.3 inches (~46.9% screen-to-body ratio)",
+            "Type": "Super AMOLED capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- TV-Out\n- MP3/WAV/WMA/eAAC+ player\n- MP4/H.264/WMV/Xvid/DivX player\n- Organizer\n- Picsel document viewer\n- Photo editor\n- Voice memo\n- Predictive text input (T9 Trace)",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email, Push Email, Palringo IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2010, February",
+            "Status": "Available. Released 2010, April"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "390 MB"
+        },
+        "Misc": {
+            "Colors": "Ebony Gray",
+            "Price group": "4/10 (About 160 EUR)",
+            "SAR EU": "0.99 W/kg (head)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 1900 - North America",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Speed": "HSPA 3.6/2 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "1 GHz Cortex-A8",
+            "Chipset": "Hummingbird",
+            "GPU": "PowerVR SGX540",
+            "OS": "Bada OS, upgradable to v2.0"
+        },
+        "Sound": {
+            "": "- DNSe (Digital Natural Sound Engine)",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -90.9dB / Crosstalk -92.5dB",
+            "Camera": "Photo / Video",
+            "Loudspeaker": "Voice 69dB / Noise 66dB / Ring 75dB"
+        }
+    },
+    "main": {
+        "device_name": "Samsung S8500 Wave",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_s8500_wave-pictures-3146.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-s8500.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_s8500_wave-3146.php"
+    }
+}

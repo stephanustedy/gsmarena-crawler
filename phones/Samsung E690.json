@@ -1,0 +1,75 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 800 mAh battery",
+            "Stand-by": "Up to 250 h",
+            "Talk time": "Up to 4 h"
+        },
+        "Body": {
+            "Dimensions": "94 x 48 x 15.9 mm (3.70 x 1.89 x 0.63 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "95 g (3.35 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0",
+            "GPS": "No",
+            "Radio": "FM radio",
+            "USB": "v1.1",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second external UFB display, 65K colors (96 x 96 pixels)",
+            "Resolution": "128 x 160 pixels (~102 ppi pixel density)",
+            "Size": "2.0 inches (~27.9% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- MP3/AAC/ACC+ player\n- Predictive text input\n- Organizer\n- SyncML DS1.1\n- Voice memo",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2006, November",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "microSD",
+            "Internal": "16 MB",
+            "Phonebook": "Yes"
+        },
+        "Misc": {
+            "Colors": "Silver, Pink",
+            "Price group": "3/10 (About 100 EUR)",
+            "SAR EU": "0.71 W/kg (head)",
+            "SAR US": "0.50 W/kg (head) \u00a0 \u00a0 0.62 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "Yes",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Samsung E690",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_e690-pictures-1796.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-e690.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_e690-1796.php"
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 1500 mAh battery (BP-4L)",
+            "Stand-by": "Up to 681 h (2G) / Up to 744 h (3G)",
+            "Talk time": "Up to 14 h 48 min (2G) / Up to 7 h 30 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "115.5 x 59 x 10.5 mm, 66 cc (4.55 x 2.32 x 0.41 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "133 g (4.69 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face detection",
+            "Primary": "8 MP, 3264 x 2448 pixels, fixed focus, dual-LED flash, check quality",
+            "Secondary": "VGA",
+            "Video": "720p@25fps, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0, USB Host",
+            "WLAN": "Wi-Fi 802.11 b/g/n"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "640 x 480 pixels (~325 ppi pixel density)",
+            "Size": "2.46 inches (~27.5% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Stainless steel panels\n- Active noise cancellation with dedicated mic\n- TV-out\n- MP4/H.264/RV player\n- MP3/WMA/WAV/RA/eAAC+ player\n- QuickOffice document editor (Word, Excel, PowerPoint, PDF)\n- Organizer\n- Voice command/dial/commands\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML, Adobe Flash Lite",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS, MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2011, April",
+            "Status": "Available. Released 2011, June"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "8 GB, 256 MB RAM, 1 GB ROM"
+        },
+        "Misc": {
+            "Colors": "Black, White, Silver",
+            "Price group": "3/10 (About 140 EUR)",
+            "SAR EU": "1.14 W/kg (head)",
+            "SAR US": "1.25 W/kg (head) \u00a0 \u00a0 0.81 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 1700 / 1900 / 2100",
+            "EDGE": "Class 33",
+            "GPRS": "Class 33",
+            "Speed": "HSPA 10.2/2 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "680 MHz ARM 11",
+            "OS": "Symbian Anna OS, upgradeable to Nokia Belle OS"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -88.0dB / Crosstalk -89.1dB",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 1631:1 (nominal)",
+            "Loudspeaker": "Voice 68dB / Noise 61dB / Ring 70dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Nokia E6-00",
+        "device_name": "Nokia E6",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_e6-pictures-3717.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-e6-00-ofic.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_e6-3717.php"
+    }
+}

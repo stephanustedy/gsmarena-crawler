@@ -1,0 +1,84 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1300 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "": "- Optical trackpad",
+            "Dimensions": "116 x 63 x 12 mm (4.57 x 2.48 x 0.47 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "109 g (3.84 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "3.15 MP, 2048 x 1536 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g, hotspot"
+        },
+        "Display": {
+            "Resolution": "320 x 240 pixels (~154 ppi pixel density)",
+            "Size": "2.6 inches (~28.6% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/WAV/WMA/eAAC+ player\n- MP4/H.264/WMV player\n- Document viewer \n- Voice memo\n- Predictive text input",
+            "Browser": "HTML",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS (threaded view), MMS, Email, IM",
+            "Sensors": "Accelerometer, compass"
+        },
+        "Launch": {
+            "Announced": "2011, January",
+            "Status": "Available. Released 2011, Q2"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "256 MB RAM, 512 MB"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "3/10 (About 150 EUR)",
+            "SAR EU": "0.92 W/kg (head)",
+            "SAR US": "0.92 W/kg (head) \u00a0 \u00a0 0.88 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 1900",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 7.2/2 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "600 MHz ARM 11",
+            "Chipset": "Qualcomm MSM7227 Snapdragon S1",
+            "GPU": "Adreno 200",
+            "OS": "Android OS, v2.2 (Froyo)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Acer beTouch E210",
+        "image": {
+            "href": "http://www.gsmarena.com/acer_betouch_e210-pictures-3712.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/acer-betouch-e210.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/acer_betouch_e210-3712.php"
+    }
+}

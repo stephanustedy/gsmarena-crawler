@@ -1,0 +1,80 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 2250 mAh battery",
+            "Stand-by": "Up to 312 h",
+            "Talk time": "Up to 17 h"
+        },
+        "Body": {
+            "Dimensions": "142 x 78 x 9.9 mm (5.59 x 3.07 x 0.39 in)",
+            "SIM": "Dual SIM (Mini-SIM, dual stand-by)",
+            "Weight": "196 g (6.91 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus",
+            "Secondary": "VGA",
+            "Video": "720p"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "FM radio, FM transmitter; built-in antenna",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes, up to 3 fingers",
+            "Resolution": "480 x 800 pixels (~187 ppi pixel density)",
+            "Size": "5.0 inches (~64.2% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/WMV/H.264 player\n- MP3/WAV/WMA/eAAC+ player\n- Photo/video editor\n- Document viewer",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2012, August",
+            "Status": "Available. Released 2012, September"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "4 GB, 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "6/10 (About 280 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 900 / 2100 - SIM 1 only",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 7.2/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "1 GHz Cortex-A9",
+            "Chipset": "Mediatek MT6575",
+            "GPU": "PowerVR SGX531",
+            "OS": "Android OS, v4.0 (Ice Cream Sandwich)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Lenovo S880",
+        "image": {
+            "href": "http://www.gsmarena.com/lenovo_s880-pictures-5060.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lenovo-lephone-s880.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lenovo_s880-5060.php"
+    }
+}

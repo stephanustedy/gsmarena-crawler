@@ -1,0 +1,79 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 2000 mAh battery",
+            "Music play": "Up to 20 h",
+            "Stand-by": "Up to 800 h (2G) / Up to 667 h (3G)",
+            "Talk time": "Up to 13 h (2G) / Up to 8 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "141 x 72.1 x 9.9 mm (5.55 x 2.84 x 0.39 in)",
+            "SIM": "Yes",
+            "Weight": "149 g (5.26 oz)"
+        },
+        "Camera": {
+            "Features": "Yes",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, LED flash",
+            "Secondary": "VGA",
+            "Video": "720p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "540 x 960 pixels (~220 ppi pixel density)",
+            "Size": "5.0 inches (~67.8% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP3/AAC+/WAV player\n- Xvid/MP4/H.264 player\n- Document viewer\n- Photo/video editor\n- Voice memo/dial",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2014, September",
+            "Status": "Available. Released 2014, October"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "4 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Various",
+            "Price group": "3/10 (About 120 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 1700 / 1900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 21.1/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.2 GHz",
+            "OS": "Android OS, v4.4.2 (KitKat)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Alcatel Pop Icon",
+        "image": {
+            "href": "http://www.gsmarena.com/alcatel_pop_icon-pictures-6732.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/alcatel-pop-icon.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/alcatel_pop_icon-6732.php"
+    }
+}

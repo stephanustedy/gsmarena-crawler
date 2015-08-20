@@ -1,0 +1,83 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1400 mAh battery",
+            "Stand-by": "Up to 600 h (2G) / Up to 600 h (3G)",
+            "Talk time": "Up to 8 h (2G) / Up to 8 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "121.6 x 64.4 x 12.3 mm (4.79 x 2.54 x 0.48 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "117 g (4.13 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "3.15 MP, 2048 x 1536 pixels",
+            "Secondary": "No",
+            "Video": "480p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "480 x 800 pixels (~233 ppi pixel density)",
+            "Size": "4.0 inches (~58.2% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen"
+        },
+        "Features": {
+            "": "- MP3/WMA/eAAC+ player\n- MP4/H.264 player\n- Document viewer\n- Photo viewer/editor\n- Voice memo/dial",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2014, April",
+            "Status": "Available. Released 2014, April"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "4 GB, 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "1/10 (About 50 EUR)",
+            "SAR EU": "0.66 W/kg (head)"
+        },
+        "Network": {
+            "": "GSM 900 / 1800 / 1900",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.3 GHz Cortex-A7",
+            "Chipset": "Mediatek MT6572",
+            "GPU": "Mali-400",
+            "OS": "Android OS, v4.2.2 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Vodafone 785",
+        "device_name": "Vodafone Smart 4 mini",
+        "image": {
+            "href": "http://www.gsmarena.com/vodafone_smart_4_mini-pictures-6295.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/vodafone-smart-mini-4.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/vodafone_smart_4_mini-6295.php"
+    }
+}

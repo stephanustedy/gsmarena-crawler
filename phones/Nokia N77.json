@@ -1,0 +1,79 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1100 mAh battery (BP-6M)",
+            "Stand-by": "Up to 170 h",
+            "Talk time": "Up to 4 h 30 min (2G) / 3 h 30 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "111 x 50 x 18.8 mm, 92 cc (4.37 x 1.97 x 0.74 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "114 g (4.02 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels, LED flash",
+            "Secondary": "CIF videocall camera",
+            "Video": "CIF"
+        },
+        "Comms": {
+            "Bluetooth": "v1.2, A2DP",
+            "GPS": "No",
+            "Radio": "Stereo FM radio",
+            "USB": "Pop-Port v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Downloadable themes",
+            "Resolution": "240 x 320 pixels (~167 ppi pixel density)",
+            "Size": "2.4 inches (~32.1% screen-to-body ratio)",
+            "Type": "TFT, 16M colors"
+        },
+        "Features": {
+            "": "- DVB-H TV broadcast receiver\n- Push to Talk\n- WMV/RV/MP4/3GP player\n- MP3/WMA/WAV/RA/AAC/M4A player\n- Predictive text input\n- Voice command/dial\n- Organizer\n- Printing\n- Document viewer (Word, Excel, PowerPoint, PDF)\n- Photo/video editor",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2007, February",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "microSD",
+            "Internal": "20 MB, 64 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "3/10 (About 150 EUR)",
+            "SAR EU": "1.28 W/kg (head)",
+            "SAR US": "1.11 W/kg (head) \u00a0 \u00a0 0.48 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "3G bands": "UMTS 2100",
+            "EDGE": "Class 32, 296 / 177.6 kbits",
+            "GPRS": "Class 11",
+            "Speed": "Yes, 384 kbps",
+            "Technology": "GSM / UMTS"
+        },
+        "Platform": {
+            "CPU": "220 MHz Dual ARM 9",
+            "OS": "Symbian OS 9.1, S60 rel. 3.1"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "canonical_name": "Also EDGE only version : EGSM900/1800/1900 MHz.",
+        "device_name": "Nokia N77",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_n77-pictures-1859.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-n77.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_n77-1859.php"
+    }
+}

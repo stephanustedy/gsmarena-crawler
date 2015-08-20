@@ -1,0 +1,89 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1500 mAh battery",
+            "Stand-by": "Up to 330 h (2G) / Up to 330 h (3G)",
+            "Talk time": "Up to 6 h 40 min (2G) / Up to 5 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "125 x 59.8 x 11.5 mm (4.92 x 2.35 x 0.45 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "157 g (5.54 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "5 MP, 2592 x 1944 pixels, autofocus, LED flash, check quality",
+            "Secondary": "No",
+            "Video": "720p@24fps, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, DLNA"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "480 x 800 pixels (~246 ppi pixel density)",
+            "Size": "3.8 inches (~55.0% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Facebook integration\n- Document viewer/editor\n- MP4/WMV player\n- MP3/WAV/WMA/eAAC+ player\n- Organizer\n- Voice memo\n- Predictive text input",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2010, October",
+            "Status": "Available. Released 2010, November"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "16 GB, 512 MB RAM, 512 MB ROM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "3/10 (About 120 EUR)",
+            "SAR EU": "0.94 W/kg (head) \u00a0 \u00a0 1.47 W/kg (body)",
+            "SAR US": "0.59 W/kg (head) \u00a0 \u00a0 0.63 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 1900 - North America",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 1900 / 2100",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Speed": "HSPA 7.2/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "1 GHz Scorpion",
+            "Chipset": "Qualcomm QSD8650 Snapdragon S1",
+            "GPU": "Adreno 200",
+            "OS": "Microsoft Windows Phone 7, upgradable to v7.8"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -87.8dB / Crosstalk -87.2dB",
+            "Camera": "Photo / Video",
+            "Loudspeaker": "Voice 66dB / Noise 66dB / Ring 75dB"
+        }
+    },
+    "main": {
+        "device_name": "LG E900 Optimus 7",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_e900_optimus_7-pictures-3532.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-optimus-7.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_e900_optimus_7-3532.php"
+    }
+}

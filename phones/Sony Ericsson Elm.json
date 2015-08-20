@@ -1,0 +1,85 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 1000 mAh battery (BST-43)",
+            "Stand-by": "Up to 336 h (2G) / Up to 424 h (3G)",
+            "Talk time": "Up to 4 h 30 min (2G) / Up to 3 h 40 min (3G)"
+        },
+        "Body": {
+            "": "- Splash resistant",
+            "Dimensions": "110 x 45 x 14 mm (4.33 x 1.77 x 0.55 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "90 g (3.17 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face, smile detection, video calling",
+            "Primary": "5 MP, 2592 x 1944 pixels, autofocus, LED flash, check quality",
+            "Secondary": "No",
+            "Video": "480p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP, EDR",
+            "GPS": "Yes, with A-GPS; Wisepilot navigation",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "USB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g, DLNA"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~182 ppi pixel density)",
+            "Size": "2.2 inches (~30.3% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- Noise cancellation with dedicated microphone\n- HD Voice ready\n- MP3/eAAC+/WAV player\n- SensMe, Track ID\n- MP4/H.264 player\n- Photo editor\n- Widget Manager\n- Organizer\n- Eco friendly materials\n- Walkmate, CO2 Calculator\n- Voice memo/dial\n- Predictive text input",
+            "Browser": "WAP 2.0/HTML (NetFront), RSS reader",
+            "Games": "Yes, incl. motion-based + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2009, December",
+            "Status": "Available. Released 2010, March"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 16 GB",
+            "Internal": "280 MB",
+            "Phonebook": "1000 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Metal Black, Pearly Rose",
+            "Price group": "2/10 (About 100 EUR)",
+            "SAR EU": "1.24 W/kg (head)"
+        },
+        "Network": {
+            "": "HSDPA 900 / 2100",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 2100",
+            "EDGE": "Up to 247 kbps",
+            "GPRS": "Up to 80 kbps",
+            "Speed": "HSPA 7.2/1.8 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -87.2dB / Crosstalk -85.9dB",
+            "Camera": "Photo",
+            "Loudspeaker": "Voice 61dB / Noise 61dB / Ring 69dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Sony Ericsson Elm GreenHeart",
+        "device_name": "Sony Ericsson Elm",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_ericsson_elm-pictures-3057.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/sony-ericsson-elm.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_ericsson_elm-3057.php"
+    }
+}

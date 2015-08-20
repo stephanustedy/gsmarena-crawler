@@ -1,0 +1,75 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 820 mAh battery",
+            "Stand-by": "Up to 350 h",
+            "Talk time": "Up to 6 h 40 min"
+        },
+        "Body": {
+            "Dimensions": "113 x 49 x 11.5 mm, 59 cc (4.45 x 1.93 x 0.45 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "96 g (3.39 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v1.2",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "miniUSB",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Downloadable wallpapers, screensavers",
+            "Resolution": "176 x 220 pixels, 9 lines (~148 ppi pixel density)",
+            "Size": "1.9 inches, 30 x 37 mm (~20.5% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- Push to talk \n- MP3/MP4 player\n- Predictive text input\n- Organizer\n- Voice memo",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2005, 1Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- 5 MB free memory",
+            "Call records": "10 dialed, 10 received, 10 missed calls",
+            "Card slot": "microSD, up to 1 GB",
+            "Internal": "11 MB",
+            "Phonebook": "1000 entries, Photo call"
+        },
+        "Misc": {
+            "Colors": "Black, Silver, Pink",
+            "Price group": "2/10 (About 90 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Motorola SLVR V8",
+        "device_name": "Motorola SLVR L7",
+        "image": {
+            "href": "http://www.gsmarena.com/motorola_slvr_l7-pictures-1053.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/mov8.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/motorola_slvr_l7-1053.php"
+    }
+}

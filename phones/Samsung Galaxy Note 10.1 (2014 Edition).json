@@ -1,0 +1,95 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po 8220 mAh battery",
+            "Music play": "Up to 98 h",
+            "Stand-by": "Up to 2230 h",
+            "Talk time": "Up to 10 h (multimedia) (2G) / Up to 49 h (3G)"
+        },
+        "Body": {
+            "": "- S Pen stylus",
+            "Dimensions": "243.1 x 171.4 x 7.9 mm (9.57 x 6.75 x 0.31 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "540g (WIFI)/ 535 g (3G)/ 547g (LTE) (1.18 lb)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face/smile detection",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash, check quality",
+            "Secondary": "2 MP, 1080p@30fps",
+            "Video": "1080p@60fps (LTE model), check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "microUSB v2.0 (MHL TV-out), USB Host",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot"
+        },
+        "Display": {
+            "": "- Samsung TouchWiz UI",
+            "Multitouch": "Yes, up to 10 fingers",
+            "Resolution": "2560 x 1600 pixels (~299 ppi pixel density)",
+            "Size": "10.1 inches (~71.0% screen-to-body ratio)",
+            "Type": "Super clear LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP4/DivX/XviD/WMV/H.264 player\n- MP3/WAV/eAAC+/FLAC player\n- Photo/video editor\n- Document viewer",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2013, September",
+            "Status": "Available. Released 2013, October"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "16/32/64 GB, 3 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "7/10 (About 370 EUR)",
+            "SAR EU": "0.64 W/kg (body)",
+            "SAR US": "1.59 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - all versions",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100 - all versions",
+            "4G bands": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 20(800) - SM-P605",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 42.2(LTE)/21.1(3G)/5.76 Mbps, LTE Cat4 150/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 2.3 GHz Krait 400 (LTE model)/ Quad-core 1.9 GHz Cortex-A15 & quad-core 1.3 GHz Cortex-A7 (3G model)",
+            "Chipset": "Qualcomm Snapdragon 800",
+            "GPU": "Adreno 330 (LTE model)",
+            "OS": "Android OS, v4.3 (Jelly Bean), upgradable to v4.4.2 (KitKat)"
+        },
+        "Sound": {
+            "": "- Dolby mobile",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        },
+        "Tests": {
+            "Audio quality": "Noise -95.5dB / Crosstalk -97.3dB",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 821:1 (nominal)",
+            "Loudspeaker": "Voice 75dB / Noise 66dB / Ring 77dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Available as:\nSamsung Galaxy Note 10.1 SM-P600 Wi-Fi\nSamsung Galaxy Note 10.1 SM-P601 3G\nSamsung Galaxy Note 10.1 SM-P605 3G+LTE\nSM-P600 model has no support for GSM voice communication, SMS, and MMS",
+        "device_name": "Samsung Galaxy Note 10.1 (2014 Edition)",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_galaxy_note_10_1_(2014_edition)-pictures-5677.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-note-101-2014-new.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_galaxy_note_10_1_(2014_edition)-5677.php"
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 2000 mAh battery",
+            "Stand-by": "Up to 750 h (2G) / Up to 675 h (3G)",
+            "Talk time": "Up to 18 h (2G) / Up to 12 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "144 x 74 x 9 mm (5.67 x 2.91 x 0.35 in)",
+            "SIM": "Dual SIM (Micro-SIM, dual stand-by)",
+            "Weight": "144 g (5.08 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection, panorama, HDR",
+            "Primary": "12 MP, 4000 x 3000 pixels, autofocus, LED flash",
+            "Secondary": "2 MP",
+            "Video": "1080p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Yes, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "720 x 1280 pixels (~294 ppi pixel density)",
+            "Size": "5.0 inches (~64.7% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/WMV/H.264 player\n- MP3/WAV/WMA/AAC player\n- Photo/video editor\n- Voice memo",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2014, January",
+            "Status": "Available. Released 2014, January"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "4 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Blue, White",
+            "Price group": "3/10 (About 140 EUR)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 1900 / 1700 - L131U",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 850 / 1900 / 2100 - L131L",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 42.2/11.5 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.5 GHz Cortex-A7",
+            "Chipset": "Mediatek MT6589T",
+            "GPU": "PowerVR SGX544MP2",
+            "OS": "Android OS, v4.2 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "BLU Life One M",
+        "image": {
+            "href": "http://www.gsmarena.com/blu_life_one_m-pictures-5954.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/blu-life-one-m.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/blu_life_one_m-5954.php"
+    }
+}

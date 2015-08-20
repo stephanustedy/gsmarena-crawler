@@ -1,0 +1,83 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po 2000 mAh battery",
+            "Music play": "Up to 30 h",
+            "Stand-by": "Up to 450 h (2G) / Up to 450 h (3G)",
+            "Talk time": "Up to 14 h (2G) / Up to 11 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "143.3 x 71 x 6 mm (5.64 x 2.80 x 0.24 in)",
+            "SIM": "Dual SIM (Micro-SIM/Nano-SIM, dual stand-by)",
+            "Weight": "150 g (5.29 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face/smile detection",
+            "Primary": "13 MP, 4160 x 3120 pixels, autofocus, LED flash",
+            "Secondary": "Yes",
+            "Video": "1080p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "Infrared port": "Yes",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0, USB Host",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "720 x 1280 pixels (~294 ppi pixel density)",
+            "Size": "5.0 inches (~67.7% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/H.264 player\n- MP3/WAV/FLAC/eAAC+ player\n- Photo editor\n- Document viewer",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2014",
+            "Status": "Available. Released 2014"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "16 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "White, Blue",
+            "SAR EU": "0.35 W/kg (head) \u00a0 \u00a0 0.69 W/kg (body)",
+            "SAR US": "0.46 W/kg (head) \u00a0 \u00a0 1.05 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 850 / 900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 21.1/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Octa-core 1.7 GHz Cortex-A7",
+            "Chipset": "Mediatek MT6592",
+            "GPU": "Mali-450MP4",
+            "OS": "Android OS, v4.2.2 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "vivo X3S",
+        "image": {
+            "href": "http://www.gsmarena.com/vivo_x3s-pictures-6801.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/vivo-x3s.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/vivo_x3s-6801.php"
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable 2500 mAh battery",
+            "Music play": "Up to 45 h",
+            "Stand-by": "Up to 680 h",
+            "Talk time": "Up to 23 h"
+        },
+        "Body": {
+            "Dimensions": "140.1 x 68.9 x 8.7 mm (5.52 x 2.71 x 0.34 in)",
+            "SIM": "Dual SIM (Nano-SIM, dual stand-by)",
+            "Weight": "131 g (4.62 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection",
+            "Primary": "13 MP, 4208 x 3120 pixels, autofocus, LED flash",
+            "Secondary": "5 MP",
+            "Video": "1080p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, LE",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, hotspot"
+        },
+        "Display": {
+            "": "- Flyme 4.5",
+            "Multitouch": "Yes",
+            "Protection": "Dragon Trail Glass",
+            "Resolution": "720 x 1280 pixels (~294 ppi pixel density)",
+            "Size": "5.0 inches (~71.4% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP3/WAV/eAAC+/FLAC player\n- MP4/H.264 player\n- Document editor\n- Photo/video editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2015, July",
+            "Status": "Available. Released 2015, July"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 128 GB (uses SIM 2 slot)",
+            "Internal": "16 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Gray, White, Blue, Pink",
+            "Price group": "3/10 (About 100 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 900 / 1900 / 2100",
+            "4G bands": "LTE",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA, LTE",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.3 GHz Cortex-A53",
+            "Chipset": "Mediatek MT6735",
+            "GPU": "Mali-T720MP2",
+            "OS": "Android OS, v5.1 (Lollipop)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Meizu m2",
+        "image": {
+            "href": "http://www.gsmarena.com/meizu_m2-pictures-7455.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/meizu-m2.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/meizu_m2-7455.php"
+    }
+}

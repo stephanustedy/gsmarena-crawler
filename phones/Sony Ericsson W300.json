@@ -1,0 +1,77 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 900 mAh battery",
+            "Stand-by": "Up to 400 h",
+            "Talk time": "Up to 9 h"
+        },
+        "Body": {
+            "Dimensions": "90 x 47 x 24 mm (3.54 x 1.85 x 0.94 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "94 g (3.32 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "QCIF"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second external mono display (101 x 80 pixels)\n- Wallpapers, screensavers",
+            "Resolution": "128 x 160 pixels (~123 ppi pixel density)",
+            "Size": "1.66 inches (~20.5% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- Media player \n- Predictive text input\n- Photo editor\n- Organizer\n- RSS reader\n- Voice memo\n- Exchangeable Style-Up covers",
+            "Browser": "WAP 2.0/xHTML, HTML (NetFront)",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2006, February",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "30 received, dialed and missed calls",
+            "Card slot": "Memory Stick Micro (M2), up to 2 GB, 256 MB included",
+            "Internal": "20 MB",
+            "Phonebook": "1000 x 20 fields, Photo call"
+        },
+        "Misc": {
+            "Colors": "Shadow Black, Shimmering White, Lime Green",
+            "Price group": "3/10 (About 100 EUR)",
+            "SAR EU": "1.20 W/kg (head)",
+            "SAR US": "1.42 W/kg (head) \u00a0 \u00a0 0.48 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3, MP4, WAVE, AMR, MIDI, iMelody ringtones, composer",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "W300i - Quad-band 850/900/1800/1900 Mhz\nW300c - Quad-band 850/900/1800/1900 MHz for China",
+        "device_name": "Sony Ericsson W300",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_ericsson_w300-pictures-1486.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/sonyericsson-w300.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_ericsson_w300-1486.php"
+    }
+}

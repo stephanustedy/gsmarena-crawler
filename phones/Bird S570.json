@@ -1,0 +1,94 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "103 x 43 x 18.5 mm (4.06 x 1.69 x 0.73 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "89 g (3.14 oz)"
+        },
+        "Camera": {
+            "Primary": "CIF, 352 x 288 pixels",
+            "Secondary": "No",
+            "Video": "No"
+        },
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "128 x 128 pixels",
+            "Size": "",
+            "Type": "STN, 65K colors"
+        },
+        "Features": {
+            "": "- Calculator",
+            "Browser": "WAP 1.2.1",
+            "Games": "Yes",
+            "Java": "No",
+            "Messaging": "SMS, EMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2004, 4Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "No",
+            "Phonebook": "500 entries, Photo call"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Bird S570",
+        "image": {
+            "href": "http://www.gsmarena.com/bird_s570-pictures-953.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/bis570.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/bird_s570-953.php"
+    }
+}

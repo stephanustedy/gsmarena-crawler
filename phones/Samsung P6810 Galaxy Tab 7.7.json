@@ -1,0 +1,83 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po 5100 mAh battery",
+            "Stand-by": "Up to 1070 h",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "196.7 x 133 x 7.9 mm (7.74 x 5.24 x 0.31 in)",
+            "SIM": "No",
+            "Weight": "340 g (11.99 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "3.15 MP, 2048 x 1536 pixels, autofocus, LED flash",
+            "Secondary": "2 MP",
+            "Video": "720p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "Yes",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, hotspot"
+        },
+        "Display": {
+            "": "- TouchWiz UX UI",
+            "Multitouch": "Yes",
+            "Resolution": "800 x 1280 pixels (~196 ppi pixel density)",
+            "Size": "7.7 inches (~65.7% screen-to-body ratio)",
+            "Type": "Super AMOLED Plus capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- HDMI port\n- MP4/DivX/Xvid/H.264 player\n- MP3/WAV/eAAC+/Flac player\n- Photo/video editor\n- Quickoffice HD editor/viewer",
+            "Browser": "HTML, Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "Email, Push Email, IM",
+            "Sensors": "Accelerometer, gyro, compass"
+        },
+        "Launch": {
+            "Announced": "2011",
+            "Status": "Available"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "16/32/64 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "6/10 (About 280 EUR)",
+            "SAR EU": "0.28 W/kg (body)",
+            "SAR US": "0.43 W/kg (head) \u00a0 \u00a0 0.76 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "N/A",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "No cellular connectivity"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.4 GHz Cortex-A9",
+            "Chipset": "Exynos",
+            "GPU": "Mali-400",
+            "OS": "Android OS, v3.2 (Honeycomb)"
+        },
+        "Sound": {
+            "": "- DNSe sound",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "canonical_name": "Tablet with no support for GSM voice communication, SMS, and MMS",
+        "device_name": "Samsung P6810 Galaxy Tab 7.7",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_p6810_galaxy_tab_7_7-pictures-4668.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-p6810-galaxy-tab-77.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_p6810_galaxy_tab_7_7-4668.php"
+    }
+}

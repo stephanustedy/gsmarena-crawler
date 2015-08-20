@@ -1,0 +1,79 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1050 mAh battery (BL-6MT)",
+            "Stand-by": "Up to 350 h",
+            "Talk time": "Up to 4 h"
+        },
+        "Body": {
+            "Dimensions": "97.3 x 47 x 16.3 mm, 60.4 cc (3.83 x 1.85 x 0.64 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "110.6 g (3.88 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels",
+            "Secondary": "No",
+            "Video": "480p@15fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second external, hidden OLED display (128 x 160 pixels), 1.36 inches\n- Dedicated music keys",
+            "Resolution": "240 x 320 pixels (~182 ppi pixel density)",
+            "Size": "2.2 inches (~32.8% screen-to-body ratio)",
+            "Type": "TFT, 16M colors"
+        },
+        "Features": {
+            "": "- MP3/WAV/eAAC+ player\n- MP4/H.264 player\n- Organizer\n- Voice memo/dial\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email, IM"
+        },
+        "Launch": {
+            "Announced": "2009, September",
+            "Status": "Available. Released 2009, September"
+        },
+        "Memory": {
+            "Call records": "30 received, dialed and missed calls",
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "70 MB",
+            "Phonebook": "1000 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Gunmetal with cover illumination with six colors",
+            "Price group": "2/10 (About 100 EUR)",
+            "SAR EU": "0.84 W/kg (head)",
+            "SAR US": "1.00 W/kg (head) \u00a0 \u00a0 0.85 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 1900 / 2100",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Speed": "HSPA 3.6/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Sound": {
+            "": "- 2.5mm audio jack",
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "For AT&T",
+        "device_name": "Nokia Mural",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_mural-pictures-2925.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-mural.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_mural-2925.php"
+    }
+}

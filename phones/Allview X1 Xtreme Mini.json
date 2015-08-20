@@ -1,0 +1,81 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 2200 mAh battery",
+            "Stand-by": "Up to 220 h",
+            "Talk time": "Up to 11 h"
+        },
+        "Body": {
+            "Dimensions": "137 x 66 x 10.3 mm (5.39 x 2.60 x 0.41 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "139.2 g (4.90 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection, panorama, HDR",
+            "Primary": "16 MP, 3456 x 4608 pixels, autofocus, LED flash",
+            "Secondary": "4 MP",
+            "Video": "1080p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 3",
+            "Resolution": "1080 x 1920 pixels (~469 ppi pixel density)",
+            "Size": "4.7 inches (~67.3% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP4/H.264 player\n- MP3/WAV/eAAC+ player\n- Photo/video editor\n- Document viewer",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2014, November",
+            "Status": "Available. Released 2014, December"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "16 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "White, Green",
+            "Price group": "6/10 (About 300 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Quad-core 2.15 GHz Krait 400",
+            "Chipset": "Qualcomm MSM8274 Snapdragon",
+            "GPU": "Adreno 330",
+            "OS": "Android OS, v4.4.2 (KitKat)"
+        },
+        "Sound": {
+            "": "- DTS sound\n- Yamaha Audio Amplifier",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Allview X1 Xtreme Mini",
+        "image": {
+            "href": "http://www.gsmarena.com/allview_x1_xtreme_mini-pictures-6857.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/allview-x1-xtreme-mini.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/allview_x1_xtreme_mini-6857.php"
+    }
+}

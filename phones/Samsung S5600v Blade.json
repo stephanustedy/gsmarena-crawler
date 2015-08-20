@@ -1,0 +1,81 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1000 mAh battery",
+            "Stand-by": "Up to 250 h",
+            "Talk time": "Up to 2 h"
+        },
+        "Body": {
+            "Dimensions": "102.8 x 54.8 x 12.9 mm (4.05 x 2.16 x 0.51 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "92 g (3.25 oz)"
+        },
+        "Camera": {
+            "Features": "Smile detection",
+            "Primary": "3.15 MP, 2048 x 1536 pixels, LED flash",
+            "Secondary": "Videocall camera",
+            "Video": "320p@15fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "No",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Gesture lock",
+            "Resolution": "240 x 320 pixels (~143 ppi pixel density)",
+            "Size": "2.8 inches (~43.1% screen-to-body ratio)",
+            "Type": "TFT touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP3/WMA/AAC player\n- H.264/WMV/MP4 player\n- Organizer\n- Shazam Find Music service\n- Turn-to-mute\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2009, June",
+            "Status": "Available"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 8 GB, 4 GB included",
+            "Internal": "50 MB",
+            "Phonebook": "Yes, Photo Contact"
+        },
+        "Misc": {
+            "Colors": "Black, Pink",
+            "Price group": "4/10 (About 200 EUR)",
+            "SAR EU": "0.80 W/kg (head)",
+            "SAR US": "0.78 W/kg (head) \u00a0 \u00a0 0.42 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 7.2/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Sound": {
+            "": "- DNSe (Digital Natural Sound Engine)",
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "For Vodafone",
+        "device_name": "Samsung S5600v Blade",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_s5600v_blade-pictures-2860.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-blade.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_s5600v_blade-2860.php"
+    }
+}

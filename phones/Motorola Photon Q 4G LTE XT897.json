@@ -1,0 +1,86 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 1785 mAh battery",
+            "Stand-by": "Up to 220 h (3G)",
+            "Talk time": "Up to 7 h 30 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "126.5 x 66 x 13.7 mm (4.98 x 2.60 x 0.54 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Non-removable",
+            "Weight": "170.1 g (6.00 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face detection",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash",
+            "Secondary": "Yes",
+            "Video": "1080p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, EDR, LE",
+            "GPS": "Yes, with A-GPS",
+            "NFC": "Yes",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- ColorBoost technology",
+            "Multitouch": "Yes",
+            "Protection": "Scratch-resistant glass",
+            "Resolution": "540 x 960 pixels (~256 ppi pixel density)",
+            "Size": "4.3 inches (~61.1% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- HDMI port\n- Active noise cancellation with dedicated mic\n- MP3/WAV/WMA/AAC+ player\n- MP4/WMV/H.264 player\n- Document viewer\n- Photo viewer/editor\n- Organizer\n- Voice memo/dial/commands\n- Predictive text input (Swype)",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2012, July",
+            "Status": "Available. Released 2012, August"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "8 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "5/10 (About 220 EUR)",
+            "SAR US": "0.89 W/kg (head) \u00a0 \u00a0 0.77 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 1900 / 2100",
+            "2G bands": "CDMA 800 / 1900",
+            "3G bands": "CDMA2000 1xEV-DO",
+            "4G bands": "LTE band 25(1900)",
+            "EDGE": "No",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 21.1/5.76 Mbps, LTE, EV-DO Rev.A 3.1 Mbps",
+            "Technology": "GSM / CDMA / HSPA / EVDO / LTE"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.5 GHz",
+            "OS": "Android OS, v4.0.4 (Ice Cream Sandwich)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "For Sprint",
+        "device_name": "Motorola Photon Q 4G LTE XT897",
+        "image": {
+            "href": "http://www.gsmarena.com/motorola_photon_q_4g_lte_xt897-pictures-4885.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/motorola-photon-q.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/motorola_photon_q_4g_lte_xt897-4885.php"
+    }
+}

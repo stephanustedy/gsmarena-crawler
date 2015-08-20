@@ -1,0 +1,101 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 2500 mAh battery",
+            "Stand-by": "Up to 350 h",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "186.8 x 106.7 x 11.6 mm (7.35 x 4.20 x 0.46 in)",
+            "SIM": "No",
+            "Weight": "272 g (9.59 oz)"
+        },
+        "Camera": {
+            "Features": "Face detection",
+            "Primary": "3.15 MP, 2048 x 1536 pixels",
+            "Secondary": "1.3 MP",
+            "Video": "1080p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual band"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "600 x 1024 pixels (~170 ppi pixel density)",
+            "Size": "7.0 inches (~69.2% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Gesture typing\n- DivX/XviD/MP4/H.264 player\n- MP3/WAV/AAC/FlAC player\n- Photo/video editor\n- Document editor\n- Voice memo",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "Email, Push Mail, IM",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2013, November",
+            "Status": "Available. Released 2013, December"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "8 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "N/A",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "No cellular connectivity"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.2 GHz Cortex-A7",
+            "Chipset": "Allwinner A20",
+            "GPU": "Mali-400MP2",
+            "OS": "Android OS, v4.2 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Yezz Epic T7ED",
+        "image": {
+            "href": "http://www.gsmarena.com/yezz_epic_t7ed-pictures-5915.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/yezz-epic-t7ed.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/yezz_epic_t7ed-5915.php"
+    }
+}

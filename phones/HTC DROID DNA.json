@@ -1,0 +1,91 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 2020 mAh battery",
+            "Stand-by": "Up to 353 h",
+            "Talk time": "Up to 12 h 40 min"
+        },
+        "Body": {
+            "Dimensions": "141 x 70.5 x 9.7 mm (5.55 x 2.78 x 0.38 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "141.7 g (4.97 oz)"
+        },
+        "Camera": {
+            "Features": "Simultaneous HD video and image recording, geo-tagging, face/smile detection",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash",
+            "Secondary": "2.1 MP, 1080p@30fps",
+            "Video": "1080p@30fps, stereo sound rec."
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, apt-X",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "NFC": "Yes",
+            "Radio": "No",
+            "USB": "microUSB v2.0 (MHL TV-out)",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, Wi-Fi Direct, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- HTC Sense UI 4+",
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 2",
+            "Resolution": "1080 x 1920 pixels (~441 ppi pixel density)",
+            "Size": "5.0 inches (~69.3% screen-to-body ratio)",
+            "Type": "Super LCD3 capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- DivX/XviD/MP4/H.264/WMV player\n- MP3/eAAC+/WMA/WAV player\n- Document viewer/editor\n- Photo viewer/editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2012, November",
+            "Status": "Available. Released 2012, November"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "16 GB (11 GB user available), 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "6/10 (About 280 EUR)",
+            "SAR US": "0.50 W/kg (head) \u00a0 \u00a0 0.66 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 900 / 1900 / 2100",
+            "2G bands": "CDMA 800 / 1900",
+            "3G bands": "CDMA2000 1xEV-DO",
+            "4G bands": "LTE band 13(700) - Verizon",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA, LTE Cat3 100/50 Mbps, EV-DO Rev.A 3.1 Mbps",
+            "Technology": "GSM / CDMA / HSPA / EVDO / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.5 GHz Krait",
+            "Chipset": "Qualcomm APQ8064 Snapdragon S4 Pro",
+            "GPU": "Adreno 320",
+            "OS": "Android OS, v4.1 (Jelly Bean), planned upgrade to v4.2 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -83.1dB / Crosstalk -83.0dB",
+            "Battery life": "Endurance rating 49h"
+        }
+    },
+    "main": {
+        "canonical_name": "For Verizon",
+        "device_name": "HTC DROID DNA",
+        "image": {
+            "href": "http://www.gsmarena.com/htc_droid_dna-pictures-5113.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/htc-droid-dna-new.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/htc_droid_dna-5113.php"
+    }
+}

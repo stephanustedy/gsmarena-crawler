@@ -1,0 +1,64 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 450 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "": "- Flashlight",
+            "Dimensions": "-",
+            "SIM": "Mini-SIM",
+            "Weight": "61 g (2.15 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "Stereo FM radio",
+            "USB": "No",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "128 x 128 pixels (~124 ppi pixel density)",
+            "Size": "1.46 inches",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- Calendar",
+            "Browser": "No",
+            "Games": "Downloadable",
+            "Java": "No",
+            "Messaging": "SMS"
+        },
+        "Launch": {
+            "Announced": "2010",
+            "Status": "Available. Released 2010"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "No",
+            "Phonebook": "300 entries"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "1/10 (About 10 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration, Polyphonic",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Micromax X100",
+        "index": 1,
+        "url": "http://www.gsmarena.com/micromax_x100-3505.php"
+    }
+}

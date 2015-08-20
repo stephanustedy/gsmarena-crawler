@@ -1,0 +1,90 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1500 mAh battery",
+            "Stand-by": "Up to 535 h (2G) / Up to 517 h (3G)",
+            "Talk time": "Up to 14 h 15 min (2G) / Up to 8 h 40 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "125.9 x 64.2 x 9.9 mm (4.96 x 2.53 x 0.39 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "122 g (4.30 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face, smile and blink detection, image stablilization, touch focus",
+            "Primary": "5 MP, 2592 x 1944 pixels, autofocus, LED flash, check quality",
+            "Secondary": "VGA",
+            "Video": "720p@30fps, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP, EDR",
+            "GPS": "Yes, with A-GPS, Samsung Mobile Navigator",
+            "Radio": "Stereo FM radio with RDS, FM recording",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, UMA, hotspot"
+        },
+        "Display": {
+            "": "- TouchWiz UI\n- Handwriting recognition",
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "480 x 800 pixels (~233 ppi pixel density)",
+            "Size": "4.0 inches (~56.3% screen-to-body ratio)",
+            "Type": "Super AMOLED capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Samsung ChatON\n- TV-Out\n- MP3/WAV/WMA/eAAC+/Flac player\n- MP4/MKV/H.264/WMV/Xvid/DivX player\n- Organizer\n- Music recognition\n- Document viewer\n- Photo editor\n- Voice memo\n- Predictive text input (T9 Trace)",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2011, August",
+            "Status": "Available. Released 2011, October"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "4 GB"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "4/10 (About 150 EUR)",
+            "SAR EU": "0.83 W/kg (head)",
+            "SAR US": "0.53 W/kg (head) \u00a0 \u00a0 0.82 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 14.4/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "1.4 GHz Scorpion",
+            "OS": "bada OS, v2.0"
+        },
+        "Sound": {
+            "": "- DNSe (Digital Natural Sound Engine)",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -85.7dB / Crosstalk -85.3dB",
+            "Battery life": "Endurance rating 44h",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: Infinite (nominal)",
+            "Loudspeaker": "Voice 68dB / Noise 65dB / Ring 69dB"
+        }
+    },
+    "main": {
+        "device_name": "Samsung S8600 Wave 3",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_s8600_wave_3-pictures-4126.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-wave-3.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_s8600_wave_3-4126.php"
+    }
+}

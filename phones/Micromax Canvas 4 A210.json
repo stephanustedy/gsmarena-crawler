@@ -1,0 +1,81 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 2000 mAh battery",
+            "Stand-by": "Up to 220 h",
+            "Talk time": "Up to 8 h"
+        },
+        "Body": {
+            "Dimensions": "144.5 x 73.8 x 8.9 mm (5.69 x 2.91 x 0.35 in)",
+            "SIM": "Dual SIM (dual stand-by)",
+            "Weight": "158 g (5.57 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face/smile detection, HDR, panorama",
+            "Primary": "13 MP, 4128 x 3096 pixels, autofocus, LED flash",
+            "Secondary": "5 MP, 720p",
+            "Video": "1080p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "FM radio",
+            "USB": "microUSB v3.0",
+            "WLAN": "Yes, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "720 x 1280 pixels (~294 ppi pixel density)",
+            "Size": "5.0 inches (~64.6% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP3/AAC/WMA/WAV player\n- MP4/WMV/H.264 player\n- Document viewer\n- Voice memo/dial",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2013, June",
+            "Status": "Available. Released 2013, July"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "16 GB (10 GB user available), 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Gray, White",
+            "Price group": "5/10 (About 230 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 42.2/11.5 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.2 GHz Cortex-A7",
+            "Chipset": "Mediatek MT6589",
+            "GPU": "PowerVR SGX544",
+            "OS": "Android OS, v4.2.1 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Micromax Canvas 4 A210",
+        "image": {
+            "href": "http://www.gsmarena.com/micromax_canvas_4_a210-pictures-5590.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/micromax-canvas-4.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/micromax_canvas_4_a210-5590.php"
+    }
+}

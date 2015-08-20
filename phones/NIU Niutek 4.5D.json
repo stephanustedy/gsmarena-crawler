@@ -1,0 +1,104 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1650 mAh battery",
+            "Stand-by": "Up to 640 h (2G) / Up to 420 h (3G)",
+            "Talk time": "Up to 16 h (2G) / Up to 9 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "137.6 x 68 x 10.4 mm (5.42 x 2.68 x 0.41 in)",
+            "SIM": "Dual SIM (Mini-SIM)",
+            "Weight": "139 g (4.90 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face detection, panorama",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, LED flash",
+            "Secondary": "1.3 MP",
+            "Video": "720p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "480 x 854 pixels (~218 ppi pixel density)",
+            "Size": "4.5 inches (~59.6% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- MP4/H.263 player\n- MP3/WAV/eAAC+ player\n- Photo/video editor\n- Document viewer",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2013, December",
+            "Status": "Available. Released 2014, January"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "512 MB, 256 MB RAM"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 850 / 1900 - SIM 1 or SIM 2",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 21.1/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.2 GHz Cortex-A7",
+            "Chipset": "Mediatek MT6572",
+            "GPU": "Mali-400",
+            "OS": "Android OS, v4.2 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Single SIM: NiuTek 4.5DC\nDual SIM: NiuTek 4.5D",
+        "device_name": "NIU Niutek 4.5D",
+        "image": {
+            "href": "http://www.gsmarena.com/niu_niutek_4_5d-pictures-5992.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/niu-tek-45d.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/niu_niutek_4_5d-5992.php"
+    }
+}

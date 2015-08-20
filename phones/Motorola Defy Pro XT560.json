@@ -1,0 +1,84 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1700 mAh battery",
+            "Stand-by": "Up to 324 h",
+            "Talk time": "Up to 12 h"
+        },
+        "Body": {
+            "": "- IP67 certified - dust and water proof (up to 1m for 30 mins)",
+            "Dimensions": "110 x 66 x 12 mm (4.33 x 2.60 x 0.47 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "115 g (4.06 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "5 MP, 2592 x 1944 pixels, autofocus, LED flash",
+            "Secondary": "Yes",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, DLNA, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "320 x 480 pixels (~214 ppi pixel density)",
+            "Size": "2.7 inches (~29.9% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP3/WAV/eAAC+ player\n- MP4/H.264 player\n- Document editor\n- Photo viewer\n- Organizer\n- Voice memo/dial/commands\n- Predictive text input",
+            "Browser": "HTML, Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2012, July",
+            "Status": "Available. Released 2012, July"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB, 2 GB included",
+            "Internal": "287 MB"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "4/10 (About 190 EUR)",
+            "SAR US": "1.42 W/kg (head) \u00a0 \u00a0 1.27 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 1900",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 7.2/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "1 GHz",
+            "OS": "Android OS, v2.3 (Gingerbread)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "For Brazil",
+        "device_name": "Motorola Defy Pro XT560",
+        "image": {
+            "href": "http://www.gsmarena.com/motorola_defy_pro_xt560-pictures-4868.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/motorola-defy-pro.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/motorola_defy_pro_xt560-4868.php"
+    }
+}

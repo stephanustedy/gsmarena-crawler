@@ -1,0 +1,77 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1500 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "115 x 61 x 10.8 mm (4.53 x 2.40 x 0.43 in)",
+            "SIM": "Dual SIM (Dual stand-by)",
+            "Weight": "-"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "3.15 MP, 2048 x 1536 pixels",
+            "Secondary": "VGA",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "FM radio",
+            "USB": "microUSB",
+            "WLAN": "Yes, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "320 x 480 pixels (~165 ppi pixel density)",
+            "Size": "3.5 inches (~52.0% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen"
+        },
+        "Features": {
+            "": "- MP4/H.264 player\n- MP3/WAV/eAAC+ player\n- Photo/video editor\n- Document viewer\n- Voice memo/dial",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2013",
+            "Status": "Available. Released 2013"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "4 GB, 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "White",
+            "Price group": "2/10 (About 60 EUR)",
+            "SAR US": "1.25 W/kg (head) \u00a0 \u00a0 1.04 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Technology": "GSM"
+        },
+        "Platform": {
+            "CPU": "1 GHz Cotex-A9",
+            "OS": "Android OS, v4.0 (Ice Cream Sandwich)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Gionee Ctrl V2",
+        "image": {
+            "href": "http://www.gsmarena.com/gionee_ctrl_v2-pictures-6094.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/gionee-ctrl-v2.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/gionee_ctrl_v2-6094.php"
+    }
+}

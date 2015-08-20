@@ -1,0 +1,124 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1500 mAh battery",
+            "Stand-by": "Up to 360 h",
+            "Talk time": "Up to 6 h"
+        },
+        "Body": {
+            "Dimensions": "116.8 x 55.9 x 12.2 mm (4.60 x 2.20 x 0.48 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "119.7 (4.20 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, smile detection",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, LED flash",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "A-GPS only; AT&T Navigator",
+            "Radio": "No",
+            "USB": "v2.0",
+            "WLAN": "Yes, Wi-Fi 802.11b/g"
+        },
+        "Display": {
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "320 x 480 pixels (~180 ppi pixel density)",
+            "Size": "3.2 inches (~46.7% screen-to-body ratio)",
+            "Type": "AMOLED capacitive touchscreen, 16M colors (65K effective)"
+        },
+        "Features": {
+            "": "- MP4/H.264/WMV player\n- MP3/WAV/eAAC+/WMA player\n- Photo editor\n- Organizer\n- Voice memo\n- Predictive text input",
+            "Browser": "HTML",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS, AMS, MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2009, October",
+            "Status": "Available. Released 2009, November"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 16 GB, 2 GB included",
+            "Internal": "200 MB"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "2/10 (About 90 EUR)",
+            "SAR EU": "0.59 W/kg (head)",
+            "SAR US": "0.67 W/kg (head) \u00a0 \u00a0 0.66 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 1700 / 2100",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Speed": "HSPA",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "0": "O",
+            "1": "S",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "t",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "g",
+            "25": "l",
+            "26": "o",
+            "27": "s",
+            "28": "s",
+            "29": "a",
+            "3": "p",
+            "30": "r",
+            "31": "y",
+            "32": ".",
+            "33": "p",
+            "34": "h",
+            "35": "p",
+            "36": "3",
+            "37": "?",
+            "38": "t",
+            "39": "e",
+            "4": ":",
+            "40": "r",
+            "41": "m",
+            "42": "=",
+            "43": "o",
+            "44": "s",
+            "5": "/",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "For T-Mobile",
+        "device_name": "Samsung T939 Behold 2",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_t939_behold_2-pictures-2955.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-behold-ii.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_t939_behold_2-2955.php"
+    }
+}

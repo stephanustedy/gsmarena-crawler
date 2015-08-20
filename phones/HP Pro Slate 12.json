@@ -1,0 +1,83 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po battery (21 Wh)",
+            "Stand-by": "",
+            "Talk time": "Up to 10 h (multimedia)"
+        },
+        "Body": {
+            "": "- HP Duet Pen",
+            "Dimensions": "300.3 x 222 x 8 mm (11.82 x 8.74 x 0.31 in)",
+            "SIM": "Nano-SIM",
+            "Weight": "850 g (1.87 lb)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection, HDR",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus",
+            "Secondary": "2 MP, 1080p",
+            "Video": "1080p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, LE",
+            "GPS": "Yes, with A-GPS",
+            "NFC": "Yes",
+            "Radio": "No",
+            "USB": "microUSB v2.0 (SlimPort)",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, WiFi Direct, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes, up to 10 fingers",
+            "Protection": "Corning Concore Glass",
+            "Resolution": "1200 x 1600 pixels (~163 ppi pixel density)",
+            "Size": "12.3 inches (~70.3% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/H.264 player\n- MP3/WAV/eAAC+ player\n- Photo/video editor\n- Document viewer",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass, barometer"
+        },
+        "Launch": {
+            "Announced": "2015, January",
+            "Status": "Available. Released 2015, January"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "32 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Silver",
+            "Price group": "8/10 (About 490 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Quad-core 2.3 GHz",
+            "Chipset": "Qualcomm Snapdragon 800",
+            "OS": "Android OS, v4.4.4 (KitKat)"
+        },
+        "Sound": {
+            "": "- DTS Sound+",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "device_name": "HP Pro Slate 12",
+        "image": {
+            "href": "http://www.gsmarena.com/hp_pro_slate_12-pictures-6963.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/hp-pro-slate-12.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/hp_pro_slate_12-6963.php"
+    }
+}

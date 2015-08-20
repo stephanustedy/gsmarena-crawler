@@ -1,0 +1,92 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 3080 mAh battery",
+            "Stand-by": "Up to 280 h (3G)",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "139.2 x 68.5 x 8.9 mm (5.48 x 2.70 x 0.35 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "149 g (5.26 oz)"
+        },
+        "Camera": {
+            "Features": "1/3'' sensor size, 1.12\u00b5m pixel size, geo-tagging, touch focus, face/smile detection, panorama, HDR",
+            "Primary": "13 MP, 4128 x 3096 pixels, autofocus, LED flash, check quality",
+            "Secondary": "8 MP, 1080p@30fps",
+            "Video": "2160p@30fps, 1080p@30fps, 720p@120fps, HDR, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP",
+            "GPS": "Yes, with A-GPS support, GLONASS, Beidou",
+            "Infrared port": "Yes",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0, USB Host",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- MIUI 5.0",
+            "Multitouch": "Yes",
+            "Resolution": "1080 x 1920 pixels (~441 ppi pixel density)",
+            "Size": "5.0 inches (~72.3% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Fast battery charging: 60% in 30 min (Quick Charge 2.0)\n- Active noise cancellation with dedicated mic\n- MP4/DivX/XviD/WMV/H.264 player\n- MP3/WAV/eAAC+/FLAC player\n- Photo/video editor\n- Document viewer \n- Voice memo/dial/commands",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass, barometer"
+        },
+        "Launch": {
+            "Announced": "2014, July",
+            "Status": "Available. Released 2014, August"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "16/64 GB, 3 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "5/10 (About 240 EUR)"
+        },
+        "Network": {
+            "": "CDMA2000 1xEV-DO - Telecom 3G model",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - all versions",
+            "3G bands": "TD-SCDMA 2010-2025 / 1880-1920 - 4G model",
+            "4G bands": "LTE band 38(2600), 39(1900), 40(2300) - 4G model",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 42.2/5.76 Mbps, LTE, EV-DO Rev.A 3.1 Mbps",
+            "Technology": "GSM / CDMA / HSPA / EVDO / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 2.5 GHz Krait 400",
+            "Chipset": "Qualcomm MSM8974AC Snapdragon 801",
+            "GPU": "Adreno 330",
+            "OS": "Android OS, v4.4.3 (KitKat)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -91.6dB / Crosstalk -49.7dB",
+            "Battery life": "Endurance rating 68h",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 929 (nominal), 2.424 (sunlight)",
+            "Loudspeaker": "Voice 62dB / Noise 62dB / Ring 66dB",
+            "Performance": "Basemark OS II: 1324"
+        }
+    },
+    "main": {
+        "device_name": "Xiaomi Mi 4",
+        "image": {
+            "href": "http://www.gsmarena.com/xiaomi_mi_4-pictures-6518.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/xiaomi-mi-4.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/xiaomi_mi_4-6518.php"
+    }
+}

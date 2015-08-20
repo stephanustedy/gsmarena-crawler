@@ -1,0 +1,83 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1020 mAh battery (BL-5C)",
+            "Music play": "Up to 34 h",
+            "Stand-by": "Up to 396 h (2G) / Up to 456 h (3G)",
+            "Talk time": "Up to 8 h 40 min (2G) / Up to 4 h 30 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "109.8 x 46.9 x 15.3 mm, 78.8 cc (4.32 x 1.85 x 0.60 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "89 g (3.14 oz)"
+        },
+        "Camera": {
+            "Primary": "3.15 MP, 2048 x 1536 pixels, check quality",
+            "Secondary": "No",
+            "Video": "320p@15fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP, EDR",
+            "GPS": "No",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~200 ppi pixel density)",
+            "Size": "2.0 inches (~24.1% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- MP4/H.264 player\n- MP3/WAV/WMA/eAAC+ player\n- Organizer\n- Voice memo/dial/commands\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML, Adobe Flash Lite",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2010, November",
+            "Status": "Available. Released 2011, March"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 16 GB",
+            "Internal": "43 MB, 64 MB RAM, 128 MB ROM",
+            "Phonebook": "2000 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Black, Warm silver, White",
+            "Price group": "2/10 (About 70 EUR)",
+            "SAR EU": "1.20 W/kg (head)",
+            "SAR US": "1.33 W/kg (head) \u00a0 \u00a0 0.83 W/kg (body)"
+        },
+        "Network": {
+            "": "UMTS 900 / 2100 / 1900",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "UMTS 850 / 1900 / 2100",
+            "EDGE": "Class 32",
+            "GPRS": "Class 32",
+            "Speed": "Yes, 384 kbps",
+            "Technology": "GSM / UMTS"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -87.3dB / Crosstalk -88.8dB",
+            "Camera": "Photo",
+            "Loudspeaker": "Voice 72dB / Noise 66dB / Ring 79dB"
+        }
+    },
+    "main": {
+        "device_name": "Nokia C2-01",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_c2_01-pictures-3638.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-c2-01-ofic.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_c2_01-3638.php"
+    }
+}

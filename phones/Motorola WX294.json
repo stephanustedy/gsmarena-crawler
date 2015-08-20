@@ -1,0 +1,73 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 750 mAh battery",
+            "Stand-by": "Up to 480 h",
+            "Talk time": "Up to 7 h 30 min"
+        },
+        "Body": {
+            "Dimensions": "107 x 45 x 12.9 mm (4.21 x 1.77 x 0.51 in)",
+            "SIM": "Dual SIM (Mini-SIM, dual stand-by)",
+            "Weight": "65 g (2.29 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels, LED flash",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP, EDR",
+            "GPS": "No",
+            "Radio": "FM radio",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "128 x 160 pixels (~114 ppi pixel density)",
+            "Size": "1.8 inches (~21.2% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- MP3/AAC player\n- MP4/H.263 player\n- Calendar\n- Calculator\n- Currency converter \n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes",
+            "Java": "Yes",
+            "Messaging": "SMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2011, July",
+            "Status": "Available. Released 2011, July"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 32 GB, 2 GB included",
+            "Internal": "8 MB / 16 MB",
+            "Phonebook": "500 contacts, Photocall"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "2/10 (About 80 EUR)"
+        },
+        "Network": {
+            "": "GSM 850 / 1900 - SIM1 & SIM 2",
+            "2G bands": "GSM 900 / 1800 - SIM1 & SIM 2",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, Polyphonic(64), MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Motorola WX294",
+        "image": {
+            "href": "http://www.gsmarena.com/motorola_wx294-pictures-4060.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/motorola-wx294.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/motorola_wx294-4060.php"
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1450 mAh battery",
+            "Stand-by": "Up to 168 h",
+            "Talk time": "Up to 4 h"
+        },
+        "Body": {
+            "Dimensions": "111 x 58 x 13.5 mm (4.37 x 2.28 x 0.53 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "85 g (3.00 oz)"
+        },
+        "Camera": {
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus",
+            "Secondary": "VGA",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "320 x 480 pixels (~180 ppi pixel density)",
+            "Size": "3.2 inches (~47.4% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/WAV/AAC player\n- MP4/H.263 player\n- Organizer\n- Photo/video editor\n- Document editor \n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2011, Q2. Released 2011, July",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "160 MB, 256 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Cocoa Brown",
+            "Price group": "2/10 (About 100 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 7.2/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "600 MHz ARM 11",
+            "GPU": "Adreno 200",
+            "OS": "Android OS, v2.2 (Froyo)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Micromax A70",
+        "image": {
+            "href": "http://www.gsmarena.com/micromax_a70-pictures-3930.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/micromax-a70.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/micromax_a70-3930.php"
+    }
+}

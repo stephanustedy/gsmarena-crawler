@@ -1,0 +1,73 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 2000 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "144.3 x 73.4 x 9.8 mm (5.68 x 2.89 x 0.39 in)",
+            "SIM": "Dual SIM",
+            "Weight": "140 g (4.94 oz)"
+        },
+        "Camera": {
+            "Primary": "5 MP, 2592 x 1944 pixels",
+            "Secondary": "Yes",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "No",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Resolution": "540 x 960 pixels (~220 ppi pixel density)",
+            "Size": "5.0 inches (~65.1% screen-to-body ratio)",
+            "Type": "TFT touchscreen"
+        },
+        "Features": {
+            "": "- MP3/WMA/WAV/AAC player\n- MP4/H.263/WMV player\n- Document viewer\n- Photo editor\n- Voice memo/dial",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2013, December",
+            "Status": "Available. Released 2013, December"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "4 GB, 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "White",
+            "Price group": "2/10 (About 60 EUR)",
+            "SAR EU": "0.85 W/kg (head) \u00a0 \u00a0 0.93 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.2 GHz",
+            "OS": "Android OS, v4.2.2 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Celkon AR50",
+        "index": 1,
+        "url": "http://www.gsmarena.com/celkon_ar50-5917.php"
+    }
+}

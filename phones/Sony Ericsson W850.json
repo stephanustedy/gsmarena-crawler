@@ -1,0 +1,76 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 950 mAh battery (BST-33)",
+            "Stand-by": "Up to 350 h (2G) / Up to 350 h (3G)",
+            "Talk time": "Up to 7 h (2G) / Up to 2 h 30 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "98 x 47 x 21 mm (3.86 x 1.85 x 0.83 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "116 g (4.09 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels, LED flash",
+            "Secondary": "Videocall camera",
+            "Video": "QCIF"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Wallpapers, screensavers",
+            "Resolution": "240 x 320 pixels (~200 ppi pixel density)",
+            "Size": "2.0 inches, 30 x 40 mm (~26.9% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- TrackID music recognition \n- Walkman 2.0 player \n- Predictive text input\n- Organizer\n- Voice memo",
+            "Browser": "WAP 2.0/HTML(NetFront), RSS feeds",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2006, May. Released 2006, September",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "30 received, dialed and missed calls",
+            "Card slot": "Memory Stick Duo Pro, up to 4 GB",
+            "Internal": "16 MB",
+            "Phonebook": "1000 contacts, Photo call"
+        },
+        "Misc": {
+            "Colors": "Precious Black, Golden White",
+            "Price group": "4/10 (About 200 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "3G bands": "UMTS 2100",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Speed": "Yes, 384 kbps",
+            "Technology": "GSM / UMTS"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3, AAC ringtones, composer",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Sony Ericsson W850",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_ericsson_w850-pictures-1563.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/sonyericsson-w850.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_ericsson_w850-1563.php"
+    }
+}

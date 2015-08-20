@@ -1,0 +1,77 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 900 mAh battery (BST-33)",
+            "Stand-by": "Up to 350 h (2G) / Up to 350 h (3G)",
+            "Talk time": "Up to 7 h (2G) / Up to 2 h 30 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "105 x 47 x 22 mm (4.13 x 1.85 x 0.87 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "115 g (4.06 oz)"
+        },
+        "Camera": {
+            "Primary": "3.15 MP, 2048 x 1536 pixels, autofocus, xenon flash",
+            "Secondary": "VGA videocall camera",
+            "Video": "QCIF"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Wallpapers, screensavers",
+            "Resolution": "240 x 320 pixels, 2.0 inch (~200 ppi pixel density)",
+            "Size": "2.0 inches, 30 x 40 mm (~25.1% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/AAC/MP4 player\n- Predictive text input\n- Photo editor\n- Organizer\n- Voice memo/dial",
+            "Browser": "WAP 2.0/xHTML, HTML(NetFront)",
+            "Games": "FotoQuestFishing, MiniGolf + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2006, February. Released 2006, June",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "30 received, dialed and missed calls",
+            "Card slot": "Memory Stick Micro (M2), up to 2 GB",
+            "Internal": "64 MB",
+            "Phonebook": "1000 x 20 fields, Photo call"
+        },
+        "Misc": {
+            "Colors": "Velvet Black, Allure Brown",
+            "Price group": "3/10 (About 150 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "3G bands": "UMTS 2100",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Speed": "Yes, 384 kbps",
+            "Technology": "GSM / UMTS"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones, composer",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "- K800i UMTS/900/1800/1900 MHz\n- K800c UMTS/900/1800/1900 MHz for China Mainland",
+        "device_name": "Sony Ericsson K800",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_ericsson_k800-pictures-1485.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/sonyericsson-k800.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_ericsson_k800-1485.php"
+    }
+}

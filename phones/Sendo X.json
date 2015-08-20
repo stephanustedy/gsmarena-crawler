@@ -1,0 +1,98 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 1050 mAh battery",
+            "Stand-by": "Up to 170 h",
+            "Talk time": "Up to 7 h"
+        },
+        "Body": {
+            "Dimensions": "110 x 49 x 23 mm, 108 cc (4.33 x 1.93 x 0.91 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "120 g (4.23 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels, LED flash",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v1.1",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "176 x 220 pixels (~128 ppi pixel density)",
+            "Size": "2.2 inches, 35 x 44 mm (~28.3% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- MP4/MP3 player\n- Sync ML",
+            "Browser": "WAP 2.0/xHTML, HTML with SSL",
+            "Java": "Yes",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2003, 4Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "MMC/SD",
+            "Internal": "32 MB"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 8",
+            "Technology": "GSM"
+        },
+        "Platform": {
+            "CPU": "120 MHz ARM925T",
+            "Chipset": "TI OMAP 5910",
+            "OS": "Symbian OS v6.1, Series 60 v1.0 UI"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Sendo X",
+        "image": {
+            "href": "http://www.gsmarena.com/sendo_x-pictures-560.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/sex.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sendo_x-560.php"
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1350 mAh battery",
+            "Stand-by": "Up to 440 h (2G) / Up to 750 h (3G)",
+            "Talk time": "Up to 8 h (2G) / Up to 7 h (3G)"
+        },
+        "Body": {
+            "": "- Trackball",
+            "Dimensions": "112 x 56.2 x 14.4 mm (4.41 x 2.21 x 0.57 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "135 g (4.76 oz)"
+        },
+        "Camera": {
+            "Primary": "5 MP, 2592 x 1944 pixels, autofocus",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "miniUSB",
+            "WLAN": "Wi-Fi 802.11 b/g"
+        },
+        "Display": {
+            "": "- HTC Sense UI",
+            "Multitouch": "Yes",
+            "Resolution": "320 x 480 pixels (~180 ppi pixel density)",
+            "Size": "3.2 inches (~48.4% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 65K colors"
+        },
+        "Features": {
+            "": "- Dedicated search key\n- Scenes quick profile switcher\n- MP3/AAC+/WAV/WMA9 player\n- MP4/H.264/WMV9 player\n- Voice memo\n- Predictive text input",
+            "Browser": "HTML",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS(threaded view), MMS, Email, Instant Messaging",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2009, July. Released 2009, July",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "microSD",
+            "Internal": "288 MB RAM, 512 MB"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "6/10 (About 260 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Speed": "HSPA 7.2/2 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "528 MHz ARM 11",
+            "Chipset": "Qualcomm MSM7200A",
+            "GPU": "Adreno 130",
+            "OS": "Android OS, v1.5 (Cupcake)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "T-Mobile G2 Touch",
+        "image": {
+            "href": "http://www.gsmarena.com/t_mobile_g2_touch-pictures-2890.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/t-mobile-g2-touch.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/t_mobile_g2_touch-2890.php"
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 920/1300 mAh battery",
+            "Stand-by": "Up to 125 h",
+            "Talk time": "Up to 3.5 h"
+        },
+        "Body": {
+            "Dimensions": "106.6 x 53.2 x 19.8 mm (4.20 x 2.09 x 0.78 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "130 g (4.59 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1632 x 1224 pixels, LED flash",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v1.2",
+            "GPS": "No",
+            "Radio": "FM radio",
+            "USB": "miniUSB v1.1",
+            "WLAN": "Wi-Fi 802.11 b/g"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~167 ppi pixel density)",
+            "Size": "2.4 inches (~31.5% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 256K colors (65K effective)"
+        },
+        "Features": {
+            "": "- Analog TV tuner (NTSC/PAL/Secam)\n- Pocket Office \n- MP3/AAC/AAC+/WMA/OGG/AMR player\n- WMV/MP4 player\n- Wise Talk\n- Smart Input\n- Audio Mixer\n- ZIP Tool\n- Organizer",
+            "Browser": "WAP 2.0/xHTML, HTML (PocketIE)",
+            "Java": "No",
+            "Messaging": "SMS, MMS, E-mail, MSN Messenger"
+        },
+        "Launch": {
+            "Announced": "2006, December",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "miniSD",
+            "Internal": "64 MB RAM, 256 MB ROM"
+        },
+        "Misc": {
+            "Colors": "Silver-black",
+            "Price group": "7/10 (About 320 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Platform": {
+            "CPU": "Intel PXA272 416 MHz",
+            "OS": "Microsoft Windows Mobile 5.0 for PocketPC Phone Edition(AKU3.3)"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3, WMA, AMR, MID ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Gigabyte GSmart i120",
+        "image": {
+            "href": "http://www.gsmarena.com/gigabyte_gsmart_i120-pictures-1795.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/gigabyte-g-smarti120.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/gigabyte_gsmart_i120-1795.php"
+    }
+}

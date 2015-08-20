@@ -1,0 +1,78 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1050 mAh battery (BL-5CT)",
+            "Stand-by": "Up to 450 h",
+            "Talk time": "Up to 7 h"
+        },
+        "Body": {
+            "Dimensions": "108.8 x 46.2 x 11.7 mm, 57 cc (4.28 x 1.82 x 0.46 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "96 g (3.39 oz)"
+        },
+        "Camera": {
+            "Primary": "3.15 MP, 2048 x 1536 pixels, autofocus, dual LED flash",
+            "Secondary": "No",
+            "Video": "480p@15fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~182 ppi pixel density)",
+            "Size": "2.2 inches (~29.8% screen-to-body ratio)",
+            "Type": "TFT, 16M colors"
+        },
+        "Features": {
+            "": "- H.264 player\n- MP3/WAV/eAAC+/WMA player\n- Organizer\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, Adobe Flash Lite",
+            "Games": "4 + Downloadable",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS, MMS, Email, IM"
+        },
+        "Launch": {
+            "Announced": "2008, December. Released 2009, May",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "microSD, up to 4 GB, 1 GB included",
+            "Internal": "17 MB",
+            "Phonebook": "2000 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Steel, Matt Black",
+            "Price group": "3/10 (About 120 EUR)",
+            "SAR EU": "1.15 W/kg (head)",
+            "SAR US": "1.03 W/kg (head) \u00a0 \u00a0 0.40 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "Class 32",
+            "GPRS": "Class 32",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -75.9dB / Crosstalk -71.7dB",
+            "Loudspeaker": "Voice 67dB / Noise 65dB / Ring 72dB"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 6303 classic",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_6303_classic-pictures-2658.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-6303-classic.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_6303_classic-2658.php"
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1730 mAh battery",
+            "Stand-by": "Up to 200 h",
+            "Talk time": "Up to 6 h"
+        },
+        "Body": {
+            "Dimensions": "127 x 66 x 11.9 mm (5.0 x 2.60 x 0.47 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "170.1 g (6.00 oz)"
+        },
+        "Camera": {
+            "Features": "Stereoscopic photos (2 MP only) & videos; geo-tagging",
+            "Primary": "5 MP, 2560 x 1920 pixels, autofocus, dual-LED flash",
+            "Secondary": "1.3 MP",
+            "Video": "720p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0 (MHL TV-out)",
+            "WLAN": "Wi-Fi 802.11 b/g/n, WiMAX 802.16 e, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- HTC Sense UI 3.0",
+            "Multitouch": "Yes",
+            "Resolution": "540 x 960 pixels (~256 ppi pixel density)",
+            "Size": "4.3 inches (~60.8% screen-to-body ratio)",
+            "Type": "3D S-LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP3/AAC+/WAV/WMA player\n- MP4/Xvid/H.264/WMV player\n- Organizer\n- Document viewer/editor\n- Voice memo/dial/commands\n- Predictive text input",
+            "Browser": "HTML",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2011, March. Released 2011, June",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "4 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, plum",
+            "Price group": "5/10 (About 220 EUR)",
+            "SAR US": "0.89 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "CDMA 800 / 1900",
+            "3G bands": "CDMA2000 1xEV-DO",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Speed": "EV-DO Rev.A 3.1 Mbps",
+            "Technology": "CDMA / EVDO"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.2 GHz",
+            "Chipset": "Qualcomm MSM8660 Snapdragon S3",
+            "GPU": "Adreno 220",
+            "OS": "Android OS, v2.3 (Gingerbread)"
+        },
+        "Sound": {
+            "": "- SRS virtual surround sound (via wired headphones)",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "For Sprint\nAlso known as HTC EVO V 4G for Virgin Mobile.",
+        "device_name": "HTC EVO 3D CDMA",
+        "image": {
+            "href": "http://www.gsmarena.com/htc_evo_3d_cdma-pictures-3895.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/htc-evo-3d.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/htc_evo_3d_cdma-3895.php"
+    }
+}

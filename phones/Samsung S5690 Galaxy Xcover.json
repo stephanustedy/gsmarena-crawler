@@ -1,0 +1,85 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1500 mAh battery",
+            "Stand-by": "Up to 640 h (3G)",
+            "Talk time": "Up to 13 h 20 min (2G) / Up to 11 h (3G)"
+        },
+        "Body": {
+            "": "- IP67 certified - dust tight and water proof (up to 1m for 30 mins)",
+            "Dimensions": "121.5 x 65.9 x 12 mm (4.78 x 2.59 x 0.47 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "100 g (3.53 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "3.15 MP, 2048 x 1536 pixels, autofocus, LED flash",
+            "Secondary": "No",
+            "Video": "480p"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "": "- TouchWiz UI",
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "320 x 480 pixels (~158 ppi pixel density)",
+            "Size": "3.65 inches (~49.5% screen-to-body ratio)",
+            "Type": "Capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/H.264 player\n- MP3/WAV/eAAC+ player\n- Photo/video editor\n- Document editor",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2011, August",
+            "Status": "Available. Released 2011, October"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "150 MB, 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Gray",
+            "Price group": "2/10 (About 90 EUR)",
+            "SAR EU": "0.58 W/kg (head)",
+            "SAR US": "0.53 W/kg (head) \u00a0 \u00a0 0.73 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 7.2/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "800 MHz Marvell MG2",
+            "OS": "Android OS, v2.3 (Gingerbread)"
+        },
+        "Sound": {
+            "": "- DNSe sound",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Samsung Galaxy Xtreme S5690",
+        "device_name": "Samsung S5690 Galaxy Xcover",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_s5690_galaxy_xcover-pictures-4091.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-xcover.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_s5690_galaxy_xcover-4091.php"
+    }
+}

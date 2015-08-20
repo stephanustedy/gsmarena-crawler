@@ -1,0 +1,75 @@
+{
+    "data": {
+        "Battery": {
+            "": "",
+            "Stand-by": "Up to 360 h",
+            "Talk time": "Up to 6 h"
+        },
+        "Body": {
+            "Dimensions": "90.6 x 44.7 x 17.9 mm (3.57 x 1.76 x 0.70 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "89 g (3.14 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "Yes v2.0",
+            "GPS": "No",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second external 65K CSTN display, 96 x 96 pixels, 1.07 inches",
+            "Resolution": "128 x 160 pixels (~102 ppi pixel density)",
+            "Size": "2.0 inches (~31.1% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- MP3/eAAC+ player\n- Organizer\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2008, August. Released 2009, Q1",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "30 dialed, 30 received, 30 missed calls",
+            "Card slot": "microSD, up to 2 GB",
+            "Internal": "12 MB",
+            "Phonebook": "Yes"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "2/10 (About 80 EUR)",
+            "SAR EU": "0.98 W/kg (head)",
+            "SAR US": "1.04 W/kg (head) \u00a0 \u00a0 0.34 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Samsung E215",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_e215-pictures-2502.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-e215.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_e215-2502.php"
+    }
+}

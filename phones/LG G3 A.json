@@ -1,0 +1,84 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 2610 mAh battery",
+            "Stand-by": "Up to 532 h (2G) / Up to 628 h (3G)",
+            "Talk time": "Up to 12 h (2G) / Up to 19 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "141 x 71.6 x 9.8 mm (5.55 x 2.82 x 0.39 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "146.8 g (5.19 oz)"
+        },
+        "Camera": {
+            "Features": "1/3'' sensor size, simultaneous video and image recording, geo-tagging, face detection, HDR",
+            "Primary": "13 MP, 4160 x 3120 pixels, laser autofocus, optical image stabilization, dual-LED (dual tone) flash",
+            "Secondary": "2.1 MP",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, LE",
+            "GPS": "Yes, with A-GPS",
+            "NFC": "Yes",
+            "Radio": "To be confirmed",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, DLNA, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "To be confirmed",
+            "Resolution": "1080 x 1920 pixels (~424 ppi pixel density)",
+            "Size": "5.2 inches (~73.8% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- DMB TV tuner\n- Active noise cancellation with dedicated mic\n- MP4/DviX/XviD/H.264/WMV player\n- MP3/WAV/FLAC/eAAC+/WMA player\n- Photo viewer/editor\n- Document viewer\n- Voice memo/dial/commands",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2014, August",
+            "Status": "Available. Released 2014, August"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 128 GB",
+            "Internal": "32 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "White, Titanium",
+            "Price group": "7/10 (About 360 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA",
+            "4G bands": "LTE-A",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA, LTE-A",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 2.26 GHz Krait 400",
+            "Chipset": "Qualcomm Snapdragon 800",
+            "GPU": "Adreno 330",
+            "OS": "Android OS, v4.4.2 (KitKat)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "For Korea\nAlso known as LG G3 A F410S",
+        "device_name": "LG G3 A",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_g3_a-pictures-6562.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-g3-1.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_g3_a-6562.php"
+    }
+}

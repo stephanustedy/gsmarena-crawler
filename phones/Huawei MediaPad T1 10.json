@@ -1,0 +1,105 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po 4800 mAh battery",
+            "Stand-by": "Up to 570 h",
+            "Talk time": "Up to 10 h (multimedia)"
+        },
+        "Body": {
+            "Dimensions": "248.5 x 150 x 8.3 mm (9.78 x 5.91 x 0.33 in)",
+            "SIM": "Yes",
+            "Weight": "433 g (15.27 oz)"
+        },
+        "Camera": {
+            "Features": "Yes",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, LED flash",
+            "Secondary": "2 MP",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP",
+            "GPS": "Yes, with A-GPS, GLONASS/ Beidou (market dependant)",
+            "Radio": "To be confirmed",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, hotspot"
+        },
+        "Display": {
+            "": "- Emotion UI 3.0",
+            "Multitouch": "Yes",
+            "Resolution": "800 x 1280 pixels (~157 ppi pixel density)",
+            "Size": "9.6 inches (~71.7% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP3/WAV/Flac player\n- MP4/H.264 player\n- Document viewer\n- Photo/video editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2015, March",
+            "Status": "Available. Released 2015, March"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "8 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+            "4G bands": "LTE band 1(2100), 3(1800), 7(2600), 8(900), 20(800), 38(2600), 40(2300)",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA, LTE Cat4 150/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.2 GHz Cortex-A53",
+            "Chipset": "Qualcomm MSM8916 Snapdragon 410",
+            "GPU": "Adreno 306",
+            "OS": "Android OS, v4.4.4 (KitKat)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Huawei MediaPad T1 10",
+        "image": {
+            "href": "http://www.gsmarena.com/huawei_mediapad_t1_10-pictures-7308.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/huawei-mediapad-t1-10.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/huawei_mediapad_t1_10-7308.php"
+    }
+}

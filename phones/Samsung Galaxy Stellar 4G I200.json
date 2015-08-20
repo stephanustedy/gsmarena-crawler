@@ -1,0 +1,84 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 2100 mAh battery",
+            "Stand-by": "Up to 216 h (2G) / Up to 432 h (3G)",
+            "Talk time": "Up to 17 h (2G) / Up to 20 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "122 x 64 x 12 mm (4.80 x 2.52 x 0.47 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "134 g (4.73 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "3.15 MP, 2048 x 1536 pixels, autofocus",
+            "Secondary": "1.3 MP",
+            "Video": "480p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, hotspot"
+        },
+        "Display": {
+            "": "- Touch sensitive controls",
+            "Multitouch": "Yes",
+            "Resolution": "480 x 800 pixels (~233 ppi pixel density)",
+            "Size": "4.0 inches (~58.3% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP3/WAV/WMA/AAC+ player\n- MP4/WMV/H.264 player\n- Document viewer\n- Photo viewer/editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, IM, Push Email",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2012, August",
+            "Status": "Available. Released 2012, August"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "4 GB (1.5 GB user available), 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "3/10 (About 150 EUR)",
+            "SAR US": "0.64 W/kg (head) \u00a0 \u00a0 0.82 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "CDMA 800 / 1900",
+            "3G bands": "CDMA2000 1xEV-DO",
+            "4G bands": "LTE band 13(700)",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Speed": "EV-DO Rev.A 3.1 Mbps, LTE",
+            "Technology": "CDMA / EVDO / LTE"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.2 GHz Krait",
+            "Chipset": "Qualcomm MSM8960 Snapdragon S4 Plus",
+            "GPU": "Adreno 225",
+            "OS": "Android OS, v4.0.4 (Ice Cream Sandwich)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "For Verizon\nAlso known as Samsung SCH-I200, Samsung Jasper",
+        "device_name": "Samsung Galaxy Stellar 4G I200",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_galaxy_stellar_4g_i200-pictures-4954.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-stellar-sch-i200.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_galaxy_stellar_4g_i200-4954.php"
+    }
+}

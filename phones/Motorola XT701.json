@@ -1,0 +1,83 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 1420 mAh battery",
+            "Stand-by": "Up to 300 h",
+            "Talk time": "Up to 4 h 30 min"
+        },
+        "Body": {
+            "Dimensions": "116 x 60.9 x 10.9 mm (4.57 x 2.40 x 0.43 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "140 g (4.94 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face/smile detection",
+            "Primary": "5 MP, 2592 x 1944 pixels, autofocus, xenon flash",
+            "Secondary": "",
+            "Video": "480p@24fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g"
+        },
+        "Display": {
+            "": "- Touch-sensitive navigation controls\n- Handwriting recognition",
+            "Multitouch": "Yes",
+            "Resolution": "480 x 854 pixels (~265 ppi pixel density)",
+            "Size": "3.7 inches (~53.4% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP3/eAAC+/WAV player\n- MP4/H.264 player\n- Document viewer\n- Photo viewer/editor\n- Organizer\n- Voice memo\n- Predictive text input",
+            "Browser": "HTML",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS (threaded view), MMS, Email, IM, Push Email",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2009, December",
+            "Status": "Available. Released 2010, May"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "512 MB, 256 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "5/10 (About 230 EUR)",
+            "SAR US": "1.02 W/kg (head) \u00a0 \u00a0 1.23 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 1900 / 2100",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 10.2/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "600 MHz Cortex-A8",
+            "Chipset": "TI OMAP 3430",
+            "GPU": "PowerVR SGX530",
+            "OS": "Android OS, v2.0 (Eclair)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "canonical_name": "For China",
+        "device_name": "Motorola XT701",
+        "image": {
+            "href": "http://www.gsmarena.com/motorola_xt701-pictures-3071.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/motorola-xt701.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/motorola_xt701-3071.php"
+    }
+}

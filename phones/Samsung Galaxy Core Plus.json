@@ -1,0 +1,84 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1800 mAh battery",
+            "Music play": "Up to 40 h",
+            "Stand-by": "Up to 320 h",
+            "Talk time": "Up to 9 h"
+        },
+        "Body": {
+            "Dimensions": "129.7 x 66 x 9.5 mm (5.11 x 2.60 x 0.37 in)",
+            "SIM": "Optional Dual SIM",
+            "Weight": "132.5 g (4.66 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, LED flash",
+            "Secondary": "VGA",
+            "Video": "720p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "NFC": "Yes",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "480 x 800 pixels (~217 ppi pixel density)",
+            "Size": "4.3 inches (~61.5% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/WMV/H.264 player\n- MP3/WAV/eAAC+/FLAC player\n- Photo/video editor\n- Document viewer",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2013, October",
+            "Status": "Available. Released 2013, October"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "4 GB"
+        },
+        "Misc": {
+            "Colors": "White, Black, Pink",
+            "Price group": "3/10 (About 150 EUR)",
+            "SAR EU": "0.54 W/kg (head) \u00a0 \u00a0 0.46 W/kg (body)",
+            "SAR US": "0.61 W/kg (head) \u00a0 \u00a0 1.11 W/kg (body)"
+        },
+        "Network": {
+            "": "GSM 850 / 900 / 1800 / 1900 - SM-G3502 (SIM 1 & SIM 2)",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SM-G3500",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 21.1/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.2 GHz",
+            "OS": "Android OS, v4.2 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Available as:\nSamsung Galaxy Core Plus G3500\nSamsung Galaxy Trend 3 G3502 with dual SIM support for China",
+        "device_name": "Samsung Galaxy Core Plus",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_galaxy_core_plus-pictures-5842.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-core-plus.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_galaxy_core_plus-5842.php"
+    }
+}

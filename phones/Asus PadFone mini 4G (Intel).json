@@ -1,0 +1,85 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 2060 mAh battery",
+            "Stand-by": "Up to 388 h (2G) / Up to 374 h (3G)",
+            "Talk time": "Up to 29 h (2G) / Up to 17 h (3G)"
+        },
+        "Body": {
+            "": "- Padfone Station with 7 inches IPS LCD display, 800 x 1280 pixels (Corning Gorilla Glass 3), 2200 mAh battery, 203.7 x 119.4 x 13.9-19.9 mm, 299 grams",
+            "Dimensions": "132 x 66.7 x 6.3 - 12.5 mm",
+            "SIM": "Yes",
+            "Weight": "150 g (5.29 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, LED flash",
+            "Secondary": "2 MP",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, EDR",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "Radio": "To be confirmed",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 3",
+            "Resolution": "480 x 854 pixels (~218 ppi pixel density)",
+            "Size": "4.5 inches (~63.4% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP3/WAV/eAAC+ player\n- MP4/H.264 player\n- Document viewer\n- Photo/video editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2014, September",
+            "Status": "Available. Released 2014, September"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "8 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Charcoal Black, Pearl White, Cherry Red",
+            "Price group": "6/10 (About 300 EUR)"
+        },
+        "Network": {
+            "": "LTE band 1(2100), 3(1800), 7(2600), 8(900), 20(800) - EU",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+            "4G bands": "LTE band 1(2100), 3(1800), 7(2600), 8(900), 28(700) - Taiwan",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat3 100/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.6 GHz",
+            "Chipset": "Intel Atom Z2560",
+            "GPU": "PowerVR SGX544MP2",
+            "OS": "Android OS, v4.4.2 (KitKat)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Asus PadFone mini PF451CL",
+        "device_name": "Asus PadFone mini 4G (Intel)",
+        "image": {
+            "href": "http://www.gsmarena.com/asus_padfone_mini_4g_(intel)-pictures-7158.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/asus-pf451cl.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/asus_padfone_mini_4g_(intel)-7158.php"
+    }
+}

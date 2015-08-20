@@ -1,0 +1,95 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 500 mAh battery",
+            "Stand-by": "Up to 80 h",
+            "Talk time": "Up to 5 h"
+        },
+        "Body": {
+            "": "- IP54 certified - dust and water resistant\n- Flashlight",
+            "Dimensions": "114 x 54 x 11.8 mm (4.49 x 2.13 x 0.46 in)",
+            "SIM": "Yes",
+            "Weight": "85 g (3.00 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 1024 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0",
+            "GPS": "No",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "144 x 176 pixels (~114 ppi pixel density)",
+            "Size": "2.0 inches (~20.5% screen-to-body ratio)",
+            "Type": "TFT"
+        },
+        "Features": {
+            "": "- MP3/MP4 player",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes",
+            "Java": "No",
+            "Messaging": "SMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2013",
+            "Status": "Available. Released 2013"
+        },
+        "Memory": {
+            "Call records": "100 entries",
+            "Card slot": "microSD, up to 8 GB",
+            "Phonebook": "500 contacts"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Yes",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration, MP3, polyphonic ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Icemobile Hydro",
+        "image": {
+            "href": "http://www.gsmarena.com/icemobile_hydro-pictures-5838.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/icemobile-hydro.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/icemobile_hydro-5838.php"
+    }
+}

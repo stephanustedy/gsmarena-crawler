@@ -1,0 +1,74 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1000 mAh battery",
+            "Stand-by": "Up to 560 h",
+            "Talk time": "Up to 10 h"
+        },
+        "Body": {
+            "Dimensions": "104.5 x 45 x 14.6 mm (4.11 x 1.77 x 0.57 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "74 g (2.61 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP (Samsung E2120B only)",
+            "GPS": "No",
+            "Radio": "Stereo FM radio; FM recording; built-in antenna",
+            "USB": "v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "128 x 128 pixels (~119 ppi pixel density)",
+            "Size": "1.52 inches (~15.8% screen-to-body ratio)",
+            "Type": "CSTN, 65K colors"
+        },
+        "Features": {
+            "": "- MP3/AAC player\n- H.263 player\n- Organizer\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2009, August",
+            "Status": "Available. Released 2009, September"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "microSD, up to 2 GB",
+            "Internal": "9 MB",
+            "Phonebook": "Yes"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "1/10 (About 40 EUR)",
+            "SAR EU": "0.76 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Samsung Guru 2120\nSamsung E2120B with Bluetooth",
+        "device_name": "Samsung E2120",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_e2120-pictures-2900.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-e2120.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_e2120-2900.php"
+    }
+}

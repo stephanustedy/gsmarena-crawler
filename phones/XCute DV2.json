@@ -1,0 +1,96 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion battery",
+            "Stand-by": "Up to 150 h",
+            "Talk time": "Up to 4 h"
+        },
+        "Body": {
+            "Dimensions": "87 x 46.6 x 22 mm (3.43 x 1.83 x 0.87 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "118 g (4.16 oz)"
+        },
+        "Camera": {
+            "Primary": "3.15 MP, rotating lens, LED flash",
+            "Secondary": "No",
+            "Video": "480p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second external OLED display, 65K colors (96 x 65 pixels)",
+            "Resolution": "640 x 240 pixels",
+            "Size": "",
+            "Type": "TFT, 16M colors"
+        },
+        "Features": {
+            "": "- MP3 player\n- Video player\n- TV-out\n- Predictive text input\n- Language learning\n- Voice memo\n- Organizer",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "F1 Race, Color ball, Ninja",
+            "Java": "No",
+            "Messaging": "SMS, EMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2005, 4Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "10 dialed, 10 received, 10 missed calls",
+            "Card slot": "miniSD",
+            "Internal": "18 MB",
+            "Phonebook": "500 entries"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones, composer",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "XCute DV2",
+        "image": {
+            "href": "http://www.gsmarena.com/xcute_dv2-pictures-1481.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/xcute-dv2.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/xcute_dv2-1481.php"
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1500 mAh battery",
+            "Stand-by": "Up to 360 h",
+            "Talk time": "Up to 9 h"
+        },
+        "Body": {
+            "Dimensions": "119 x 58 x 13 mm (4.69 x 2.28 x 0.51 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "125 g (4.41 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "3.15 MP, 2048 x 1536 pixels, autofocus, LED flash",
+            "Secondary": "VGA",
+            "Video": "480p"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot, DLNA, UMA"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "480 x 800 pixels (~267 ppi pixel density)",
+            "Size": "3.5 inches (~50.5% screen-to-body ratio)",
+            "Type": "AMOLED capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/WMV/H.264 player\n- MP3/WAV/eAAC+/FLAC player\n- Organizer\n- Photo/video editor\n- Document viewer\n- Voice memo/dial/commands\n- Predictive text input (Swype)",
+            "Browser": "HTML, Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2011, June. Released 2011, June",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "1 GB, 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "5/10 (About 200 EUR)",
+            "SAR US": "0.57 W/kg (head) \u00a0 \u00a0 1.12 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 1700 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 21.1/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "1 GHz Cortex-A8",
+            "Chipset": "Hummingbird",
+            "GPU": "PowerVR SGX540",
+            "OS": "Android OS, v2.3 (Gingerbread)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Samsung T759, Samsung Hawk\nFor T-Mobile",
+        "device_name": "Samsung Exhibit 4G",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_exhibit_4g-pictures-3968.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-exhibit-4g.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_exhibit_4g-3968.php"
+    }
+}

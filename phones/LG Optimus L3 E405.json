@@ -1,0 +1,83 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1540 mAh battery",
+            "Stand-by": "Up to 600 h (2G) / Up to 600 h (3G)",
+            "Talk time": "Up to 12 h 30 min (2G) / Up to 10 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "102.6 x 61.6 x 11.9 mm (4.04 x 2.43 x 0.47 in)",
+            "SIM": "Dual SIM (Mini-SIM)",
+            "Weight": "119 g (4.20 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "3.15 MP, 2048 x 1536 pixels, autofocus",
+            "Secondary": "No",
+            "Video": "480p@24fps"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot, DLNA"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "240 x 320 pixels (~125 ppi pixel density)",
+            "Size": "3.2 inches (~50.2% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- MP4/H.264/WMV player\n- MP3/WAV/WMA/eAAC+ player\n- Document viewer\n- Organizer\n- Voice memo\n- Predictive text input",
+            "Browser": "HTML5, Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2012, January",
+            "Status": "Available. Released 2012, July"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "1 GB, 384 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "2/10 (About 80 EUR)",
+            "SAR EU": "1.06 W/kg (head)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 900 / 1900 / 2100",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 3.6/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "800 MHz Cortex-A5",
+            "Chipset": "Qualcomm MSM7225A Snapdragon S1",
+            "GPU": "Adreno 200",
+            "OS": "Android OS, v2.3.6 (Gingerbread)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as LG Optimus L3 Dual, LG Optimus L3 DualSim",
+        "device_name": "LG Optimus L3 E405",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_optimus_l3_e405-pictures-4835.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-optimus-l3-e405-l3-dual-new.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_optimus_l3_e405-4835.php"
+    }
+}

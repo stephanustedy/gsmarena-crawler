@@ -1,0 +1,80 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 2000 mAh battery",
+            "Stand-by": "Up to 390 h (2G) / Up to 285 h (3G)",
+            "Talk time": "Up to 15 h (2G) / Up to 8 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "138 x 67.5 x 7.9 mm (5.43 x 2.66 x 0.31 in)",
+            "SIM": "Dual SIM (Mini-SIM/ Micro-SIM)",
+            "Weight": "116 g (4.09 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, panorama, HDR",
+            "Primary": "13 MP, 4128 x 3096 pixels, autofocus, dual-LED flash",
+            "Secondary": "3 MP",
+            "Video": "1080p, HDR"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0, USB Host",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Dragon Trail Glass",
+            "Resolution": "720 x 1280 pixels (~312 ppi pixel density)",
+            "Size": "4.7 inches (~65.4% screen-to-body ratio)",
+            "Type": "IPS capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/H.264 player\n- MP3/WAV/AAC/WMA player\n- Document viewer\n- Photo viewer\n- Voice memo/dial",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2014, August",
+            "Status": "Available. Released 2014, August"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "16 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Grey/Black",
+            "Price group": "3/10 (About 150 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.5 GHz",
+            "GPU": "PowerVR SGX544",
+            "OS": "Android OS, v4.2 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Lava Iris Pro 30+",
+        "image": {
+            "href": "http://www.gsmarena.com/lava_iris_pro_30+-pictures-6605.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lava-iris-pro-30-plus.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lava_iris_pro_30+-6605.php"
+    }
+}

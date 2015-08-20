@@ -1,0 +1,76 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 950 mAh battery (BST-33)",
+            "Stand-by": "Up to 330 h (2G) / Up to 330 h (3G)",
+            "Talk time": "Up to 9 h (2G) / Up to 4 h 30 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "104 x 47 x 15 mm (4.09 x 1.85 x 0.59 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "95 g (3.35 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels",
+            "Secondary": "CIF videocall camera",
+            "Video": "320p@15fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Wallpapers, screensavers",
+            "Resolution": "240 x 320 pixels (~200 ppi pixel density)",
+            "Size": "2.0 inches (~25.3% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- Location services\n- MP3/AAC/MP4 player\n- TrackID music recognition\n- Predictive text input\n- Photo editor\n- Organizer\n- Voice memo",
+            "Browser": "WAP 2.0/xHTML, HTML(NetFront 3.4), RSS feeds",
+            "Games": "3 + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2007, November. Released 2008, February",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "30 received, dialed and missed calls",
+            "Card slot": "Memory Stick Micro (M2), up to 4 GB, 256 MB included",
+            "Internal": "32 MB",
+            "Phonebook": "1000 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Lime on white, Wine on black, Cyan on black, Silver on black",
+            "Price group": "3/10 (About 100 EUR)",
+            "SAR EU": "0.96 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 3.6/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3, AAC ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Sony Ericsson K660",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_ericsson_k660-pictures-2173.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/sonyericsson-k660.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_ericsson_k660-2173.php"
+    }
+}

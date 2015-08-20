@@ -1,0 +1,85 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po 3000 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "152.5 x 77.2 x 10.9 mm (6.00 x 3.04 x 0.43 in)",
+            "SIM": "Dual SIM (Micro-SIM, dual stand-by, dual call)",
+            "Weight": "170 g (6.00 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection, panorama, HDR",
+            "Primary": "13 MP, 4128 x 3096 pixels, autofocus, dual-LED (dual tone) flash",
+            "Secondary": "5 MP",
+            "Video": "1080p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, EDR",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0, USB Host",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, Wi-Fi Direct, hotspot"
+        },
+        "Display": {
+            "": "- Asus ZenUI",
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 3",
+            "Resolution": "720 x 1280 pixels (~267 ppi pixel density)",
+            "Size": "5.5 inches (~70.8% screen-to-body ratio)",
+            "Type": "IPS capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- 5GB free lifetime ASUS WebStorage\n- MP3/WAV/eAAC+ player\n- MP4/H.264 player\n- Document viewer\n- Photo/video editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2015, March",
+            "Status": "Available. Released 2015, March"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "16 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Osmium Black, Glamor Red, Ceramic White",
+            "Price group": "5/10 (About 250 EUR)",
+            "SAR EU": "0.35 W/kg (head)"
+        },
+        "Network": {
+            "": "LTE band 1(2100), 3(1800), 38(2600), 39(1900), 40(2300), 41(2500) - China & India",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+            "4G bands": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 8(900), 28(700) - Taiwan",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.8 GHz",
+            "Chipset": "Intel Atom Z3560",
+            "GPU": "PowerVR G6430",
+            "OS": "Android OS, v5.0 (Lollipop)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Asus Zenfone 2 ZE550ML",
+        "image": {
+            "href": "http://www.gsmarena.com/asus_zenfone_2_ze550ml-pictures-7120.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/asus-zenfone-2-ze550ml.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/asus_zenfone_2_ze550ml-7120.php"
+    }
+}

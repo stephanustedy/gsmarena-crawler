@@ -1,0 +1,75 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 900 mAh battery (BL-5C)",
+            "Stand-by": "Up to 300 h",
+            "Talk time": "Up to 5 h"
+        },
+        "Body": {
+            "Dimensions": "103 x 44 x 20 mm, 76 cc (4.06 x 1.73 x 0.79 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "99 g (3.49 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 1024 pixels",
+            "Secondary": "No",
+            "Video": "QCIF"
+        },
+        "Comms": {
+            "Bluetooth": "v1.2",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "Stereo FM radio; Visual radio",
+            "USB": "Pop-Port",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- 5-way navigation key\n- Downloadable wallpapers, screensavers",
+            "Resolution": "208 x 208 pixels (~196 ppi pixel density)",
+            "Size": "1.5 inches, 27 x 27 mm (~16.0% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- Electronic wallet\n- Predictive text input\n- Organizer\n- Voice dial\n- Voice command\n- Profile Selection",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "3D Golf, Street Racer, Backgammon + Downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, EMail, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2005, 1Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "MMC, up to 512 MB",
+            "Internal": "32 MB",
+            "Phonebook": "1000 entries, Photo call"
+        },
+        "Misc": {
+            "Colors": "Silver Grey, Black , White",
+            "SAR EU": "0.70 W/kg (head)",
+            "SAR US": "0.81 W/kg (head) \u00a0 \u00a0 0.62 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3, AAC ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 6230i",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_6230i-pictures-1087.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-6230i.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_6230i-1087.php"
+    }
+}

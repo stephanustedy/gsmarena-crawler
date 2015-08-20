@@ -1,0 +1,82 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 2820 mAh battery",
+            "Stand-by": "Up to 360 h (2G) / Up to 360 h (3G)",
+            "Talk time": "Up to 30 h (2G) / Up to 23 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "156 x 78.2 x 8.6 mm (6.14 x 3.08 x 0.34 in)",
+            "SIM": "Dual SIM (Micro-SIM, dual stand-by)",
+            "Weight": "154 g (5.43 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face detection, HDR",
+            "Primary": "13 MP, 4128 x 3096 pixels, autofocus, LED flash",
+            "Secondary": "5 MP, 720p@30fps",
+            "Video": "1080p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes, up to 10 fingers",
+            "Protection": "Corning Gorilla Glass 3",
+            "Resolution": "720 x 1280 pixels (~267 ppi pixel density)",
+            "Size": "5.5 inches (~68.4% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/H.264 player\n- MP3/eAAC+/WAV player\n- Document viewer\n- Photo/video editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, IM, Push Email",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2015, February",
+            "Status": "Available. Released 2015, March"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB (uses SIM 2 slot)",
+            "Internal": "16 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black Grey, Black Bleen, Black Clementine, Arctic Gold",
+            "SAR EU": "0.24 W/kg (head) \u00a0 \u00a0 0.71 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 900 / 1900 / 2100",
+            "4G bands": "LTE band 1(2100), 3(1800), 7(2600), 20(800)",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 42.2/11.5 Mbps, LTE Cat4 150/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.2 GHz Cortex-A53",
+            "Chipset": "Qualcomm MSM8916 Snapdragon 410",
+            "GPU": "Adreno 306",
+            "OS": "Android OS, v4.4.4 (KitKat)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Wiko Ridge Fab 4G",
+        "image": {
+            "href": "http://www.gsmarena.com/wiko_ridge_fab_4g-pictures-7112.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/wiko-ridge.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/wiko_ridge_fab_4g-7112.php"
+    }
+}

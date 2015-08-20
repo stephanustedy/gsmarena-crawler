@@ -1,0 +1,77 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1500 mAh battery",
+            "Stand-by": "Up to 168 h",
+            "Talk time": "Up to 5 h"
+        },
+        "Body": {
+            "Dimensions": "111.8 x 58.9 x 11.9 mm (4.40 x 2.32 x 0.47 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "124.7 g (4.37 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face/smile detection",
+            "Primary": "3.15 MP, 2048 x 1536 pixels, autofocus",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g, hotspot"
+        },
+        "Display": {
+            "Resolution": "320 x 480 pixels (~180 ppi pixel density)",
+            "Size": "3.2 inches (~46.3% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- MP4/H.264/WMV player\n- MP3/WAV/WMA/eAAC+ player\n- Document viewer\n- Organizer\n- Voice memo/dial\n- Predictive text input (Swype)",
+            "Browser": "HTML",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2011, Q4",
+            "Status": "Available"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB, 2 GB included",
+            "Internal": "179 MB"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "2/10 (About 90 EUR)",
+            "SAR US": "1.22 W/kg (head) \u00a0 \u00a0 1.22 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "CDMA 800 / 1900",
+            "3G bands": "CDMA2000 1xEV-DO",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Speed": "EV-DO Rev.A 3.1 Mbps",
+            "Technology": "CDMA / EVDO"
+        },
+        "Platform": {
+            "CPU": "800 MHz",
+            "OS": "Android OS, v2.3 (Gingerbread)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "LG Optimus 2 AS680",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_optimus_2_as680-pictures-4402.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-optimus-2-as680.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_optimus_2_as680-4402.php"
+    }
+}

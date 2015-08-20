@@ -1,0 +1,93 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1400 mAh battery (BV-4D)",
+            "Stand-by": "Up to 465 h (2G) / Up to 540 h (3G)",
+            "Talk time": "Up to 11 h (2G) / Up to 6 h 50 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "123.9 x 60.2 x 13.9 mm, 95.5 cc (4.88 x 2.37 x 0.55 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "169 g (5.96 oz)"
+        },
+        "Camera": {
+            "Features": "1/1.2'' sensor size, ND filter, geo-tagging, face detection",
+            "Primary": "41 MP (38 MP effective, 7152 x 5368 pixels), Carl Zeiss optics, autofocus, Xenon flash, check quality",
+            "Secondary": "VGA, VGA@30fps",
+            "Video": "1080p@30fps, 4x lossless digital zoom, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "NFC": "Yes",
+            "Radio": "Stereo FM radio with RDS; FM transmitter",
+            "USB": "microUSB v2.0, USB Host",
+            "WLAN": "Wi-Fi 802.11 b/g/n, DLNA, UPnP technology"
+        },
+        "Display": {
+            "": "- Nokia ClearBlack display",
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "360 x 640 pixels (~184 ppi pixel density)",
+            "Size": "4.0 inches (~59.1% screen-to-body ratio)",
+            "Type": "AMOLED capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- SNS integration\n- Active noise cancellation with a dedicated mic\n- HDMI port\n- MP3/WMA/WAV/eAAC+ player\n- MP4/DivX/XviD/H.264/WMV player\n- Voice memo/command/dial\n- Organizer\n- Document viewer\n- Video/photo editor\n- Predictive text input",
+            "Browser": "HTML5, Adobe Flash Lite",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2012, February",
+            "Status": "Available. Released 2012, June"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "16 GB, 1 GB ROM, 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White, Red",
+            "Price group": "6/10 (About 280 EUR)",
+            "SAR EU": "1.23 W/kg (head)",
+            "SAR US": "1.21 W/kg (head) \u00a0 \u00a0 1.46 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 1700 / 1900 / 2100",
+            "EDGE": "Class 33",
+            "GPRS": "Class 33",
+            "Speed": "HSPA 14.4/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "1.3 GHz ARM 11",
+            "GPU": "Broadcom BCM2763",
+            "OS": "Nokia Belle OS"
+        },
+        "Sound": {
+            "": "- Dolby Digital Plus\n- Dolby Headphone",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -89.7dB / Crosstalk -89.0dB",
+            "Battery life": "Endurance rating 34h",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: Infinite (nominal) / 4.698:1 (sunlight)",
+            "Loudspeaker": "Voice 71dB / Noise 64dB / Ring 78dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Nokia 808 PureView RM-807",
+        "device_name": "Nokia 808 PureView",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_808_pureview-pictures-4577.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-808-pureview.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_808_pureview-4577.php"
+    }
+}

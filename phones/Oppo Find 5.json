@@ -1,0 +1,91 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 2500 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "141.8 x 68.8 x 8.9 mm (5.58 x 2.71 x 0.35 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "165 g (5.82 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection, panorama, HDR",
+            "Primary": "13 MP, 4128 x 3096 pixels, autofocus, LED flash, check quality",
+            "Secondary": "1.9 MP",
+            "Video": "1080p@30fps, HDR, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "NFC": "Yes",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, DLNA, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 2",
+            "Resolution": "1080 x 1920 pixels (~441 ppi pixel density)",
+            "Size": "5.0 inches (~70.6% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP4/H.264/WMV player\n- MP3/eAAC+/WMA/WAV player\n- Document viewer\n- Photo viewer/editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2012, December",
+            "Status": "Available. Released 2013, February"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "16/32 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "White, Black",
+            "Price group": "9/10 (About 540 EUR)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 1700 / 1900 / 2100",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 1900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.5 GHz Krait",
+            "Chipset": "Qualcomm APQ8064 Snapdragon S4 Pro",
+            "GPU": "Adreno 320",
+            "OS": "Android OS, v4.1 (Jelly Bean)"
+        },
+        "Sound": {
+            "": "- Dolby Mobile",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -82.0dB / Crosstalk -81.4dB",
+            "Battery life": "Endurance rating 43h",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 1107 (nominal) / 2.088:1 (sunlight)",
+            "Loudspeaker": "Voice 70dB / Noise 67dB / Ring 73dB"
+        }
+    },
+    "main": {
+        "device_name": "Oppo Find 5",
+        "image": {
+            "href": "http://www.gsmarena.com/oppo_find_5-pictures-5161.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/oppo-find-5.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/oppo_find_5-5161.php"
+    }
+}

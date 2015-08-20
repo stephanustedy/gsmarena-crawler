@@ -1,0 +1,105 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1400 mAh battery",
+            "Stand-by": "Up to 480 h (2G) / Up to 350 h (3G)",
+            "Talk time": "Up to 16 h (2G) / Up to 8 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "124 x 62.7 x 9 mm (4.88 x 2.47 x 0.35 in)",
+            "SIM": "Dual SIM (Mini-SIM / Micro-SIM)",
+            "Weight": "118 g (4.16 oz)"
+        },
+        "Camera": {
+            "Features": "Touch focus, face detection, panorama, HDR",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash",
+            "Secondary": "1.3 MP",
+            "Video": "480p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "A-GPS only",
+            "Radio": "Stereo FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "480 x 800 pixels (~233 ppi pixel density)",
+            "Size": "4.0 inches (~58.6% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- DivX/XviD/MP4/WMV/H.264 player\n- MP3/WAV/eAAC+ player\n- Photo/video editor\n- Document editor\n- Voice memo/dial/commands",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2013, November",
+            "Status": "Available. Released 2013, December"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "4 GB, 512 MB RAM"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "": "HSDPA 850 / 900 / 2100 - SIM 1 or SIM 2",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 900 / 2100 - SIM 1 or SIM 2",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 7.2/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.2 GHz Cortex-A7",
+            "Chipset": "Mediatek MT6572M",
+            "GPU": "Mali-400",
+            "OS": "Android OS, v4.2 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "- Single SIM: Andy AC4M\n- Dual SIM: Andy A4M",
+        "device_name": "Yezz Andy A4M",
+        "image": {
+            "href": "http://www.gsmarena.com/yezz_andy_a4m-pictures-5912.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/yezz-andy-a4m.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/yezz_andy_a4m-5912.php"
+    }
+}

@@ -1,0 +1,98 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 790 mAh battery",
+            "Stand-by": "",
+            "Talk time": "Up to 5 h"
+        },
+        "Body": {
+            "Dimensions": "105.1 x 53.5 x 14.5 mm (4.14 x 2.11 x 0.57 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "125 g (4.41 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "2 MP, 1600 x 1200 pixels, autofocus, LED flash",
+            "Secondary": "",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "Yes, with A-GPS, SiRF Star III chipset, MioMap navigation",
+            "Radio": "No",
+            "USB": "miniUSB v1.1",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Secondary OLED 65K display, 1.7\" inches",
+            "Resolution": "240 x 320 pixels (~154 ppi pixel density)",
+            "Size": "2.6 inches (~37.2% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 65K colors"
+        },
+        "Features": {
+            "": "- Dual-face phone\n- MP3/WMA/WAV/eAAC player\n- MP4/H.263 player\n- Pocket Office \n- Organizer\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email, IM"
+        },
+        "Launch": {
+            "Announced": "2008, June. Released 2009, October",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 16 GB",
+            "Internal": "64 MB RAM, 1 GB"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Platform": {
+            "CPU": "Samsung S3C 2443, 400MHz",
+            "OS": "Windows Mobile 6.1 Professional"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Mitac MIO Leap K1",
+        "image": {
+            "href": "http://www.gsmarena.com/mitac_mio_leap_k1-pictures-3207.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/mitac-mio-leap-k1.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/mitac_mio_leap_k1-3207.php"
+    }
+}

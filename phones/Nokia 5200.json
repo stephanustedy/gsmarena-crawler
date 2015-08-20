@@ -1,0 +1,76 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 760 mAh battery (BL-5B)",
+            "Stand-by": "Up to 263 h",
+            "Talk time": "Up to 3 h 10 min"
+        },
+        "Body": {
+            "Dimensions": "92.4 x 48.2 x 20.7 mm, 85 cc (3.64 x 1.90 x 0.81 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "104 g (3.67 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "Stereo FM radio",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Downloadable themes",
+            "Resolution": "128 x 160 pixels (~102 ppi pixel density)",
+            "Size": "2.0 inches (~28.3% screen-to-body ratio)",
+            "Type": "CSTN, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/SpMidi/AAC/AAC+ player\n- Predictive text input\n- Reminders\n- Stopwatch",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2006, September",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 2 GB",
+            "Internal": "5 MB",
+            "Phonebook": "Yes"
+        },
+        "Misc": {
+            "Colors": "Red, Blue",
+            "Price group": "2/10 (About 80 EUR)",
+            "SAR EU": "0.61 W/kg (head)",
+            "SAR US": "0.94 W/kg (head) \u00a0 \u00a0 0.24 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 5200",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_5200-pictures-1717.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-5200.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_5200-1717.php"
+    }
+}

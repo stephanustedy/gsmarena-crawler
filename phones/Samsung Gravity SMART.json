@@ -1,0 +1,83 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1500 mAh battery",
+            "Stand-by": "Up to 364 h",
+            "Talk time": "Up to 5 h 30 min"
+        },
+        "Body": {
+            "Dimensions": "114 x 59 x 14 mm (4.49 x 2.32 x 0.55 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "130 g (4.59 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "3.15 MP, 2048 x 1536 pixels, LED flash",
+            "Secondary": "No",
+            "Video": "320p@14fps"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- TouchWiz 3.0 UI",
+            "Multitouch": "Yes",
+            "Resolution": "320 x 480 pixels (~180 ppi pixel density)",
+            "Size": "3.2 inches (~45.3% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/H.264 player\n- MP3/WAV/AAC+ player\n- Organizer\n- Photo/video editor\n- Document viewer\n- Voice memo\n- Predictive text input (Swype)",
+            "Browser": "HTML",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2011, June. Released 2011, June 22th",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB, 2 GB included",
+            "Internal": "150 MB, 270 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black/Red, Black/Green, Lunar Grey",
+            "Price group": "4/10 (About 170 EUR)",
+            "SAR EU": "0.19 W/kg (head)",
+            "SAR US": "0.47 W/kg (head) \u00a0 \u00a0 1.05 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 1700 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 3.6/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "800 MHz ARMv6",
+            "OS": "Android OS, v2.2 (Froyo)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "For T-Mobile.\nAlso known as Samsung Gravity Touch 2, Samsung Smart, Samsung GT2, Samsung SGH-T589, Samsung Galaxy Q",
+        "device_name": "Samsung Gravity SMART",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_gravity_smart-pictures-3969.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-gravity-smart.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_gravity_smart-3969.php"
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1200 mAh battery (BL-5K)",
+            "Music play": "Up to 54 h",
+            "Stand-by": "Up to 552 h (2G) / Up to 648 h (3G)",
+            "Talk time": "Up to 9 h 30 min (2G) / Up to 5 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "117.3 x 56.8 x 10.5 mm, 64 cc (4.62 x 2.24 x 0.41 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "130 g (4.59 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face detection",
+            "Primary": "8 MP, 3264 x 2448 pixels, fixed focus, dual-LED flash, check quality",
+            "Secondary": "VGA",
+            "Video": "720p@25fps, 720p@30fps (via SW update)"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "Yes, with A-GPS; Ovi Maps 3.0",
+            "NFC": "Via software update",
+            "Radio": "Stereo FM radio with RDS, FM transmitter",
+            "USB": "microUSB v2.0, USB Host",
+            "WLAN": "Wi-Fi 802.11 b/g/n"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "360 x 640 pixels (~210 ppi pixel density)",
+            "Size": "3.5 inches (~50.7% screen-to-body ratio)",
+            "Type": "AMOLED capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Web TV\n- TV-out\n- Active noise cancellation with dedicated mic\n- MP3/WMA/WAV/eAAC+ player\n- DivX/XviD/MP4/H.264/WMV player\n- Quickoffice document viewer (Word, Excel, PowerPoint, PDF)\n- Adobe Reader\n- Voice memo/dial/command\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML, Adobe Flash Lite",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS, MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2010, September",
+            "Status": "Available. Released 2010, October"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "8 GB, 256 MB RAM, 1 GB ROM"
+        },
+        "Misc": {
+            "Colors": "Charcoal black, Frosty metal, Mahogany brown",
+            "Price group": "4/10 (About 150 EUR)",
+            "SAR EU": "0.73 W/kg (head)",
+            "SAR US": "1.03 W/kg (head) \u00a0 \u00a0 0.83 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 1700 / 1900 / 2100",
+            "EDGE": "Class 32",
+            "GPRS": "Class 32",
+            "Speed": "HSPA 10.2/2 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "680 MHz ARM 11",
+            "GPU": "Broadcom BCM2727",
+            "OS": "Symbian^3 OS, upgradable to Nokia Belle OS"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -88.1dB / Crosstalk - 88.9dB",
+            "Camera": "Photo",
+            "Loudspeaker": "Voice 66dB / Noise 65dB / Ring 75dB"
+        }
+    },
+    "main": {
+        "device_name": "Nokia C7",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_c7-pictures-3394.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-c7-ofic.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_c7-3394.php"
+    }
+}

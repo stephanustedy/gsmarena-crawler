@@ -1,0 +1,78 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1450 mAh battery",
+            "Stand-by": "Up to 700 h (2G) / Up to 500 h (3G)",
+            "Talk time": "Up to 8 h (2G) / Up to 6 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "111 x 58 x 13.5 mm (4.37 x 2.28 x 0.53 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "-"
+        },
+        "Camera": {
+            "Primary": "3.15 MP, 2048 x 1536 pixels",
+            "Secondary": "No",
+            "Video": "320p@18fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g, hotspot"
+        },
+        "Display": {
+            "Resolution": "320 x 480 pixels (~180 ppi pixel density)",
+            "Size": "3.2 inches (~47.4% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/AAC/AAC+/eAAC+/AMR-NB/AMR-WB/MIDI/PCM/WMA\n- MP4/H.264/WMV player\n- Predictive text input",
+            "Browser": "HTML",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS, MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2011, February. Released 2011, April",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 16 GB",
+            "Internal": "512 MB, 256 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "3/10 (About 110 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 1900 / 2100",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 7.2/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "600 MHz ARM 11",
+            "Chipset": "Qualcomm MSM7227 Snapdragon S1",
+            "GPU": "Adreno 200",
+            "OS": "Android OS, v2.2 (Froyo)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "BLU Magic",
+        "image": {
+            "href": "http://www.gsmarena.com/blu_magic-pictures-3854.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/blu-magic.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/blu_magic-3854.php"
+    }
+}

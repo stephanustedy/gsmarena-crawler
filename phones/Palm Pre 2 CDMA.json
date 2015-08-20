@@ -1,0 +1,80 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion battery",
+            "Stand-by": "Up to 350 h",
+            "Talk time": "Up to 5 h"
+        },
+        "Body": {
+            "Dimensions": "100.7 x 59.6 x 16.9 mm (3.96 x 2.35 x 0.67 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "145 g (5.11 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, LED flash",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "320 x 480 pixels (~186 ppi pixel density)",
+            "Size": "3.1 inches (~47.7% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP3/WAV/eAAC+ player\n- MP4/H.264 player\n- Organizer\n- Document viewer\n- Voice memo/dial\n- Predictive text input",
+            "Browser": "HTML, Adobe Flash",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2010, October",
+            "Status": "Available. Released 2010, October"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "16 GB, 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "5/10 (About 210 EUR)"
+        },
+        "Network": {
+            "2G bands": "CDMA 800 / 1900",
+            "3G bands": "CDMA2000 1xEV-DO",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Speed": "EV-DO Rev.A 3.1 Mbps",
+            "Technology": "CDMA / EVDO"
+        },
+        "Platform": {
+            "CPU": "1 GHz",
+            "OS": "HP webOS 2.0"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "For Verizon",
+        "device_name": "Palm Pre 2 CDMA",
+        "image": {
+            "href": "http://www.gsmarena.com/palm_pre_2_cdma-pictures-3589.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/palm-pre-2-ofic.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/palm_pre_2_cdma-3589.php"
+    }
+}

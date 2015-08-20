@@ -1,0 +1,83 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1800 mAh battery",
+            "Stand-by": "Up to 212 h",
+            "Talk time": "Up to 8 h"
+        },
+        "Body": {
+            "Dimensions": "126 x 65 x 14 mm (4.96 x 2.56 x 0.55 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "164 g (5.78 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, LED flash",
+            "Secondary": "1.3 MP",
+            "Video": "480p"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- TouchWiz UI",
+            "Multitouch": "Yes",
+            "Resolution": "480 x 800 pixels (~233 ppi pixel density)",
+            "Size": "4.0 inches (~55.6% screen-to-body ratio)",
+            "Type": "Super AMOLED capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/DivX/XviD/H.264 player\n- MP3/WAV/WMA/eAAC+ player\n- Organizer\n- Photo/video editor\n- Document viewer\n- Voice memo/dial\n- Predictive text input",
+            "Browser": "HTML, Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2011, October",
+            "Status": "Available. Released 2011, October"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB, 4 GB included",
+            "Internal": "4 GB, 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Noble Black",
+            "Price group": "3/10 (About 120 EUR)",
+            "SAR US": "0.45 W/kg (head) \u00a0 \u00a0 1.15 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "CDMA 800 / 1900",
+            "3G bands": "CDMA2000 1xEV-DO",
+            "4G bands": "LTE band 13(700)",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Speed": "EV-DO Rev.A 3.1 Mbps",
+            "Technology": "CDMA / EVDO / LTE"
+        },
+        "Platform": {
+            "CPU": "1 GHz",
+            "OS": "Android OS, v2.3 (Gingerbread)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "For Verizon\nAlso known as Samsung SCH-I405, Samsung Galaxy Metrix 4G, Samsung SCH-I405U",
+        "device_name": "Samsung I405 Stratosphere",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_i405_stratosphere-pictures-4262.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-stratosphere.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_i405_stratosphere-4262.php"
+    }
+}

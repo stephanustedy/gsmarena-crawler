@@ -1,0 +1,70 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 950 mAh battery",
+            "Stand-by": "Up to 730 h",
+            "Talk time": "Up to 9 h"
+        },
+        "Body": {
+            "": "- Flashlight",
+            "Dimensions": "106.5 x 45 x 13.8 mm (4.19 x 1.77 x 0.54 in)",
+            "SIM": "Dual SIM (Mini-SIM, dual stand-by)",
+            "Weight": "66.5 g (2.33 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "FM radio",
+            "USB": "No",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "128 x 128 pixels (~119 ppi pixel density)",
+            "Size": "1.52 inches (~15.6% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "Browser": "No",
+            "Games": "No",
+            "Java": "",
+            "Messaging": "SMS"
+        },
+        "Launch": {
+            "Announced": "2011, August",
+            "Status": "Available. Released 2011, August"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "No",
+            "Phonebook": "Yes"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "1/10 (About 40 EUR)",
+            "SAR EU": "0.94 W/kg (head) \u00a0 \u00a0 0.86 W/kg (body)",
+            "SAR US": "1.24 W/kg (head) \u00a0 \u00a0 0.47 W/kg (body)"
+        },
+        "Network": {
+            "": "GSM 900 / 1800 - SIM 2",
+            "2G bands": "GSM 900 / 1800 - SIM1",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, Polyphonic(32)",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "LG A190",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_a190-pictures-4094.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-a190.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_a190-4094.php"
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 750 mAh battery",
+            "Music play": "Up to 10 h",
+            "Stand-by": "Up to 300 h",
+            "Talk time": "Up to 7 h"
+        },
+        "Body": {
+            "Dimensions": "89 x 45.7 x 22 mm (3.50 x 1.80 x 0.87 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "83 g (2.93 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "128 x 160 pixels (~114 ppi pixel density)",
+            "Size": "1.8 inches (~25.1% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- MP3/AAC+ player\n- MP4/H.264 player\n- Organizer\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0 / xHTML",
+            "Games": "2",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2007. Released 2007",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "microSD, up to 2 GB",
+            "Internal": "2 MB",
+            "Phonebook": "800 entries, Photo call"
+        },
+        "Misc": {
+            "Colors": "Flash Red, Night Black",
+            "SAR US": "0.75 W/kg (head) \u00a0 \u00a0 1.21 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Polyphonic(64), MP3",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Alcatel OT-C700A",
+        "index": 1,
+        "url": "http://www.gsmarena.com/alcatel_ot_c700a-3126.php"
+    }
+}

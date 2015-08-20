@@ -1,0 +1,74 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1070 mAh battery (BL-6C)",
+            "Stand-by": "Up to 240 h",
+            "Talk time": "Up to 3 h 30 min"
+        },
+        "Body": {
+            "Dimensions": "118 x 68 x 22 mm, 123 cc (4.65 x 2.68 x 0.87 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "143 g (5.04 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "v1.1",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Four-way directional controller",
+            "Resolution": "176 x 208 pixels (~130 ppi pixel density)",
+            "Size": "2.1 inches, 35 x 41 mm (~17.5% screen-to-body ratio)",
+            "Type": "TFT, 4096 colors"
+        },
+        "Features": {
+            "": "- Predictive text input\n- SyncML\n- Voice dial",
+            "Browser": "WAP 2.0/xHTML",
+            "Java": "Yes, MIDP 1.0",
+            "Messaging": "SMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "April, 2004",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- 20 voice dial numbers",
+            "Card slot": "MMC",
+            "Internal": "3.4 MB"
+        },
+        "Misc": {
+            "Colors": "",
+            "SAR EU": "0.44 W/kg (head)",
+            "SAR US": "0.60 W/kg (head) \u00a0 \u00a0 1.03 W/kg (body)"
+        },
+        "Network": {
+            "": "GSM 850 / 1900 - US version",
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "Class 6",
+            "Technology": "GSM"
+        },
+        "Platform": {
+            "CPU": "104 MHz ARM 920T",
+            "OS": "Symbian OS v6.1, Series 60 v1.0 UI"
+        },
+        "Sound": {
+            "": "- Hi-fi stereo headset",
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, monophonic, WAV ringtones, composer",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Nokia N-Gage QD",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_n_gage_qd-pictures-748.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nongageqd.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_n_gage_qd-748.php"
+    }
+}

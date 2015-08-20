@@ -1,0 +1,71 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1800 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "137.6 x 74.6 x 20.8 mm (5.42 x 2.94 x 0.82 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "190 g (6.70 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "v1.1",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "Yes",
+            "WLAN": "Wi-Fi 802.11b"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~114 ppi pixel density)",
+            "Size": "3.5 inches, 53 x 71 mm (~37.0% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 65K colors"
+        },
+        "Features": {
+            "": "- Pocket Office \n- Organizer",
+            "Browser": "HTML (PocketIE)",
+            "Java": "No",
+            "Messaging": "SMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2004, 4Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "SD, up to 1 GB",
+            "Internal": "64 MB RAM, 64 MB ROM"
+        },
+        "Misc": {
+            "Colors": "Silver",
+            "Price group": "4/10 (About 190 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Platform": {
+            "CPU": "ARM925T",
+            "Chipset": "TI OMAP 1510",
+            "OS": "Microsoft Windows Mobile 2003 PocketPC Phone Edition"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Polyphonic ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "HP iPAQ h6320",
+        "image": {
+            "href": "http://www.gsmarena.com/hp_ipaq_h6320-pictures-1311.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/hp-h6320.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/hp_ipaq_h6320-1311.php"
+    }
+}

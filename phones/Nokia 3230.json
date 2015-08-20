@@ -1,0 +1,79 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 760 mAh battery (BL-5B)",
+            "Stand-by": "Up to 150 h",
+            "Talk time": "Up to 4 h"
+        },
+        "Body": {
+            "Dimensions": "109 x 49 x 19 mm, 90 cc (4.29 x 1.93 x 0.75 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "110 g (3.88 oz)"
+        },
+        "Camera": {
+            "Primary": "1.23 MP, 1280 x 960 pixels",
+            "Secondary": "No",
+            "Video": "QCIF"
+        },
+        "Comms": {
+            "Bluetooth": "v1.1",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "Stereo FM radio",
+            "USB": "Pop-Port",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- 5-way navi key\n- Downloadable screensavers, \nwallpapers",
+            "Resolution": "176 x 208 pixels (~130 ppi pixel density)",
+            "Size": "2.1 inches, 35 x 41 mm (~26.3% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- Push to Talk\n- Mono MP3 player\n- Predictive text input\n- Organizer\n- Voice dial/memo",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, EMail, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2004, 4Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- Up to 60 min video clips",
+            "Card slot": "RS-MMC, 32 MB included",
+            "Internal": "6 MB"
+        },
+        "Misc": {
+            "Colors": "Black, Red",
+            "Price group": "3/10 (About 100 EUR)",
+            "SAR EU": "0.41 W/kg (head)",
+            "SAR US": "0.81 W/kg (head) \u00a0 \u00a0 0.23 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "Yes, 118.4 kbps",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Platform": {
+            "CPU": "123 MHz ARM925T",
+            "Chipset": "TI OMAP 1510",
+            "OS": "Symbian OS v7.0s, Series 60 SE UI"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 3230",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_3230-pictures-923.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/no3230.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_3230-923.php"
+    }
+}

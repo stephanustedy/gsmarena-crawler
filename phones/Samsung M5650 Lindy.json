@@ -1,0 +1,83 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 960 mAh battery",
+            "Stand-by": "Up to 300 h",
+            "Talk time": "Up to 3 h"
+        },
+        "Body": {
+            "Dimensions": "106 x 57 x 12 mm (4.17 x 2.24 x 0.47 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "98 g (3.46 oz)"
+        },
+        "Camera": {
+            "Primary": "3.15 MP, 2048 x 1536 pixels, check quality",
+            "Secondary": "Videocall camera",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "No",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Yes, Wi-Fi 802.11b/g"
+        },
+        "Display": {
+            "": "- Smart unlock\n- Cartoon UI",
+            "Resolution": "240 x 320 pixels (~143 ppi pixel density)",
+            "Size": "2.8 inches (~40.2% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- SNS integration\n- MP3/WMA/eAAC+ player\n- H.264/MP4/WMV player\n- Find Music recognition service\n- Organizer\n- Document viewer\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email, IM"
+        },
+        "Launch": {
+            "Announced": "2009, December",
+            "Status": "Available. Released 2009, December"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 8 GB",
+            "Internal": "50 MB",
+            "Phonebook": "1000 contacts, Photocall"
+        },
+        "Misc": {
+            "Colors": "Black, Neon Blue",
+            "Price group": "3/10 (About 120 EUR)",
+            "SAR EU": "0.75 W/kg (head)",
+            "SAR US": "1.18 W/kg (head) \u00a0 \u00a0 1.02 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 1900 / 2100",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Speed": "HSPA 7.2/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Sound": {
+            "": "- DNSe (Digital Natural Sound Engine)\n- Dedicated music keys",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3 ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -85.2dB / Crosstalk -84.5dB",
+            "Camera": "Photo",
+            "Loudspeaker": "Voice 73dB / Noise 69dB / Ring 77dB"
+        }
+    },
+    "main": {
+        "device_name": "Samsung M5650 Lindy",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_m5650_lindy-pictures-3049.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-m5650-lindy.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_m5650_lindy-3049.php"
+    }
+}

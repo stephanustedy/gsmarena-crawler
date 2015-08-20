@@ -1,0 +1,102 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po 3250 mAh battery (24.1 Wh)",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "260 x 181.7 x 14 mm (10.24 x 7.15 x 0.55 in)",
+            "SIM": "No",
+            "Weight": "730 g (1.61 lb)"
+        },
+        "Camera": {
+            "Primary": "5 MP, 2592 \u0445 1944 pixels",
+            "Secondary": "2 MP",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "A-GPS only",
+            "Radio": "No",
+            "USB": "microUSB v2.0, USB 2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "800 x 1280 pixels (~149 ppi pixel density)",
+            "Size": "10.1 inches (~62.6% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- HDMI port\n- MP3/WAV/WMA/AAC player\n- MP4/H.264 player\n- Document viewer\n- Organizer\n- Predictive text input",
+            "Browser": "HTML, Adobe Flash",
+            "Java": "No",
+            "Messaging": "Email, Push Email, IM",
+            "Sensors": "Accelerometer, gyro, compass"
+        },
+        "Launch": {
+            "Announced": "2011, June",
+            "Status": "Available. Released 2011, July"
+        },
+        "Memory": {
+            "Card slot": "3-in-1 card reader",
+            "Internal": "16/32/64 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "",
+            "3G bands": "HSDPA 2100 - region dependent",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Speed": "HSPA (region dependent)",
+            "Technology": "HSPA"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1 GHz",
+            "Chipset": "Nvidia Tegra 2",
+            "OS": "Android OS, v3.1 (Honeycomb), upgradable to v4.0 (Ice Cream Sandwich)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Lenovo ThinkPad",
+        "image": {
+            "href": "http://www.gsmarena.com/lenovo_thinkpad-pictures-4444.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/Lenovo-ThinkPad-Tablet.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lenovo_thinkpad-4444.php"
+    }
+}

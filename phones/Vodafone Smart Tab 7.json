@@ -1,0 +1,81 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 3400 mAh battery",
+            "Stand-by": "",
+            "Talk time": "Up to 7 h"
+        },
+        "Body": {
+            "Dimensions": "194 x 120 x 11.4 mm (7.64 x 4.72 x 0.45 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "319 g (11.25 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus",
+            "Secondary": "2 MP",
+            "Video": "720p"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes, up to 10 fingers",
+            "Resolution": "800 x 1280 pixels (~216 ppi pixel density)",
+            "Size": "7.0 inches (~61.0% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/H.264 player\n- MP3/WAV/eAAC+ player\n- Organizer\n- Photo/video editor\n- Document viewer\n- Voice memo\n- Predictive text input",
+            "Browser": "HTML, Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "Email, Push Mail, IM",
+            "Sensors": "Accelerometer, compass"
+        },
+        "Launch": {
+            "Announced": "2012, February",
+            "Status": "Available. Released 2012, February"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "16 GB (12.7 GB user available)"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "5/10 (About 230 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 14.4/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.2 GHz Scorpion",
+            "Chipset": "Qualcomm MSM8260 Snapdragon S3",
+            "GPU": "Adreno 220",
+            "OS": "Android OS, v3.2"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "canonical_name": "Tablet with no support for GSM voice communication, SMS, and MMS",
+        "device_name": "Vodafone Smart Tab 7",
+        "image": {
+            "href": "http://www.gsmarena.com/vodafone_smart_tab_7-pictures-4526.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/vodafone-smart-tab-7.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/vodafone_smart_tab_7-4526.php"
+    }
+}

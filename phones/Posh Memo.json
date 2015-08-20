@@ -1,0 +1,104 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 2500 mAh battery",
+            "Stand-by": "Up to 800 h (2G) / Up to 750 h (3G)",
+            "Talk time": "Up to 24 h (2G) / Up to 14 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "165.5 x 90.5 x 9.7 mm (6.52 x 3.56 x 0.38 in)",
+            "SIM": "Dual SIM (Mini-SIM, dual stand-by)",
+            "Weight": "175 g (6.17 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face/smile detection, panorama, HDR",
+            "Primary": "8 MP, 3264 x 2448 pixels, LED flash",
+            "Secondary": "1.3 MP",
+            "Video": "720p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, EDR",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, DLNA, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "480 x 800 pixels (~159 ppi pixel density)",
+            "Size": "5.88 inches (~65.7% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/H.264 player\n- MP3/WAV/eAAC+/FLAC player\n- Photo/video editor\n- Document viewer",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2014, June",
+            "Status": "Available. Released 2014, August"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "4 GB, 512 MB RAM"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "": "HSDPA 850 / 2100 - S580B",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 850 / 1900 - S580A",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 21.1/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1 GHz Cortex-A7",
+            "Chipset": "Mediatek MT6572M",
+            "GPU": "Mali-400",
+            "OS": "Android OS, v4.4 (KitKat)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3 ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "device_name": "Posh Memo",
+        "image": {
+            "href": "http://www.gsmarena.com/posh_memo-pictures-7173.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/posh-s580.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/posh_memo-7173.php"
+    }
+}

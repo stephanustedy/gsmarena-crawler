@@ -1,0 +1,70 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 800 mAh battery",
+            "Stand-by": "Up to 440 h",
+            "Talk time": "Up to 12 h"
+        },
+        "Body": {
+            "Dimensions": "108 x 43.5 x 14.3 mm (4.25 x 1.71 x 0.56 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "72.5 g (2.54 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "FM radio",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "128 x 160 pixels (~116 ppi pixel density)",
+            "Size": "1.77 inches (~21.0% screen-to-body ratio)",
+            "Type": "CSTN, 65K colors"
+        },
+        "Features": {
+            "": "- Organizer\n- Mobile Tracker\n- Voice memo\n- Predictive text input",
+            "Browser": "No",
+            "Games": "Yes",
+            "Java": "No",
+            "Messaging": "SMS"
+        },
+        "Launch": {
+            "Announced": "2009, April",
+            "Status": "Available. Released 2009, August"
+        },
+        "Memory": {
+            "Call records": "30 dialed, 30 received, 30 missed calls",
+            "Card slot": "No",
+            "Internal": "500 KB",
+            "Phonebook": "Yes, up to 500 entries"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "1/10 (About 40 EUR)",
+            "SAR EU": "0.86 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Samsung Guru1210",
+        "device_name": "Samsung E1210",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_e1210-pictures-2783.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-e1210.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_e1210-2783.php"
+    }
+}

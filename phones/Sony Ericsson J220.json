@@ -1,0 +1,73 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion battery",
+            "Stand-by": "Up to 280 h",
+            "Talk time": "Up to 6 h"
+        },
+        "Body": {
+            "Dimensions": "102 x 44 x 18 mm (4.02 x 1.73 x 0.71 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "82 g (2.89 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Wallpapers, themes",
+            "Resolution": "128 x 128 pixels (~117 ppi pixel density)",
+            "Size": "1.55 inches (~17.3% screen-to-body ratio)",
+            "Type": "STN, 65K colors"
+        },
+        "Features": {
+            "": "- Predictive text input\n- Organizer\n- Exchangeable cover\n- Stopwatch",
+            "Browser": "WAP 1.2.1",
+            "Games": "Yes",
+            "Java": "No",
+            "Messaging": "SMS, EMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2005, November",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "10 dialed, 20 received and missed calls",
+            "Card slot": "No",
+            "Internal": "500 KB",
+            "Phonebook": "200 entries, Picture call"
+        },
+        "Misc": {
+            "Colors": "2 - Smooth Black, Sky Blue",
+            "Price group": "1/10 (About 50 EUR)",
+            "SAR EU": "0.89 W/kg (head)",
+            "SAR US": "1.27 W/kg (head) \u00a0 \u00a0 1.14 W/kg (body)"
+        },
+        "Network": {
+            "": "GSM 850 / 1900 - J220a",
+            "2G bands": "GSM 900 / 1800 - J220i",
+            "EDGE": "No",
+            "GPRS": "Class 8",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Polyphonic(32) ringtones, composer",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "J220i: Dual band 900/1800 Mhz \nJ220a: Dual band 850/1900 Mhz - For Americas \nJ220c: Dual band 900/1800 Mhz - For mainland China",
+        "device_name": "Sony Ericsson J220",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_ericsson_j220-pictures-1362.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/sonyericsson-j220.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_ericsson_j220-1362.php"
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 800 mAh battery",
+            "Stand-by": "Up to 170 h",
+            "Talk time": "Up to 4 h"
+        },
+        "Body": {
+            "Dimensions": "93.7 x 49 x 18.6 mm (3.69 x 1.93 x 0.73 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "98 g (3.46 oz)"
+        },
+        "Camera": {
+            "Features": "Video-calling",
+            "Primary": "1.3 MP, 1280 x 960 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second external OLED display, 65K colors, (96 x 96 pixels) \n- Downloadable wallpapers",
+            "Resolution": "176 x 220 pixels",
+            "Size": "",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/AAC/MP4 player \n- Predictive text input\n- Organizer",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2007, February",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "10 dialed, 10 received, 10 missed calls",
+            "Card slot": "microSD",
+            "Internal": "10 MB",
+            "Phonebook": "500 entries"
+        },
+        "Misc": {
+            "Colors": "",
+            "Price group": "2/10 (About 90 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "3G bands": "UMTS 2100",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Speed": "Yes, 384 kbps",
+            "Technology": "GSM / UMTS"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "LG KU311",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_ku311-pictures-2065.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-ku311.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_ku311-2065.php"
+    }
+}

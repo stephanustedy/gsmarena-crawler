@@ -1,0 +1,75 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 780 mAh battery",
+            "Stand-by": "Up to 330 h",
+            "Talk time": "Up to 8 h 10 min"
+        },
+        "Body": {
+            "Dimensions": "101 x 46 x 13.9 mm (3.98 x 1.81 x 0.55 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "90 g (3.17 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 1024 pixels",
+            "Secondary": "No",
+            "Video": "No"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Screensavers and wallpapers\n- Downloadable logos",
+            "Resolution": "128 x 160 pixels (~114 ppi pixel density)",
+            "Size": "1.8 inches (~21.9% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- MP3/AAC player\n- Organizer\n- Voice dial\n- Voice memo",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2008, August. Released 2009, July",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "microSD, up to 2 GB",
+            "Phonebook": "1000 entries"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "1/10 (About 50 EUR)",
+            "SAR US": "1.01 W/kg (head) \u00a0 \u00a0 0.61 W/kg (body)"
+        },
+        "Network": {
+            "": "GSM 850 / 1900 - US version",
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3, AAC ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "also known as EM325 for Vodafone",
+        "device_name": "Motorola EM25",
+        "image": {
+            "href": "http://www.gsmarena.com/motorola_em25-pictures-2478.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/motorola-em25.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/motorola_em25-2478.php"
+    }
+}

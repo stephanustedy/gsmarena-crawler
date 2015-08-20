@@ -1,0 +1,65 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 700 mAh battery",
+            "Stand-by": "Up to 250 h",
+            "Talk time": "Up to 3 h"
+        },
+        "Body": {
+            "": "- Flashlight",
+            "Dimensions": "107 x 45 x 11.2 mm (4.21 x 1.77 x 0.44 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "70 g (2.47 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "FM radio, scheduled FM recording",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "128 x 160 pixels (~114 ppi pixel density)",
+            "Size": "1.8 inches (~21.2% screen-to-body ratio)",
+            "Type": "CSTN, 65K colors"
+        },
+        "Features": {
+            "": "- MP3/WAV/AAC+ player\n- Organizer\n- Currency/unit convertor\n- Auto Power On/Off\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Downloadable",
+            "Java": "No",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2010",
+            "Status": "Available. Released 2010"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 2 GB",
+            "Internal": "3 MB",
+            "Phonebook": "500 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "1/10 (About 30 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "Class 12",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration, MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Spice S-5110",
+        "index": 1,
+        "url": "http://www.gsmarena.com/spice_s_5110-3682.php"
+    }
+}

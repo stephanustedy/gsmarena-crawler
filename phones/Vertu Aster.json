@@ -1,0 +1,85 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 2275 mAh battery",
+            "Stand-by": "Up to 380 h (3G)",
+            "Talk time": "Up to 15 h 30 min (3G)"
+        },
+        "Body": {
+            "": "- Titanium body (forged grade 5) and luxurious calf leather covered rear panel",
+            "Dimensions": "143.4 x 69 x 11.2 mm (5.65 x 2.72 x 0.44 in)",
+            "SIM": "Nano-SIM",
+            "Weight": "193 g (6.81 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "13 MP (Hasselblad certified), 4128 x 3096 pixels, autofocus, dual-LED flash",
+            "Secondary": "2.1 MP",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, apt-X, LE",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "NFC": "Yes",
+            "Radio": "No",
+            "USB": "microUSB v2.0, USB Host",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Sapphire crystal glass, oleophobic coating",
+            "Resolution": "1080 x 1920 pixels (~473 ppi pixel density)",
+            "Size": "4.7 inches (~60.5% screen-to-body ratio)",
+            "Type": "Sapphire crystal glass capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Vertu Concierge service\n- Wireless Charging (Qi-enabled)\n- Active noise cancellation with dedicated mic\n- MP4/H.264 player\n- MP3/WAV/eAAC+ player\n- Photo/video editor\n- Document editor\n- Voice memo/dial/commands",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2014, October",
+            "Status": "Available. Released 2014, December"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "64 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Onyx Calf, Lagoon Calf, Blush Calf, Caviar Karung, Tangerine Karung, Raspberry Ostrich, Cognac Ostrich",
+            "Price group": "10/10 (About 5440 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 1700 / 1900 / 2100",
+            "4G bands": "LTE band 1(2100), 5(850), 7(2600), 8(900), 17(700), 20(800), 25(1900)",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 2.3 GHz Krait 400",
+            "Chipset": "Qualcomm Snapdragon 801",
+            "GPU": "Adreno 330",
+            "OS": "Android OS, v4.4.2 (KitKat)"
+        },
+        "Sound": {
+            "": "- Dolby Digital Plus",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "device_name": "Vertu Aster",
+        "image": {
+            "href": "http://www.gsmarena.com/vertu_aster-pictures-6726.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/vertu-aster1.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/vertu_aster-6726.php"
+    }
+}

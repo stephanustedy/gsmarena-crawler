@@ -1,0 +1,76 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 880 mAh battery",
+            "Stand-by": "Up to 220 h",
+            "Talk time": "Up to 3 h"
+        },
+        "Body": {
+            "Dimensions": "98 x 49.9 x 15.3 mm (3.86 x 1.96 x 0.60 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "105 g (3.70 oz)"
+        },
+        "Camera": {
+            "Features": "Video-calling",
+            "Primary": "1.3 MP, 1280 x 960 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "176 x 220 pixels (~128 ppi pixel density)",
+            "Size": "2.2 inches (~31.1% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/AAC/eACC+/WMA/MP4 player\n- Document viewer (Word, Excel, PowerPoint, PDF)\n- Predictive text input\n- Photo editor\n- Organizer",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2008, October. Released 2009, January",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "30 dialed, 30 received, 30 missed calls",
+            "Card slot": "microSD, up to 2 GB",
+            "Internal": "30 MB",
+            "Phonebook": "Yes, up to 1000 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Silver",
+            "Price group": "2/10 (About 80 EUR)",
+            "SAR EU": "0.22 W/kg (head)",
+            "SAR US": "0.15 W/kg (head) \u00a0 \u00a0 0.91 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Samsung S3600 Metro",
+        "device_name": "Samsung S3600",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_s3600-pictures-2539.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-s3600.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_s3600-2539.php"
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 750 mAh battery",
+            "Stand-by": "Up to 250 h",
+            "Talk time": "Up to 3 h 30 min"
+        },
+        "Body": {
+            "Dimensions": "95 x 45 x 18 mm (3.74 x 1.77 x 0.71 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "79 g (2.79 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "No"
+        },
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "128 x 160 pixels (~108 ppi pixel density)",
+            "Size": "1.9 inches, 30 x 38 mm (~26.6% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- MP3/AAC/AAC+ player\n- Predictive text input\n- Organizer\n- Voice memo",
+            "Browser": "WAP 1.2",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2006, October",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- 100 short messages\n- 700 KB for MMS\n- 500 KB for Java\n- 600 KB for sounds and images",
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "No",
+            "Phonebook": "1000 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Silver, Blue, Pink",
+            "Price group": "2/10 (About 80 EUR)",
+            "SAR EU": "0.37 W/kg (head)",
+            "SAR US": "0.22 W/kg (head) \u00a0 \u00a0 0.24 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Samsung X530",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_x530-pictures-1769.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-x530.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_x530-1769.php"
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1500 mAh battery",
+            "Stand-by": "Up to 390 h (2G) / Up to 330 h (3G)",
+            "Talk time": "Up to 5 h 40 min (2G) / Up to 6 h 10 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "122.4 x 64.2 x 11 mm (4.82 x 2.53 x 0.43 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "138.2 g (4.87 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "5 MP, 2592 x 1944 pixels, autofocus, LED flash, check quality",
+            "Secondary": "No",
+            "Video": "720p@25fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "480 x 800 pixels (~233 ppi pixel density)",
+            "Size": "4.0 inches (~58.0% screen-to-body ratio)",
+            "Type": "Super AMOLED capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Document viewer/editor\n- MP4/WMV player\n- MP3/WAV/WMA/eAAC+ player\n- Facebook integration\n- Organizer\n- Voice memo\n- Predictive text input",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2010, October",
+            "Status": "Available. Released 2010, October"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "8/16 GB"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "3/10 (About 150 EUR)",
+            "SAR EU": "0.65 W/kg (head)",
+            "SAR US": "0.78 W/kg (head) \u00a0 \u00a0 0.41 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 7.2/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "1 GHz Scorpion",
+            "Chipset": "Qualcomm QSD8250 Snapdragon S1",
+            "GPU": "Adreno 200",
+            "OS": "Microsoft Windows Phone 7"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -84.4dB / Crosstalk -82.5dB",
+            "Camera": "Photo",
+            "Loudspeaker": "Voice 66dB / Noise 66dB / Ring 70dB"
+        }
+    },
+    "main": {
+        "device_name": "Samsung I8700 Omnia 7",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_i8700_omnia_7-pictures-3537.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-omnia-7-ofic.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_i8700_omnia_7-3537.php"
+    }
+}

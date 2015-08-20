@@ -1,0 +1,81 @@
+{
+    "data": {
+        "Battery": {
+            "": "Solar Panel (10 min charging)",
+            "Stand-by": "Up to 20 min",
+            "Talk time": "Up to 2 min 30 sec"
+        },
+        "Body": {
+            "Dimensions": "108 x 53.6 x 14.2 mm (4.25 x 2.11 x 0.56 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "119 g (4.20 oz)"
+        },
+        "Camera": {
+            "Features": "Face/smile detection",
+            "Primary": "3.15 MP, 2048 x 1536 pixels",
+            "Secondary": "Yes",
+            "Video": "320p@15fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g"
+        },
+        "Display": {
+            "Resolution": "240 x 400 pixels (~155 ppi pixel density)",
+            "Size": "3.0 inches (~44.3% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email, RSS reader",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2009, September",
+            "Status": "Available. Released 2009, November"
+        },
+        "Memory": {
+            "Call records": "40 received, dialed and missed calls",
+            "Card slot": "microSD, up to 16 GB",
+            "Internal": "130 MB",
+            "Phonebook": "2000 contacts, Photocall"
+        },
+        "Misc": {
+            "Colors": "Blue",
+            "Price group": "3/10 (About 110 EUR)",
+            "SAR EU": "0.68 W/kg (head)",
+            "SAR US": "0.27 W/kg (head) \u00a0 \u00a0 0.37 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 3.6/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -84.4dB / Crosstalk -75.1dB",
+            "Loudspeaker": "Voice 75dB / Noise 66dB / Ring 76dB"
+        }
+    },
+    "main": {
+        "device_name": "Samsung S7550 Blue Earth",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_s7550_blue_earth-pictures-2931.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-s7550-blue-earh-new.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_s7550_blue_earth-2931.php"
+    }
+}

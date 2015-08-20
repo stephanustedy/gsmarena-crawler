@@ -1,0 +1,95 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po battery",
+            "Stand-by": "200 h",
+            "Talk time": "7 h"
+        },
+        "Body": {
+            "Dimensions": "105 x 49 x 24 mm (4.13 x 1.93 x 0.94 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "88 g (3.10 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "4 lines",
+            "Size": "",
+            "Type": "Grayscale graphic"
+        },
+        "Features": {
+            "": "- Predictive text input\n- High speed data transfers\n- Voice dialing\n- Voice answering\n- Profiles\n- Helptexts and shortcuts\n- Active flip",
+            "Alarm": "Yes",
+            "Browser": "WAP 1.2",
+            "Clock": "Yes",
+            "Games": "Yes",
+            "Java": "No",
+            "Languages": "37",
+            "Messaging": "SMS"
+        },
+        "Launch": {
+            "Announced": "2000",
+            "Status": "Cancelled"
+        },
+        "Memory": {
+            "Call records": "",
+            "Card slot": "No",
+            "Phonebook": "1000"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Monophonic ringtones, composer",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "canonical_name": "The launch has been cancelled by Ericsson!",
+        "device_name": "Ericsson T36",
+        "image": {
+            "href": "http://www.gsmarena.com/ericsson_t36-pictures-190.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/ert36b.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/ericsson_t36-190.php"
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 1820 mAh battery",
+            "Stand-by": "Up to 270 h (2G) / Up to 330 h (3G)",
+            "Talk time": "Up to 27 h (2G) / Up to 15 h (3G)"
+        },
+        "Body": {
+            "": "- Padfone Station with 10.1 inches Super IPS display, 1280 x 720 pixels, 181.5 x 263.6 x 17.4 mm, 525.7 g, 5000 mAh battery.",
+            "Dimensions": "139.6 x 69.7 x 9.1 mm (5.50 x 2.74 x 0.36 in)",
+            "SIM": "Dual SIM (dual stand-by)",
+            "Weight": "126 g (4.44 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection",
+            "Primary": "13 MP, 4128 x 3096 pixels, autofocus, LED flash",
+            "Secondary": "1.2 MP, 720p",
+            "Video": "1080p@30fps, 720p@60fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "Radio": "To be confirmed",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "720 x 1280 pixels (~312 ppi pixel density)",
+            "Size": "4.7 inches (~62.6% screen-to-body ratio)",
+            "Type": "Super IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- ASUS WebStorage (5 GB storage)\n- MP3/WAV/eAAC+ player\n- MP4/H.264 player\n- Document viewer\n- Photo viewer/editor\n- Voice memo/dial",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2014, January",
+            "Status": "Available. Released 2014, March"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "6/10 (About 260 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.4 GHz Cortex-A7",
+            "Chipset": "Qualcomm Snapdragon 400",
+            "GPU": "Adreno 305",
+            "OS": "Android OS, v4.3 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Asus PadFone E",
+        "image": {
+            "href": "http://www.gsmarena.com/asus_padfone_e-pictures-5993.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/asus-padfone-e.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/asus_padfone_e-5993.php"
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 700 mAh battery (BL-5B)",
+            "Stand-by": "Up to 150 h",
+            "Talk time": "Up to 1 h 20 min"
+        },
+        "Body": {
+            "": "- Flashlight",
+            "Dimensions": "102 x 45 x 13.6 mm (4.02 x 1.77 x 0.54 in)",
+            "SIM": "Dual SIM (Mini-SIM, dual stand-by)",
+            "Weight": "65 g (2.29 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "No",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~226 ppi pixel density)",
+            "Size": "1.77 inches (~21.1% screen-to-body ratio)",
+            "Type": "TFT"
+        },
+        "Features": {
+            "": "- MP3/MP4 player\n- Organizer\n- Calculator\n- Voice memo",
+            "Browser": "WAP",
+            "Games": "Yes",
+            "Java": "No",
+            "Languages": "English, Spanish, Portuguise, French",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2011, April",
+            "Status": "Available. Released 2011, April"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 8 GB",
+            "Internal": "64 MB + 32 MB",
+            "Phonebook": "300 entries"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "": "GSM 850 / 900 / 1800 / 1900 - SIM 2",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1",
+            "EDGE": "No",
+            "GPRS": "Yes",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration, MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "T300 - Single SIM\nT301 - Dual SIM",
+        "device_name": "Plum Spare",
+        "image": {
+            "href": "http://www.gsmarena.com/plum_spare-pictures-4180.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/plum-spare.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/plum_spare-4180.php"
+    }
+}

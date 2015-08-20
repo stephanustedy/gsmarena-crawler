@@ -1,0 +1,70 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 1050 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "105 x 44 x 15.3 mm (4.13 x 1.73 x 0.60 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "70 g (2.47 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "FM radio",
+            "USB": "miniUSB v1.1",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Screensavers and wallpapers",
+            "Resolution": "128 x 160 pixels (~114 ppi pixel density)",
+            "Size": "1.8 inches (~22.1% screen-to-body ratio)",
+            "Type": "CSTN, 65K colors"
+        },
+        "Features": {
+            "": "- MP3/WAV/AAC player\n- Organizer\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2008, September. Released 2008",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "30 received, dialed and missed calls",
+            "Card slot": "microSD",
+            "Internal": "3 MB",
+            "Phonebook": "Yes"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "SAR EU": "0.86 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "": "- Dedicated music player keys",
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Philips M200",
+        "image": {
+            "href": "http://www.gsmarena.com/philips_m200-pictures-2531.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/philips-m200.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/philips_m200-2531.php"
+    }
+}

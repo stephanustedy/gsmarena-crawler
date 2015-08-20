@@ -1,0 +1,74 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 800 mAh battery",
+            "Stand-by": "Up to 250 h",
+            "Talk time": "Up to 5 h"
+        },
+        "Body": {
+            "Dimensions": "95 x 48 x 16 mm (3.74 x 1.89 x 0.63 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "82 g (2.89 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "No"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- External monochrome display(96 x 96 pixels), 1-inch\n- Downloadable wallpapers and tones",
+            "Resolution": "128 x 160 pixels (~102 ppi pixel density)",
+            "Size": "2.0 inches (~27.6% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- Organizer\n- Built-in speakerphone\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP/xHTML",
+            "Games": "Yes",
+            "Java": "Yes",
+            "Messaging": "SMS, MMS, Email, IM"
+        },
+        "Launch": {
+            "Announced": "2008, September. Released 2008, September",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "No",
+            "Phonebook": "500 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Black, Blue on Black, Red on Black",
+            "Price group": "2/10 (About 60 EUR)",
+            "SAR US": "1.14 W/kg (head) \u00a0 \u00a0 0.47 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "canonical_name": "For AT&T",
+        "device_name": "Samsung A237",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_a237-pictures-2518.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-a237.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_a237-2518.php"
+    }
+}

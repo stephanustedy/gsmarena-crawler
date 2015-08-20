@@ -1,0 +1,75 @@
+{
+    "data": {
+        "Battery": {
+            "": "manual",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "106.8 x 43.8 x 13.1 mm, 55.6 cc (4.20 x 1.72 x 0.52 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "93 g (3.28 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels",
+            "Secondary": "No",
+            "Video": "QCIF"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0",
+            "GPS": "No",
+            "Radio": "Stereo FM radio; Visual radio",
+            "USB": "miniUSB",
+            "WLAN": "Wi-Fi 802.11 b/g, UMA technology"
+        },
+        "Display": {
+            "": "- Downloadable wallpapers, screensavers",
+            "Resolution": "240 x 320 pixels (~200 ppi pixel density)",
+            "Size": "2.0 inches (~26.5% screen-to-body ratio)",
+            "Type": "TFT, 16M colors"
+        },
+        "Features": {
+            "": "- Push to talk\n- MP3/MP4/AAC/AAC+/eAAC+ player \n- Voice memo\n- Voice command\n- Predictive text input\n- Organizer",
+            "Browser": "WAP 2.0/xHTML, Adobe Flash Lite",
+            "Games": "Yes + Downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2007, September. Released 2008, March",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "microSD, up to 2 GB",
+            "Internal": "30 MB",
+            "Phonebook": "1000 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Cocoa",
+            "Price group": "3/10 (About 130 EUR)",
+            "SAR EU": "0.51 W/kg (head)",
+            "SAR US": "0.71 W/kg (head) \u00a0 \u00a0 0.55 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 6301",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_6301-pictures-2108.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-6301.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_6301-2108.php"
+    }
+}

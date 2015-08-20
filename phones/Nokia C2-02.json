@@ -1,0 +1,82 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1020 mAh battery (BL-5C)",
+            "Music play": "Up to 37 h",
+            "Stand-by": "Up to 600 h",
+            "Talk time": "Up to 5 h"
+        },
+        "Body": {
+            "Dimensions": "103 x 51.4 x 17 mm (4.06 x 2.02 x 0.67 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "115 g (4.06 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels",
+            "Secondary": "No",
+            "Video": "QCIF@15fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "No",
+            "Radio": "FM radio; FM recording (country specific)",
+            "USB": "microUSB v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Handwriting recognition",
+            "Resolution": "240 x 320 pixels (~154 ppi pixel density)",
+            "Size": "2.6 inches (~39.5% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 65K colors"
+        },
+        "Features": {
+            "": "- MP4/H.264 player\n- MP3/AAC/WAV player\n- SNS integration (Facebook, Twitter, Flickr)\n- Nokia Maps\n- Organizer\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, Adobe Flash Lite",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS, MMS, Email, Push Email"
+        },
+        "Launch": {
+            "Announced": "2011, June",
+            "Status": "Available. Released 2011, August"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 32 GB, 2 GB included",
+            "Internal": "10 MB",
+            "Phonebook": "1000 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Chrome Black, Golden White",
+            "Price group": "2/10 (About 70 EUR)",
+            "SAR EU": "0.60 W/kg (head)",
+            "SAR US": "0.68 W/kg (head) \u00a0 \u00a0 0.55 W/kg (body)"
+        },
+        "Network": {
+            "": "GSM 850 / 1900",
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -83.3dB / Crosstalk -80.7dB",
+            "Loudspeaker": "Voice 75dB / Noise 72dB / Ring 75dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Nokia C2-02 Touch and Type",
+        "device_name": "Nokia C2-02",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_c2_02-pictures-3996.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-c2-02.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_c2_02-3996.php"
+    }
+}

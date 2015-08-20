@@ -1,0 +1,75 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 2100 mAh battery",
+            "Stand-by": "Up to 350 h",
+            "Talk time": "Up to 7 h"
+        },
+        "Body": {
+            "Dimensions": "148 x 77 x 9.6 mm (5.83 x 3.03 x 0.38 in)",
+            "SIM": "Dual SIM",
+            "Weight": "-"
+        },
+        "Camera": {
+            "Primary": "8 MP, 3264 x 2448 pixels",
+            "Secondary": "1.3 MP",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "No",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "480 x 800 pixels (~187 ppi pixel density)",
+            "Size": "5.0 inches (~62.4% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen"
+        },
+        "Features": {
+            "": "- MP3/WMA/WAV/AAC player\n- MP4/H.263/WMV player\n- Document viewer\n- Photo editor\n- Voice memo/dial",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2014",
+            "Status": "Available"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "4 GB, 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "White",
+            "SAR EU": "0.67 W/kg (head) \u00a0 \u00a0 0.60 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Technology": "GSM"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1 GHz",
+            "OS": "Android OS, v4.2.2 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Celkon A 107+",
+        "image": {
+            "href": "http://www.gsmarena.com/celkon_a_107+-pictures-6183.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/celkon-a107-plus.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/celkon_a_107+-6183.php"
+    }
+}

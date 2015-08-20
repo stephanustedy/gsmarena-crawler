@@ -1,0 +1,82 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po 1420 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "115.2 x 58.6 x 9.3 mm (4.54 x 2.31 x 0.37 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "137 g (4.83 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, HDR",
+            "Primary": "5 MP, 2592 x 1936 pixels, autofocus, LED flash",
+            "Secondary": "Videocalling over Wi-Fi only",
+            "Video": "720p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass, oleophobic coating",
+            "Resolution": "640 x 960 pixels (~330 ppi pixel density)",
+            "Size": "3.5 inches (~54.0% screen-to-body ratio)",
+            "Type": "LED-backlit IPS LCD, capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Scratch-resistant glass back panel\n- Active noise cancellation with dedicated mic\n- iCloud cloud service\n- Maps\n- Audio/video player/editor\n- Photo viewer/editor\nVoice memo/dial/command\n- TV-out\n- Document viewer\n- Predictive text input",
+            "Browser": "HTML5 (Safari)",
+            "Java": "No",
+            "Messaging": "iMessage, SMS (threaded view), MMS, Email, Push Email",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2011, January",
+            "Status": "Available. Released 2011, February"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "16/32 GB, 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "3/10 (About 150 EUR)",
+            "SAR US": "1.18 W/kg (head) \u00a0 \u00a0 0.87 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "CDMA 800 / 1900",
+            "3G bands": "CDMA2000 1xEV-DO",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Speed": "EV-DO Rev.A 3.1 Mbps",
+            "Technology": "CDMA / EVDO"
+        },
+        "Platform": {
+            "CPU": "1 GHz Cortex-A8",
+            "Chipset": "Apple A4",
+            "GPU": "PowerVR SGX535",
+            "OS": "iOS 4, upgradable to iOS 7.1.1"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, proprietary ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Apple iPhone 4 CDMA",
+        "image": {
+            "href": "http://www.gsmarena.com/apple_iphone_4_cdma-pictures-3716.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/apple-iphone4-cdma.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/apple_iphone_4_cdma-3716.php"
+    }
+}

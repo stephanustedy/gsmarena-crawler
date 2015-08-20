@@ -1,0 +1,81 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 2000 mAh battery",
+            "Stand-by": "Up to 790 h (2G) / Up to 590 h (3G)",
+            "Talk time": "Up to 22 h (2G) / Up to 12 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "137 x 70 x 6.9 mm (5.39 x 2.76 x 0.27 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "135 g (4.76 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face/smile detection, HDR",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash",
+            "Secondary": "5 MP",
+            "Video": "1080p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Yes, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "720 x 1280 pixels (~306 ppi pixel density)",
+            "Size": "4.8 inches (~66.2% screen-to-body ratio)",
+            "Type": "Super AMOLED capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/WMV/H.264 player\n- MP3/WAV/WMA/AAC player\n- Photo/video editor\n- Voice memo",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, gyro, proximity"
+        },
+        "Launch": {
+            "Announced": "2014, January",
+            "Status": "Available. Released 2014, January"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "16 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "White, Black, Pink, Yellow",
+            "Price group": "4/10 (About 160 EUR)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 2100 - D940i",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 1900 - D940a",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 42.2/11.5 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.5 GHz Cortex-A7",
+            "Chipset": "Mediatek MT6589T",
+            "GPU": "PowerVR SGX544MP2",
+            "OS": "Android OS, v4.2 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "BLU Vivo 4.8 HD",
+        "image": {
+            "href": "http://www.gsmarena.com/blu_vivo_4_8_hd-pictures-5986.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/blu-vivo-48.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/blu_vivo_4_8_hd-5986.php"
+    }
+}

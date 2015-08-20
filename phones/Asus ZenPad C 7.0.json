@@ -1,0 +1,83 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po battery (13 Wh)",
+            "Stand-by": "",
+            "Talk time": "Up to 8 h"
+        },
+        "Body": {
+            "Dimensions": "189 x 108 x 8.4 mm (7.44 x 4.25 x 0.33 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "265 g (9.35 oz)"
+        },
+        "Camera": {
+            "Features": "Yes",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels or 2 MP, 1600 x 1200 pixels",
+            "Secondary": "VGA",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes, up to 10 fingers",
+            "Protection": "Oleophobic coating",
+            "Resolution": "600 x 1024 pixels (~170 ppi pixel density)",
+            "Size": "7.0 inches (~67.6% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Google Drive (100 GB cloud storage)\n- MP3/WAV/eAAC+ player\n- MP4/H.264 player\n- Document viewer\n- Photo/video editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2015, June",
+            "Status": "Available. Released 2015, July"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "8/16 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White, Red, Aurora Metallic",
+            "Price group": "3/10 (About 140 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100 - Z170CG",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Quad-core",
+            "Chipset": "Intel Atom x3-C3200",
+            "GPU": "Mali-450MP4",
+            "OS": "Android OS, v5.0 (Lollipop)"
+        },
+        "Sound": {
+            "": "- DTS sound",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Asus ZenPad 7 Z170C (Wi-Fi only), Z170CG (3G model), Z171CG",
+        "device_name": "Asus ZenPad C 7.0",
+        "image": {
+            "href": "http://www.gsmarena.com/asus_zenpad_c_7_0-pictures-7256.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/asus-zenpad-c-70.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/asus_zenpad_c_7_0-7256.php"
+    }
+}

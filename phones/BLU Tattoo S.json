@@ -1,0 +1,75 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 620 mAh battery",
+            "Stand-by": "Up to 500 h",
+            "Talk time": "Up to 10 h"
+        },
+        "Body": {
+            "Dimensions": "102 x 57.8 x 8.3 mm (4.02 x 2.28 x 0.33 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Dual SIM (Mini-SIM)",
+            "Weight": "69 g (2.43 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 1024 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0",
+            "GPS": "No",
+            "Radio": "FM radio; built-in antenna",
+            "USB": "microUSB",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "176 x 220 pixels (~141 ppi pixel density)",
+            "Size": "2.0 inches (~21.4% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- Analog TV\n- SNS apps\n- MP3/AAC+/WAV/WMA player\n- MP4/H.264 player\n- Predictive Text Input",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Downloadable",
+            "Java": "No",
+            "Messaging": "SMS, MMS, IM"
+        },
+        "Launch": {
+            "Announced": "2013, March",
+            "Status": "Available. Released 2013, March"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "64 MB ROM, 64 MB RAM",
+            "Phonebook": "Yes"
+        },
+        "Misc": {
+            "Colors": "Blue, Pink, Grey, Silver",
+            "Price group": "1/10 (About 20 EUR)"
+        },
+        "Network": {
+            "": "GSM 850 / 900 / 1800 / 1900 - SIM 2 (Q192 only)",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Q182 - Single SIM\nQ192 - Dual SIM",
+        "device_name": "BLU Tattoo S",
+        "image": {
+            "href": "http://www.gsmarena.com/blu_tattoo_s-pictures-5408.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/blu-tattoo-s.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/blu_tattoo_s-5408.php"
+    }
+}

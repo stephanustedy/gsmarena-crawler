@@ -1,0 +1,97 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 600 mAh battery",
+            "Stand-by": "Up to 200 h",
+            "Talk time": "Up to 2 h"
+        },
+        "Body": {
+            "Dimensions": "85 x 45 x 23.5 mm (3.35 x 1.77 x 0.93 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "85 g (3.00 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "No"
+        },
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Screensaver\n- Downloadable logos",
+            "Resolution": "128 x 160 pixels",
+            "Size": "",
+            "Type": "65K colors"
+        },
+        "Features": {
+            "": "- Push To Talk\n- Predictive text input\n- Calculator\n- Voice memo",
+            "Browser": "WAP 1.2.1",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, EMail"
+        },
+        "Launch": {
+            "Announced": "1Q, 2005",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "",
+            "Card slot": "No",
+            "Internal": "4 MB",
+            "Phonebook": "Yes"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Haier T3000",
+        "image": {
+            "href": "http://www.gsmarena.com/haier_t3000-pictures-1176.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/haier-t3000.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/haier_t3000-1176.php"
+    }
+}

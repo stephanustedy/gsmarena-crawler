@@ -1,0 +1,79 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 800 mAh battery",
+            "Stand-by": "Up to 250 h",
+            "Talk time": "Up to 2 h 30 min"
+        },
+        "Body": {
+            "Dimensions": "101.5 x 45 x 14.5 mm (4.00 x 1.77 x 0.57 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "80 g (2.82 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "Stereo FM radio",
+            "USB": "v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "176 x 220 pixels (~141 ppi pixel density)",
+            "Size": "2.0 inches (~27.6% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/AAC/eACC/WMA player\n- Predictive text input\n- Photo editor\n- Organizer",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes",
+            "Java": "No",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2008, March. Released 2008, May",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "30 dialed, 30 received, 30 missed calls",
+            "Card slot": "No",
+            "Internal": "1 GB",
+            "Phonebook": "1000 entries, Photo call"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "3/10 (About 120 EUR)",
+            "SAR EU": "0.51 W/kg (head)",
+            "SAR US": "0.48 W/kg (head) \u00a0 \u00a0 1.35 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -89.1dB / Crosstalk -88.8dB",
+            "Loudspeaker": "Voice 68dB / Noise 65dB / Ring 73dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Adidas miCoach phone",
+        "device_name": "Samsung F110",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_f110-pictures-2315.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-f110.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_f110-2315.php"
+    }
+}

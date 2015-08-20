@@ -1,0 +1,82 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po battery (15 Wh)",
+            "Stand-by": "",
+            "Talk time": "Up to 9 h (multimedia)"
+        },
+        "Body": {
+            "Dimensions": "189.3 x 113.7 x 9.6 mm (7.45 x 4.48 x 0.38 in)",
+            "SIM": "No",
+            "Weight": "295 g (10.41 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, check quality",
+            "Secondary": "2 MP",
+            "Video": "1080p, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0",
+            "GPS": "Yes, with GLONASS",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n"
+        },
+        "Display": {
+            "Multitouch": "Yes, up to 10 fingers",
+            "Resolution": "800 x 1280 pixels (~216 ppi pixel density)",
+            "Size": "7.0 inches (~66.0% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP3/WAV/WMA/AAC player\n- MP4/H.264 player\n- Document viewer\n- Photo viewer/editor\n- Voice memo",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "Email, Push Mail, IM",
+            "Sensors": "Accelerometer, compass"
+        },
+        "Launch": {
+            "Announced": "2014, June",
+            "Status": "Available. Released 2014, August"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "8/16 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White, Red, Blue, Yellow",
+            "Price group": "3/10 (About 130 EUR)"
+        },
+        "Network": {
+            "2G bands": "N/A",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "No cellular connectivity"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.86 GHz",
+            "Chipset": "Intel Atom Z3745",
+            "GPU": "Intel Gen 7 (Ivy Bridge)",
+            "OS": "Android OS, v4.4.2 (KitKat)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        },
+        "Tests": {
+            "Camera": "Photo / Video",
+            "Performance": "Basemark OS II: 948"
+        }
+    },
+    "main": {
+        "device_name": "Asus Memo Pad 7 ME176C",
+        "image": {
+            "href": "http://www.gsmarena.com/asus_memo_pad_7_me176c-pictures-6412.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/asus-memo-pad-7-me176c.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/asus_memo_pad_7_me176c-6412.php"
+    }
+}

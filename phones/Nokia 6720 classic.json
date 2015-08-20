@@ -1,0 +1,84 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1050 mAh battery (BP-6MT)",
+            "Music play": "Up to 27 h",
+            "Stand-by": "Up to 492 h (2G) / 504 h (3G)",
+            "Talk time": "Up to 8 h 30 min (2G) / 5 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "110 x 45 x 14 mm (4.33 x 1.77 x 0.55 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "110 g (3.88 oz)"
+        },
+        "Camera": {
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, Carl Zeiss optics, autofocus, LED flash, check quality",
+            "Secondary": "QVGA videocall camera",
+            "Video": "480p@15fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "Yes, with A-GPS; Nokia Maps 3.0",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~182 ppi pixel density)",
+            "Size": "2.2 inches (~30.3% screen-to-body ratio)",
+            "Type": "TFT, 16M colors"
+        },
+        "Features": {
+            "": "- WMV/RV/MP4/3GP player\n- MP3/WMA/WAV/RA/AAC/M4A player\n- Document viewer (Word, Excel, PowerPoint, PDF)\n- TV-out\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2009, February",
+            "Status": "Available. Released 2009, July"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 16 GB, 1 GB included",
+            "Internal": "50 MB"
+        },
+        "Misc": {
+            "Colors": "Titanium, Grey, Brown",
+            "Price group": "2/10 (About 90 EUR)",
+            "SAR EU": "0.69 W/kg (head)",
+            "SAR US": "0.96 W/kg (head) \u00a0 \u00a0 0.53 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 1900 / 2100",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 1900 / 2100",
+            "EDGE": "Class 32, 296 / 178.8 kbits",
+            "GPRS": "Class 32",
+            "Speed": "HSPA 10.2/2 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "600 MHz ARM 11",
+            "OS": "Symbian OS, S60 rel. 3.2"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        },
+        "Tests": {
+            "Audio quality": "Noise -89.0dB / Crosstalk -89.1dB",
+            "Camera": "Photo",
+            "Loudspeaker": "Voice 70dB / Noise 80dB / Ring 66dB"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 6720 classic",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_6720_classic-pictures-2686.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-6720-classic.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_6720_classic-2686.php"
+    }
+}

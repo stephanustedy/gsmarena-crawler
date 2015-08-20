@@ -1,0 +1,71 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "115 x 61 x 13 mm (4.53 x 2.40 x 0.51 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Dual SIM (Mini-SIM, dual stand-by) - Alcatel OT-819D only",
+            "Weight": "103 g (3.63 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "No",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "Yes",
+            "WLAN": "Yes"
+        },
+        "Display": {
+            "Resolution": "320 x 240 pixels (~167 ppi pixel density)",
+            "Size": "2.4 inches (~25.4% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- SNS applications\n- MP4H.263 player\n- MP3 player\n- Organizer\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "No",
+            "Java": "Yes",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2012",
+            "Status": "Available. Released 2012"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD",
+            "Phonebook": "Yes"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "SAR US": "1.00 W/kg (head) \u00a0 \u00a0 0.70 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 - SIM 1 & SIM 2 (Alcatel OT-819D only)",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "Alert types": "Vibration; MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Alcatel OT-819 Soul",
+        "image": {
+            "href": "http://www.gsmarena.com/alcatel_ot_819_soul-pictures-4920.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/alcatel-ot-819-soul.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/alcatel_ot_819_soul-4920.php"
+    }
+}

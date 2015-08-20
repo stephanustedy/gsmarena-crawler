@@ -1,0 +1,83 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 8000 mAh battery",
+            "Stand-by": "Up to 792 h (3G)",
+            "Talk time": "Up to 28 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "260.9 x 165.9 x 8.9 mm (10.27 x 6.53 x 0.35 in)",
+            "SIM": "Yes",
+            "Weight": "535.8 g (1.18 lb)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face detection, panorama",
+            "Primary": "5 MP, 2592 x 1944 pixels, autofocus",
+            "Secondary": "1.3 MP, 720p",
+            "Video": "1080p"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0",
+            "GPS": "Yes, with A-GPS",
+            "Infrared port": "Yes",
+            "NFC": "Yes",
+            "Radio": "No",
+            "USB": "microUSB v2.0, USB Host",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, WiFi Direct, DLNA, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "1280 x 800 pixels (~149 ppi pixel density)",
+            "Size": "10.1 inches (~68.3% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/H.264 player\n- MP3/WAV/eAAC+ player\n- Photo/video editor\n- Document editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "Email, Push Mail, IM",
+            "Sensors": "Accelerometer, compass"
+        },
+        "Launch": {
+            "Announced": "2014, July",
+            "Status": "Available. Released 2014, July"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "16 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "6/10 (About 270 EUR)",
+            "SAR US": "1.48 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "N/A",
+            "3G bands": "N/A",
+            "4G bands": "LTE band 4(1700/2100), 13(700)",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Speed": "LTE",
+            "Technology": "LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.2 GHz",
+            "OS": "Android OS, v5.0.2 (Lollipop)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, dual mono speakers"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as LG G Pad 10.1 LTE Verizon VK700",
+        "device_name": "LG G Pad 10.1 LTE",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_g_pad_10_1_lte-pictures-7289.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-g-pad-101-2014.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_g_pad_10_1_lte-7289.php"
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1300 mAh battery",
+            "Stand-by": "Up to 540 h (2G) / Up to 420 h (3G)",
+            "Talk time": "Up to 11 h 20 min (2G) / Up to 6 h 50 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "109.4 x 58.6 x 11.6 mm (4.31 x 2.31 x 0.46 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "105.3 g (3.70 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "3.15 MP, 2048 x 1536 pixels, check quality",
+            "Secondary": "No",
+            "Video": "480p@25fps"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "NFC": "Optional",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, DLNA, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "320 x 480 pixels (~176 ppi pixel density)",
+            "Size": "3.27 inches (~49.7% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- MP4/H.264 player\n- MP3/WAV/eAAC+/FLAC player\n- Photo/video editor\n- Document viewer",
+            "Browser": "HTML5, Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2012, February",
+            "Status": "Available. Released 2012, March"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "4 GB, 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black/Orange",
+            "Price group": "2/10 (About 90 EUR)",
+            "SAR EU": "0.92 W/kg (head) \u00a0 \u00a0 0.62 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 7.2/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "800 MHz Cortex-A5",
+            "Chipset": "Qualcomm MSM7227A Snapdragon S1",
+            "GPU": "Adreno 200",
+            "OS": "Android OS, v2.3.6 (Gingerbread)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -85.9dB / Crosstalk -80.5dB",
+            "Battery life": "Endurance rating 38h",
+            "Camera": "Photo",
+            "Display": "Contrast ratio: 1.114:1 (sunlight)",
+            "Loudspeaker": "Voice 69dB / Noise 71dB / Ring 66dB"
+        }
+    },
+    "main": {
+        "device_name": "Samsung Galaxy mini 2 S6500",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_galaxy_mini_2_s6500-pictures-3883.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-mini-2-s6500-ofic.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_galaxy_mini_2_s6500-3883.php"
+    }
+}

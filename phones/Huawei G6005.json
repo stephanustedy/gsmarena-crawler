@@ -1,0 +1,73 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 600 mAh battery",
+            "Stand-by": "Up to 300 h",
+            "Talk time": "Up to 2 h 40 min"
+        },
+        "Body": {
+            "Dimensions": "108 x 59 x 12 mm (4.25 x 2.32 x 0.47 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Dual SIM (Mini-SIM, dual stand-by)",
+            "Weight": "95 g (3.35 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "No",
+            "Radio": "FM radio",
+            "USB": "miniUSB",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "-",
+            "Size": "1.8 inches",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- Audio/video player\n- Organizer\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0",
+            "Games": "No",
+            "Java": "Yes",
+            "Messaging": "SMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2012, Q1",
+            "Status": "Available. Released 2012, Q1"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 2 GB",
+            "Phonebook": "500 entries"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "SAR EU": "0.75 W/kg (head) \u00a0 \u00a0 1.43 W/kg (body)"
+        },
+        "Network": {
+            "": "GSM 900 / 1800 - SIM 1 & SIM 2",
+            "2G bands": "GSM 850 / 1900 - SIM 1 & SIM 2",
+            "EDGE": "No",
+            "GPRS": "Yes",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Huawei G6005",
+        "image": {
+            "href": "http://www.gsmarena.com/huawei_g6005-pictures-5848.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/huawei-g6005.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/huawei_g6005-5848.php"
+    }
+}

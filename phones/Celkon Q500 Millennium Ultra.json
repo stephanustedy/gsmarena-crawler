@@ -1,0 +1,78 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 2500 mAh battery",
+            "Stand-by": "Up to 200 h (3G)",
+            "Talk time": "Up to 5 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "145.6 x 71.8 x 8 mm (5.73 x 2.83 x 0.31 in)",
+            "SIM": "Dual SIM",
+            "Weight": "149 g (5.26 oz)"
+        },
+        "Camera": {
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash",
+            "Secondary": "2 MP",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0",
+            "GPS": "Yes",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "720 x 1280 pixels (~294 ppi pixel density)",
+            "Size": "5.0 inches (~65.9% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen"
+        },
+        "Features": {
+            "": "- MP3/WAV/eAAC player\n- MP4/H.264 player\n- Photo/video viewer/editor\n- Document viewer\n- Voice memo/dial",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2014",
+            "Status": "Available. Released 2014"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "16 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "White",
+            "Price group": "3/10 (About 120 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.2 GHz",
+            "Chipset": "Broadcom BCM23550",
+            "OS": "Android OS, v4.4.2 (KitKat)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Celkon Q500 Millennium Ultra",
+        "image": {
+            "href": "http://www.gsmarena.com/celkon_q500_millennium_ultra-pictures-6591.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/celkon-millennium-ultra-q500.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/celkon_q500_millennium_ultra-6591.php"
+    }
+}

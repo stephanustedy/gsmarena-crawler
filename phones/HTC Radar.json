@@ -1,0 +1,92 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 1520 mAh battery",
+            "Stand-by": "Up to 480 h (2G) / Up to 535 h (3G)",
+            "Talk time": "Up to 10 h (2G) / Up to 8 h 5 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "120.5 x 61.5 x 10.9 mm (4.74 x 2.42 x 0.43 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "137 g (4.83 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "5 MP, 2560 x 1920 pixels, autofocus, LED flash, check quality",
+            "Secondary": "VGA",
+            "Video": "720p@30fps, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP, EDR",
+            "GPS": "Yes, with A-GPS; Bing Maps",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, DLNA"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "480 x 800 pixels (~246 ppi pixel density)",
+            "Size": "3.8 inches (~55.5% screen-to-body ratio)",
+            "Type": "S-LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- HTC Locations\n- MP3/eAAC+/WAV/WMA player\n- MP4/H.264/WMV player\n- Document viewer/editor\n- Facebook integration",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2011, September",
+            "Status": "Available. Released 2011, October"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "8 GB, 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Active White, Metal Silver",
+            "Price group": "3/10 (About 140 EUR)",
+            "SAR US": "0.45 W/kg (head) \u00a0 \u00a0 1.17 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 1700 / 2100 - for T-Mobile",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Up to 236.8 kbps",
+            "GPRS": "Up to 80 kbps",
+            "Speed": "HSPA 14.4/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "1 GHz Scorpion",
+            "Chipset": "Qualcomm MSM8255 Snapdragon S2",
+            "GPU": "Adreno 205",
+            "OS": "Microsoft Windows Phone 7.5 Mango"
+        },
+        "Sound": {
+            "": "- SRS audio",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        },
+        "Tests": {
+            "Audio quality": "Noise -88.3dB / Crosstalk -74.7dB",
+            "Battery life": "Endurance rating 34h",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 797:1 (nominal)",
+            "Loudspeaker": "Voice 66dB / Noise 66dB / Ring 78dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as HTC Omega\nHTC Radar 4G for T-Mobile",
+        "device_name": "HTC Radar",
+        "image": {
+            "href": "http://www.gsmarena.com/htc_radar-pictures-4131.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/htc-radar.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/htc_radar-4131.php"
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 750 mAh battery",
+            "Stand-by": "Up to 220 h",
+            "Talk time": "Up to 2 h 30 min"
+        },
+        "Body": {
+            "Dimensions": "84.4 x 45.1 x 18.2 mm (3.32 x 1.78 x 0.72 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "74 g (2.61 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "No"
+        },
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "FM radio",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "128 x 160 pixels (~123 ppi pixel density)",
+            "Size": "1.67 inches (~23.1% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- Predictive text input\n- Organizer",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2007, April",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "No",
+            "Internal": "600 KB",
+            "Phonebook": "500 entries"
+        },
+        "Misc": {
+            "Colors": "White, Red, Black",
+            "Price group": "2/10 (About 80 EUR)",
+            "SAR EU": "0.92 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Samsung C520",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_c520-pictures-1971.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-c520.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_c520-1971.php"
+    }
+}

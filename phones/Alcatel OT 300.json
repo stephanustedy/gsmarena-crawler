@@ -1,0 +1,95 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion battery",
+            "Stand-by": "165 h",
+            "Talk time": "4 h 45 min"
+        },
+        "Body": {
+            "Dimensions": "109 x 45 x 22 mm, 91 cc (4.29 x 1.77 x 0.87 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "103 g (3.63 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Animation",
+            "Resolution": "5 lines",
+            "Size": "",
+            "Type": "Monochrome graphic"
+        },
+        "Features": {
+            "": "- Predictive text input\n- SATK",
+            "Alarm": "Yes",
+            "Browser": "WAP (for 301,302,303)",
+            "Clock": "Yes",
+            "Games": "3 - Puzzle, Music, Logics",
+            "Java": "No",
+            "Messaging": "SMS"
+        },
+        "Launch": {
+            "Announced": "2000",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "10 Message templates",
+            "Call records": "",
+            "Card slot": "No",
+            "Phonebook": "100"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable monophonic ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "4 submodels: 300, 301, 302, 303",
+        "device_name": "Alcatel OT 300",
+        "image": {
+            "href": "http://www.gsmarena.com/alcatel_ot_300-pictures-197.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/alot300b.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/alcatel_ot_300-197.php"
+    }
+}

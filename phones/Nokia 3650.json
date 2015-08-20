@@ -1,0 +1,80 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 850 mAh battery (BL-5C)",
+            "Stand-by": "up to 150 - 200 h",
+            "Talk time": "up to 2 h - 4 h"
+        },
+        "Body": {
+            "Dimensions": "130 x 57 x 26 mm, 139 cc (5.12 x 2.24 x 1.02 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "130 g (4.59 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v1.1",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- 5-way scroll key\n- Wallpapers",
+            "Resolution": "176 x 208 pixels (~130 ppi pixel density)",
+            "Size": "2.1 inches, 35 x 41 mm (~18.9% screen-to-body ratio)",
+            "Type": "TFT, 4096 colors"
+        },
+        "Features": {
+            "": "- Predictive text input\n- Calculator\n- Voice dial\n- Voice record\n- Xpress-on covers",
+            "Alarm": "Yes",
+            "Browser": "WAP 2.0/xHTML",
+            "Clock": "Yes",
+            "Java": "Yes, MIDP 1.0",
+            "Languages": "Most major European, Asian and American",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "1Q, 2003",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- Calendar notes\n- Editable message templates",
+            "Card slot": "MMC",
+            "Internal": "4 MB"
+        },
+        "Misc": {
+            "Colors": "Dark Blue, Grey and Yellow",
+            "SAR EU": "0.72 W/kg (head)",
+            "SAR US": "0.55 W/kg (head) \u00a0 \u00a0 0.83 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 4",
+            "Technology": "GSM"
+        },
+        "Platform": {
+            "CPU": "104 MHz ARM 9",
+            "OS": "Symbian OS v6.1, Series 60 v1.0 UI"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, monophonic, WAV ringtones, composer",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 3650",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_3650-pictures-345.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/no3650.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_3650-345.php"
+    }
+}

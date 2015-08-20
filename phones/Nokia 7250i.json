@@ -1,0 +1,79 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 780 mAh battery (BLD-3)",
+            "Stand-by": "Up to 150 - 300 h",
+            "Talk time": "Up to 2 - 5 h"
+        },
+        "Body": {
+            "Dimensions": "105 x 44 x 19 mm, 73 cc (4.13 x 1.73 x 0.75 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "92 g (3.25 oz)"
+        },
+        "Camera": {
+            "Primary": "CIF, 352 x 288 pixels, night mode",
+            "Secondary": "No",
+            "Video": "No"
+        },
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "Stereo FM radio",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Wallpapers\n- Digital clock screensaver\n- Dynamic font size\n- Softkey",
+            "Resolution": "128 x 128 pixels, 8 lines",
+            "Size": "",
+            "Type": "CSTN, 4096 colors"
+        },
+        "Features": {
+            "": "- Predictive text input\n- SyncML\n- Organizer\n- Stopwatch\n- Photo editor\n- Xpress-on covers\n- Profiles",
+            "Alarm": "Yes",
+            "Browser": "WAP 1.2.1, xHTML",
+            "Clock": "Yes",
+            "Games": "Triple Pop and Bounce + Java",
+            "Java": "Yes",
+            "Languages": "Major European languages",
+            "Messaging": "SMS, Enhanced MMS"
+        },
+        "Launch": {
+            "Announced": "2003, June",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "In 4 MB user memory\n- Phonebook\n- 150 text messages\n- 250 calendar notes\n- 30 To-do entries\nIn 3.5 MB memory pool \n- MMS, max 45 kB each\n- Custom ringtones\n- Images, 10 preset \n- Java apps",
+            "Call records": "20 dialed, 10 received, 10 missed calls",
+            "Card slot": "No",
+            "Phonebook": "500 x 3 numbers, Photo call"
+        },
+        "Misc": {
+            "Colors": "Blue, Plum, Brown, Olive, Grey, Green",
+            "SAR EU": "0.70 W/kg (head)",
+            "SAR US": "0.69 W/kg (head) \u00a0 \u00a0 0.70 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 4",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "": "- Ascending ringing tones\n- Personal alert tones",
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, monophonic ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 7250i",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_7250i-pictures-445.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/no7250i.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_7250i-445.php"
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1540 mAh battery",
+            "Stand-by": "Up to 700 h (2G) / Up to 700 h (3G)",
+            "Talk time": "Up to 12 h 30 min (2G) / Up to 10 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "102 x 61 x 12 mm (4.02 x 2.40 x 0.47 in)",
+            "SIM": "Dual SIM, dual call (Mini-SIM, dual stand-by)",
+            "Weight": "110 g (3.88 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "3.15 MP, 2048 x 1536 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~125 ppi pixel density)",
+            "Size": "3.2 inches (~51.0% screen-to-body ratio)",
+            "Type": "IPS capacitive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- MP4/H.263 player\n- MP3/WAV/AAC player\n- Document viewer\n- Photo viewer\n- Organizer\n- Voice memo\n- Predictive text input",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2013, October",
+            "Status": "Available. Released 2014, March"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "4 GB (1.8 GB user available), 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "2/10 (About 70 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 7.2/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Cortex-A5",
+            "Chipset": "Qualcomm MSM7225A Snapdragon S1",
+            "GPU": "Adreno 200",
+            "OS": "Android OS, v4.1.2 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as LG Optimus L2 II E435k",
+        "device_name": "LG Optimus L2 II E435",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_optimus_l2_ii_e435-pictures-5750.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-optimus-l2ii-dual-sim-e435k.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_optimus_l2_ii_e435-5750.php"
+    }
+}

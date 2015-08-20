@@ -1,0 +1,79 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 1000 mAh battery (BST-15)",
+            "Stand-by": "up to 400 h",
+            "Talk time": "up to 13 h"
+        },
+        "Body": {
+            "Dimensions": "117 x 59 x 27 mm (4.61 x 2.32 x 1.06 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "158 g (5.57 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "No"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Image handling",
+            "Resolution": "208 x 320 pixels (~132 ppi pixel density)",
+            "Size": "2.9 inches, 40 x 62 mm (~35.9% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 4096 colors"
+        },
+        "Features": {
+            "": "- Organizer\n- High speed data transfers\n- Voice dial",
+            "Alarm": "Yes",
+            "Browser": "WAP 2.0/xHTML, iMode, HTML",
+            "Clock": "Yes",
+            "Java": "Yes",
+            "Messaging": "SMS, MMS, EMS"
+        },
+        "Launch": {
+            "Announced": "September 2002",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- 12 MB available for images, contacts etc.",
+            "Card slot": "Memory Stick, up to 12MB, 16 MB included",
+            "Internal": "16 MB"
+        },
+        "Misc": {
+            "Colors": "",
+            "SAR EU": "0.64 W/kg (head)",
+            "SAR US": "0.80 W/kg (head) \u00a0 \u00a0 1.07 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 8",
+            "Technology": "GSM"
+        },
+        "Platform": {
+            "CPU": "32-bit Philips Nexperia PNX4000 156 MHz",
+            "OS": "Symbian OS v7.0, UIQ v2.0 UI"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic ringtones, composer",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Sony Ericsson P800",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_ericsson_p800-pictures-326.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/snp800.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_ericsson_p800-326.php"
+    }
+}

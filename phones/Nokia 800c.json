@@ -1,0 +1,84 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1450 mAh battery (BV-5JW)",
+            "Music play": "Up to 55 h",
+            "Stand-by": "Up to 210 h (2G) / Up to 158 h (3G)",
+            "Talk time": "Up to 9 h (2G) / Up to 7 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "116.5 x 61.2 x 12.1 mm, 76 cc (4.59 x 2.41 x 0.48 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "142 g (5.01 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "8 MP, 3264 x 2448 pixels, Carl Zeiss optics, autofocus, dual-LED flash",
+            "Secondary": "No",
+            "Video": "720p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n"
+        },
+        "Display": {
+            "": "- Nokia ClearBlack display",
+            "Multitouch": "Yes",
+            "Resolution": "480 x 800 pixels (~252 ppi pixel density)",
+            "Size": "3.7 inches (~54.7% screen-to-body ratio)",
+            "Type": "AMOLED capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP3/WAV/eAAC+/WMA player\n- MP4/H.264/WMV player\n- Document editor\n- Video/photo editor\n- Voice memo/command/dial\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML5, RSS feeds",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2012, March",
+            "Status": "Available. Released 2012, September"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "16 GB, 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, Cyan",
+            "Price group": "4/10 (About 170 EUR)"
+        },
+        "Network": {
+            "": "GSM 850 / 900 / 1800 / 1900",
+            "2G bands": "CDMA 800 / 1900",
+            "3G bands": "CDMA2000 1xEV-DO",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "EV-DO Rev.A 3.1 Mbps",
+            "Technology": "GSM / CDMA / EVDO"
+        },
+        "Platform": {
+            "CPU": "1.4 GHz Scorpion",
+            "Chipset": "Qualcomm MSM8655T Snapdragon S2",
+            "GPU": "Adreno 205",
+            "OS": "Microsoft Windows Phone 7.5 Mango"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Nokia Lumia 800c",
+        "device_name": "Nokia 800c",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_800c-pictures-4662.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-800c.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_800c-4662.php"
+    }
+}

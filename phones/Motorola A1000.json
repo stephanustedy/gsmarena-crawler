@@ -1,0 +1,102 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1600 mAh battery",
+            "Stand-by": "Up to 150 h",
+            "Talk time": "Up to 2 h 30 min"
+        },
+        "Body": {
+            "Dimensions": "116 x 57.5 x 20 mm, 115 cc (4.57 x 2.26 x 0.79 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "160 g (5.64 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 960 pixels",
+            "Secondary": "Yes",
+            "Video": "No"
+        },
+        "Comms": {
+            "Bluetooth": "v1.1",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Downloadable screensavers, wallpapers and ringtones",
+            "Resolution": "208 x 320 pixels (~132 ppi pixel density)",
+            "Size": "2.9 inches, 40 x 62 mm (~37.2% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 65K colors"
+        },
+        "Features": {
+            "": "- MP3/MP4 player\n- Picsel Viewer (doc, xls, ppt, pdf)\n- Organizer\n- Predictive text input (iTAP)\n- Voice memo/dial\n- Handwriting recognition",
+            "Browser": "WAP 2.0/xHTML",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2004, 1Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- 16 MB available",
+            "Card slot": "microSD",
+            "Internal": "24 MB"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "3G bands": "UMTS 2100",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Speed": "Yes, 384 kbps",
+            "Technology": "GSM / UMTS"
+        },
+        "Platform": {
+            "CPU": "168 MHz ARM925T",
+            "Chipset": "TI OMAP 1510",
+            "OS": "Symbian OS v7.0, UIQ v2.1 UI"
+        },
+        "Sound": {
+            "": "- Dual audio speakers",
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "device_name": "Motorola A1000",
+        "image": {
+            "href": "http://www.gsmarena.com/motorola_a1000-pictures-653.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/moa1000.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/motorola_a1000-653.php"
+    }
+}

@@ -1,0 +1,105 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 4000 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "194 x 120 x 12 mm (7.64 x 4.72 x 0.47 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "400 g (14.11 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus",
+            "Secondary": "2 MP",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "Yes",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "800 x 1280 pixels (~216 ppi pixel density)",
+            "Size": "7.0 inches (~61.0% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- HDMI port\n- MP3/WAV/WMA/eAAC+ player\n- MP4/WMV/H.264 player\n- Organizer\n- Document viewer\n- Photo viewer/editor\n- Voice memo/dial\n- Predictive text input",
+            "Browser": "HTML5, Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, compass"
+        },
+        "Launch": {
+            "Announced": "2012, February",
+            "Status": "Available. Released 2012, Q4"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "16 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 14.4/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.2 GHz Scorpion",
+            "Chipset": "Qualcomm MSM8260 Snapdragon S3",
+            "GPU": "Adreno 220",
+            "OS": "Android OS, v3.2 (Honeycomb)"
+        },
+        "Sound": {
+            "": "- Dolby mobile",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "canonical_name": "Tablet with support for GSM voice communication, SMS, and MMS",
+        "device_name": "ZTE Light Tab 3 V9S",
+        "image": {
+            "href": "http://www.gsmarena.com/zte_light_tab_3_v9s-pictures-4592.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/zte-v9s.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/zte_light_tab_3_v9s-4592.php"
+    }
+}

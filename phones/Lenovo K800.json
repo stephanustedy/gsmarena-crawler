@@ -1,0 +1,80 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1900 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "130.5 x 71.2 x 11 mm (5.14 x 2.80 x 0.43 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "161 g (5.68 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, dual-LED flash",
+            "Secondary": "Yes",
+            "Video": "1080p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "720 x 1280 pixels (~326 ppi pixel density)",
+            "Size": "4.5 inches (~60.1% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP4/WMV/H.264 player\n- MP3/WAV/WMA/eAAC+ player\n- Organizer\n- Photo/video editor\n- Document viewer\n- Voice memo/dial/commands\n- Predictive text input",
+            "Browser": "HTML5, Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2012, January",
+            "Status": "Available. Released 2012, September"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "16 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "4/10 (About 190 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 2100 / 1800",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 21.1/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "1.6 GHz",
+            "Chipset": "Intel Atom Z2460",
+            "GPU": "PowerVR SGX540",
+            "OS": "Android OS, v2.3.7 (Gingerbread)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Lenovo K800",
+        "image": {
+            "href": "http://www.gsmarena.com/lenovo_k800-pictures-4445.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lenovo-k800.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lenovo_k800-4445.php"
+    }
+}

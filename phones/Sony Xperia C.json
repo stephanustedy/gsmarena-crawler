@@ -1,0 +1,93 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 2390 mAh battery",
+            "Music play": "Up to 111 h",
+            "Stand-by": "Up to 588 h (2G) / Up to 605 h (3G)",
+            "Talk time": "Up to 14 h (2G) / Up to 12 h 25 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "141.5 x 74.2 x 8.9 mm (5.57 x 2.92 x 0.35 in)",
+            "SIM": "Dual SIM (Micro-SIM, dual stand-by)",
+            "Weight": "153 g (5.40 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face/smile detection, HDR",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash, check quality",
+            "Secondary": "VGA",
+            "Video": "1080p, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0, USB Host",
+            "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, DLNA, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes, up to 4 fingers",
+            "Protection": "Yes",
+            "Resolution": "540 x 960 pixels (~220 ppi pixel density)",
+            "Size": "5.0 inches (~65.6% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/H.264 player\n- MP3/eAAC+/WAV player\n- Document viewer\n- Photo viewer/editor\n- Voice memo/dial",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, IM, Push Email",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2013, June",
+            "Status": "Available. Released 2013, July"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "4 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White, Purple",
+            "Price group": "5/10 (About 220 EUR)",
+            "SAR EU": "0.52 W/kg (head)",
+            "SAR US": "0.54 W/kg (head) \u00a0 \u00a0 0.36 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Up to 237 kbps",
+            "GPRS": "Up to 85.6 kbps",
+            "Speed": "HSPA 42.2/11.5 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.2 GHz Cortex-A7",
+            "Chipset": "Mediatek MT6589",
+            "GPU": "PowerVR SGX544",
+            "OS": "Android OS, v4.2.2 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -83.5dB / Crosstalk -80.1dB",
+            "Battery life": "Endurance rating 68h",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 962:1 (nominal), 1.283 (sunlight)",
+            "Loudspeaker": "Voice 65dB / Noise 61dB / Ring 75dB",
+            "Performance": "Basemark OS II: 200"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Sony Xperia C HSPA+ C2305",
+        "device_name": "Sony Xperia C",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_xperia_c-pictures-5541.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/sony-xperia-c.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_xperia_c-5541.php"
+    }
+}

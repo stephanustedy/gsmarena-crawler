@@ -1,0 +1,97 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "91.8 x 50 x 9.9 mm (3.61 x 1.97 x 0.39 in)",
+            "SIM": "Mini-SIM",
+            "Weight": ""
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 1024 pixels",
+            "Secondary": "No",
+            "Video": "QCIF"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "No",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Downloadable pictures and animations",
+            "Resolution": "128 x 160 pixels (~137 ppi pixel density)",
+            "Size": "1.5 inches, 24 x 29 mm (~15.4% screen-to-body ratio)",
+            "Type": "OLED, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/AAC/AAC+ player\n- Predictive text input\n- Organizer\n- PC Sync",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2006, March",
+            "Status": "Cancelled"
+        },
+        "Memory": {
+            "Call records": "50 dialed, 50 received, 50 missed calls",
+            "Card slot": "No",
+            "Internal": "128 MB",
+            "Phonebook": "Yes, Photo call"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "": "GSM 850 / 1900 - US version",
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "Yes",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "VK Mobile VK5000",
+        "image": {
+            "href": "http://www.gsmarena.com/vk_mobile_vk5000-pictures-1513.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/vkmobile-vk5000.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/vk_mobile_vk5000-1513.php"
+    }
+}

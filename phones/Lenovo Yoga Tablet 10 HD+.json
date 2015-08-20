@@ -1,0 +1,82 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 9000 mAh battery",
+            "Stand-by": "",
+            "Talk time": "Up to 18 h (3G)"
+        },
+        "Body": {
+            "": "- Built-in 3-stage kickstand",
+            "Dimensions": "261 x 180 x 8.1 mm (10.28 x 7.09 x 0.32 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "615 g (1.36 lb)"
+        },
+        "Camera": {
+            "Primary": "8 MP, 3264 x 2448 pixels",
+            "Secondary": "1.6 MP",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0",
+            "GPS": "Yes",
+            "Radio": "No",
+            "USB": "microUSB v2.0, USB Host",
+            "WLAN": "Wi-Fi 802.11 b/g/n"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "1200 x 1920 pixels (~224 ppi pixel density)",
+            "Size": "10.1 inches (~63.0% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP3/WAV/WMA/AAC player\n- MP4/H.264 player\n- Document viewer\n- Photo viewer/editor",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "Email, Push Email, IM",
+            "Sensors": "Accelerometer, compass"
+        },
+        "Launch": {
+            "Announced": "2014, February",
+            "Status": "Available. Released 2014, May"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "16/32 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Gray",
+            "Price group": "6/10 (About 260 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.6 GHz Cortex-A7",
+            "Chipset": "Qualcomm MSM8228 Snapdragon 400 (3G)/ APQ8028 (Wi-Fi only)",
+            "GPU": "Adreno 305",
+            "OS": "Android OS, v4.3 (Jelly Bean), upgradable to v4.4 (KitKat)"
+        },
+        "Sound": {
+            "": "- Dolby Digital Plus",
+            "3.5mm jack": "Yes",
+            "Alert types": "Yes",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "canonical_name": "Available with 3G/Wi-Fi or Wi-Fi only support.\nTablet with no support for GSM voice communication.",
+        "device_name": "Lenovo Yoga Tablet 10 HD+",
+        "image": {
+            "href": "http://www.gsmarena.com/lenovo_yoga_tablet_10_hd+-pictures-6166.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lenovo-yoga-tablet-10-plus.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lenovo_yoga_tablet_10_hd+-6166.php"
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1000 mAh battery",
+            "Stand-by": "Up to 500 h",
+            "Talk time": "Up to13 h"
+        },
+        "Body": {
+            "Dimensions": "97.5 x 47 x 16.5 mm (3.84 x 1.85 x 0.65 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "100 g (3.53 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 1024 pixels",
+            "Secondary": "VGA",
+            "Video": "QCIF@15fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "FM radio with RDS, FM recording",
+            "USB": "v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "176 x 220 pixels (~141 ppi pixel density)",
+            "Size": "2.0 inches (~27.5% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/WAV/eAAC+ player\n- MP4/H.264/WMV player\n- Organizer\n- Voice memo/dial\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2009, November",
+            "Status": "Available. Released 2010, January"
+        },
+        "Memory": {
+            "Call records": "30 dialed, 30 received, 30 missed calls",
+            "Card slot": "microSD, up to 8 GB",
+            "Internal": "30 MB",
+            "Phonebook": "1000 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "2/10 (About 100 EUR)",
+            "SAR EU": "0.69 W/kg (head)",
+            "SAR US": "0.25 W/kg (head) \u00a0 \u00a0 0.31 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "UMTS 900 / 2100",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Speed": "Yes, 384 kbps",
+            "Technology": "GSM / UMTS"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Samsung C5130",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_c5130-pictures-2994.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-c5130.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_c5130-2994.php"
+    }
+}

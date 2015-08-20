@@ -1,0 +1,80 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1500 mAh battery",
+            "Stand-by": "Up to 530 h (2G) / Up to 420 h (3G)",
+            "Talk time": "Up to 12 h 40 min (2G) / Up to 7 h 50 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "121.6 x 64.1 x 10.5 mm (4.79 x 2.52 x 0.41 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "119 g (4.20 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "5 MP, 2592 x 1944 pixels, autofocus, LED flash",
+            "Secondary": "VGA",
+            "Video": "w480p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "Yes, with A-GPS, Bing map",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot, DLNA"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "480 x 800 pixels (~233 ppi pixel density)",
+            "Size": "4.0 inches (~58.4% screen-to-body ratio)",
+            "Type": "Super AMOLED capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Document viewer/editor\n- MP4/WMV/H.264 player\n- MP3/WAV/WMA/eAAC+ player",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2012, May",
+            "Status": "Available. Released 2012, July"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "4/8 GB, 384 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "2/10 (About 100 EUR)",
+            "SAR EU": "0.40 W/kg (head)",
+            "SAR US": "0.50 W/kg (head) \u00a0 \u00a0 0.94 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 7.2/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "1 GHz",
+            "OS": "Microsoft Windows Phone 7.5 Mango"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Samsung Omnia M S7530",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_omnia_m_s7530-pictures-4750.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-omnia-m.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_omnia_m_s7530-4750.php"
+    }
+}

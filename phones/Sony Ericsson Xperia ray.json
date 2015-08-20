@@ -1,0 +1,92 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1500 mAh battery",
+            "Music play": "Up to 36 h",
+            "Stand-by": "Up to 430 h (2G) / Up to 440 h (3G)",
+            "Talk time": "Up to 6 h 50 min (2G) / Up to 7 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "111 x 53 x 9.4 mm (4.37 x 2.09 x 0.37 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "100 g (3.53 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face/smile detection",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash, check quality",
+            "Secondary": "VGA",
+            "Video": "720p, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- Bravia Mobile engine\n- Touch sensitive controls\n- Timescape UI",
+            "Multitouch": "Yes",
+            "Protection": "Scratch-resistant glass",
+            "Resolution": "480 x 854 pixels (~297 ppi pixel density)",
+            "Size": "3.3 inches (~51.0% screen-to-body ratio)",
+            "Type": "LED-backlit LCD, capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- ANT+ support\n- MP4/H.264 player\n- MP3/WAV player\n- TrackID music recognition\n- SensMe\n- Document viewer\n- Voice memo\n- Predictive text input",
+            "Browser": "HTML, Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS (threaded view), MMS, Email, Push email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2011, June",
+            "Status": "Available. Released 2011, August"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB, 4 GB included",
+            "Internal": "1 GB (300 MB user available), 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, Gold, White, Pink",
+            "Price group": "4/10 (About 170 EUR)",
+            "SAR EU": "0.96 W/kg (head)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 1900 / 2100 - ST18a",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100 - ST18i",
+            "EDGE": "Up to 237 kbps",
+            "GPRS": "Up to 86 kbps",
+            "Speed": "HSPA 7.2/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "1 GHz Scorpion",
+            "Chipset": "Qualcomm MSM8255 Snapdragon S2",
+            "GPU": "Adreno 205",
+            "OS": "Android OS, v2.3 (Gingerbread), upgradable to v4.0.4 (Ice Cream Sandwich)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -89.4dB / Crosstalk -91.3dB",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 1.955:1 (sunlight)",
+            "Loudspeaker": "Voice 64dB / Noise 61dB / Ring 66dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Sony Ericsson Urushi",
+        "device_name": "Sony Ericsson Xperia ray",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_ericsson_xperia_ray-pictures-3972.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/se-xperia-ray-ofic.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_ericsson_xperia_ray-3972.php"
+    }
+}

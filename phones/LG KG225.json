@@ -1,0 +1,71 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion battery",
+            "Stand-by": "Up to 200 h",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "84.5 x 45 x 22.2 mm (3.33 x 1.77 x 0.87 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "70 g (2.47 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "No"
+        },
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "No",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "128 x 128 pixels",
+            "Size": "",
+            "Type": "CSTN, 65K colors"
+        },
+        "Features": {
+            "": "- Predictive text input\n- Calculator\n- Voice memo (10 x 20 sec.)\n- World time\n- Unit converter",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2006, April",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 10 received, 10 missed calls",
+            "Card slot": "No",
+            "Phonebook": "500 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "2/10 (About 80 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Yes",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "LG KG225",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_kg225-pictures-1543.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-kg225.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_kg225-1543.php"
+    }
+}

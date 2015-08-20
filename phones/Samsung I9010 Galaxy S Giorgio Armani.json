@@ -1,0 +1,90 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 1650 mAh battery",
+            "Stand-by": "Up to 860 h (2G) / Up to 660 h (3G)",
+            "Talk time": "Up to 14 h 50 min (2G) / Up to 11 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "122.5 x 64.2 x 9.9 mm (4.82 x 2.53 x 0.39 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "123 g (4.34 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face/smile detection",
+            "Primary": "5 MP, 2592 x 1944 pixels, autofocus, check quality",
+            "Secondary": "No",
+            "Video": "720p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- TouchWiz 3.0 UI",
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "480 x 800 pixels (~233 ppi pixel density)",
+            "Size": "4.0 inches (~57.9% screen-to-body ratio)",
+            "Type": "Super AMOLED capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/DivX/XviD/WMV/H.264 player\n- MP3/WAV/eAAC+/FLAC player\n- Photo/video editor",
+            "Browser": "HTML, Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2010, November",
+            "Status": "Available. Released 2011, January"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "16 GB"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "6/10 (About 280 EUR)",
+            "SAR EU": "0.51 W/kg (head)",
+            "SAR US": "0.61 W/kg (head) \u00a0 \u00a0 0.49 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 900 / 1900 / 2100",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 1900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 7.2/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "1 GHz Cortex-A8",
+            "Chipset": "Hummingbird",
+            "GPU": "PowerVR SGX540",
+            "OS": "Android OS, v2.2 (Froyo)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -90.6dB / Crosstalk -92.5dB",
+            "Camera": "Photo",
+            "Loudspeaker": "Voice 64dB / Noise 66dB / Ring 75dB"
+        }
+    },
+    "main": {
+        "device_name": "Samsung I9010 Galaxy S Giorgio Armani",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_i9010_galaxy_s_giorgio_armani-pictures-3625.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s-armani-new.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_i9010_galaxy_s_giorgio_armani-3625.php"
+    }
+}

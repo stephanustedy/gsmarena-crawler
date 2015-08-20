@@ -1,0 +1,76 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 1300 mAh battery (BP-5L)",
+            "Stand-by": "Up to 210 h",
+            "Talk time": "Up to 12 h"
+        },
+        "Body": {
+            "Dimensions": "128 x 69.5 x 19 mm, 142 cc (5.04 x 2.74 x 0.75 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "189 g (6.67 oz)"
+        },
+        "Camera": {
+            "Primary": "1 MP, 1152x864 pixels",
+            "Secondary": "No",
+            "Video": "QCIF"
+        },
+        "Comms": {
+            "Bluetooth": "v1.2",
+            "GPS": "No",
+            "Radio": "FM radio; Visual radio",
+            "USB": "Pop-Port",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Pen input \n- Partial mode display (640 x 48 pixels) for saving power",
+            "Resolution": "640 x 320 pixels (~204 ppi pixel density)",
+            "Size": "3.5 inches, 79 x 40 mm (~35.5% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 65K colors"
+        },
+        "Features": {
+            "": "- Stereo audio/video player\n- Document viewer (Word, Excel, PowerPoint, PDF)\n- Organizer\n- Voice recorder\n- Voice memo",
+            "Browser": "WAP/xHTML, HTML with Flash 6 support",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "4Q, 2004",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "MMC, 128 MB included",
+            "Internal": "90 MB"
+        },
+        "Misc": {
+            "Colors": "",
+            "SAR EU": "0.53 W/kg (head)",
+            "SAR US": "0.22 W/kg (head) \u00a0 \u00a0 0.54 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Platform": {
+            "CPU": "168 MHz ARM925T",
+            "Chipset": "TI OMAP 1510",
+            "OS": "Symbian OS v7.0s, Series 90 UI"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 7710",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_7710-pictures-921.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/no7710.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_7710-921.php"
+    }
+}

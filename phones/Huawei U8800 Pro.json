@@ -1,0 +1,83 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 1500 mAh battery",
+            "Music play": "Up to 35 h",
+            "Stand-by": "Up to 380 h (2G) / Up to 440 h (3G)",
+            "Talk time": "Up to 8 h 20 min (2G) / Up to 6 h 40 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "120 x 62 x 11.6 mm (4.72 x 2.44 x 0.46 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "130 g (4.59 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, LED flash",
+            "Secondary": "No",
+            "Video": "720p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Scratch-resistant glass, oleophobic coating",
+            "Resolution": "480 x 800 pixels (~246 ppi pixel density)",
+            "Size": "3.8 inches (~55.2% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP3/WMA/WAV/eAAC+ player\n- MP4/WMV/H.264 player\n- Organizer\n- Document viewer\n- Photo viewer/editor\n- Voice memo/dial\n- Predictive text input",
+            "Browser": "HTML, Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2011, Q2",
+            "Status": "Available"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "2/4 GB, 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "2/10 (About 70 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Speed": "HSPA 14.4/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "1 GHz Scorpion",
+            "Chipset": "Qualcomm MSM8255 Snapdragon S2",
+            "GPU": "Adreno 205",
+            "OS": "Android OS, v2.3 (Gingerbread)"
+        },
+        "Sound": {
+            "": "- Dolby Mobile",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Huawei U8800 Pro",
+        "image": {
+            "href": "http://www.gsmarena.com/huawei_u8800_pro-pictures-4226.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/huawei-u8800-pro.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/huawei_u8800_pro-4226.php"
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion battery",
+            "Stand-by": "160 h - 210 h",
+            "Talk time": "5 h - 10 h"
+        },
+        "Body": {
+            "Dimensions": "107 x 46 x 22 mm, 100 cc (4.21 x 1.81 x 0.87 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "100 g (3.53 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "No"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Downloadable screensavers and wallpapers",
+            "Resolution": "176 x 220 pixels",
+            "Size": "",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- Predictive text input (iTAP)\n- Organizer\n- Changeable front covers",
+            "Alarm": "Yes",
+            "Browser": "WAP 2.0/xHTML",
+            "Clock": "Yes",
+            "Games": "Downloadable",
+            "Java": "No",
+            "Messaging": "SMS, EMS 5.0, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2003, 4Q",
+            "Status": "Cancelled"
+        },
+        "Memory": {
+            "Call records": "10 dialed, 10 received, 10 missed calls",
+            "Card slot": "No",
+            "Phonebook": "Yes"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "": "- 3D audio",
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones, composer",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Motorola E390",
+        "image": {
+            "href": "http://www.gsmarena.com/motorola_e390-pictures-420.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/moe390.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/motorola_e390-420.php"
+    }
+}

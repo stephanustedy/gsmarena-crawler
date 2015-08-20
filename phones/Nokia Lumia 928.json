@@ -1,0 +1,93 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 2000 mAh battery (BV 4-NW)",
+            "Music play": "Up to 80 h",
+            "Stand-by": "Up to 606 h (2G) / Up to 541 h (3G)",
+            "Talk time": "Up to 11 h 40 min (2G) / Up to 16 h 20 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "133 x 68.9 x 10.1 mm, 92.8 cc (5.24 x 2.71 x 0.40 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "162 g (5.71 oz)"
+        },
+        "Camera": {
+            "Features": "1/3.2'' sensor size, 1.4 \u00b5m pixel size, PureView technology, geo-tagging, panorama",
+            "Primary": "8 MP, 3264 x 2448 pixels, Carl Zeiss optics, optical image stabilization, autofocus, xenon flash",
+            "Secondary": "1.3 MP, 720p@30fps",
+            "Video": "1080p@30fps, optical stabilization, stereo sound rec."
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, EDR, LE/ apt-X after WP8 Denim update",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "NFC": "Yes",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- PureMotion HD+ ClearBlack display",
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 2",
+            "Resolution": "768 x 1280 pixels (~332 ppi pixel density)",
+            "Size": "4.5 inches (~62.9% screen-to-body ratio)",
+            "Type": "AMOLED capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Wireless charging (Qi-enabled)\n- Active noise cancellation with dedicated mic\n- OneDrive (15 GB cloud storage)\n- MP3/WAV/eAAC+/WMA player\n- MP4/H.264/WMV player\n- Document viewer/editor\n- Video/photo editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2013, April",
+            "Status": "Available. Released 2013, May"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "32 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "7/10 (About 380 EUR)",
+            "SAR EU": "0.88 W/kg (head)",
+            "SAR US": "1.44 W/kg (head) \u00a0 \u00a0 1.38 W/kg (body)"
+        },
+        "Network": {
+            "": "LTE band 1(2100), 3(1800), 7(2600), 8(900), 20(800)",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+            "4G bands": "LTE band 4(1700/2100), 13(700) - Verizon",
+            "EDGE": "Up to 236.8 kbps",
+            "GPRS": "Yes",
+            "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat3 100/50 Mbps, EV-DO Rev.A 3.1 Mbps",
+            "Technology": "GSM / CDMA / HSPA / EVDO / LTE"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.5 GHz Krait",
+            "Chipset": "Qualcomm MSM8960 Snapdragon S4 Plus",
+            "GPU": "Adreno 225",
+            "OS": "Microsoft Windows Phone 8, upgradeable to v8.1"
+        },
+        "Sound": {
+            "": "- Dolby Headphone",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -82.5dB / Crosstalk -80.7dB",
+            "Battery life": "Endurance rating 41h"
+        }
+    },
+    "main": {
+        "device_name": "Nokia Lumia 928",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_lumia_928-pictures-5437.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-lumia-928-black.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_lumia_928-5437.php"
+    }
+}

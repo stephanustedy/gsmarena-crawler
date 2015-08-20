@@ -1,0 +1,77 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po 4700 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "203.5 x 139 x 8.9 mm (8.01 x 5.47 x 0.35 in)",
+            "SIM": "No",
+            "Weight": "406 g (14.32 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels",
+            "Secondary": "VGA",
+            "Video": ""
+        },
+        "Comms": {
+            "Bluetooth": "v4.0",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "microUSB v2.0, USB Host",
+            "WLAN": "Wi-Fi 802.11 b/g/n"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "768 x 1024 pixels (~163 ppi pixel density)",
+            "Size": "7.85 inches (~67.5% screen-to-body ratio)",
+            "Type": "IPS capacitive touchscreen"
+        },
+        "Features": {
+            "": "- HDMI port\n- MP3/WAV/AAC player\n- MP4/H.264 player\n- Document viewer\n- Photo viewer/editor\n- Voice memo/dial",
+            "Browser": "Yes",
+            "Java": "No",
+            "Messaging": "Email, IM",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2013",
+            "Status": "Available. Released 2013"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "8 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black/Deep Blue",
+            "Price group": "3/10 (About 140 EUR)"
+        },
+        "Network": {
+            "2G bands": "N/A",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "No cellular connectivity"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.6 GHz Cortex-A9",
+            "Chipset": "Rockchip RK3188",
+            "GPU": "Mali-400MP4",
+            "OS": "Android OS, v4.2 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "device_name": "Prestigio Multipad 4 Quantum 7.85",
+        "image": {
+            "href": "http://www.gsmarena.com/prestigio_multipad_4_quantum_7_85-pictures-5654.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/prestigio-multipad4.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/prestigio_multipad_4_quantum_7_85-5654.php"
+    }
+}

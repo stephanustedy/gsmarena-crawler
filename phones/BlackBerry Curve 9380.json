@@ -1,0 +1,90 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion battery (JM-1)",
+            "Music play": "Up to 30 h",
+            "Stand-by": "Up to 360 h (2G) / Up to 360 h (3G)",
+            "Talk time": "Up to 5 h 30 min (2G) / Up to 5 h 40 min (3G)"
+        },
+        "Body": {
+            "": "- Optical trackpad",
+            "Dimensions": "109 x 60 x 11.2 mm (4.29 x 2.36 x 0.44 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "98 g (3.46 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face detection",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, LED flash, check quality",
+            "Secondary": "No",
+            "Video": "480p"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "NFC": "Carrier dependent",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, UMA (carrier-dependent)"
+        },
+        "Display": {
+            "Resolution": "360 x 480 pixels (~188 ppi pixel density)",
+            "Size": "3.2 inches (~48.5% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen"
+        },
+        "Features": {
+            "": "- MP3/eAAC+/WMA/WAV/FLAC- player\n- MP4/H.264/WMV player\n- Organizer\n- Document viewer\n- Voice memo/dial\n- Predictive text input",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Proximity"
+        },
+        "Launch": {
+            "Announced": "2011, November",
+            "Status": "Available. Released 2011, December"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "512 MB, 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "3/10 (About 120 EUR)",
+            "SAR EU": "1.09 W/kg (head) \u00a0 \u00a0 0.59 W/kg (body)",
+            "SAR US": "1.38 W/kg (head) \u00a0 \u00a0 0.77 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 900 / 1700 / 2100",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 1900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "806 MHz",
+            "OS": "BlackBerry OS 7.0"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -85.8dB / Crosstalk -80.3dB",
+            "Battery life": "Endurance rating 39h",
+            "Camera": "Photo",
+            "Display": "Contrast ratio: 863:1 (nominal)",
+            "Loudspeaker": "Voice 61dB / Noise 64dB / Ring 66dB"
+        }
+    },
+    "main": {
+        "device_name": "BlackBerry Curve 9380",
+        "image": {
+            "href": "http://www.gsmarena.com/blackberry_curve_9380-pictures-4331.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/blackberry-curve-9380.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/blackberry_curve_9380-4331.php"
+    }
+}

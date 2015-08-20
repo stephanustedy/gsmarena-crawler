@@ -1,0 +1,74 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 700 mAh battery (BST-30)",
+            "Stand-by": "Up to 300 h",
+            "Talk time": "Up to 12 h"
+        },
+        "Body": {
+            "Dimensions": "101 x 44 x 19 mm (3.98 x 1.73 x 0.75 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "73 g (2.57 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Wallpapers, themes",
+            "Resolution": "101 x 80 pixels (~89 ppi pixel density)",
+            "Size": "1.45 inches (~14.9% screen-to-body ratio)",
+            "Type": "STN, 4096 colors"
+        },
+        "Features": {
+            "": "- Predictive text input\n- Organizer\n- Voice control\n- Voice memo",
+            "Browser": "WAP 1.2.1",
+            "Games": "2 - Deep Abyss and Five Stones + Downloadable",
+            "Java": "No",
+            "Messaging": "SMS, EMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2004, 4Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "10 dialed, 20 received and missed calls",
+            "Card slot": "No",
+            "Internal": "400 KB",
+            "Phonebook": "250 entries x 5 fields, Picture call"
+        },
+        "Misc": {
+            "Colors": "",
+            "Price group": "1/10 (About 40 EUR)",
+            "SAR EU": "0.75 W/kg (head)",
+            "SAR US": "1.17 W/kg (head) \u00a0 \u00a0 0.75 W/kg (body)"
+        },
+        "Network": {
+            "": "GSM 850 / 1900 - T290a",
+            "2G bands": "GSM 900 / 1800 - T290i",
+            "EDGE": "No",
+            "GPRS": "Class 8",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "": "- Ringtones can be assigned to phonebook entries",
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic ringtones, composer",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "- T290i, Dual-band 900/1800\n- T290c, Dual-band 900/1800 for China\n- T290a, Dual-band 850/1900 for Americas",
+        "device_name": "Sony Ericsson T290",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_ericsson_t290-pictures-909.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/snt290.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_ericsson_t290-909.php"
+    }
+}

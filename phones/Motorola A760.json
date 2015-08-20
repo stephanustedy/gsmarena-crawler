@@ -1,0 +1,100 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 750 mAh battery (77642)",
+            "Stand-by": "Up to 160 h",
+            "Talk time": "Up to 5 h"
+        },
+        "Body": {
+            "Dimensions": "100 x 53 x 21 mm, 100 cc (3.94 x 2.09 x 0.83 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "120 g (4.23 oz)"
+        },
+        "Camera": {
+            "Primary": "CIF, 352 x 288 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v1.1",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Handwriting recognition",
+            "Resolution": "240 x 320 pixels",
+            "Size": "",
+            "Type": "TFT resistive touchscreen, 65K colors"
+        },
+        "Features": {
+            "": "- MP3 player\n- Organizer\n- RS 232",
+            "Alarm": "Yes",
+            "Browser": "WAP, HTML",
+            "Clock": "Yes",
+            "Java": "Yes",
+            "Messaging": "SMS, EMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2003",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "32 MB"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Platform": {
+            "CPU": "206 MHz",
+            "OS": "Linux"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Motorola A760",
+        "image": {
+            "href": "http://www.gsmarena.com/motorola_a760-pictures-392.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/moa760.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/motorola_a760-392.php"
+    }
+}

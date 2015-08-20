@@ -1,0 +1,69 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 800 mAh battery",
+            "Stand-by": "Up to 250 h",
+            "Talk time": "Up to 4 h"
+        },
+        "Body": {
+            "Dimensions": "96.8 x 45.2 x 18 mm (3.81 x 1.78 x 0.71 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "96.8 g (2.54 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "No",
+            "Radio": "FM radio",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "128 x 160 pixels (~116 ppi pixel density)",
+            "Size": "1.77 inches (~22.5% screen-to-body ratio)",
+            "Type": "STN, 65K colors"
+        },
+        "Features": {
+            "": "- Organizer\n- Voice memo\n- Predictive text input\n- Mobile Tracker",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes",
+            "Java": "Yes",
+            "Messaging": "SMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2009, April",
+            "Status": "Available. Released 2009"
+        },
+        "Memory": {
+            "Call records": "30 dialed, 30 received, 30 missed calls",
+            "Card slot": "No",
+            "Internal": "2 MB",
+            "Phonebook": "Yes, up to 500 entries"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "1/10 (About 40 EUR)",
+            "SAR EU": "0.72 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Samsung E1360",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_e1360-pictures-2784.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-e1360.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_e1360-2784.php"
+    }
+}

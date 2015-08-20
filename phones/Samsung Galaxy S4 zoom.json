@@ -1,0 +1,95 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 2330 mAh battery",
+            "Music play": "Up to 46 h",
+            "Stand-by": "Up to 570 h (3G)",
+            "Talk time": "Up to 13 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "125.5 x 63.5 x 15.4 mm (4.94 x 2.5 x 0.61 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "208 g (7.34 oz)"
+        },
+        "Camera": {
+            "Features": "1/2.33'' sensor size, geo-tagging, touch focus, face/smile detection, HDR, panorama",
+            "Primary": "16 MP, 4608 \u0445 3456 pixels, autofocus, 10x optical zoom (24-240mm), optical image stabilization, Xenon flash, check quality",
+            "Secondary": "1.9 MP",
+            "Video": "1080p@30fps, optical stabilization, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, LE, apt-X",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "Infrared port": "Yes",
+            "NFC": "Yes",
+            "Radio": "No",
+            "USB": "microUSB v2.0 (MHL TV-out), USB Host",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, DLNA, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 3",
+            "Resolution": "540 x 960 pixels (~256 ppi pixel density)",
+            "Size": "4.3 inches (~64.0% screen-to-body ratio)",
+            "Type": "Super AMOLED capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- S-Voice natural language commands and dictation\n- Dropbox (50 GB cloud storage)\n- Active noise cancellation with dedicated mic\n- MP4/DivX/XviD/WMV/H.264 player\n- MP3/WAV/eAAC+/AC3/FLAC player\n- Photo/video editor\n- Document viewer",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2013, June",
+            "Status": "Available. Released 2013, July"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "8 GB, 1.5 GB RAM"
+        },
+        "Misc": {
+            "Colors": "White, Dynamic Black",
+            "Price group": "6/10 (About 280 EUR)",
+            "SAR EU": "0.14 W/kg (head) \u00a0 \u00a0 0.20 W/kg (body)",
+            "SAR US": "0.35 W/kg (head) \u00a0 \u00a0 1.05 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - all versions",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100 - all versions",
+            "4G bands": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 20(800) - SM-C105",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 21.1/5.76 Mbps, LTE Cat3 100/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.5 GHz Cortex-A9",
+            "Chipset": "Pega-Dual +XMM6262",
+            "GPU": "Mali-400",
+            "OS": "Android OS, v4.2.2 (Jelly Bean), upgradable to v4.4.2 (KitKat)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -91.5dB / Crosstalk -90.5dB",
+            "Battery life": "Endurance rating 61h",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: Infinite (nominal) / 3.118:1 (sunlight)",
+            "Loudspeaker": "Voice 73dB / Noise 66dB / Ring 75dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Samsung Galaxy S4 zoom SM-C1010, SM-C101",
+        "device_name": "Samsung Galaxy S4 zoom",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_galaxy_s4_zoom-pictures-5447.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s4-zoom.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_galaxy_s4_zoom-5447.php"
+    }
+}

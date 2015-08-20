@@ -1,0 +1,94 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1050 mAh battery",
+            "Stand-by": "Up to 200 h",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "95.7 x 59.6 x 20.7 mm (3.77 x 2.35 x 0.81 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "135 g (4.76 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels, LED flash",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0",
+            "GPS": "Yes, SiRF Star III chipset",
+            "Radio": "No",
+            "USB": "miniUSB v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Handwriting recognition\n- 5 way joystick",
+            "Resolution": "240 x 320 pixels (~148 ppi pixel density)",
+            "Size": "2.7 inches (~39.6% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- Car antenna connector\n- MP3/MP4 player\n- Organizer\n- Pocket Office \n- Voice memo/dial",
+            "Browser": "WAP 2.0/xHTML, HTML 4.0",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email, InstantMessaging"
+        },
+        "Launch": {
+            "Announced": "2007, 4Q",
+            "Status": "Cancelled"
+        },
+        "Memory": {
+            "Card slot": "SD/MMC, SDIO",
+            "Internal": "64 MB RAM, ROM varies by region"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Platform": {
+            "CPU": "200 MHz ARM926EJ-S",
+            "Chipset": "TI OMAP 850",
+            "OS": "Windows Mobile 6 Professional"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Mitac MIO A502",
+        "index": 1,
+        "url": "http://www.gsmarena.com/mitac_mio_a502-2159.php"
+    }
+}

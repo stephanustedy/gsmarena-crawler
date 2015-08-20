@@ -1,0 +1,83 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 1800 mAh battery",
+            "Stand-by": "Up to 415 h (2G) / Up to 410 h (3G)",
+            "Talk time": "Up to 7 h 10 min (2G) / Up to 3 h 30 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "133 x 67.5 x 7.9 mm (5.24 x 2.66 x 0.31 in)",
+            "SIM": "Optional dual SIM (Micro-SIM)",
+            "Weight": "109 g (3.84 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash",
+            "Secondary": "2 MP",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Dragon Trail Glass",
+            "Resolution": "540 x 960 pixels (~236 ppi pixel density)",
+            "Size": "4.66 inches (~66.7% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP3/AAC+/WAV/WMA player\n- MP4/H.264 player\n- Document viewer\n- Photo viewer/editor",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2013, January",
+            "Status": "Available. Released 2013, May"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB (dual SIM version)",
+            "Internal": "4 GB / 13.3 GB (dual SIM version), 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Silver, Slate, Pink, Red, Yellow",
+            "Price group": "5/10 (About 230 EUR)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 1900",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 7.2/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1 GHz Cortex-A9",
+            "Chipset": "Mediatek MT6577",
+            "GPU": "PowerVR SGX531u",
+            "OS": "Android OS, v4.1 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Alcatel OT-6030D",
+        "device_name": "Alcatel One Touch Idol",
+        "image": {
+            "href": "http://www.gsmarena.com/alcatel_one_touch_idol-pictures-5230.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/alcatel-ot-idol.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/alcatel_one_touch_idol-5230.php"
+    }
+}

@@ -1,0 +1,95 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 3200 mAh battery",
+            "Stand-by": "Up to 420 h (3G)",
+            "Talk time": "Up to 21 h (3G)"
+        },
+        "Body": {
+            "": "- S Pen stylus",
+            "Dimensions": "151.2 x 79.2 x 8.3 mm (5.95 x 3.12 x 0.33 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "168 g (5.93 oz)"
+        },
+        "Camera": {
+            "Features": "Dual Shot, Simultaneous HD video and image recording, geo-tagging, touch focus, face/smile detection, panorama, HDR",
+            "Primary": "13 MP, 4128 x 3096 pixels, autofocus, LED flash, check quality",
+            "Secondary": "2 MP, 1080p@30fps",
+            "Video": "2160p@30fps, 1080p@60fps (N9005, N9002)/ 1080p (N9000), check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, EDR, LE",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "Infrared port": "Yes",
+            "NFC": "Yes",
+            "Radio": "No",
+            "USB": "microUSB v3.0 (MHL 2 TV-out), USB Host",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, DLNA, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 3",
+            "Resolution": "1080 x 1920 pixels (~386 ppi pixel density)",
+            "Size": "5.7 inches (~74.8% screen-to-body ratio)",
+            "Type": "Super AMOLED capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- ANT+ support\n- S-Voice natural language commands and dictation\n- Air gestures\n- Active noise cancellation with dedicated mic\n- Dropbox (50 GB cloud storage)\n- MP4/DivX/XviD/WMV/H.264 player\n- MP3/WAV/eAAC+/AC3/FLAC player\n- Photo/video editor\n- Document viewer",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass, barometer, temperature, humidity, gesture"
+        },
+        "Launch": {
+            "Announced": "2013, September",
+            "Status": "Available. Released 2013, September"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "16/32/64 GB, 3 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White, Pink, Merlot Red, Rose Gold Black, Rose Gold White",
+            "Price group": "8/10 (About 450 EUR)",
+            "SAR EU": "0.29 W/kg (head) \u00a0 \u00a0 0.36 W/kg (body)"
+        },
+        "Network": {
+            "": "LTE band 2(1900), 4(1700/2100) - N900W8",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - all models",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100 - N9005, N9002, N9006",
+            "4G bands": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 20(800) - N9005",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
+            "Technology": "GSM / CDMA / HSPA / EVDO / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 2.3 GHz Krait 400 (N9005, N9002)/ Quad-core 1.9 GHz Cortex-A15 & quad-core 1.3 GHz Cortex-A7 (N9000)",
+            "Chipset": "Qualcomm Snapdragon 800 (N9005, N9002)/ Exynos 5 Octa 5420 (N9000)",
+            "GPU": "Adreno 330 (N9005, N9002)/ Mali-T628 MP6 (N9000)",
+            "OS": "Android OS, v4.3 (Jelly Bean), upgradable to v4.4.2 (KitKat), upgradable to v5.0 (Lollipop)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -96.5dB / Crosstalk -96.3dB",
+            "Battery life": "Endurance rating 75h",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: Infinite (nominal) / 3.997:1 (sunlight)",
+            "Loudspeaker": "Voice 70dB / Noise 66dB / Ring 78dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Available as:\nSamsung Galaxy Note 3 N9000 with 3G connectivity\nSamsung Galaxy Note 3 N9002 with dual SIM card support\nSamsung Galaxy Note 3 N9005 with 3G & LTE connectivity\nAlso known as Samsung Galaxy Note III",
+        "device_name": "Samsung Galaxy Note 3",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_galaxy_note_3-pictures-5665.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-note-3.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_galaxy_note_3-5665.php"
+    }
+}

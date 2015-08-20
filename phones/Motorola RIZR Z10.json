@@ -1,0 +1,81 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1130 mAh battery",
+            "Stand-by": "Up to 400 h",
+            "Talk time": "Up to 7 h"
+        },
+        "Body": {
+            "Dimensions": "109.7 x 50.7 x 16.8 mm (4.32 x 2.00 x 0.66 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "119 g (4.20 oz)"
+        },
+        "Camera": {
+            "Primary": "3.15 MP, 2048 x 1536 pixels, autofocus, LED flash",
+            "Secondary": "VGA videocall camera",
+            "Video": "320p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "miniUSB v1.1",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Screensavers and wallpapers",
+            "Protection": "Scratch-resistant glass",
+            "Resolution": "240 x 320 pixels (~182 ppi pixel density)",
+            "Size": "2.2 inches (~26.9% screen-to-body ratio)",
+            "Type": "TFT, 16M colors"
+        },
+        "Features": {
+            "": "- MP3/AAC/AAC+/WAV/MP4/WMA/iMelody player\n- Predictive text input\n- Organizer\n- Voice memo",
+            "Browser": "WAP 2.0/xHTML",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2007, September. Released 2008, May",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 8 GB",
+            "Internal": "70 MB, 64 MB RAM, 128 MB ROM"
+        },
+        "Misc": {
+            "Colors": "Black, Chrome",
+            "Price group": "3/10 (About 150 EUR)",
+            "SAR EU": "1.10 W/kg (head)",
+            "SAR US": "1.39 W/kg (head) \u00a0 \u00a0 0.62 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 2100",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 3.6/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "300 MHz ARM 1136",
+            "Chipset": "TI OMAP 2420",
+            "GPU": "PowerVR MBX",
+            "OS": "Symbian OS v9.2, UIQ 3.2"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Motorola RIZR Z10",
+        "image": {
+            "href": "http://www.gsmarena.com/motorola_rizr_z10-pictures-2103.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/motorola-z10.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/motorola_rizr_z10-2103.php"
+    }
+}

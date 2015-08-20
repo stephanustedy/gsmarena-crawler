@@ -1,0 +1,78 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 950 mAh battery",
+            "Stand-by": "Up to 432 h",
+            "Talk time": "Up to 5 h 20 min"
+        },
+        "Body": {
+            "Dimensions": "94 x 61 x 13 mm (3.70 x 2.40 x 0.51 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "105 g (3.70 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 1024 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "A-GPS only",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "220 x 176 pixels (~128 ppi pixel density)",
+            "Size": "2.2 inches (~26.6% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- Eco friendly materials\n- SNS integration\n- MP3/eAAC+/WAV/WMA player\n- MP4/H.263 player\n- Organizer\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2010, August",
+            "Status": "Available. Released 2010, September"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 8 GB",
+            "Phonebook": "Yes, Photocall"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "3/10 (About 140 EUR)",
+            "SAR EU": "1.05 W/kg (head)",
+            "SAR US": "1.52 W/kg (head) \u00a0 \u00a0 1.04 W/kg (body)"
+        },
+        "Network": {
+            "": "AWS 1700/2100",
+            "2G bands": "CDMA 800 / 1900",
+            "3G bands": "CDMA2000 1xEV-DO",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Speed": "Yes",
+            "Technology": "CDMA / EVDO"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "For MetroPCS",
+        "device_name": "Motorola Grasp WX404",
+        "image": {
+            "href": "http://www.gsmarena.com/motorola_grasp_wx404-pictures-3455.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/Motorola-Grasp-WX404.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/motorola_grasp_wx404-3455.php"
+    }
+}

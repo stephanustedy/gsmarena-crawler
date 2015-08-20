@@ -1,0 +1,80 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1050 mAh battery (BL-5CT)",
+            "Music play": "Up to 30 h",
+            "Stand-by": "Up to 600 h (2G) / Up to 672 h (3G)",
+            "Talk time": "Up to 11 h (2G) / Up to 4 h 40 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "112.3 x 46 x 12.3 mm, 56.2 cc (4.42 x 1.81 x 0.48 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "95 g (3.35 oz)"
+        },
+        "Camera": {
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, fixed focus, LED flash",
+            "Secondary": "VGA videocall camera",
+            "Video": "480p@15fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP, EDR",
+            "GPS": "Yes, with A-GPS; Ovi Maps 3.0",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~182 ppi pixel density)",
+            "Size": "2.2 inches (~29.0% screen-to-body ratio)",
+            "Type": "TFT, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/H.264 player\n- MP3/WAV/eAAC+/WMA player\n- Document viewer (Word, Excel, PowerPoint, PDF)\n- Video/Photo editor\n- Organizer\n- Facebook, YouTube, hi5, Friendster, MySpace apps\n- Voice memo/dial\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML, Adobe Flash Lite",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS, AMS, MMS, Email, Push Email, IM"
+        },
+        "Launch": {
+            "Announced": "2011, June",
+            "Status": "Available. Released 2011, September"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB, 2 GB included",
+            "Internal": "270 MB, 256 MB RAM, 512 MB ROM"
+        },
+        "Misc": {
+            "Colors": "White, Warm Grey, All Black",
+            "Price group": "3/10 (About 110 EUR)",
+            "SAR EU": "1.34 W/kg (head)",
+            "SAR US": "1.16 W/kg (head) \u00a0 \u00a0 0.86 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 2100",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "600 MHz ARM 11",
+            "OS": "Symbian OS v9.3, Series 60 rel. 3.2"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, MP3",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as C5-00 5 MP",
+        "device_name": "Nokia C5 5MP",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_c5_5mp-pictures-4019.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-c5-00-5mp1.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_c5_5mp-4019.php"
+    }
+}

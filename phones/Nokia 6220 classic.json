@@ -1,0 +1,84 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 900 mAh battery (BP-5M)",
+            "Music play": "Up to 13 h",
+            "Stand-by": "Up to 250 h (2G) / 240 h (3G)",
+            "Talk time": "Up to 3 h 30 min (2G) / 2 h 30 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "108 x 47 x 15 mm, 66 cc (4.25 x 1.85 x 0.59 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "90 g (3.17 oz)"
+        },
+        "Camera": {
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, Carl Zeiss optics, autofocus, xenon flash",
+            "Secondary": "Videocall camera",
+            "Video": "480p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "Yes, with A-GPS; Nokia Maps",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Downloadable wallpapers, screensavers",
+            "Resolution": "240 x 320 pixels (~182 ppi pixel density)",
+            "Size": "2.2 inches (~29.5% screen-to-body ratio)",
+            "Type": "TFT, 16M colors"
+        },
+        "Features": {
+            "": "- Push to talk\n- WMV/RV/MP4/3GP player\n- MP3/WMA/WAV/RA/AAC/M4A player\n- Document viewer (Word, Excel, PowerPoint, PDF)\n- TV-out\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2008, February. Released 2008, July",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 8 GB",
+            "Internal": "120 MB, 128 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black and Cyan, Purple",
+            "Price group": "4/10 (About 160 EUR)",
+            "SAR EU": "0.75 W/kg (head)",
+            "SAR US": "1.12 W/kg (head) \u00a0 \u00a0 0.44 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Class 32, 296 kbps; DTM Class 11, 178.8 kbps",
+            "GPRS": "Class 32, 107 / 64.2 kbps",
+            "Speed": "HSPA 3.6/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "369 MHz ARM 11",
+            "OS": "Symbian OS 9.3, S60 rel. 3.2"
+        },
+        "Sound": {
+            "": "- 2.5 mm audio jack",
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3, AAC ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -75.4dB / Crosstalk -74.0dB",
+            "Loudspeaker": "Voice 70dB / Noise 65dB / Ring 69dB"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 6220 classic",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_6220_classic-pictures-2256.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-6220cl.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_6220_classic-2256.php"
+    }
+}

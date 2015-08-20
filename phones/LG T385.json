@@ -1,0 +1,75 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 950 mAh battery",
+            "Stand-by": "Up to 560 h",
+            "Talk time": "Up to 15 h"
+        },
+        "Body": {
+            "Dimensions": "103 x 59 x 10.7 mm (4.06 x 2.32 x 0.42 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "-"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels",
+            "Secondary": "No",
+            "Video": "QCIF@15fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, EDR",
+            "GPS": "No",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "240 x 320 pixels (~125 ppi pixel density)",
+            "Size": "3.2 inches (~52.2% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- SNS applications\n- MP4/H.263 player\n- MP3/AAC+ player\n- Organizer\n- Document viewer\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email, IM"
+        },
+        "Launch": {
+            "Announced": "2012, March",
+            "Status": "Available. Released 2012, Q3"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 16 GB",
+            "Internal": "50 MB, 128 MB ROM, 64 MB RAM",
+            "Phonebook": "1000 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "2/10 (About 60 EUR)",
+            "SAR EU": "0.70 W/kg (head) \u00a0 \u00a0 0.79 W/kg (body)",
+            "SAR US": "0.85 W/kg (head) \u00a0 \u00a0 0.93 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "Yes",
+            "GPRS": "Class 12",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "LG T385",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_t385-pictures-4984.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-t385.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_t385-4984.php"
+    }
+}

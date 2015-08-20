@@ -1,0 +1,74 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1000 mAh battery",
+            "Stand-by": "Up to 500 h",
+            "Talk time": "Up to 7 h"
+        },
+        "Body": {
+            "": "- Flashlight",
+            "Dimensions": "112 x 61.5 x 12.8 mm (4.41 x 2.42 x 0.50 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "89 g (3.14 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels",
+            "Secondary": "No",
+            "Video": "320p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP, EDR",
+            "GPS": "No",
+            "Radio": "FM radio with RDS; built-in antenna",
+            "USB": "microUSB v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~167 ppi pixel density)",
+            "Size": "2.4 inches (~25.9% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- SOS emergency help\n- Voice dial\n- Organizer\n- Photo/video viewer\n- Weather forecast\n- Predictive text input",
+            "Browser": "No",
+            "Games": "No",
+            "Java": "No",
+            "Messaging": "SMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2013, November",
+            "Status": "Available. Released 2013, November"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 16 GB",
+            "Phonebook": "200 entries"
+        },
+        "Misc": {
+            "Colors": "White, Black",
+            "Price group": "2/10 (About 60 EUR)",
+            "SAR EU": "0.80 W/kg (head) \u00a0 \u00a0 1.28 W/kg (body)"
+        },
+        "Network": {
+            "": "GSM 900 / 1900 - 2001X",
+            "2G bands": "GSM 850 / 1900 - 2001A",
+            "EDGE": "No",
+            "GPRS": "Yes",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; Polyphonic",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Alcatel 2001",
+        "image": {
+            "href": "http://www.gsmarena.com/alcatel_2001-pictures-5960.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/alcatel-2001-new.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/alcatel_2001-5960.php"
+    }
+}

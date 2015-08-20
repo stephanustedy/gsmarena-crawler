@@ -1,0 +1,75 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 750 mAh battery",
+            "Music play": "Up to 12 h",
+            "Stand-by": "Up to 450 h",
+            "Talk time": "Up to 6 h"
+        },
+        "Body": {
+            "Dimensions": "107 x 53.7 x 14 mm (4.21 x 2.11 x 0.55 in)",
+            "SIM": "Optional Dual SIM (Mini-SIM, dual stand-by)",
+            "Weight": "98 g (3.46 oz)"
+        },
+        "Camera": {
+            "Primary": "3.15 MP, 2048 x 1536 pixels",
+            "Secondary": "No",
+            "Video": "240p@15fps"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0",
+            "GPS": "No",
+            "Radio": "FM radio with RDS",
+            "USB": "microUSB v1.1",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~143 ppi pixel density)",
+            "Size": "2.8 inches (~42.3% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- Organizer\n- MP3/MP4/H.263 player\n- Photo viewer\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes",
+            "Java": "No",
+            "Messaging": "SMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2014",
+            "Status": "Available. Released 2014"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 8 GB",
+            "Internal": "16 MB",
+            "Phonebook": "1000 entries"
+        },
+        "Misc": {
+            "Colors": "Dark Chocolate",
+            "Price group": "1/10 (About 50 EUR)",
+            "SAR EU": "0.45 W/kg (head) \u00a0 \u00a0 0.77 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2 (optional)",
+            "EDGE": "",
+            "GPRS": "Yes",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; Polyphonic",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Available as:\nAlcatel 2012G\nAlcatel 2012D with dual SIM card slots",
+        "device_name": "Alcatel 2012",
+        "image": {
+            "href": "http://www.gsmarena.com/alcatel_2012-pictures-6931.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/alcatel-2012.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/alcatel_2012-6931.php"
+    }
+}

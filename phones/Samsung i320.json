@@ -1,0 +1,78 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1000 mAh battery",
+            "Stand-by": "Up to 140 h",
+            "Talk time": "Up to 3 h 30 min"
+        },
+        "Body": {
+            "Dimensions": "111 x 59 x 11.5 mm (4.37 x 2.32 x 0.45 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "95 g (3.35 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 1024 pixels, LED flash",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v1.2, A2DP",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "v1.1",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "320 x 240 pixels, 2.2 inch (~182 ppi pixel density)",
+            "Size": "2.2 inches (~22.9% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- WMV/3GP/H.263/MP4 player\n- WMA/MP3/AAC/AAC+/OGG/ASF player\n- Predictive text input\n- Organizer\n- Pocket Office",
+            "Browser": "WAP 2.0/xHTML",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2006, February",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "microSD",
+            "Internal": "128 MB"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "4/10 (About 160 EUR)",
+            "SAR EU": "0.77 W/kg (head)",
+            "SAR US": "0.47 W/kg (head) \u00a0 \u00a0 0.45 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "Yes",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Platform": {
+            "CPU": "Intel PXA 272 416 MHz",
+            "OS": "Microsoft Windows Mobile 5.0 Smartphone"
+        },
+        "Sound": {
+            "": "- Dual speaker",
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "device_name": "Samsung i320",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_i320-pictures-1442.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-i320.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_i320-1442.php"
+    }
+}

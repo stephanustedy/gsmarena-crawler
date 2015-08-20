@@ -1,0 +1,83 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po 3950 mAh battery (15 Wh)",
+            "Stand-by": "Up to 840 h (3G)",
+            "Talk time": "Up to 10 h (multimedia) (2G) / Up to 28 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "196.8 x 120 x 10.5 mm (7.75 x 4.72 x 0.41 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "328 g (11.57 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus",
+            "Secondary": "1.2 MP, 720p",
+            "Video": "1080p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual band"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "800 x 1280 pixels (~216 ppi pixel density)",
+            "Size": "7.0 inches (~60.2% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP3/WAV/WMA/AAC player\n- MP4/H.264 player\n- Document editor\n- Photo viewer/editor\n- Voice memo/dial",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2013, September",
+            "Status": "Available. Released 2013, October"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "8/16/32 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Sapphire black, Diamond white",
+            "Price group": "5/10 (About 220 EUR)"
+        },
+        "Network": {
+            "": "HSDPA - ME175CG",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 1700 / 1900 / 2100",
+            "4G bands": "LTE band 3(1800), 7(2600), 8(900), 20(800) - ME372CL",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 42.2/5.76 Mbps/ LTE (ME372CL)",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.6 GHz",
+            "Chipset": "Intel Atom Z2560",
+            "GPU": "PowerVR SGX544MP2",
+            "OS": "Android OS, v4.2 (Jelly Bean), upgradable to v4.4.2 (KitKat)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Available as:\nAsus Fonepad 7 LTE ME372CL with LTE band\nAsus Fonepad 7 ME175CG with 3G and Intel Atom Z2520 1.2 GHz processor",
+        "device_name": "Asus Fonepad 7",
+        "image": {
+            "href": "http://www.gsmarena.com/asus_fonepad_7-pictures-5674.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/asus-fonepad-7.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/asus_fonepad_7-5674.php"
+    }
+}

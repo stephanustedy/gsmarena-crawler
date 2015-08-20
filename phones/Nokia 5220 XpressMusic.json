@@ -1,0 +1,82 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1020 mAh battery (BL-5CT)",
+            "Stand-by": "Up to 406 h",
+            "Talk time": "Up to 5 h 15 min"
+        },
+        "Body": {
+            "Dimensions": "108 x 43.5 x 10.5 mm, 53 cc (4.25 x 1.71 x 0.41 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "78 g (2.75 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels",
+            "Secondary": "No",
+            "Video": "QCIF"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Wallpaper creator",
+            "Resolution": "240 x 320 pixels (~200 ppi pixel density)",
+            "Size": "2.0 inches (~26.4% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/MP4 player\n- Voice memo\n- Voice dial\n- Organizer\n- Up to 24 h music time",
+            "Browser": "WAP 2.0/xHTML, HTML, Opera Mini",
+            "Games": "Yes + Downloadable",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS, MMS 1.3 (up to 600KB), Email, Push Email, IM"
+        },
+        "Launch": {
+            "Announced": "2008, April. Released 2008, July",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- Nokia 512 MB microSD card included",
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "microSD, up to 8 GB",
+            "Internal": "30 MB",
+            "Phonebook": "2000 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Blue, Red, Green",
+            "Price group": "3/10 (About 110 EUR)",
+            "SAR EU": "1.01 W/kg (head)",
+            "SAR US": "0.92 W/kg (head) \u00a0 \u00a0 0.85 W/kg (body)"
+        },
+        "Network": {
+            "": "GSM 850 / 1800 / 1900 - American version",
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "Class 32",
+            "GPRS": "Class 32",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "": "- Dedicated music keys and rhythmic lights flash",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3, AAC, 3D, video ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        },
+        "Tests": {
+            "Audio quality": "Noise -91.7dB / Crosstalk -73.1dB",
+            "Loudspeaker": "Voice 73dB / Noise 68dB / Ring 75dB"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 5220 XpressMusic",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_5220_xpressmusic-pictures-2349.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-5220.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_5220_xpressmusic-2349.php"
+    }
+}

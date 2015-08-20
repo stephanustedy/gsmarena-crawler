@@ -1,0 +1,95 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1200 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "101.5 x 51.5 x 20.7 mm (4.00 x 2.03 x 0.81 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "112 g (3.95 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels, LED flash",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Handwriting recognition\n- Downloadable pictures",
+            "Resolution": "176 x 220 pixels",
+            "Size": "",
+            "Type": "TFT tochscreen, 256K colors"
+        },
+        "Features": {
+            "": "- TV tuner\n- Organizer",
+            "Browser": "WAP 1.2.1",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2004, 4Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "No",
+            "Phonebook": "Yes"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "Yes",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "NEC N940",
+        "image": {
+            "href": "http://www.gsmarena.com/nec_n940-pictures-919.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nen940.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nec_n940-919.php"
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po 3000 mAh battery",
+            "Stand-by": "Up to 250 h",
+            "Talk time": "Up to 4 h"
+        },
+        "Body": {
+            "Dimensions": "192.5 x 122 x 7.9 mm (7.58 x 4.80 x 0.31 in)",
+            "SIM": "No",
+            "Weight": "282 g (9.95 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "",
+            "GPS": "",
+            "Radio": "No",
+            "USB": "microUSB v2.0, USB Host",
+            "WLAN": "Wi-Fi 802.11 b/g/n"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "600 x 1024 pixels (~170 ppi pixel density)",
+            "Size": "7.0 inches (~58.7% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen"
+        },
+        "Features": {
+            "": "- HDMI port\n- MP3/WAV/WMA/AAC player\n- MP4/WMV/H.264 player\n- Photo editor\n- Document viewer\n- Voice memo",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "Email, Push Email, IM",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2013, October",
+            "Status": "Available. Released 2013, October"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "8 GB, 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "White, Black",
+            "Price group": "2/10 (About 70 EUR)"
+        },
+        "Network": {
+            "2G bands": "N/A",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "No cellular connectivity"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.5 GHz Cortex-A9",
+            "GPU": "Mali-400",
+            "OS": "Android OS, v4.1.1 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Allview City Life",
+        "image": {
+            "href": "http://www.gsmarena.com/allview_city_life-pictures-6110.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/allview-city-life.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/allview_city_life-6110.php"
+    }
+}

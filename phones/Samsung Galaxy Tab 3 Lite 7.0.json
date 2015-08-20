@@ -1,0 +1,86 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 3600 mAh battery",
+            "Music play": "Up to 200 h",
+            "Stand-by": "",
+            "Talk time": "Up to 8 h (multimedia)"
+        },
+        "Body": {
+            "Dimensions": "193.4 x 116.4 x 9.7 mm (7.61 x 4.58 x 0.38 in)",
+            "SIM": "No",
+            "Weight": "310 g (10.93 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "2 MP, 1600 x 1200 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, LE",
+            "GPS": "Yes, with GLONASS",
+            "Radio": "No",
+            "USB": "v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "600 x 1024 pixels (~170 ppi pixel density)",
+            "Size": "7.0 inches (~61.3% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/H.264 player\n- MP3/WAV/eAAC+/Flac player\n- Photo/video editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "Email, Push Email, IM",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2014, January",
+            "Status": "Available. Released 2014, February"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "8 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "White, Black, Green, Pink, Yellow",
+            "Price group": "4/10 (About 150 EUR)",
+            "SAR EU": "0.83 W/kg (body)",
+            "SAR US": "1.10 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "No cellular connectivity"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.2 GHz",
+            "Chipset": "Marvell PXA986",
+            "GPU": "Vivante GC1000",
+            "OS": "Android OS, v4.2 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -93.7dB / Crosstalk -93.9dB",
+            "Display": "Contrast ratio: 574 (nominal)"
+        }
+    },
+    "main": {
+        "canonical_name": "Tablet with no support for GSM voice communication, SMS, and MMS\nAlso known as Samsung SM-T110",
+        "device_name": "Samsung Galaxy Tab 3 Lite 7.0",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_galaxy_tab_3_lite_7_0-pictures-5969.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-tab-3-lite.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_galaxy_tab_3_lite_7_0-5969.php"
+    }
+}

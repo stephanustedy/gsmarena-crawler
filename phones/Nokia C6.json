@@ -1,0 +1,87 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1200 mAh battery (BL-4J)",
+            "Music play": "Up to 30 h",
+            "Stand-by": "Up to 384 h (2G) / Up to 384 h (3G)",
+            "Talk time": "Up to 7 h (2G) / Up to 5 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "113 x 53 x 16.8 mm, 80 cc (4.45 x 2.09 x 0.66 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "150 g (5.29 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "5 MP, 2592 x 1944 pixels, autofocus, LED flash, check quality",
+            "Secondary": "QVGA",
+            "Video": "480p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g"
+        },
+        "Display": {
+            "Resolution": "360 x 640 pixels (~229 ppi pixel density)",
+            "Size": "3.2 inches (~47.1% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP3/WMA/WAV/eAAC+ player\n- MP4/H.264/WMV player\n- Document viewer (Word, Excel, PowerPoint, PDF)\n- Voice command/dial\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML, Adobe Flash Lite",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS, MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2010, April",
+            "Status": "Available. Released 2010, July"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 16 GB, 2 GB included",
+            "Internal": "240 MB"
+        },
+        "Misc": {
+            "Colors": "White, Black",
+            "Price group": "3/10 (About 120 EUR)",
+            "SAR EU": "1.05 W/kg (head)",
+            "SAR US": "1.20 W/kg (head) \u00a0 \u00a0 1.21 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 1900 / 2100",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 1900 / 2100",
+            "EDGE": "Class 32",
+            "GPRS": "Class 32",
+            "Speed": "HSPA 3.6/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "434 MHz ARM 11",
+            "OS": "Symbian OS v9.4, Series 60 rel. 5"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3 ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -90.5dB / Crosstalk -90.4dB",
+            "Camera": "Photo",
+            "Loudspeaker": "Voice 68dB / Noise 61dB / Ring 77dB"
+        }
+    },
+    "main": {
+        "device_name": "Nokia C6",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_c6-pictures-3229.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-c6-ofic-new.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_c6-3229.php"
+    }
+}

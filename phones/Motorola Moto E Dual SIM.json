@@ -1,0 +1,92 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 1980 mAh battery",
+            "Stand-by": "",
+            "Talk time": "Up to 24 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "124.8 x 64.8 x 12.3 mm (4.91 x 2.55 x 0.48 in)",
+            "SIM": "Dual SIM (Micro-SIM, dual stand-by)",
+            "Weight": "142 g (5.01 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, panorama, HDR",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels",
+            "Secondary": "No",
+            "Video": "480p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, LE",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "Radio": "FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 3",
+            "Resolution": "540 x 960 pixels (~256 ppi pixel density)",
+            "Size": "4.3 inches (~63.0% screen-to-body ratio)",
+            "Type": "Capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Digital TV (XT1025 model only)\n- Active noise cancellation with dedicated mic\n- MP3/eAAC+/WAV/Flac player\n- DivX/WMV/MP4/H.264 player\n- Google Drive (50 GB cloud storage)\n- Photo viewer/editor\n- Voice memo/dial",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2014, May",
+            "Status": "Available. Released 2014, May"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "4 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "2/10 (About 90 EUR)",
+            "SAR EU": "0.76 W/kg (head)",
+            "SAR US": "1.50 W/kg (head) \u00a0 \u00a0 1.36 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 1700 / 1900 / 2100 - XT1025",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 2100 - XT1022",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 21.1/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.2 GHz Cortex-A7",
+            "Chipset": "Qualcomm Snapdragon 200",
+            "GPU": "Adreno 302",
+            "OS": "Android OS, v4.4.2 (KitKat), upgradable to v4.4.4 (KitKat), planned upgrade to v5.0 (Lollipop)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -93.7dB / Crosstalk -92.0dB",
+            "Battery life": "Endurance rating 60h",
+            "Display": "Contrast ratio: 1062 (nominal), 1.545 (sunlight)",
+            "Loudspeaker": "Voice 75dB / Noise 71dB / Ring 81dB",
+            "Performance": "Basemark OS II: 116"
+        }
+    },
+    "main": {
+        "canonical_name": "Available as:\nMotorola Moto E Dual SIM XT1022\nMotorola Moto E Dual TV XT1025 with Digital TV",
+        "device_name": "Motorola Moto E Dual SIM",
+        "image": {
+            "href": "http://www.gsmarena.com/motorola_moto_e_dual_sim-pictures-6323.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/motorola-moto-e.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/motorola_moto_e_dual_sim-6323.php"
+    }
+}

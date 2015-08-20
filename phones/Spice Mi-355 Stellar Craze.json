@@ -1,0 +1,79 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1420 mAh battery",
+            "Stand-by": "Up to 192 h",
+            "Talk time": "Up to 4 h"
+        },
+        "Body": {
+            "Dimensions": "118 x 62 x 11.5 mm (4.65 x 2.44 x 0.45 in)",
+            "SIM": "Dual SIM (Mini-SIM)",
+            "Weight": "80 g (2.82 oz)"
+        },
+        "Camera": {
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, LED flash",
+            "Secondary": "VGA",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "Yes",
+            "Radio": "FM radio",
+            "USB": "Yes",
+            "WLAN": "Yes"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "320 x 480 pixels (~165 ppi pixel density)",
+            "Size": "3.5 inches (~49.9% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- MP4/WMV/H.263 player\n- MP3/WAV/AAC+ player\n- Organizer\n- Photo/video editor\n- Voice memo\n- Predictive text input",
+            "Browser": "HTML",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS, MMS, Email, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2012, August",
+            "Status": "Available. Released 2012, August"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "140 MB, 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "White",
+            "Price group": "2/10 (About 100 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "800 MHz Cortex-A9",
+            "Chipset": "Mediatek MT6573",
+            "GPU": "PowerVR SGX531",
+            "OS": "Android OS, v2.3 (Gingerbread), planned upgrade to v4.0 (Ice Cream Sandwich)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Spice Mi-355 Stellar Craze",
+        "image": {
+            "href": "http://www.gsmarena.com/spice_mi_355_stellar_craze-pictures-4991.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/spice-mi-355.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/spice_mi_355_stellar_craze-4991.php"
+    }
+}

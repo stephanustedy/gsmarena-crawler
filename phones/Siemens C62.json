@@ -1,0 +1,93 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 630 mAh battery (EBA-610)",
+            "Stand-by": "Up to 250 h",
+            "Talk time": "Up to 4 h 30 min"
+        },
+        "Body": {
+            "Dimensions": "101 x 44 x 20 mm, 82 cc (3.98 x 1.73 x 0.79 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "85 g (3.00 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Navi key",
+            "Resolution": "128 x 128 pixels, 7 lines",
+            "Size": "",
+            "Type": "CSTN, 4096 colors"
+        },
+        "Features": {
+            "": "- Predictive text input\n- Organizer\n- Voice memo\n- Optional digital camera (VGA 640 x 480)",
+            "Browser": "WAP 1.2.1",
+            "Games": "2 - Achevo, Falling",
+            "Java": "No",
+            "Messaging": "SMS, EMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2003, 4Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- 600 KB memory free\n- 100 short messages\n- 100 calendar events\n- Message templates\n- 30 sec voice memo",
+            "Call records": "10 dialed, 10 received, 10 missed calls",
+            "Card slot": "No",
+            "Internal": "1.6 MB",
+            "Phonebook": "50 x 4 fields, 4 contact groups"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 8",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Siemens C62",
+        "image": {
+            "href": "http://www.gsmarena.com/siemens_c62-pictures-540.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/sic62.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/siemens_c62-540.php"
+    }
+}

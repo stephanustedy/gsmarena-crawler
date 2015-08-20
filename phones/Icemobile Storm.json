@@ -1,0 +1,97 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1000 mAh battery",
+            "Stand-by": "Up to 580 h",
+            "Talk time": "Up to 8 h"
+        },
+        "Body": {
+            "": "- Flashlight",
+            "Dimensions": "106.5 x 59 x 14.6 mm (4.19 x 2.32 x 0.57 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Triple SIM (Mini-SIM)",
+            "Weight": "-"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels, LED flash",
+            "Secondary": "Yes",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "No",
+            "Radio": "Stereo FM radio",
+            "USB": "miniUSB (charging only)",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "220 x 176 pixels (~141 ppi pixel density)",
+            "Size": "2.0 inches (~20.0% screen-to-body ratio)",
+            "Type": "TFT, 26K colors"
+        },
+        "Features": {
+            "": "- TV app\n- Organizer\n- MP4 player\n- MP3 player\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes",
+            "Java": "No",
+            "Messaging": "SMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2011, August",
+            "Status": "Available. Released 2011, September"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 8 GB",
+            "Phonebook": "300 entries"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "": "GSM 850 / 900 / 1800 / 1900 - SIM 2 & SIM 3",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, MP3, polyphonic ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Icemobile Storm",
+        "image": {
+            "href": "http://www.gsmarena.com/icemobile_storm-pictures-4193.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/icemobile-storm.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/icemobile_storm-4193.php"
+    }
+}

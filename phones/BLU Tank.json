@@ -1,0 +1,75 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1800 mAh battery",
+            "Stand-by": "Up to 1720 h",
+            "Talk time": "Up to 16 h"
+        },
+        "Body": {
+            "": "- Flashlight",
+            "Dimensions": "114 x 48 x 15 mm (4.49 x 1.89 x 0.59 in)",
+            "SIM": "Dual SIM (Mini-SIM)",
+            "Weight": "92 g (3.25 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1",
+            "GPS": "No",
+            "Radio": "Stereo FM radio",
+            "USB": "miniUSB",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "128 x 160 pixels (~114 ppi pixel density)",
+            "Size": "1.8 inches (~18.6% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- MP3/AAC/WMA/WAV player\n- MP4/H.264/WMV player\n- Built-In FM Antenna\n- Predictive text input",
+            "Browser": "No",
+            "Games": "Downloadable",
+            "Java": "No",
+            "Messaging": "SMS"
+        },
+        "Launch": {
+            "Announced": "2012, June",
+            "Status": "Available. Released 2012, June"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 8 GB",
+            "Internal": "16 MB ROM, 32 MB RAM",
+            "Phonebook": "200 entries"
+        },
+        "Misc": {
+            "Colors": "Electric Blue, Red, Yellow, White, All White, Pink",
+            "Price group": "1/10 (About 20 EUR)"
+        },
+        "Network": {
+            "": "GSM 850 / 900 / 1800 / 1900 - SIM 2 (T190 only)",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1",
+            "EDGE": "No",
+            "GPRS": "No (Planned GPRS version for Q4 2012)",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "T180 - Single SIM\nT190 - Dual SIM",
+        "device_name": "BLU Tank",
+        "image": {
+            "href": "http://www.gsmarena.com/blu_tank-pictures-4853.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/blu-tank.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/blu_tank-4853.php"
+    }
+}

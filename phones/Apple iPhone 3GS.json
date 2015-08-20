@@ -1,0 +1,89 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion battery",
+            "Music play": "Up to 30 h",
+            "Stand-by": "Up to 300 h",
+            "Talk time": "Up to 12 h (2G) / Up to 5 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "115.5 x 62.1 x 12.3 mm (4.55 x 2.44 x 0.48 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "135 g (4.76 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus",
+            "Primary": "3.15 MP, 2048 x 1536 pixels, autofocus, check quality",
+            "Secondary": "No",
+            "Video": "480p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP (headset support only)",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass, oleophobic coating",
+            "Resolution": "320 x 480 pixels (~165 ppi pixel density)",
+            "Size": "3.5 inches (~50.9% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- iCloud cloud service\n- Maps\n- Organizer\n- TV-out\n- Audio/video player/editor\n- Photo viewer/editor\n- Voice command/dial\n- Predictive text input",
+            "Browser": "HTML (Safari)",
+            "Java": "No",
+            "Messaging": "iMessage, SMS (threaded view), MMS, Email",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2009, June. Released 2009, June",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "8/16/32 GB, 256 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "3/10 (About 110 EUR)",
+            "SAR EU": "0.45 W/kg (head) \u00a0 \u00a0 0.40 W/kg (body)",
+            "SAR US": "0.26 W/kg (head) \u00a0 \u00a0 0.79 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 1900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 7.2/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "600 MHz Cortex-A8",
+            "GPU": "PowerVR SGX535",
+            "OS": "iOS 3, upgradable to iOS 6.1.3"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, proprietary ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -92.1dB / Crosstalk -95.0dB",
+            "Camera": "Photo",
+            "Display": "Contrast ratio: 201:1 (nominal)",
+            "Loudspeaker": "Voice 69dB / Noise 69dB / Ring 71dB"
+        }
+    },
+    "main": {
+        "device_name": "Apple iPhone 3GS",
+        "image": {
+            "href": "http://www.gsmarena.com/apple_iphone_3gs-pictures-2826.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/apple-iphone-3gs-ofic.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/apple_iphone_3gs-2826.php"
+    }
+}

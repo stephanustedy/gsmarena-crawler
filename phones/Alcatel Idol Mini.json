@@ -1,0 +1,84 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1700 mAh battery",
+            "Stand-by": "Up to 540 h (2G) / Up to 450 h (3G)",
+            "Talk time": "Up to 20 h (2G) / Up to 9 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "127.1 x 62 x 7.9 mm (5.00 x 2.44 x 0.31 in)",
+            "SIM": "Dual SIM (Micro-SIM, dual stand-by)",
+            "Weight": "96 g (3.39 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection, panorama",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, LED flash",
+            "Secondary": "Yes",
+            "Video": "720p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes, up to 5 fingers",
+            "Protection": "Oleophobic coating",
+            "Resolution": "480 x 854 pixels (~228 ppi pixel density)",
+            "Size": "4.3 inches (~64.7% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP3/AAC+/WAV player\n- MP4/H.264 player\n- Document viewer\n- Photo viewer/editor\n- Voice memo",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2013, August",
+            "Status": "Available. Released 2013, December"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB (only single SIM version)",
+            "Internal": "4 GB, 512 MB RAM (Singlel SIM)/ 8 GB, 512 MB RAM (Dual SIM)"
+        },
+        "Misc": {
+            "Colors": "Cranberry Pink, Silver, Slate",
+            "Price group": "3/10 (About 130 EUR)",
+            "SAR EU": "0.94 W/kg (head) \u00a0 \u00a0 1.29 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 1700 / 1900 / 2100 - 6012W",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - all versions",
+            "3G bands": "HSDPA 850 / 1900 / 2100 - 6012A/6012E",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 21.1/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.3 GHz Cortex-A7",
+            "Chipset": "Mediatek MT6572",
+            "GPU": "Mali-400",
+            "OS": "Android OS, v4.2 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Alcatel OT-6012X, Alcatel OT-6012A, Alcatel OT-6012W\nAvailable as Alcatel OT-6012D, Alcatel OT-6012E with dual SIM card support",
+        "device_name": "Alcatel Idol Mini",
+        "image": {
+            "href": "http://www.gsmarena.com/alcatel_idol_mini-pictures-5669.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/alcatel-mini-new.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/alcatel_idol_mini-5669.php"
+    }
+}

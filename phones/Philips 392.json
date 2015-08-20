@@ -1,0 +1,74 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 980 mAh battery",
+            "Stand-by": "Up to 655 h",
+            "Talk time": "Up to 5 h"
+        },
+        "Body": {
+            "Dimensions": "105 x 47 x 13.8 mm (4.13 x 1.85 x 0.54 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "83 g (2.93 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 1024 pixels",
+            "Secondary": "No",
+            "Video": "120p"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "miniUSB",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Handwriting recognition\n- 4-way navigation key\n- Screensavers and wallpapers",
+            "Resolution": "240 x 320 pixels (~167 ppi pixel density)",
+            "Size": "2.4 inches (~36.1% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/MP4 player\n- Female calendar\n- ENG/CHN and CHN/ENG dictionary\n- Voice memo",
+            "Browser": "WAP",
+            "Games": "2 embedded",
+            "Java": "No",
+            "Messaging": "SMS, EMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2008, January. Released 2008",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "30 received, dialed and missed calls",
+            "Card slot": "microSD",
+            "Internal": "11 MB",
+            "Phonebook": "Yes, Photocall"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "SAR EU": "1.83 W/kg (head)",
+            "SAR US": "1.02 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Philips 392",
+        "image": {
+            "href": "http://www.gsmarena.com/philips_392-pictures-2238.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/philips-392.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/philips_392-2238.php"
+    }
+}

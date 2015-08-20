@@ -1,0 +1,79 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 900 mAh battery (BL-5C)",
+            "Stand-by": "Up to 250 h",
+            "Talk time": "Up to 3 h"
+        },
+        "Body": {
+            "Dimensions": "109 x 53 x 19 mm, 93 cc (4.29 x 2.09 x 0.75 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "118 g (4.16 oz)"
+        },
+        "Camera": {
+            "Primary": "1 MP, 1152x864 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v1.1",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "Pop-Port",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "176 x 208 pixels (~130 ppi pixel density)",
+            "Size": "2.1 inches, 35 x 41 mm (~24.3% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- MP3/AAC player\n- Predictive text input\n- Organizer\n- Voice command/memo\n- Xpress-on Style Packs",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Java": "Yes, MIDP 2.0",
+            "Languages": "39 for menus, 22 for T9",
+            "Messaging": "SMS, MMS, Email, Instant messaging"
+        },
+        "Launch": {
+            "Announced": "2004, March",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- 10 min video clips\n- Movie editor",
+            "Card slot": "RS-MMC, 64 MB included",
+            "Internal": "8 MB"
+        },
+        "Misc": {
+            "Colors": "Ruby and Onyx",
+            "SAR EU": "0.49 W/kg (head)",
+            "SAR US": "0.90 W/kg (head) \u00a0 \u00a0 0.88 W/kg (body)"
+        },
+        "Network": {
+            "": "GSM 850 / 1800 / 1900 - Nokia 7610B for US",
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 6",
+            "Technology": "GSM"
+        },
+        "Platform": {
+            "CPU": "123 MHz ARM925T",
+            "Chipset": "TI OMAP 1510",
+            "OS": "Symbian OS v7.0s, Series 60 v2.0 UI"
+        },
+        "Sound": {
+            "": "- 2.5 mm audio jack",
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, monophonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 7610",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_7610-pictures-703.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/no7610.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_7610-703.php"
+    }
+}

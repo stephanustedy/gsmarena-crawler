@@ -1,0 +1,82 @@
+{
+    "data": {
+        "Battery": {
+            "": "Removable Li-Ion 4450 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "": "- IP67 certified - dust and water resistant up to 1 meter and 30 minutes\n- Shock protection up to 1.2 meters drop (via protective cover included with tablet)\n- C-Pen stylus",
+            "Dimensions": "213.1 x 126.2 x 9.7 mm (8.39 x 4.97 x 0.38 in)",
+            "SIM": "No",
+            "Weight": "393 g (13.86 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "3.15 MP, 2048 x 1536 pixels, autofocus, LED flash",
+            "Secondary": "1.2 MP",
+            "Video": "720p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, LE",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "NFC": "Yes",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, hotspot"
+        },
+        "Display": {
+            "": "- Samsung TouchWiz UI",
+            "Multitouch": "Yes",
+            "Resolution": "800 x 1280 pixels (~189 ppi pixel density)",
+            "Size": "8.0 inches (~69.0% screen-to-body ratio)",
+            "Type": "LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Dropbox (50 GB cloud storage)\n- MP4/H.264/WMV player\n- MP3/WAV/eAAC+/WMA/Flac player\n- Photo/video editor\n- Document editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "Email, Push Email, IM",
+            "Sensors": "Accelerometer, gyro, compass"
+        },
+        "Launch": {
+            "Announced": "2014, September",
+            "Status": "Available. Released 2014, December"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "16 GB, 1.5 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Titanium Green",
+            "Price group": "8/10 (About 500 EUR)"
+        },
+        "Network": {
+            "2G bands": "N/A",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "No cellular connectivity"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.2 GHz Cortex-A7",
+            "Chipset": "Qualcomm Snapdragon 400",
+            "GPU": "Adreno 305",
+            "OS": "Android OS, v4.4.2 (KitKat)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "canonical_name": "Tablet with no support for GSM voice communication, SMS, and MMS\nAlso known as Samsung SM-T360",
+        "device_name": "Samsung Galaxy Tab Active",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_galaxy_tab_active-pictures-6659.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-tab-active.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_galaxy_tab_active-6659.php"
+    }
+}

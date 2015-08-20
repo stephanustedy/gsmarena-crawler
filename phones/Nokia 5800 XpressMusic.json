@@ -1,0 +1,86 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1320 mAh battery (BL-5J)",
+            "Music play": "Up to 35 h",
+            "Stand-by": "Up to 406 h (2G) / Up to 406 h (3G)",
+            "Talk time": "Up to 8 h 45 min (2G) / Up to 5 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "111 x 51.7 x 15.5 mm, 83 cc (4.37 x 2.04 x 0.61 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "109 g (3.84 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "3.15 MP, 2048 x 1536 pixels, Carl Zeiss optics, autofocus, dual-LED flash",
+            "Secondary": "QVGA videocall camera",
+            "Video": "480p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "Yes, with A-GPS; Nokia Maps 2.0 Touch",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g, UPnP technology"
+        },
+        "Display": {
+            "": "- Handwriting recognition",
+            "Resolution": "360 x 640 pixels (~229 ppi pixel density)",
+            "Size": "3.2 inches (~49.2% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/H.264/WMV player\n- MP3/WAV/\u0435AAC+/WMA player\n- Photo editor\n- Organizer\n- Voice command/dial\n- TV-out\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML, Adobe Flash Lite",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS, MMS, Email, Instant Messaging",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2008, October. Released 2008, November",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 16 GB, 8 GB included",
+            "Internal": "81 MB, 128 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, Red, Blue",
+            "Price group": "3/10 (About 130 EUR)",
+            "SAR EU": "0.97 W/kg (head)",
+            "SAR US": "1.11 W/kg (head) \u00a0 \u00a0 0.90 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 1900 - American version",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Class 32",
+            "GPRS": "Class 32",
+            "Speed": "HSPA 3.6/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "434 MHz ARM 11",
+            "OS": "Symbian OS v9.4, Series 60 rel. 5"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        },
+        "Tests": {
+            "Audio quality": "Noise -92.2dB / Crosstalk -75.0dB",
+            "Loudspeaker": "Voice 75dB / Noise 66dB / Ring 68dB"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 5800 XpressMusic",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_5800_xpressmusic-pictures-2537.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-5800-xpressmusic.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_5800_xpressmusic-2537.php"
+    }
+}

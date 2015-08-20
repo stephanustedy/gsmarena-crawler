@@ -1,0 +1,68 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 800 mAh battery (BL-5CB)",
+            "Stand-by": "Up to 648 h",
+            "Talk time": "Up to 11 h"
+        },
+        "Body": {
+            "": "- Flashlight",
+            "Dimensions": "107.2 x 45.1 x 15.3 mm (4.22 x 1.78 x 0.60 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "76.6 g (2.68 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "Stereo FM radio",
+            "USB": "No",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "96 x 68 pixels (~87 ppi pixel density)",
+            "Size": "1.36 inches (~11.6% screen-to-body ratio)",
+            "Type": "Monochrome graphic"
+        },
+        "Features": {
+            "Browser": "No",
+            "Games": "Yes",
+            "Java": "No",
+            "Messaging": "SMS"
+        },
+        "Launch": {
+            "Announced": "2012, April",
+            "Status": "Available. Released 2012, Q4"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "No",
+            "Phonebook": "500 entries"
+        },
+        "Misc": {
+            "Colors": "Blue/Orange",
+            "Price group": "1/10 (About 10 EUR)",
+            "SAR EU": "1.15 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; Polyphonic(32)",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 103",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_103-pictures-4690.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-103.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_103-4690.php"
+    }
+}

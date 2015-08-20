@@ -1,0 +1,80 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 2550 mAh battery",
+            "Stand-by": "Up to 700 h",
+            "Talk time": "Up to 4 h 12 min"
+        },
+        "Body": {
+            "Dimensions": "152 x 79 x 10.3 mm (5.98 x 3.11 x 0.41 in)",
+            "SIM": "Dual SIM",
+            "Weight": "196.3 g (6.91 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face/smile detection",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, dual-LED flash",
+            "Secondary": "5 MP",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0, USB Host",
+            "WLAN": "Yes"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "540 x 960 pixels (~208 ppi pixel density)",
+            "Size": "5.3 inches (~64.5% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP4/WMV/H.263 player\n- MP3/WAV/AAC+ player\n- Document viewer\n- Photo/video editor",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2013, May",
+            "Status": "Available. Released 2013, May"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "16 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Brown",
+            "Price group": "5/10 (About 210 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 900 / 2100 - SIM 1 & SIM 2",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.2 GHz Cortex-A7",
+            "Chipset": "Mediatek MT6589",
+            "GPU": "PowerVR SGX544",
+            "OS": "Android OS, v4.2 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Spice Mi-535 Stellar Pinnacle Pro",
+        "image": {
+            "href": "http://www.gsmarena.com/spice_mi_535_stellar_pinnacle_pro-pictures-5440.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/spice-mi-535.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/spice_mi_535_stellar_pinnacle_pro-5440.php"
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 2000 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "137 x 69 x 9.9 mm (5.39 x 2.72 x 0.39 in)",
+            "SIM": "Dual SIM (Mini-SIM, dual stand-by)",
+            "Weight": "158 g (5.57 oz)"
+        },
+        "Camera": {
+            "Features": "1.4 \u00b5m pixel size, geo-tagging, touch focus, face/smile detection, HDR",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash, check quality",
+            "Secondary": "1.6 MP, 720p@30fps",
+            "Video": "1080p@30fps, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, LE",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0, USB Host",
+            "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot"
+        },
+        "Display": {
+            "": "- MIUI 6.0",
+            "Multitouch": "Yes",
+            "Protection": "AGC Dragontrail glass",
+            "Resolution": "720 x 1280 pixels (~312 ppi pixel density)",
+            "Size": "4.7 inches (~64.4% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP4/H.264 player\n- MP3/WAV/eAAC+/FLAC player\n- Photo/video editor\n- Document viewer \n- Voice memo/dial/commands",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2014, May",
+            "Status": "Available. Released 2014, May"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "8 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, Chinese Red, Metallic Gray/ blue, green, yellow panels",
+            "Price group": "3/10 (About 120 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.6 GHz Cortex-A7",
+            "Chipset": "Qualcomm MSM8228 Snapdragon 400",
+            "GPU": "Adreno 305",
+            "OS": "Android OS, v4.3 (Jelly Bean), upgradable to v4.4 (KitKat)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -95.4dB / Crosstalk -82.3dB",
+            "Battery life": "Endurance rating 51h",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 1370 (nominal), 1.350 (sunlight)",
+            "Loudspeaker": "Voice 66dB / Noise 65dB / Ring 71dB",
+            "Performance": "Basemark OS II: 394 / Basemark OS II 2.0: 454"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Xiaomi Hongmi 1S",
+        "device_name": "Xiaomi Redmi 1S",
+        "image": {
+            "href": "http://www.gsmarena.com/xiaomi_redmi_1s-pictures-6373.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/Xiaomi-Hongmi-Redmi-1s.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/xiaomi_redmi_1s-6373.php"
+    }
+}

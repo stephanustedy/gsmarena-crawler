@@ -1,0 +1,100 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 2600 mAh battery",
+            "Music play": "Up to 50 h",
+            "Stand-by": "",
+            "Talk time": "Up to 18 h (3G)"
+        },
+        "Body": {
+            "": "- Fingerprint sensor (PayPal certified)\n- Samsung Pay (Visa, MasterCard certified)",
+            "Build": "Corning Gorilla Glass 4 back panel",
+            "Dimensions": "142.1 x 70.1 x 7 mm (5.59 x 2.76 x 0.28 in)",
+            "SIM": "Nano-SIM",
+            "Weight": "132 g (4.66 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection, Auto HDR, panorama",
+            "Primary": "16 MP, 2988 x 5312 pixels, optical image stabilization, autofocus, LED flash, check quality",
+            "Secondary": "5 MP, 1440p@30fps, dual video call, Auto HDR",
+            "Video": "2160p@30fps, 1080p@60fps, 720p@120fps, HDR, dual-video rec., check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v4.1, A2DP, LE, apt-X",
+            "GPS": "Yes, with A-GPS, GLONASS, Beidou",
+            "Infrared port": "Yes",
+            "NFC": "Yes",
+            "Radio": "No",
+            "USB": "microUSB v2.0, USB Host",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot"
+        },
+        "Display": {
+            "": "- TouchWiz UI\n- Curved edge screen",
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 4",
+            "Resolution": "1440 x 2560 pixels (~577 ppi pixel density)",
+            "Size": "5.1 inches (~71.7% screen-to-body ratio)",
+            "Type": "Super AMOLED capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Wireless charging (Qi/PMA) - market dependent\n- ANT+ support\n- S-Voice natural language commands and dictation\n- Smart stay\n- OneDrive (115 GB cloud storage)\n- Active noise cancellation with dedicated mic\n- MP4/DivX/XviD/WMV/H.264 player\n- MP3/WAV/WMA/eAAC+/FLAC player\n- Photo/video editor\n- Document editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass, barometer, heart rate, SpO2"
+        },
+        "Launch": {
+            "Announced": "2015, March",
+            "Status": "Available. Released 2015, April"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "32/64/128 GB, 3 GB RAM"
+        },
+        "Misc": {
+            "Colors": "White Pearl, Black Sapphire, Gold Platinum, Green Emerald",
+            "Price group": "9/10 (About 710 EUR)",
+            "SAR EU": "0.33 W/kg (head) \u00a0 \u00a0 0.59 W/kg (body)",
+            "SAR US": "1.58 W/kg (head) \u00a0 \u00a0 1.34 W/kg (body)"
+        },
+        "Network": {
+            "": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 17(700), 20(800) - SM-G925A",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+            "4G bands": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 12(700), 17(700), 18(800), 19(800), 20(800), 26(850) - SM-G925F",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat6 300/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.5 GHz Cortex-A53 & Quad-core 2.1 GHz Cortex-A57",
+            "Chipset": "Exynos 7420",
+            "GPU": "Mali-T760MP8",
+            "OS": "Android OS, v5.0.2 (Lollipop), upgradable to v5.1.1 (Lollipop)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -95.6dB / Crosstalk -95.7dB",
+            "Battery life": "Endurance rating 73h",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: Infinite (nominal), 4.124 (sunlight)",
+            "Loudspeaker": "Voice 69dB / Noise 66dB / Ring 73dB",
+            "Performance": "Basemark OS II 2.0: 1750 / Basemark X: 27046"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Samsung Galaxy S6 edge SM-G925\nAvailable versions: SM-G9250 (China, HK), SM-G925A (AT&T), SM-G925F (Global), SM-G925FQ (Turkey), SM-G925I (LATAM, Singapore, India, Australia), SM-G925K (Korea), SM-G925L, SM-G925S (Korea), SM-G925T (T-Mobile)",
+        "device_name": "Samsung Galaxy S6 edge",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_galaxy_s6_edge-pictures-7079.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s6-edge.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_galaxy_s6_edge-7079.php"
+    }
+}

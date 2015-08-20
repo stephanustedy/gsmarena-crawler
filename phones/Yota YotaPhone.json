@@ -1,0 +1,86 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 1800 mAh battery",
+            "Music play": "Up to 48 h",
+            "Stand-by": "Up to 282 h (2G) / Up to 327 h (3G)",
+            "Talk time": "Up to 22 h (2G) / Up to 15 h (3G)"
+        },
+        "Body": {
+            "Build": "Corning Gorilla Glass back panel",
+            "Dimensions": "133.6 x 67 x 10 mm (5.26 x 2.64 x 0.39 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "146 g (5.15 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection",
+            "Primary": "13 MP, 4128 x 3096 pixels, autofocus, LED flash",
+            "Secondary": "1 MP",
+            "Video": "1080p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, LE",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, hotspot"
+        },
+        "Display": {
+            "": "- Secondary always-on grayscale capacitive touchscreen, 360 x 640 pixels (170 ppi), 4.3 inches",
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "720 x 1280 pixels (~342 ppi pixel density)",
+            "Size": "4.3 inches (~56.9% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP4/H.264 player\n- MP3/WAV/eAAC+ player\n- Photo editor\n- Document viewer",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2012, December",
+            "Status": "Available. Released 2013, November"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "32 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "8/10 (About 420 EUR)",
+            "SAR EU": "0.57 W/kg (head) \u00a0 \u00a0 0.28 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 1800 / 2100",
+            "4G bands": "LTE band 3(1800), 7(2600), 20(800)",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 42.2/11.5 Mbps, LTE Cat3 100/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.7 GHz Krait",
+            "Chipset": "Qualcomm MSM8960T Snapdragon S4 Pro",
+            "GPU": "Adreno 320",
+            "OS": "Android OS, v4.2.2 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Yota YotaPhone",
+        "image": {
+            "href": "http://www.gsmarena.com/yota_yotaphone-pictures-6961.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/yotaphone-1.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/yota_yotaphone-6961.php"
+    }
+}

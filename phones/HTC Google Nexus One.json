@@ -1,0 +1,89 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1400 mAh battery",
+            "Music play": "Up to 20 hours",
+            "Stand-by": "Up to 290 h (2G) / Up to 250 h (3G)",
+            "Talk time": "Up to 10 hours (2G) / Up to 7 hours (3G)"
+        },
+        "Body": {
+            "": "- Trackball",
+            "Dimensions": "119 x 59.8 x 11.5 mm (4.69 x 2.35 x 0.45 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "130 g (4.59 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "5 MP, 2560 x 1920 pixels, autofocus, LED flash, check quality",
+            "Secondary": "No",
+            "Video": "480p@24fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Factory locked by default, can be enabled",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 a/b/g"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "480 x 800 pixels (~252 ppi pixel density)",
+            "Size": "3.7 inches (~54.8% screen-to-body ratio)",
+            "Type": "AMOLED capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated microphone\n- Dedicated search key\n- MP3/eAAC+/WAV player\n- MP4/H.264 player\n- Voice memo\n- Predictive text input",
+            "Browser": "HTML",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2010, January",
+            "Status": "Available. Released 2010, January"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB, 4 GB included",
+            "Internal": "512 MB RAM, 512 MB"
+        },
+        "Misc": {
+            "Colors": "Brown (teflon coating)",
+            "Price group": "3/10 (About 120 EUR)",
+            "SAR US": "0.37 W/kg (head) \u00a0 \u00a0 0.74 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 1900 / 2100 - for AT&T, Rogers Wireless",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 1700 / 2100",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Speed": "HSPA 7.2/2 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "1 GHz Scorpion",
+            "Chipset": "Qualcomm QSD8250 Snapdragon S1",
+            "GPU": "Adreno 200",
+            "OS": "Android OS, v2.1 (Eclair), upgradable to v2.3.6 (Gingerbread)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -86.1dB / Crosstalk -85.2dB",
+            "Camera": "Photo",
+            "Loudspeaker": "Voice 69dB / Noise 66dB / Ring 79dB"
+        }
+    },
+    "main": {
+        "device_name": "HTC Google Nexus One",
+        "image": {
+            "href": "http://www.gsmarena.com/htc_google_nexus_one-pictures-3069.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/htc-google-nexus-one-final.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/htc_google_nexus_one-3069.php"
+    }
+}

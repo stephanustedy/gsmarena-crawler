@@ -1,0 +1,76 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 800 mAh battery",
+            "Stand-by": "Up to 192 h",
+            "Talk time": "Up to 7 h"
+        },
+        "Body": {
+            "Dimensions": "96 x 46.5 x 18.5 mm (3.78 x 1.83 x 0.73 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "85 g (3.00 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "160x120@15fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0",
+            "GPS": "No",
+            "Radio": "Stereo FM radio, FM recording",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second external STN monochrome display (96x96 pixels)",
+            "Resolution": "128 x 160 pixels (~116 ppi pixel density)",
+            "Size": "1.77 inches (~22.1% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- MP4 player\n- Organizer\n- Voice memo\n- Predictive text input\n- Mobile Tracker",
+            "Browser": "WAP 2.0/xHTML (Openwave 6.2.3)",
+            "Games": "Yes",
+            "Java": "No",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2009, February",
+            "Status": "Available. Released 2009, May"
+        },
+        "Memory": {
+            "Call records": "30 dialed, 30 received, 30 missed calls",
+            "Card slot": "No",
+            "Internal": "9 MB",
+            "Phonebook": "1000 entries"
+        },
+        "Misc": {
+            "Colors": "Gray",
+            "Price group": "2/10 (About 50 EUR)",
+            "SAR EU": "0.99 W/kg (head)",
+            "SAR US": "0.92 W/kg (head) \u00a0 \u00a0 0.44 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Samsung E2210 Hello Kitty",
+        "device_name": "Samsung E2210B",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_e2210b-pictures-2712.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-e2210.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_e2210b-2712.php"
+    }
+}

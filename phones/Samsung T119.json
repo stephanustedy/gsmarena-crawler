@@ -1,0 +1,66 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1000 mAh battery",
+            "Stand-by": "144 h",
+            "Talk time": "4 h"
+        },
+        "Body": {
+            "Dimensions": "104.9 x 44.7 x 14.2 mm (4.13 x 1.76 x 0.56 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "83 g (2.93 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "128 x 128 pixels (~111 ppi pixel density)",
+            "Size": "1.63 inches (~18.3% screen-to-body ratio)",
+            "Type": "CSTN, 65K colors"
+        },
+        "Features": {
+            "": "- Organizer\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes",
+            "Java": "Yes",
+            "Messaging": "SMS"
+        },
+        "Launch": {
+            "Announced": "2008. Released 2008",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "30 dialed, 30 received, 30 missed calls",
+            "Card slot": "No",
+            "Internal": "1.5 MB",
+            "Phonebook": "Yes, up to 500 entries"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "1/10 (About 40 EUR)",
+            "SAR US": "0.95 W/kg (head) \u00a0 \u00a0 0.88 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "For T-Mobile",
+        "device_name": "Samsung T119",
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_t119-2765.php"
+    }
+}

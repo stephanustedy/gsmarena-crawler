@@ -1,0 +1,82 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1500 mAh battery",
+            "Stand-by": "Up to 650 h",
+            "Talk time": "Up to 8 h"
+        },
+        "Body": {
+            "Dimensions": "117 x 64.8 x 11.6 mm (4.61 x 2.55 x 0.46 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "126 g (4.44 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "3.15 MP, 2048 x 1536 pixels, LED flash",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "-",
+            "Size": "2.6 inches (~27.6% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/AAC+/WAV/WMA player\n- MP4/H.264 player\n- Document viewer\n- Photo viewer/editor\n- Organizer\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2012, April",
+            "Status": "Available. Released 2012, April"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "150 MB"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "3/10 (About 120 EUR)",
+            "SAR EU": "0.79 W/kg (head) \u00a0 \u00a0 0.87 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 7.2/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "650 MHz Cortex-A9",
+            "Chipset": "Mediatek MT6573",
+            "GPU": "PowerVR SGX531",
+            "OS": "Android OS, v2.3 (Gingerbread)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Alcatel OT-916",
+        "image": {
+            "href": "http://www.gsmarena.com/alcatel_ot_916-pictures-4732.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/alcatel-ot916.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/alcatel_ot_916-4732.php"
+    }
+}

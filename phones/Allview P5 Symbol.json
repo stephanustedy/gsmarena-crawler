@@ -1,0 +1,80 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1700 mAh battery",
+            "Stand-by": "Up to 280 h",
+            "Talk time": "Up to 6 h 40 min (2G) / Up to 5 h 40 min (3G)"
+        },
+        "Body": {
+            "": "- Capacitive stylus",
+            "Dimensions": "136.6 x 69.8 x 10.9 mm (5.38 x 2.75 x 0.43 in)",
+            "SIM": "Dual SIM (dual stand-by)",
+            "Weight": "147.7 (5.19 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face/smile detection, HDR, panorama",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, LED flash",
+            "Secondary": "VGA",
+            "Video": "720p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot, Wi-Fi Direct"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "480 x 854 pixels (~212 ppi pixel density)",
+            "Size": "4.63 inches (~62.0% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen"
+        },
+        "Features": {
+            "": "- MP3/AAC/WAV player\n- MP4/H.264 player\n- Document viewer\n- Photo viewer/editor\n- Voice memo/dial",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2013, December",
+            "Status": "Available. Released 2013, December"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "4 GB, 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "4/10 (About 160 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Class 10",
+            "GPRS": "Class 12",
+            "Speed": "HSPA",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.2 GHz Cortex-A7",
+            "GPU": "Mali-400",
+            "OS": "Android OS, v4.2.2 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Allview P5 Symbol",
+        "image": {
+            "href": "http://www.gsmarena.com/allview_p5_symbol-pictures-6017.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/allview-p5-symbol.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/allview_p5_symbol-6017.php"
+    }
+}

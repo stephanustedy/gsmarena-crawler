@@ -1,0 +1,85 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 860 mAh battery",
+            "Music play": "Up to 29 h",
+            "Stand-by": "Up to 300 h (2G) / Up to 250 h (3G)",
+            "Talk time": "Up to 4 h (2G) / Up to 3 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "95.2 x 46.1 x 15.9 mm, 52 cc (3.75 x 1.81 x 0.63 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "110 g (3.88 oz)"
+        },
+        "Camera": {
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, Carl Zeiss optics, autofocus, LED flash, check quality",
+            "Secondary": "VGA",
+            "Video": "480p@15fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "Stereo FM radio with RDS; Visual radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~182 ppi pixel density)",
+            "Size": "2.2 inches (~34.2% screen-to-body ratio)",
+            "Type": "TFT, 16M colors"
+        },
+        "Features": {
+            "": "- Ovi Maps\n- WMV/RV/MP4/3GP player\n- MP3/WMA/WAV/RA/AAC/M4A player\n- Organizer\n- Voice memo",
+            "Browser": "WAP 2.0/xHTML, HTML, Adobe Flash Lite",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2009, November",
+            "Status": "Available. Released 2010, April"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 16 GB, 2 GB included",
+            "Internal": "45 MB, 128 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Aluminum, Pink, Petrol-blue, Red, Lime, Purple",
+            "Price group": "2/10 (About 90 EUR)",
+            "SAR EU": "0.91 W/kg (head)",
+            "SAR US": "1.02 W/kg (head) \u00a0 \u00a0 0.73 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 1900 / 2100 - American version",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 1900 / 2100",
+            "EDGE": "Class 32, 296 / 177.6 kbits",
+            "GPRS": "Class 32",
+            "Speed": "HSPA 10.2/2 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "600 MHz ARM 11",
+            "OS": "Symbian OS v9.3, S60 rel. 3.2"
+        },
+        "Sound": {
+            "": "- 2.5 mm audio jack",
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -90.0dB / Crosstalk -90.9dB",
+            "Camera": "Photo",
+            "Loudspeaker": "Voice 75dB / Noise 65dB / Ring 82dB"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 6700 slide",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_6700_slide-pictures-3035.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-6700-slide.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_6700_slide-3035.php"
+    }
+}

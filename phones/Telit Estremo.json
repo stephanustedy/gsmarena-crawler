@@ -1,0 +1,89 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1000 mAh battery",
+            "Stand-by": "70 h",
+            "Talk time": "5 h"
+        },
+        "Body": {
+            "": "- Water and shock resistant",
+            "Dimensions": "134 x 53 x 24 mm (5.28 x 2.09 x 0.94 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "176 g (6.21 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Dynamic font size\n- Fixed icons\n- Softkeys",
+            "Resolution": "4 lines",
+            "Size": "",
+            "Type": "Monochrome graphic"
+        },
+        "Features": {
+            "Alarm": "Yes",
+            "Browser": "",
+            "Clock": "Yes",
+            "Games": "No",
+            "Java": "No",
+            "Messaging": "SMS"
+        },
+        "Launch": {
+            "Announced": "1999",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "",
+            "Card slot": "No",
+            "Phonebook": ""
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Monophonic ringtones, composer",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Telit Estremo",
+        "index": 1,
+        "url": "http://www.gsmarena.com/telit_estremo-187.php"
+    }
+}

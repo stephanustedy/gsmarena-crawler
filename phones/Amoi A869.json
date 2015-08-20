@@ -1,0 +1,93 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 720 mAh battery",
+            "Stand-by": "Up to 220 h",
+            "Talk time": "Up to 6 h"
+        },
+        "Body": {
+            "": "- Flashlight",
+            "Dimensions": "93 x 46 x 23.8 mm (3.66 x 1.81 x 0.94 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "92.5 g (3.25 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels, LED flash",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "miniUSB",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second external OLED display, 96 x 64 pixels, 1.0 inches",
+            "Resolution": "240 x 320pixels (~200 ppi pixel density)",
+            "Size": "2.0 inches (~29.0% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/ MP4 Player\n- PC Sync\n- TV-out\n- Voice memo\n- Photo editor\n- Organizer\n- Stop Watch\n- World Time",
+            "Browser": "WAP 2.0",
+            "Games": "Yes",
+            "Java": "Yes",
+            "Messaging": "SMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2006, 2Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "No",
+            "Internal": "128 MB",
+            "Phonebook": "1000 entries"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3, MIDI ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Amoi A869",
+        "index": 1,
+        "url": "http://www.gsmarena.com/amoi_a869-1644.php"
+    }
+}

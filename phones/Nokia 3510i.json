@@ -1,0 +1,72 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 950 mAh battery (BLC-2)",
+            "Stand-by": "up to 13 days",
+            "Talk time": "2h 30min - 4h 30min"
+        },
+        "Body": {
+            "Dimensions": "118 x 50 x 17 mm, 98 cc (4.65 x 1.97 x 0.67 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "106 g (3.74 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Screensavers with clock\n- Wallpapers\n- Dynamic font size\n- Softkey",
+            "Resolution": "96 x 65 pixels",
+            "Size": "",
+            "Type": "CSTN, 4096 colors"
+        },
+        "Features": {
+            "": "- Predictive text input\n- Smart messaging\n- Organizer\n- Voice Dial\n- Customizable and downloadable profiles",
+            "Alarm": "Yes",
+            "Browser": "WAP 1.2.1",
+            "Clock": "Yes",
+            "Games": "Java games",
+            "Java": "No",
+            "Languages": "Country dependant",
+            "Messaging": "SMS, MMS"
+        },
+        "Launch": {
+            "Announced": "4Q, 2002",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- Dynamic phonebook memory\n- Editable message templates\n- 10 voice dial numbers\n- 100-500 Calendar notes",
+            "Call records": "20 dialed, 10 received, 10 missed calls",
+            "Card slot": "No",
+            "Phonebook": "500 (3 + 1 text)"
+        },
+        "Misc": {
+            "Colors": "Xpress-on covers",
+            "SAR EU": "0.66 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "Class 4",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, monophonic ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 3510i",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_3510i-pictures-344.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/no3510i.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_3510i-344.php"
+    }
+}

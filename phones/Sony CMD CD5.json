@@ -1,0 +1,91 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 500 mAh battery",
+            "Stand-by": "50 - 180 h",
+            "Talk time": "4 - 6 h"
+        },
+        "Body": {
+            "Dimensions": "139 x 45 x 26 mm, 120 cc (5.47 x 1.77 x 1.02 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "139 g (4.90 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Fixed icons\n- Jog Dial\n- Blue LCD crystals",
+            "Resolution": "97 x 32 pixels, 4 lines",
+            "Size": "",
+            "Type": "Monochrome graphic"
+        },
+        "Features": {
+            "": "- Predictive text input\n- 2 vibration types",
+            "Alarm": "Yes",
+            "Browser": "",
+            "Clock": "Yes",
+            "Games": "No",
+            "Java": "No",
+            "Messaging": "SMS"
+        },
+        "Launch": {
+            "Announced": "2000",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- Message templates",
+            "Call records": "",
+            "Card slot": "No",
+            "Phonebook": "100"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "": "- Ringtones can be assigned to phonebook entries",
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Monophonic ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Sony CMD CD5",
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_cmd_cd5-132.php"
+    }
+}

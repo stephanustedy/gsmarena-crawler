@@ -1,0 +1,79 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1500 mAh battery",
+            "Stand-by": "Up to 600 h",
+            "Talk time": "Up to 10 h"
+        },
+        "Body": {
+            "Dimensions": "114.9 x 59 x 10.8 mm (4.52 x 2.32 x 0.43 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "111 g (3.92 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "3.15 MP, 2048 x 1536 pixels, autofocus",
+            "Secondary": "Yes",
+            "Video": "320p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g"
+        },
+        "Display": {
+            "Resolution": "320 x 320 pixels (~173 ppi pixel density)",
+            "Size": "2.62 inches (~32.7% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- MP3/WMA/WAV/AAC+ player\n- MP4/WMV9/H.264 player\n- Windows Live, Yahoo!, AOL\n- Microsoft Outlook Mobile\n- Pocket Office \n- Voice memo/dial/commands\n- Predictive text input",
+            "Browser": "WAP 2.0 / xHTML, HTML, Adobe Flash Lite",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email, Push Email, IM"
+        },
+        "Launch": {
+            "Announced": "2009, September",
+            "Status": "Available. Released 2009, November"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "270 MB, 256 MB RAM, 512 MB ROM"
+        },
+        "Misc": {
+            "Colors": "Yes",
+            "Price group": "3/10 (About 120 EUR)",
+            "SAR EU": "0.81 W/kg (head)",
+            "SAR US": "0.64 W/kg (head) \u00a0 \u00a0 0.69 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Class 10",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 7.2/2 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "528 MHz",
+            "OS": "Microsoft Windows Mobile 6.5 Standard"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Samsung B7330 OmniaPRO",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_b7330_omniapro-pictures-2940.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-b7330-omniapro.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_b7330_omniapro-2940.php"
+    }
+}

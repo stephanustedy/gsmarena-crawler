@@ -1,0 +1,75 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 800 mAh battery",
+            "Stand-by": "Up to 360 h",
+            "Talk time": "Up to 8 h"
+        },
+        "Body": {
+            "Dimensions": "99.5 x 46.5 x 15.7 mm (3.92 x 1.83 x 0.62 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "90.5 g (3.17 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 1024 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "Stereo FM radio with RDS; FM recording",
+            "USB": "microUSB v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "176 x 220 pixels (~128 ppi pixel density)",
+            "Size": "2.2 inches (~32.9% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- Auto EQ - automatic equalizer\n- Find Music recognition service\n- MP3/e-AAC+/WMA player\n- MP4/3GP player\n- Organizer\n- Mobile Tracker\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2009, June",
+            "Status": "Available. Released 2009, July"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 8 GB",
+            "Internal": "15 MB",
+            "Phonebook": "1000 contacts, Photo call"
+        },
+        "Misc": {
+            "Colors": "Blue",
+            "Price group": "3/10 (About 120 EUR)",
+            "SAR EU": "0.40 W/kg (head)",
+            "SAR US": "0.98 W/kg (head) \u00a0 \u00a0 1.25 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "": "- Dedicated music keys\n- DNSe (Digital Natural Sound Engine)",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Samsung M2510",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_m2510-pictures-2854.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-m2510.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_m2510-2854.php"
+    }
+}

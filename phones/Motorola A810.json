@@ -1,0 +1,73 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 910 mAh battery",
+            "Stand-by": "Up to 150 h",
+            "Talk time": "Up to 4 h"
+        },
+        "Body": {
+            "Dimensions": "105 x 51 x 14 mm (4.13 x 2.01 x 0.55 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "100 g (3.53 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v1.2, A2DP",
+            "GPS": "No",
+            "Radio": "Stereo FM radio",
+            "USB": "v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Handwriting recognition",
+            "Resolution": "240 x 320 pixels (~182 ppi pixel density)",
+            "Size": "2.2 inches (~28.0% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/WAV/WMA/AAC+ player\n- Voice memo",
+            "Browser": "WAP 2.0/xHTML, HTML (Opera v8.5)",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2008, June. Released 2008, August",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "30 dialed, 30 received, 30 missed calls",
+            "Card slot": "microSD, up to 2 GB",
+            "Phonebook": "Yes, Photo call"
+        },
+        "Misc": {
+            "Colors": "Excellent Black and White Shang-chi",
+            "Price group": "2/10 (About 60 EUR)",
+            "SAR US": "1.41 W/kg (head) \u00a0 \u00a0 0.25 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Motorola A810",
+        "image": {
+            "href": "http://www.gsmarena.com/motorola_a810-pictures-2437.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/motorola-a810.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/motorola_a810-2437.php"
+    }
+}

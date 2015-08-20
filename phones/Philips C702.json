@@ -1,0 +1,96 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1080 mAh battery",
+            "Stand-by": "Up to 100 h",
+            "Talk time": "Up to 4 h"
+        },
+        "Body": {
+            "Dimensions": "103.8 x 59.8 x 14.5 mm (4.09 x 2.35 x 0.57 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "118 g (4.16 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 1024 pixels",
+            "Secondary": "No",
+            "Video": "176x144@15fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "miniUSB v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Handwriting recognition",
+            "Resolution": "240 x 320 pixels (~143 ppi pixel density)",
+            "Size": "2.8 inches (~39.1% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/WAV/AAC player\n- MP4/H.263 player\n- Organizer\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS (threaded view), MMS"
+        },
+        "Launch": {
+            "Announced": "2010, January",
+            "Status": "Available. Released 2010, March"
+        },
+        "Memory": {
+            "Call records": "30 received, dialed and missed calls",
+            "Card slot": "microSD, up to 2 GB, 2 GB included",
+            "Internal": "2.5 MB",
+            "Phonebook": "1000 entries, Photocall"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Philips C702",
+        "image": {
+            "href": "http://www.gsmarena.com/philips_c702-pictures-3096.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/philips-c702.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/philips_c702-3096.php"
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1500 mAh battery",
+            "Stand-by": "Up to 570 h (2G) / Up to 550 h (3G)",
+            "Talk time": "Up to 15 h (2G) / Up to 7 h 20 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "123.2 x 63 x 9.7 mm (4.85 x 2.48 x 0.38 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "120 g (4.23 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face/smile detection",
+            "Primary": "5 MP, 2592 x 1944 pixels, autofocus, LED flash, check quality",
+            "Secondary": "1.3 MP",
+            "Video": "720p@30fps, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP, apt-X",
+            "GPS": "Yes, with A-GPS",
+            "NFC": "Optional",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- TouchWiz 4.0 UI",
+            "Multitouch": "Yes",
+            "Resolution": "480 x 800 pixels (~233 ppi pixel density)",
+            "Size": "4.0 inches (~58.7% screen-to-body ratio)",
+            "Type": "Super AMOLED capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/DivX/WMV/H.264 player\n- MP3/WAV/eAAC+/AC3/FLAC player\n- Photo/video editor\n- Document editor",
+            "Browser": "HTML, Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2012, January",
+            "Status": "Available. Released 2012, April"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "8/16 GB, 768 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "3/10 (About 150 EUR)",
+            "SAR EU": "0.54 W/kg (head)",
+            "SAR US": "0.37 W/kg (head) \u00a0 \u00a0 0.98 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 14.4/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1 GHz Cortex-A9",
+            "Chipset": "NovaThor U8500",
+            "GPU": "Mali-400",
+            "OS": "Android OS, v2.3.6 (Gingerbread), upgradable to v4.1.2 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -88.6dB / Crosstalk -88.0dB",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: Infinite (nominal)",
+            "Loudspeaker": "Voice 74dB / Noise 66dB / Ring 75dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Samsung Galaxy S II Lite",
+        "device_name": "Samsung I9070 Galaxy S Advance",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_i9070_galaxy_s_advance-pictures-4469.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s-advance.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_i9070_galaxy_s_advance-4469.php"
+    }
+}

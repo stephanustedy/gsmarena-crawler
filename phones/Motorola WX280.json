@@ -1,0 +1,71 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 650 mAh battery",
+            "Stand-by": "Up to 550 h",
+            "Talk time": "Up to 9 h"
+        },
+        "Body": {
+            "Dimensions": "107 x 46 x 12.2 mm, 59.8 cc (4.21 x 1.81 x 0.48 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "66 g (2.33 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "No"
+        },
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "FM radio with RDS",
+            "USB": "miniUSB",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "128 x 160 pixels (~114 ppi pixel density)",
+            "Size": "1.8 inches (~20.7% screen-to-body ratio)",
+            "Type": "CSTN, 65K colors"
+        },
+        "Features": {
+            "": "- Calendar\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2009, December",
+            "Status": "Available. Released 2010"
+        },
+        "Memory": {
+            "Call records": "10 dialed, 10 received, 10 missed calls",
+            "Card slot": "No",
+            "Phonebook": "800 entries"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "1/10 (About 40 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration, Polyphonic(64), WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Motorola WX280",
+        "image": {
+            "href": "http://www.gsmarena.com/motorola_wx280-pictures-3059.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/motorola-wx280.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/motorola_wx280-3059.php"
+    }
+}

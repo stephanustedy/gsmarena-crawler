@@ -1,0 +1,73 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1200 mAh battery",
+            "Stand-by": "Up to 200 h",
+            "Talk time": "Up to 4 h"
+        },
+        "Body": {
+            "Dimensions": "98 x 56 x 19.9 mm (3.86 x 2.20 x 0.78 in)",
+            "SIM": "Dual SIM (Mini-SIM)",
+            "Weight": "120 g (4.23 oz)"
+        },
+        "Camera": {
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, LED flash",
+            "Secondary": "No",
+            "Video": "480p@15fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "Yes",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "External TFT touchscreen, 256K colors\n240 x 320 pixels, 2.4 inches",
+            "Resolution": "240 x 320 pixels (~143 ppi pixel density)",
+            "Size": "2.8 inches (~44.2% screen-to-body ratio)",
+            "Type": "TFT touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/WAV/WMA/AAC+ player\n- MP4/DivX/H.264/ player\n- Document viewer (Word, Excel, PowerPoint, PDF)\n- Voice memo",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2009, April",
+            "Status": "Available. Released 2009, August"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 8 GB",
+            "Phonebook": "1000 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Gold on black",
+            "Price group": "2/10 (About 80 EUR)"
+        },
+        "Network": {
+            "": "CDMA 800 / 1900",
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Technology": "GSM / CDMA"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Samsung SCH-W699",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_sch_w699-pictures-3247.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-w699.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_sch_w699-3247.php"
+    }
+}

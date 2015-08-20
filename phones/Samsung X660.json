@@ -1,0 +1,75 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 800 mAh battery",
+            "Stand-by": "Up to 200 h",
+            "Talk time": "Up to 3 h 30 min"
+        },
+        "Body": {
+            "Dimensions": "89.5 x 45 x 21.5 mm (3.52 x 1.77 x 0.85 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "78 g (2.75 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second external mono display (96 x 96 pixels)\n- Wallpapers",
+            "Resolution": "128 x 160 pixels, 8 lines",
+            "Size": "",
+            "Type": "UFB, 65K colors"
+        },
+        "Features": {
+            "": "- Predictive text input\n- Organizer",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Bobby Carrot, Airship Racing",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2005, 4Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- 200 short messages",
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "No",
+            "Internal": "8 MB",
+            "Phonebook": "500 entries, Photo call"
+        },
+        "Misc": {
+            "Colors": "",
+            "SAR EU": "0.82 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3, AAC ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Samsung X660",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_x660-pictures-1316.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-x660.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_x660-1316.php"
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po 3950 mAh battery",
+            "Stand-by": "",
+            "Talk time": "Up to 9 h (multimedia)"
+        },
+        "Body": {
+            "Dimensions": "212.4 x 127.4 x 10 mm (8.36 x 5.02 x 0.39 in)",
+            "SIM": "No",
+            "Weight": "350 g (12.35 oz)"
+        },
+        "Camera": {
+            "Primary": "5 MP, 2592 \u0445 1944 pixels",
+            "Secondary": "1.2 MP",
+            "Video": "720p"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, EDR",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n"
+        },
+        "Display": {
+            "Multitouch": "Yes, up to 10 fingers",
+            "Resolution": "800 x 1280 pixels (~189 ppi pixel density)",
+            "Size": "8.0 inches (~68.6% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP3/WAV/WMA/AAC player\n- MP4/H.264 player\n- Document viewer\n- Photo viewer/editor\n- Voice memo/dial",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2013, September",
+            "Status": "Available. Released 2013, November"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "16 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Gray, White, Pink",
+            "Price group": "3/10 (About 150 EUR)"
+        },
+        "Network": {
+            "2G bands": "N/A",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "No cellular connectivity"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.6 GHz Cortex-A9",
+            "OS": "Android OS, v4.2.2 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "canonical_name": "Tablet with no support for GSM voice communication, SMS, and MMS",
+        "device_name": "Asus Memo Pad 8 ME180A",
+        "image": {
+            "href": "http://www.gsmarena.com/asus_memo_pad_8_me180a-pictures-5675.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/asus-memo-pad-8.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/asus_memo_pad_8_me180a-5675.php"
+    }
+}

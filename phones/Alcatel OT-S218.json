@@ -1,0 +1,70 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 670 mAh battery",
+            "Stand-by": "Up to 400 h",
+            "Talk time": "Up to 7 h"
+        },
+        "Body": {
+            "Dimensions": "98 x 43.6 x 13.8 mm (3.86 x 1.72 x 0.54 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "70 g (2.47 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "v2.0",
+            "GPS": "No",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Embedded images and animations",
+            "Resolution": "128 x 160 pixels (~114 ppi pixel density)",
+            "Size": "1.8 inches (~23.9% screen-to-body ratio)",
+            "Type": "STN, 65K colors"
+        },
+        "Features": {
+            "": "- Predictive text input\n- Organizer",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "2",
+            "Java": "No",
+            "Messaging": "SMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2008, February. Released 2008, July",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- 300 SMS capacity",
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "No",
+            "Internal": "2 MB",
+            "Phonebook": "800 entries"
+        },
+        "Misc": {
+            "Colors": "Silver, Silver/Blue, Silver/Pink",
+            "SAR EU": "1.00 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Polyphonic(64), MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Alcatel OT-S218",
+        "image": {
+            "href": "http://www.gsmarena.com/alcatel_ot_s218-pictures-2278.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/alcatel-s218.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/alcatel_ot_s218-2278.php"
+    }
+}

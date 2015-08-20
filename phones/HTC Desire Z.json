@@ -1,0 +1,91 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1300 mAh battery",
+            "Stand-by": "Up to 430 h (2G) / Up to 430 h (3G)",
+            "Talk time": "Up to 9 h 50 min (2G) / Up to 6 h 40 min (3G)"
+        },
+        "Body": {
+            "": "- Optical trackpad",
+            "Dimensions": "119 x 60.4 x 14.2 mm (4.69 x 2.38 x 0.56 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "180 g (6.35 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face detection",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, LED flash, check quality",
+            "Secondary": "No",
+            "Video": "720p"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- HTC Sense UI",
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "480 x 800 pixels (~252 ppi pixel density)",
+            "Size": "3.7 inches (~54.2% screen-to-body ratio)",
+            "Type": "S-LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Dedicated search key\n- MP3/WAV/AAC+ player\n- MP4/H.264/DivX/XviD player\n- Voice memo/dial\n- Predictive text input",
+            "Browser": "HTML, Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2010, September",
+            "Status": "Available. Released 2010, November"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "1.5 GB; 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "3/10 (About 100 EUR)",
+            "SAR EU": "0.86 W/kg (head)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 1900 - North America",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Class 32",
+            "GPRS": "Class 32",
+            "Speed": "HSPA 14.4/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "800 MHz Scorpion",
+            "Chipset": "Qualcomm MSM7230",
+            "GPU": "Adreno 205",
+            "OS": "Android OS, v2.2 (Froyo), upgradable to v2.3 (Gingerbread)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -90.1dB / Crosstalk -90.7dB",
+            "Camera": "Photo",
+            "Loudspeaker": "Voice 72dB / Noise 72dB / Ring 82dB"
+        }
+    },
+    "main": {
+        "device_name": "HTC Desire Z",
+        "image": {
+            "href": "http://www.gsmarena.com/htc_desire_z-pictures-3421.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/htc-desire-z.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/htc_desire_z-3421.php"
+    }
+}

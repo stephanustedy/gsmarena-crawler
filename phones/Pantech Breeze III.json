@@ -1,0 +1,76 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 920 mAh battery",
+            "Stand-by": "Up to 336 h",
+            "Talk time": "Up to 5 h"
+        },
+        "Body": {
+            "Dimensions": "99 x 51 x 19 mm (3.90 x 2.01 x 0.75 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "102 g (3.60 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 1024 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "microUSB",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Secondary external display",
+            "Resolution": "240 x 320 pixels (~182 ppi pixel density)",
+            "Size": "2.2 inches (~29.7% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/eAAC+/WMA/WAV player\n- MP4/WMV/H.263 player\n- Organizer\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email, IM"
+        },
+        "Launch": {
+            "Announced": "2011, July",
+            "Status": "Available. Released 2011, July"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "80 MB",
+            "Phonebook": "1000 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Various",
+            "Price group": "4/10 (About 150 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 1900",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 3.6/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Polyphonic(64), MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "For AT&T",
+        "device_name": "Pantech Breeze III",
+        "image": {
+            "href": "http://www.gsmarena.com/pantech_breeze_iii-pictures-4075.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/pantech-breeze-iii.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/pantech_breeze_iii-4075.php"
+    }
+}

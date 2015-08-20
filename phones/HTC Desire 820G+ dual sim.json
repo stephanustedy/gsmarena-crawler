@@ -1,0 +1,81 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po 2600 mAh battery",
+            "Stand-by": "Up to 600 h (2G) / Up to 560 h (3G)",
+            "Talk time": "Up to 32 h (2G) / Up to 12 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "157.7 x 78.7 x 7.7 mm (6.21 x 3.10 x 0.30 in)",
+            "SIM": "Dual SIM (Nano-SIM, dual stand-by)",
+            "Weight": "154.5 g (5.47 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection, HDR, panorama",
+            "Primary": "13 MP, 4160 x 3120 pixels, autofocus, LED flash",
+            "Secondary": "8 MP, 1080p",
+            "Video": "1080p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "To be confirmed",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "": "- HTC Sense UI 6.0",
+            "Multitouch": "Yes",
+            "Resolution": "720 x 1280 pixels (~267 ppi pixel density)",
+            "Size": "5.5 inches (~67.2% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/H.264/WMV player\n- MP3/eAAC+/WMA/WAV/Flac player\n- Document viewer\n- Photo/video editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2015, May",
+            "Status": "Available. Released 2015, June"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "16 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Marble White, Dovetail gray",
+            "Price group": "4/10 (About 180 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 850 / 900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Octa-core 1.7 GHz Cortex-A7",
+            "Chipset": "Mediatek MT6592",
+            "GPU": "Mali-450MP4",
+            "OS": "Android OS"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "device_name": "HTC Desire 820G+ dual sim",
+        "image": {
+            "href": "http://www.gsmarena.com/htc_desire_820g+_dual_sim-pictures-7267.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/htc-desire-820g-plus.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/htc_desire_820g+_dual_sim-7267.php"
+    }
+}

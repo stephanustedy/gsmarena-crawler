@@ -1,0 +1,81 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 2500 mAh battery",
+            "Stand-by": "Up to 500 h (2G) / Up to 250 h (3G)",
+            "Talk time": "Up to 9 h (2G) / Up to 5 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "144 x 75 x 8.5 mm (5.67 x 2.95 x 0.33 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "-"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face/smile detection",
+            "Primary": "12 MP, 4000 x 3000 pixels, autofocus, LED flash",
+            "Secondary": "1 MP",
+            "Video": "1080p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "1080 x 1920 pixels (~441 ppi pixel density)",
+            "Size": "5.0 inches (~63.8% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP3/AAC+/WAV/WMA player\n- MP4/H.264 player\n- Document viewer\n- Photo viewer/editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2013, January",
+            "Status": "Available. Released 2013, March"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "4 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "White Devil, Black Devil, Twilight Blue, Carpet, Anodized Bluish Black, Anodized Cranberry Pink, White Carbon, Black Carbon",
+            "Price group": "9/10 (About 620 EUR)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 1700 / 2100",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 42.2/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.2 GHz Cortex-A7",
+            "Chipset": "Mediatek MT6589",
+            "GPU": "PowerVR SGX544",
+            "OS": "Android OS, v4.1 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Alcatel One Touch Scribe X",
+        "image": {
+            "href": "http://www.gsmarena.com/alcatel_one_touch_scribe_x-pictures-5225.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/alcatel-ot-scribe-x.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/alcatel_one_touch_scribe_x-5225.php"
+    }
+}

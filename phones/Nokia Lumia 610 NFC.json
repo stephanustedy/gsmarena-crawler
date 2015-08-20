@@ -1,0 +1,85 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1300 mAh battery (BP-3L)",
+            "Music play": "Up to 35 h",
+            "Stand-by": "Up to 670 h (2G) / Up to 720 h (3G)",
+            "Talk time": "Up to 10 h 30 min (2G) / Up to 9 h 30 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "119 x 62 x 12 mm, 77.6 cc (4.69 x 2.44 x 0.47 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "135 g (4.62 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face detection",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, LED flash",
+            "Secondary": "No",
+            "Video": "480p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "NFC": "Yes",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "480 x 800 pixels (~252 ppi pixel density)",
+            "Size": "3.7 inches (~52.8% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 65K colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP3/WAV/eAAC+/WMA player\n- MP4/H.264/WMV player\n- Document viewer\n- Video/photo editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2012, April",
+            "Status": "Available. Released 2012, September"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "8 GB, 256 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, white",
+            "Price group": "3/10 (About 110 EUR)",
+            "SAR EU": "0.75 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Speed": "HSPA 7.2/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "800 MHz ARM Cortex-A5",
+            "Chipset": "Qualcomm MSM7227A Snapdragon S1",
+            "GPU": "Adreno 200",
+            "OS": "Microsoft Windows Phone 7.5 Mango"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "For Orange",
+        "device_name": "Nokia Lumia 610 NFC",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_lumia_610_nfc-pictures-4695.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-lumia-610-nfc.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_lumia_610_nfc-4695.php"
+    }
+}

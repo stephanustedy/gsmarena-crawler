@@ -1,0 +1,92 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 2300 mAh battery",
+            "Music play": "Up to 37 h 11 min",
+            "Stand-by": "Up to 595 h (2G) / Up to 641 h (3G)",
+            "Talk time": "Up to 11 h 23 min (2G) / Up to 12 h 11 min (3G)"
+        },
+        "Body": {
+            "": "- IP68 certified - dust and water proof up to 1.5 meter and 30 minutes",
+            "Dimensions": "140 x 72 x 8.6 mm (5.51 x 2.83 x 0.34 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "149 g (5.26 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face/smile detection, HDR, panorama",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash, check quality",
+            "Secondary": "VGA, 480p",
+            "Video": "1080p@30fps, HDR, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, apt-X, LE",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "NFC": "Yes",
+            "Radio": "FM radio with RDS",
+            "USB": "microUSB v2.0, USB Host",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, DLNA, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes, up to 4 fingers",
+            "Protection": "Scratch-resistant glass",
+            "Resolution": "540 x 960 pixels (~229 ppi pixel density)",
+            "Size": "4.8 inches (~63.0% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- ANT+ support\n- Active noise cancellation with dedicated mic\n- MP4/H.264 player\n- MP3/eAAC+/WAV player\n- Document viewer\n- Photo viewer/editor\n- Voice memo/dial",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, IM, Push Email",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2014, August",
+            "Status": "Available. Released 2014, September"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "8 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White, Copper",
+            "Price group": "4/10 (About 200 EUR)",
+            "SAR EU": "0.66 W/kg (head) \u00a0 \u00a0 0.86 W/kg (body)",
+            "SAR US": "0.69 W/kg (head) \u00a0 \u00a0 1.25 W/kg (body)"
+        },
+        "Network": {
+            "": "LTE band 2(1900), 4(1700/2100), 7(2600), 17(700) - D2406",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - all models",
+            "3G bands": "HSDPA 850 / 900 / 2100 - D2403",
+            "4G bands": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 20(800) - D2403",
+            "EDGE": "Up to 296 kbps",
+            "GPRS": "Up to 107 kbps",
+            "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.2 GHz Cortex-A7",
+            "Chipset": "Qualcomm MSM8926-2 Snapdragon 400",
+            "GPU": "Adreno 305",
+            "OS": "Android OS, v4.4.2 (KitKat), planned upgrade to v5.1 (Lollipop)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Battery life": "Endurance rating 71h",
+            "Camera": "Photo / Video"
+        }
+    },
+    "main": {
+        "device_name": "Sony Xperia M2 Aqua",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_xperia_m2_aqua-pictures-6582.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/sony-xperia-m2.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_xperia_m2_aqua-6582.php"
+    }
+}

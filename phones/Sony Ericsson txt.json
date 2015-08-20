@@ -1,0 +1,77 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1000 mAh battery",
+            "Music play": "Up to 23 h",
+            "Stand-by": "Up to 416 h",
+            "Talk time": "Up to 3 h 12 min"
+        },
+        "Body": {
+            "Dimensions": "106 x 60 x 14.5 mm (4.17 x 2.36 x 0.57 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "95 g (3.35 oz)"
+        },
+        "Camera": {
+            "Features": "Yes",
+            "Primary": "3.15 MP, 2048 x 1536 pixels, fixed-focus",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP, EDR",
+            "GPS": "No",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g"
+        },
+        "Display": {
+            "Protection": "Scratch-resistant glass",
+            "Resolution": "320 x 240 pixels (~157 ppi pixel density)",
+            "Size": "2.55 inches (~31.7% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- SNS integration with native Facebook and Twitter clients\n- MP4/H.264 player\n- MP3/eAAC+/WAV player\n- TrackID music recognition\n- Voice memo\n- Predictive text input",
+            "Browser": "HTML",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS (threaded view), MMS, Email, Push email, IM"
+        },
+        "Launch": {
+            "Announced": "2011, June. Released 2011, October",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "120 MB (100 MB user available), 64 MB RAM",
+            "Phonebook": "Yes, Photocall"
+        },
+        "Misc": {
+            "Colors": "Black, Blue, White, Pink",
+            "Price group": "2/10 (About 60 EUR)",
+            "SAR EU": "0.92 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "Up to 177 kbps",
+            "GPRS": "Up to 60 kbps",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Sony Ericsson txt",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_ericsson_txt-pictures-3999.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/se-txt-ofic.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_ericsson_txt-3999.php"
+    }
+}

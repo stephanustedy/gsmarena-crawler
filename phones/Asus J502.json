@@ -1,0 +1,72 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "103.5 x 52.8 x 14.7 mm (4.07 x 2.08 x 0.58 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "120 g (4.23 oz)"
+        },
+        "Camera": {
+            "Primary": "3 MP, 2048 x 1536 pixels, autofocus, LED flash",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "v1.1",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~167 ppi pixel density)",
+            "Size": "2.4 inches (~32.6% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- TV-out\n- eBook reader\n- MP3 Player\n- Organizer\n- World clock",
+            "Browser": "WAP 1.2.1 & WAP 2.0",
+            "Games": "Yes",
+            "Java": "Yes",
+            "Messaging": "SMS, EMS,MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2007",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "20 received, dialed and missed calls",
+            "Card slot": "microSD",
+            "Internal": "24 MB",
+            "Phonebook": "500 entries"
+        },
+        "Misc": {
+            "Colors": "Black, Red",
+            "Price group": "6/10 (About 300 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "Yes",
+            "GPRS": "Class 12",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MIDI, MP3, AAC, AMR ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Asus J502",
+        "image": {
+            "href": "http://www.gsmarena.com/asus_j502-pictures-2097.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/asus-j502.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/asus_j502-2097.php"
+    }
+}

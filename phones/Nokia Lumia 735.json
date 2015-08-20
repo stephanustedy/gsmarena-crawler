@@ -1,0 +1,94 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 2200 mAh battery (BV-T5A)",
+            "Music play": "Up to 60 h",
+            "Stand-by": "Up to 600 h",
+            "Talk time": "Up to 22 h (2G) / Up to 17 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "134.7 x 68.5 x 8.9 mm (5.30 x 2.70 x 0.35 in)",
+            "SIM": "Nano-SIM",
+            "Weight": "134 g (4.73 oz)"
+        },
+        "Camera": {
+            "Features": "1/3.4'' sensor size, geo-tagging, face detection, panorama",
+            "Primary": "6.7 MP (6.1 MP effective), 2848 x 2144 pixels, Carl Zeiss optics, autofocus, LED flash, check quality",
+            "Secondary": "5 MP, 1080p",
+            "Video": "1080p@30fps, stereo sound rec., check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, LE/ apt-X after WP8 Denim update",
+            "GPS": "Yes, with A-GPS, GLONASS, Beidou",
+            "NFC": "Yes",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- ClearBlack display",
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 3",
+            "Resolution": "720 x 1280 pixels (~312 ppi pixel density)",
+            "Size": "4.7 inches (~66.0% screen-to-body ratio)",
+            "Type": "OLED capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Wireless Charging (Qi-enabled)\n- Active noise cancellation with dedicated mic\n- MP3/WAV/eAAC+/WMA player\n- MP4/H.264/WMV player\n- OneDrive (15 GB cloud storage)\n- Document viewer\n- Video/photo editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass, sensor core"
+        },
+        "Launch": {
+            "Announced": "2014, September",
+            "Status": "Available. Released 2014, September"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 128 GB",
+            "Internal": "8 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Orange, green, white, black",
+            "Price group": "5/10 (About 220 EUR)",
+            "SAR EU": "0.80 W/kg (head) \u00a0 \u00a0 0.48 W/kg (body)",
+            "SAR US": "1.38 W/kg (head) \u00a0 \u00a0 0.78 W/kg (body)"
+        },
+        "Network": {
+            "": "LTE band 3(1800), 7(2600), 20(800) - RM-1038",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 1700(AWS) / 1900 / 2100 - RM-1039",
+            "4G bands": "LTE band 2(1900), 4(1700/2100), 5(850), 7(2600), 17(700) - RM-1039",
+            "EDGE": "Up to 296 kbps",
+            "GPRS": "Yes",
+            "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.2 GHz Cortex-A7",
+            "Chipset": "Qualcomm Snapdragon 400",
+            "GPU": "Adreno 305",
+            "OS": "Microsoft Windows Phone 8.1, planned upgrade to Windows 10"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Battery life": "Endurance rating 59h",
+            "Camera": "Photo / Video",
+            "Performance": "Basemark OS II: 435"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Nokia Lumia 735 LTE",
+        "device_name": "Nokia Lumia 735",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_lumia_735-pictures-6639.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-lumia-735.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_lumia_735-6639.php"
+    }
+}

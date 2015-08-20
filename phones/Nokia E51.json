@@ -1,0 +1,85 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1050 mAh battery ( BP-6MT)",
+            "Stand-by": "Up to 310 h",
+            "Talk time": "Up to 4 h 20 min"
+        },
+        "Body": {
+            "Dimensions": "114.8 x 46 x 12 mm, 61 cc (4.52 x 1.81 x 0.47 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "100 g (3.53 oz)"
+        },
+        "Camera": {
+            "Features": "Video-calling",
+            "Primary": "2 MP, 1600 x 1200 pixels",
+            "Secondary": "No",
+            "Video": "320p@15fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "FM radio; Visual radio",
+            "USB": "miniUSB v2.0",
+            "WLAN": "Wi-Fi 802.11b/g, VoIP over WLAN"
+        },
+        "Display": {
+            "": "- Five-way scroll key\n- Downloadable themes",
+            "Resolution": "240 x 320 pixels (~200 ppi pixel density)",
+            "Size": "2.0 inches (~23.5% screen-to-body ratio)",
+            "Type": "TFT, 16M colors"
+        },
+        "Features": {
+            "": "- Push to talk\n- WMV/RV/MP4/3GP player\n- MP3/WMA/WAV/RA/AAC/M4A player\n- Document viewer (Word, Excel, PowerPoint, PDF) incl. MS Office 2007 support via free update\n- Predictive text input\n- Voice command/memo\n- Organizer",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2007, September. Released 2007, November",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 16 GB",
+            "Internal": "130 MB, 96 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, Silver",
+            "Price group": "3/10 (About 120 EUR)",
+            "SAR EU": "1.47 W/kg (head)",
+            "SAR US": "1.38 W/kg (head) \u00a0 \u00a0 0.75 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 2100",
+            "EDGE": "Class 32",
+            "GPRS": "Class 32",
+            "Speed": "HSPA 3.6/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "369 MHz ARM 11",
+            "OS": "Symbian OS 9.2, Series 60 v3.1 UI"
+        },
+        "Sound": {
+            "": "- 2.5 mm audio jack",
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -76.4dB / Crosstalk -74.8dB",
+            "Loudspeaker": "Voice 67dB / Noise 65dB / Ring 71dB"
+        }
+    },
+    "main": {
+        "device_name": "Nokia E51",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_e51-pictures-2106.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-e51.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_e51-2106.php"
+    }
+}

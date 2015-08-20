@@ -1,0 +1,94 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 2600 mAh battery",
+            "Music play": "Up to 62 h",
+            "Stand-by": "Up to 370 h (3G)",
+            "Talk time": "Up to 17 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "136.6 x 69.8 x 7.9 mm (5.38 x 2.75 x 0.31 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "130 g (4.59 oz)"
+        },
+        "Camera": {
+            "Features": "Dual Shot, Simultaneous HD video and image recording, geo-tagging, touch focus, face/smile detection, HDR",
+            "Primary": "13 MP, 4128 x 3096 pixels, autofocus, LED flash, check quality",
+            "Secondary": "2 MP, 1080p@30fps, dual video call",
+            "Video": "1080p@30fps, dual-video rec., check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, EDR, LE, apt-X",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "Infrared port": "Yes",
+            "NFC": "Yes",
+            "Radio": "No",
+            "USB": "microUSB v2.0 (MHL 2 TV-out), USB Host",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- TouchWiz UI",
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 3",
+            "Resolution": "1080 x 1920 pixels (~441 ppi pixel density)",
+            "Size": "5.0 inches (~72.3% screen-to-body ratio)",
+            "Type": "Super AMOLED capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- ANT+ support\n- Wireless charging (Qi-enabled) - market dependent\n- S-Voice natural language commands and dictation\n- Smart stay, Smart pause, Smart scroll\n- Air gestures\n- Dropbox (50 GB cloud storage)\n- Active noise cancellation with dedicated mic\n- MP4/DivX/XviD/WMV/H.264 player\n- MP3/WAV/eAAC+/AC3/FLAC player\n- Photo/video editor\n- Document viewer",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass, barometer, temperature, humidity, gesture"
+        },
+        "Launch": {
+            "Announced": "2013, March",
+            "Status": "Available. Released 2013, April"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "16/32/64 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "White Frost, Black Mist, Arctic Blue, Black Edition",
+            "Price group": "6/10 (About 300 EUR)",
+            "SAR EU": "0.42 W/kg (head) \u00a0 \u00a0 0.54 W/kg (body)",
+            "SAR US": "0.85 W/kg (head) \u00a0 \u00a0 1.55 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat3 100/50 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.6 GHz Cortex-A15 & quad-core 1.2 GHz Cortex-A7",
+            "Chipset": "Exynos 5 Octa 5410",
+            "GPU": "PowerVR SGX544MP3",
+            "OS": "Android OS, v4.2.2 (Jelly Bean), upgradable to v5.0 (Lollipop)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -95.9dB / Crosstalk -96.4dB",
+            "Battery life": "Endurance rating 65h",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: Infinite (nominal) / 3.352:1 (sunlight)",
+            "Loudspeaker": "Voice 70dB / Noise 66dB / Ring 77dB"
+        }
+    },
+    "main": {
+        "device_name": "Samsung I9500 Galaxy S4",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_i9500_galaxy_s4-pictures-5125.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s-4-i9500-black-mist.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_i9500_galaxy_s4-5125.php"
+    }
+}

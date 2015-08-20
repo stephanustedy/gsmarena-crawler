@@ -1,0 +1,105 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 1800 mAh battery",
+            "Stand-by": "Up to 480 h (2G) / Up to 350 h (3G)",
+            "Talk time": "Up to 16 h (2G) / Up to 8 h 30 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "144 x 69.7 x 6.9 mm (5.67 x 2.74 x 0.27 in)",
+            "SIM": "Dual SIM (Mini-SIM/ Micro-SIM)",
+            "Weight": "123 g (4.34 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face/smile detection, HDR",
+            "Primary": "13 MP, 4128 x 3096 pixels, autofocus, LED flash",
+            "Secondary": "5 MP",
+            "Video": "1080p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "720 x 1280 pixels (~294 ppi pixel density)",
+            "Size": "5.0 inches (~68.7% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- DivX/XviD/MP4/WMV/H.264 player\n- MP3/WAV/eAAC+ player\n- Photo/video editor\n- Document editor\n- Voice memo/dial/commands",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2014, February",
+            "Status": "Available. Released 2014, April"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "8 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "": "HSDPA 900 / 2100 - SIM 1 or SIM 2",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 850 / 1900 - SIM 1 or SIM 2",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 21.1/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Octa-core 1.7 GHz Cortex-A7",
+            "Chipset": "Mediatek MT6592",
+            "GPU": "Mali-450MP4",
+            "OS": "Android OS, v4.2 (Jelly Bean), upgradable to v4.4 (KitKat)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Single SIM: Andy AC5QP\nDual SIM: Andy A5QP",
+        "device_name": "Yezz Andy A5QP",
+        "image": {
+            "href": "http://www.gsmarena.com/yezz_andy_a5qp-pictures-6192.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/yezz-andy-a5qp.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/yezz_andy_a5qp-6192.php"
+    }
+}

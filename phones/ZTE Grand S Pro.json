@@ -1,0 +1,108 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 2300 mAh battery",
+            "Stand-by": "Up to 264 h (3G)",
+            "Talk time": "Up to 10 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "142.2 x 71.1 x 10.2 mm (5.60 x 2.80 x 0.40 in)",
+            "SIM": "Yes",
+            "Weight": "155.4 g (5.47 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "13 MP, 4128 x 3096 pixels, autofocus, LED flash",
+            "Secondary": "2 MP",
+            "Video": "1080p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "NFC": "Yes",
+            "Radio": "To be confirmed",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Dragon Trail Glass",
+            "Resolution": "720 x 1280 pixels (~294 ppi pixel density)",
+            "Size": "5.0 inches (~68.2% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/H.264 player\n- MP3/WAV/eAAC+ player\n- Document viewer\n- Photo viewer/editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2014, June",
+            "Status": "Available. Released 2014, June"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "8 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "CDMA 800 / 1900",
+            "3G bands": "CDMA2000 1xEV-DO",
+            "4G bands": "LTE band 2(1900), 4(1700/2100), 5(850), 12(700), 17(700)",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Speed": "LTE, EV-DO Rev.A 3.1 Mbps",
+            "Technology": "CDMA / EVDO / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 2.3 GHz Krait 400",
+            "Chipset": "Qualcomm MSM8974AB Snapdragon 801",
+            "GPU": "Adreno 330",
+            "OS": "Android OS, v4.3 (Jelly Bean)"
+        },
+        "Sound": {
+            "": "- Dolby Digital Plus",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as ZTE Grand S Pro N9835\nFor U.S. Cellular",
+        "device_name": "ZTE Grand S Pro",
+        "image": {
+            "href": "http://www.gsmarena.com/zte_grand_s_pro-pictures-7155.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/zte-grand-s-pro.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/zte_grand_s_pro-7155.php"
+    }
+}

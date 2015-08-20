@@ -1,0 +1,91 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 2200 mAh battery",
+            "Stand-by": "Up to 576 h",
+            "Talk time": "Up to 13 h"
+        },
+        "Body": {
+            "Dimensions": "129.3 x 65.3 x 10.4 mm (5.09 x 2.57 x 0.41 in)",
+            "SIM": "Nano-SIM",
+            "Weight": "130 g (4.59 oz)"
+        },
+        "Camera": {
+            "Features": "1.4 \u00b5m pixel size, geo-tagging, touch focus, face detection, panorama, HDR",
+            "Primary": "10 MP, 4320 x 2432 pixels, autofocus, LED flash",
+            "Secondary": "2 MP, 1080p",
+            "Video": "1080p@30fps, stereo sound rec., HDR"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, EDR, LE",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "NFC": "Yes",
+            "Radio": "No",
+            "USB": "microUSB v2.0, USB Host",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, DLNA, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 3",
+            "Resolution": "720 x 1280 pixels (~312 ppi pixel density)",
+            "Size": "4.7 inches (~72.1% screen-to-body ratio)",
+            "Type": "AMOLED capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- Google Drive (50 GB cloud storage)\n- MP3/AAC+/WAV/WMA player\n- MP4/H.264/WMV player\n- Photo viewer/editor\n- Document viewer\n- Voice memo/dial",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass, barometer, temperature"
+        },
+        "Launch": {
+            "Announced": "2013, August",
+            "Status": "Available. Released 2013, August"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "16/32/64 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White (front panel), 18 color options (back panel)",
+            "Price group": "7/10 (About 370 EUR)",
+            "SAR US": "1.39 W/kg (head) \u00a0 \u00a0 0.50 W/kg (body)"
+        },
+        "Network": {
+            "": "LTE band 2(1900), 4(1700/2100), 17(700) - T-Mobile",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - all versions",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100 - AT&T",
+            "4G bands": "LTE band 2(1900), 4(1700/2100), 5(850), 17(700) - AT&T",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat3 100/50 Mbps, EV-DO Rev.A 3.1 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.7 GHz Krait 300",
+            "Chipset": "Qualcomm MSM8960DT Snapdragon S4 Pro",
+            "GPU": "Adreno 320",
+            "OS": "Android OS, v4.2.2 (Jelly Bean), upgradable to v5.1 (Lollipop)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -91.6dB / Crosstalk -92.8dB",
+            "Battery life": "Endurance rating 39h",
+            "Performance": "Basemark OS II: 578"
+        }
+    },
+    "main": {
+        "canonical_name": "Available as:\nMotorola Moto X XT1058 for AT&T\nMotorola Moto X XT1053 for T-Mobile\nMotorola Moto X XT1052 for Europe\nMotorola Moto X XT1056 for Sprint\nMotorola Moto X XT1060 for Verizon\nMotorola Moto X XT1055 for U.S. Cellular",
+        "device_name": "Motorola Moto X",
+        "image": {
+            "href": "http://www.gsmarena.com/motorola_moto_x-pictures-5601.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/moto-x.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/motorola_moto_x-5601.php"
+    }
+}

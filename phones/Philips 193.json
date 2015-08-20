@@ -1,0 +1,70 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 650 mAh battery",
+            "Stand-by": "Up to 240 h",
+            "Talk time": "Up to 3 h"
+        },
+        "Body": {
+            "Dimensions": "104.5 x 45.5 x 12.8 mm (4.11 x 1.79 x 0.50 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "53 g (1.87 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "FM radio",
+            "USB": "No",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- 4-way navigation key",
+            "Resolution": "128 x 128 pixels (~123 ppi pixel density)",
+            "Size": "1.47 inches (~14.7% screen-to-body ratio)",
+            "Type": "CSTN, 65K colors"
+        },
+        "Features": {
+            "": "- Multi-person SMS\n- Organizer\n- Predictive text input",
+            "Browser": "No",
+            "Games": "No",
+            "Java": "No",
+            "Messaging": "SMS"
+        },
+        "Launch": {
+            "Announced": "2008, October. Released 2008",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "30 received, dialed and missed calls",
+            "Card slot": "No",
+            "Phonebook": "Yes"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "2/10 (About 50 EUR)",
+            "SAR EU": "0.60 W/kg (head)",
+            "SAR US": "0.87 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Polyphonic(16) ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Philips 193",
+        "image": {
+            "href": "http://www.gsmarena.com/philips_193-pictures-2549.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/philips-193.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/philips_193-2549.php"
+    }
+}

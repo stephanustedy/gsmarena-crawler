@@ -1,0 +1,86 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 2150 mAh battery",
+            "Stand-by": "Up to 250 h",
+            "Talk time": "Up to 10 h"
+        },
+        "Body": {
+            "Dimensions": "134.7 x 69.5 x 8.9 mm (5.30 x 2.74 x 0.35 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "145 g (5.11 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face/smile detection",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash",
+            "Secondary": "1.3 MP",
+            "Video": "1080p"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, LE",
+            "GPS": "Yes, with A-GPS",
+            "NFC": "Yes",
+            "Radio": "No",
+            "USB": "microUSB v2.0 (MHL TV-out)",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- Optimus UI v3.0",
+            "Multitouch": "Yes",
+            "Resolution": "720 x 1280 pixels (~312 ppi pixel density)",
+            "Size": "4.7 inches (~65.0% screen-to-body ratio)",
+            "Type": "True HD-IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- TDMB TV tunner\n- Active noise cancellation with dedicated mic\n- MP4/WMV/H.264 player\n- MP3/WAV/WMA/eAAC+ player\n- Document viewer\n- Photo viewer/editor\n- Organizer\n- Voice memo/dial/commands\n- Predictive text input (Swype)",
+            "Browser": "HTML, Adobe Flash",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2012, May",
+            "Status": "Available. Released 2012, August"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "16 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, white",
+            "Price group": "5/10 (About 210 EUR)"
+        },
+        "Network": {
+            "": "CDMA2000 1xEV-DO - F160L",
+            "2G bands": "CDMA 800 / 1900 - F160L",
+            "3G bands": "HSDPA - F160S, F160K",
+            "4G bands": "LTE - F160S, F160K",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat3 100/50 Mbps, EV-DO Rev.A 3.1 Mbps",
+            "Technology": "CDMA / HSPA / EVDO / LTE"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.5 GHz Krait",
+            "Chipset": "Qualcomm MSM8960 Snapdragon S4 Plus",
+            "GPU": "Adreno 225",
+            "OS": "Android OS, v4.0 (Ice Cream Sandwich)"
+        },
+        "Sound": {
+            "": "- Dolby mobile",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "For South Korea\nAlso known as LG Optimus LTE II, LG F160S, LG F160K, LG F160L",
+        "device_name": "LG Optimus LTE2",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_optimus_lte2-pictures-4739.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-optimus-lte2.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_optimus_lte2-4739.php"
+    }
+}

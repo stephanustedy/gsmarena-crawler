@@ -1,0 +1,67 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 920 mAh battery",
+            "Stand-by": "Up to 450 h",
+            "Talk time": "Up to 10 h"
+        },
+        "Body": {
+            "Dimensions": "101 x 45.7 x 21.5 mm, 72 cc (3.98 x 1.80 x 0.85 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "86 g (3.03 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "No",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "96 x 64 pixels",
+            "Size": "",
+            "Type": "Monochrome graphic"
+        },
+        "Features": {
+            "": "- iTap\n- Currency converter\n- Calculator\n- Stopwatch",
+            "Browser": "",
+            "Games": "Yes",
+            "Java": "No",
+            "Messaging": "SMS"
+        },
+        "Launch": {
+            "Announced": "2005, 3Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "10 dialed, 10 received, 10 missed calls",
+            "Card slot": "No",
+            "Phonebook": "SIM based only"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "1/10 (About 30 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Monophonic ringtones, composer",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Motorola C113",
+        "image": {
+            "href": "http://www.gsmarena.com/motorola_c113-pictures-1301.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/motorola-c113.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/motorola_c113-1301.php"
+    }
+}

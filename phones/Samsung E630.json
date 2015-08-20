@@ -1,0 +1,76 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 800 mAh battery",
+            "Stand-by": "Up to 250 h",
+            "Talk time": "Up to 4 h"
+        },
+        "Body": {
+            "Dimensions": "85 x 43 x 22 mm (3.35 x 1.69 x 0.87 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "79 g (2.79 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels, LED flash",
+            "Secondary": "No",
+            "Video": "No"
+        },
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Four way navigation keys\n- Wallpapers",
+            "Resolution": "128 x 160 pixels, 6 lines (~121 ppi pixel density)",
+            "Size": "1.7 inches (~24.9% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- Predictive text input\n- Organizer\n- Stopwatch",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "2 - BubbleSmile, SnowBall + downloadable",
+            "Java": "Yes, MIDP 1.0",
+            "Messaging": "SMS, EMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2004, 4Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- 20 MB total shared memory\n- 3 MB for Java apps",
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "No",
+            "Phonebook": "1000 x 10 fields, Photo call"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "2/10 (About 80 EUR)",
+            "SAR EU": "0.51 W/kg (head)"
+        },
+        "Network": {
+            "": "GSM 850 / 1800 / 1900 - Samsung E635",
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic ringtones, composer",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Samsung E630",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_e630-pictures-932.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/sse630.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_e630-932.php"
+    }
+}

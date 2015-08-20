@@ -1,0 +1,91 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion battery",
+            "Stand-by": "260 h",
+            "Talk time": "380 min"
+        },
+        "Body": {
+            "Dimensions": "112 x 44 x 22 mm, 85 cc (4.41 x 1.73 x 0.87 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "97 g (3.42 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "-Softkeys\n-Blue backlight",
+            "Resolution": "6 lines",
+            "Size": "",
+            "Type": "Monochrome graphic"
+        },
+        "Features": {
+            "": "- Predictive text input\n- Organizer\n- Voice memo (5 min)\n- Data cable included",
+            "Alarm": "Yes",
+            "Browser": "WAP 1.1",
+            "Clock": "Yes",
+            "Games": "No",
+            "Java": "No",
+            "Messaging": "SMS"
+        },
+        "Launch": {
+            "Announced": "2001",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- Advanced fully featured address book",
+            "Call records": "10 dialed, 10 received, 20 missed calls",
+            "Card slot": "No",
+            "Phonebook": "1000"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Monophonic ringtones, composer",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Siemens S40",
+        "index": 1,
+        "url": "http://www.gsmarena.com/siemens_s40-220.php"
+    }
+}

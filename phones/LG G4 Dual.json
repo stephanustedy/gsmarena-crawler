@@ -1,0 +1,87 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 3000 mAh battery",
+            "Stand-by": "Up to 315 h (2G) / Up to 315 h (3G)",
+            "Talk time": "Up to 18 h 30 min (2G) / Up to 12 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "148.9 x 76.1 x 6.3 - 9.8 mm",
+            "SIM": "Dual SIM",
+            "Weight": "155 g (5.47 oz)"
+        },
+        "Camera": {
+            "Features": "1/2.6'' sensor size, simultaneous video and image recording, geo-tagging, face detection, HDR",
+            "Primary": "16 MP, 5312 x 2988 pixels, laser autofocus, optical image stabilization, LED flash",
+            "Secondary": "8 MP, 1080p@30fps",
+            "Video": "2160p@30fps, 1080p@60fps, optical stabilization, HDR, stereo sound rec."
+        },
+        "Comms": {
+            "Bluetooth": "v4.1, A2DP, LE, apt-X",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "Infrared port": "Yes",
+            "NFC": "Yes",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0 (SlimPort 4K), USB Host",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- LG Optimus UX 4.0 UI",
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 3",
+            "Resolution": "1440 x 2560 pixels (~534 ppi pixel density)",
+            "Size": "5.5 inches (~73.6% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Optional Wireless Charging (Qi-enabled)\n- Active noise cancellation with dedicated mic\n- MP4/DviX/XviD/H.264/WMV player\n- MP3/WAV/FLAC/eAAC+/WMA player\n- Photo/video editor\n- Document editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass, barometer, color spectrum"
+        },
+        "Launch": {
+            "Announced": "2015, May",
+            "Status": "Available. Released 2015, May"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 128 GB",
+            "Internal": "32 GB, 3 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Grey, White, Gold, Leather Black, Leather Brown, Leather Red",
+            "Price group": "9/10 (About 570 EUR)"
+        },
+        "Network": {
+            "": "TD-SCDMA 1900 / 2000 - H818N",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100 - H818N",
+            "4G bands": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 38(2600), 39(1900), 40(2300), 41(2500) - H818N",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat6 300/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.82 GHz Cortex-A57 & quad-core 1.44 GHz Cortex-A53",
+            "Chipset": "Qualcomm MSM8992 Snapdragon 808",
+            "GPU": "Adreno 418",
+            "OS": "Android OS, v5.1 (Lollipop)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as LG G4 Dual-LTE, LG G4 Dual-SIM, LG H818P (Indonesia, Ukraine, Thailand), LG H818N (Hong Kong)",
+        "device_name": "LG G4 Dual",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_g4_dual-pictures-7253.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-g4-.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_g4_dual-7253.php"
+    }
+}

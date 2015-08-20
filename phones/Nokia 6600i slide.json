@@ -1,0 +1,81 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1000 mAh battery (BL-4U)",
+            "Stand-by": "Up to 348 h (2G) / Up to 300 h (3G)",
+            "Talk time": "Up to 4 h (2G) / Up to 3 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "93 x 45 x 14 mm, 52 cc (3.66 x 1.77 x 0.55 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "110 g (3.88 oz)"
+        },
+        "Camera": {
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, dual-LED flash, check quality",
+            "Secondary": "VGA",
+            "Video": "480p@15fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~182 ppi pixel density)",
+            "Size": "2.2 inches (~35.8% screen-to-body ratio)",
+            "Type": "TFT, 16M colors"
+        },
+        "Features": {
+            "": "- MP3/WAV/eAAC+/WMA player\n- MP4/H.263 player\n- Organizer\n- Voice memo/commands\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML, Adobe Flash Lite",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS, MMS, Email, Instant Messaging",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2009, May",
+            "Status": "Available. Released 2009, July"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 16 GB, 1 GB included",
+            "Internal": "20 MB",
+            "Phonebook": "Yes, up to 1000 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Black, Silver",
+            "Price group": "3/10 (About 120 EUR)",
+            "SAR EU": "0.35 W/kg (head)",
+            "SAR US": "0.41 W/kg (head) \u00a0 \u00a0 0.29 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "UMTS 850 / 2100",
+            "EDGE": "Class 32, 296 kbits",
+            "GPRS": "Class 32, 88 kbps",
+            "Speed": "Yes, 384 kbps",
+            "Technology": "GSM / UMTS"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Camera": "Photo",
+            "Loudspeaker": "Voice 66dB / Noise 66dB / Ring 69dB"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 6600i slide",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_6600i_slide-pictures-2805.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-6600i-slide.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_6600i_slide-2805.php"
+    }
+}

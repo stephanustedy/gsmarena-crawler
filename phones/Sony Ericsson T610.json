@@ -1,0 +1,79 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 770 mAh battery (BST-25)",
+            "Stand-by": "Up to 310 h",
+            "Talk time": "Up to 14 h"
+        },
+        "Body": {
+            "Dimensions": "102 x 44 x 19 mm (4.02 x 1.73 x 0.75 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "95 g (3.35 oz)"
+        },
+        "Camera": {
+            "Primary": "CIF, 352 x 288 pixels",
+            "Secondary": "No",
+            "Video": "No"
+        },
+        "Comms": {
+            "Bluetooth": "v1.0b",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Wallpapers",
+            "Resolution": "128 x 160 pixels (~114 ppi pixel density)",
+            "Size": "1.8 inches (~22.7% screen-to-body ratio)",
+            "Type": "STN, 65K colors"
+        },
+        "Features": {
+            "": "- Predictive text input\n- Organizer\n- Voice memo",
+            "Alarm": "Yes",
+            "Browser": "WAP 2.0/xHTML",
+            "Clock": "Yes",
+            "Games": "Deep Abyss, Five Stones, Minigolf and downloadable",
+            "Java": "Yes",
+            "Messaging": "SMS, EMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2003, 2Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- 300 organizer entries",
+            "Call records": "30 received, dialed and missed calls",
+            "Card slot": "No",
+            "Internal": "2 MB",
+            "Phonebook": "8 fields, 510 items, Photo call"
+        },
+        "Misc": {
+            "Colors": "3",
+            "SAR EU": "0.89 W/kg (head)",
+            "SAR US": "1.21 W/kg (head) \u00a0 \u00a0 0.97 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 8",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "": "- Ringtones can be assigned to phonebook entries",
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic ringtones, composer",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Sony Ericsson T610",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_ericsson_t610-pictures-405.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/snt610.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_ericsson_t610-405.php"
+    }
+}

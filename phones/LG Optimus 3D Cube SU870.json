@@ -1,0 +1,80 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1520 mAh battery",
+            "Stand-by": "Up to 333 h",
+            "Talk time": "Up to 5 h 50 min"
+        },
+        "Body": {
+            "Dimensions": "126.8 x 67.4 x 9.6 mm (4.99 x 2.65 x 0.38 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "148 g (4.94 oz)"
+        },
+        "Camera": {
+            "Features": "Stereoscopic photos & videos; geo-tagging",
+            "Primary": "Dual 5 MP, 2592\u04451944 pixels, autofocus, LED flash",
+            "Secondary": "VGA",
+            "Video": "1080p@30fps (2D), 720p@30fps (3D)"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "NFC": "Yes",
+            "Radio": "No",
+            "USB": "microUSB v2.0 (MHL TV-out)",
+            "WLAN": "Wi-Fi 802.11 b/g/n, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- LG 3D UI",
+            "Resolution": "480 x 800 pixels (~217 ppi pixel density)",
+            "Size": "4.3 inches (~61.6% screen-to-body ratio)",
+            "Type": "3D IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- TDMB TV\n- MP4/DivX/XviD/H.264/WMV player\n- MP3/WAV/WMA/eAAC+ player\n- 3D/2D image/video editor\n- Document viewer/editor\n- Organizer\n- Voice memo/dial/commands\n- Predictive text input",
+            "Browser": "HTML5, Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2012, February",
+            "Status": "Available. Released 2012, Q3"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "16 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "5/10 (About 210 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "3G bands": "HSDPA",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 21.1/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.2 GHz",
+            "OS": "Android OS, v2.3 (Gingerbread), planned upgrade to v4.0 (Ice Cream Sandwich)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "For South Korea\nAlso known as LG Optimus 3D 2",
+        "device_name": "LG Optimus 3D Cube SU870",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_optimus_3d_cube_su870-pictures-4545.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-optimus-3d-2.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_optimus_3d_cube_su870-4545.php"
+    }
+}

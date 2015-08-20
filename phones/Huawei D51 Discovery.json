@@ -1,0 +1,71 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1000 mAh battery",
+            "Stand-by": "Up to 450 h",
+            "Talk time": "Up to 5 h"
+        },
+        "Body": {
+            "": "- IP57 certified - dust and water resistant\n- Water proof up to 1 meter and 30 minutes",
+            "Dimensions": "114.5 x 50.5 x 16 mm (4.51 x 1.99 x 0.63 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "106 g (3.74 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "Yes",
+            "Radio": "Stereo FM radio",
+            "USB": "v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~200 ppi pixel density)",
+            "Size": "2.0 inches (~21.4% screen-to-body ratio)",
+            "Type": "TFT"
+        },
+        "Features": {
+            "": "- SNS applications\n- Audio/video player\n- Organizer\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes + downloadable",
+            "Java": "Yes",
+            "Messaging": "SMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2011",
+            "Status": "Available"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD",
+            "Phonebook": "Yes"
+        },
+        "Misc": {
+            "Colors": "Black/Orange",
+            "Price group": "3/10 (About 110 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "",
+            "GPRS": "Yes",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "Alert types": "Vibration; Polyphonic(64), MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Huawei D51 Discovery",
+        "image": {
+            "href": "http://www.gsmarena.com/huawei_d51_discovery-pictures-4609.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/huawei-d51-discovery.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/huawei_d51_discovery-4609.php"
+    }
+}

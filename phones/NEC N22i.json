@@ -1,0 +1,94 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 800 mAh battery",
+            "Stand-by": "Up to 200 h",
+            "Talk time": "Up to 3 h 20 min"
+        },
+        "Body": {
+            "Dimensions": "101 x 48 x 27 mm, 94 cc (3.98 x 1.89 x 1.06 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "110 g (3.88 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second LCD (120 x 30 pixels) with 12 color backlight\n- Downloadable wallpapers, animations",
+            "Resolution": "120 x 160 pixels",
+            "Size": "",
+            "Type": "CSTN, 4096 colors"
+        },
+        "Features": {
+            "": "- Predictive text input\n- Organizer\n- Voice memo \n- Profiles\n- Interchangeable covers",
+            "Alarm": "Yes",
+            "Browser": "iMode",
+            "Clock": "Yes",
+            "Games": "5 - Belt, Poker, Puzzle, Thief, UFO",
+            "Java": "No",
+            "Messaging": "SMS, Email"
+        },
+        "Launch": {
+            "Announced": "2003",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- 10 x 20 sec voice memo",
+            "Call records": "10 dialed, 10 received, 10 missed calls",
+            "Card slot": "No",
+            "Phonebook": "500 x 8 fields, Photo call"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "Class 8",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic ringtones, composer",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "NEC N22i",
+        "image": {
+            "href": "http://www.gsmarena.com/nec_n22i-pictures-413.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nen22i.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nec_n22i-413.php"
+    }
+}

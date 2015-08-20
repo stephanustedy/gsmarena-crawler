@@ -1,0 +1,80 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable 3630 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "": "- Water repellant nano-coating (IP52 certified)",
+            "Dimensions": "148 x 75 x 10.9 mm (5.83 x 2.95 x 0.43 in)",
+            "SIM": "Dual SIM (Nano-SIM, dual stand-by)",
+            "Weight": "169 g (5.96 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection, panorama, auto-HDR",
+            "Primary": "21 MP, 5248 x 3936, autofocus, dual-LED (dual tone) flash",
+            "Secondary": "5 MP",
+            "Video": "1080p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, LE",
+            "GPS": "Yes, with A-GPS",
+            "NFC": "Yes",
+            "Radio": "To be confirmed",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 3",
+            "Resolution": "1080 x 1920 pixels (~401 ppi pixel density)",
+            "Size": "5.5 inches (~75.1% screen-to-body ratio)",
+            "Type": "Capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Fast battery charging\n- Active noise cancellation with dedicated mic\n- MP3/AAC+/WAV/WMA player\n- MP4/H.264/WMV player\n- Photo/video editor\n- Document viewer",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Yes"
+        },
+        "Launch": {
+            "Announced": "2015, July",
+            "Status": "Coming soon. Exp. release 2015, August"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 128 GB",
+            "Internal": "16/32 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "6/10 (About 270 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - XT1563 (DS)",
+            "4G bands": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 12(700), 17(700), 28(700) - XT1563 (DS)",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA, LTE",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.7 GHz Cortex-A53 & quad-core 1.0 GHz Cortex-A53",
+            "Chipset": "Qualcomm MSM8939 Snapdragon 615",
+            "GPU": "Adreno 405",
+            "OS": "Android OS, v5.1.1 (Lollipop)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Motorola Moto X Play Dual SIM",
+        "index": 1,
+        "url": "http://www.gsmarena.com/motorola_moto_x_play_dual_sim-7470.php"
+    }
+}

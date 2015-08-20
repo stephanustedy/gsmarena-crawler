@@ -1,0 +1,70 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1800 mAh battery",
+            "Stand-by": "Up to 550 h",
+            "Talk time": "Up to 8 h"
+        },
+        "Body": {
+            "Dimensions": "116 x 50 x 15.6 mm (4.57 x 1.97 x 0.61 in)",
+            "SIM": "Dual SIM (Mini-SIM)",
+            "Weight": "104 g (3.67 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "No",
+            "Radio": "FM radio",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~167 ppi pixel density)",
+            "Size": "2.4 inches (~30.8% screen-to-body ratio)",
+            "Type": "TFT"
+        },
+        "Features": {
+            "Browser": "WAP",
+            "Games": "Downloadable",
+            "Java": "",
+            "Messaging": "SMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2012, May",
+            "Status": "Available"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 8 GB",
+            "Phonebook": "Yes"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "1/10 (About 20 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, Polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Micromax X246",
+        "image": {
+            "href": "http://www.gsmarena.com/micromax_x246-pictures-4887.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/micromax-x246.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/micromax_x246-4887.php"
+    }
+}

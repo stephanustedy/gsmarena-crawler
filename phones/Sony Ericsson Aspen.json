@@ -1,0 +1,89 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 1500 mAh battery",
+            "Music play": "Up to 12 h",
+            "Stand-by": "Up to 560 h (2G) / Up to 500 h (3G)",
+            "Talk time": "Up to 6 h 30 min (2G) / Up to 7 h 30 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "117 x 60 x 12.5 mm (4.61 x 2.36 x 0.49 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "130 g (4.59 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, smart contrast",
+            "Primary": "3.15 MP, 2048 x 1536 pixels, check quality",
+            "Secondary": "No",
+            "Video": "480p@15fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Yes, Wi-Fi 802.11b/g"
+        },
+        "Display": {
+            "": "- XPERIA Panels",
+            "Resolution": "320 x 240 pixels (~167 ppi pixel density)",
+            "Size": "2.4 inches (~25.4% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 65K colors"
+        },
+        "Features": {
+            "": "- MP3/eAAC+/WAV/WMA player\n- MP4/H.264/WMV player\n- Pocket Office \n- Organizer\n- Eco friendly materials\n- Voice memo/dial\n- Predictive text input",
+            "Browser": "WAP 2.0/HTML (IE), RSS feeds",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email, IM"
+        },
+        "Launch": {
+            "Announced": "2010, February",
+            "Status": "Available. Released 2010, July"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 16 GB, 4 GB included",
+            "Internal": "256 MB RAM, 256 MB ROM, 100 MB"
+        },
+        "Misc": {
+            "Colors": "Iconic Black, White Silver",
+            "Price group": "2/10 (About 70 EUR)",
+            "SAR EU": "1.05 W/kg (head)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 900 / 2100",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Up to 225 kbps",
+            "GPRS": "Up to 85 kbps",
+            "Speed": "HSPA 7.2/2 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "600 MHz ARM 11",
+            "Chipset": "Qualcomm MSM7227 Snapdragon S1",
+            "GPU": "Adreno 200",
+            "OS": "Microsoft Windows Mobile 6.5.3 Professional"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -79.5dB / Crosstalk -79.8dB",
+            "Camera": "Photo",
+            "Loudspeaker": "Voice 71dB / Noise 66dB / Ring 75dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Sony Ericsson Faith",
+        "device_name": "Sony Ericsson Aspen",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_ericsson_aspen-pictures-3082.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/sony-ericsson-aspen-new.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_ericsson_aspen-3082.php"
+    }
+}

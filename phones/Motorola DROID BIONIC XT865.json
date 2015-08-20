@@ -1,0 +1,83 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1930 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "125.9 x 66.9 x 13.3 mm (4.96 x 2.63 x 0.52 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "158 g (5.57 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face detection",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, dual-LED flash",
+            "Secondary": "VGA",
+            "Video": "720p"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, DLNA, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "540 x 960 pixels (~256 ppi pixel density)",
+            "Size": "4.3 inches (~60.5% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- HDMI port\n- Active noise cancellation with dedicated mic\n- MP3/WAV/WMA/AAC+ player\n- MP4/WMV/H.264 player\n- Document viewer\n- Photo viewer/editor\n- Organizer\n- Voice memo/dial/commands\n- Predictive text input (Swype)",
+            "Browser": "HTML, Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS (threaded view), MMS, Email, IM, Push Email",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2011, January",
+            "Status": "Cancelled"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB, 16 GB included",
+            "Internal": "16 GB, 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "5/10 (About 250 EUR)",
+            "SAR US": "0.77 W/kg (head) \u00a0 \u00a0 1.46 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "CDMA 800 / 1900",
+            "3G bands": "CDMA2000 1xEV-DO",
+            "4G bands": "LTE band 13(700)",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Speed": "EV-DO Rev.A 3.1 Mbps, LTE",
+            "Technology": "CDMA / EVDO / LTE"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1 GHz Cortex-A9",
+            "Chipset": "Nvidia Tegra 2 AP20H",
+            "GPU": "ULP GeForce",
+            "OS": "Android OS, v2.2.1 (Gingerbread), upgradable to v4.1.2 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "For Verizon.",
+        "device_name": "Motorola DROID BIONIC XT865",
+        "image": {
+            "href": "http://www.gsmarena.com/motorola_droid_bionic_xt865-pictures-4523.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/motorola-droid-bionic-xt865.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/motorola_droid_bionic_xt865-4523.php"
+    }
+}

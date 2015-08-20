@@ -1,0 +1,83 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1350 mAh battery",
+            "Stand-by": "Up to 480 h",
+            "Talk time": "Up to 6 h 30 min"
+        },
+        "Body": {
+            "Dimensions": "113.8 x 63.3 x 12.2 mm (4.48 x 2.49 x 0.48 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "121 g (4.27 oz)"
+        },
+        "Camera": {
+            "Features": "Smile detection, geo-tagging",
+            "Primary": "5 MP, 2592 x 1944 pixels, autofocus, LED flash",
+            "Secondary": "VGA",
+            "Video": "w480p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "NFC": "Carrier dependent",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot"
+        },
+        "Display": {
+            "": "- TouchWiz UI",
+            "Resolution": "320 x 480 pixels (~158 ppi pixel density)",
+            "Size": "3.65 inches (~55.1% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen"
+        },
+        "Features": {
+            "": "- Samsung ChatON\n- MP3/WAV/eAAC+ player\n- MP4/DivX/H.264 player\n- Organizer\n- Photo editor\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2011, August",
+            "Status": "Available. Released 2011, December"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB, 2 GB included",
+            "Internal": "150 MB"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "3/10 (About 120 EUR)",
+            "SAR EU": "0.66 W/kg (head)",
+            "SAR US": "0.96 W/kg (head) \u00a0 \u00a0 0.93 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 7.2/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "832 MHz",
+            "OS": "bada OS, v2.0"
+        },
+        "Sound": {
+            "": "- DNSe (Digital Natural Sound Engine)",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Samsung Wave725",
+        "device_name": "Samsung Wave M S7250",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_wave_m_s7250-pictures-4054.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-s7250-wave-m.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_wave_m_s7250-4054.php"
+    }
+}

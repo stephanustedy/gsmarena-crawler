@@ -1,0 +1,70 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 750 mAh battery",
+            "Stand-by": "Up to 340 h",
+            "Talk time": "Up to 3 h 20 min"
+        },
+        "Body": {
+            "Dimensions": "88 x 45 x 19.9 mm (3.46 x 1.77 x 0.78 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "79 g (2.79 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "v1.2",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "v1.1",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second external monochrome OLED display, 16 shades, 80 x 64 pixels\n- Wallpaper",
+            "Resolution": "128 x 160 pixels (~114 ppi pixel density)",
+            "Size": "1.8 inches, 28 x 35 mm (~25.7% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- Predictive text input\n- Organizer\n- Voice memo",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes",
+            "Java": "Yes",
+            "Messaging": "SMS, EMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2006, June",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "No",
+            "Internal": "8 MB",
+            "Phonebook": "500 x 10 fields, Photo call"
+        },
+        "Misc": {
+            "Colors": "Champagne Gold, Metallic Blue, Cool Gray, Pink",
+            "SAR EU": "0.86 W/kg (head)",
+            "SAR US": "0.74 W/kg (head) \u00a0 \u00a0 0.50 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3, AAC ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Samsung X500",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_x500-pictures-1615.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-x500.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_x500-1615.php"
+    }
+}

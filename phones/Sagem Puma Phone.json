@@ -1,0 +1,76 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 880 mAh battery",
+            "Music play": "Up to 24 h",
+            "Stand-by": "Up to 350 h",
+            "Talk time": "Up to 5 h (2G) / Up to 4 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "102 x 56 x 13 mm (4.02 x 2.20 x 0.51 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "115 g (4.06 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "3.15 MP, 2048 x 1536 pixels, LED flash",
+            "Secondary": "VGA",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~143 ppi pixel density)",
+            "Size": "2.8 inches (~42.5% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- Integrated solar cell with charge indicator\n- Bike Tracker, Run Tracker, Pedometer\n- PUMA services\n- Eco-friendly box\n- MP3/WMA/eAAC+ player\n- MP4/H.264 player\n- Organizer\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email, IM",
+            "Sensors": "Accelerometer, compass"
+        },
+        "Launch": {
+            "Announced": "2010, February",
+            "Status": "Available. Released 2010, August"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "microSD, up to 8 GB, 2 GB included",
+            "Phonebook": "Yes"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "7/10 (About 400 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 7.2/2 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; Polyphonic(64) ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Sagem Puma Phone",
+        "image": {
+            "href": "http://www.gsmarena.com/sagem_puma_phone-pictures-3140.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/sagem-puma-phone.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sagem_puma_phone-3140.php"
+    }
+}

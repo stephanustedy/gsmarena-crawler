@@ -1,0 +1,82 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1100 mAh battery",
+            "Stand-by": "Up to 360 h",
+            "Talk time": "Up to 5 h 40 min"
+        },
+        "Body": {
+            "Dimensions": "108 x 53 x 13.7 mm (4.25 x 2.09 x 0.54 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "117.5 g (4.13 oz)"
+        },
+        "Camera": {
+            "Features": "Touch focus",
+            "Primary": "5 MP, 2592 x 1944 pixels, autofocus",
+            "Secondary": "VGA videocall camera",
+            "Video": "480p@15fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "miniUSB",
+            "WLAN": "Wi-Fi 802.11 b/g"
+        },
+        "Display": {
+            "": "- TouchFLO 3D finger swipe navigation\n- Touch-sensitive zoom bar\n- Handwriting recognition",
+            "Resolution": "480 x 800 pixels (~292 ppi pixel density)",
+            "Size": "3.2 inches (~50.9% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 65K colors"
+        },
+        "Features": {
+            "": "- MP3/WAV/WMA/eAAC+ player\n- MP4/WMV/H.264 player\n- Facebook and Twitter integration\n- YouTube client\n- Pocket Office \n- Voice memo/dial\n- Predictive text input",
+            "Browser": "HTML",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS (threaded view), MMS, Email, Instant Messaging",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2009, October",
+            "Status": "Available. Released 2009, October"
+        },
+        "Memory": {
+            "Card slot": "microSD",
+            "Internal": "288 MB RAM, 512 MB ROM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "2/10 (About 80 EUR)",
+            "SAR US": "1.51 W/kg (head) \u00a0 \u00a0 1.43 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 1900",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 7.2/2 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "528 MHz ARM 11",
+            "Chipset": "Qualcomm MSM7201A",
+            "GPU": "Adreno 130",
+            "OS": "Microsoft Windows Mobile 6.5 Professional"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "For AT&T\nHTC Topaz platform",
+        "device_name": "HTC Pure",
+        "image": {
+            "href": "http://www.gsmarena.com/htc_pure-pictures-2956.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/htc-pure.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/htc_pure-2956.php"
+    }
+}

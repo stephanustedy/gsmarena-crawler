@@ -1,0 +1,75 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 750 mAh battery",
+            "Stand-by": "Up to 72 h",
+            "Talk time": "Up to 3 h 30 min"
+        },
+        "Body": {
+            "": "- Flashlight",
+            "Dimensions": "96 x 56.2 x 13.5 mm (3.78 x 2.21 x 0.53 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "70 g (2.47 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 1024 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "No",
+            "Radio": "Stereo FM radio",
+            "USB": "microUSB",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~154 ppi pixel density)",
+            "Size": "2.6 inches (~38.8% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 65K colors"
+        },
+        "Features": {
+            "": "- Analog TV (S210T only)\n- Facebook, Twitter, eBuddy\n- Music player\n- Video player\n- Organizer",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Downloadable",
+            "Java": "Yes",
+            "Messaging": "SMS, MMS, Email, Push Email, IM"
+        },
+        "Launch": {
+            "Announced": "2011, July",
+            "Status": "Available. Released 2011, Q3"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 8 GB",
+            "Internal": "256 MB ROM, 64 MB RAM",
+            "Phonebook": "Yes"
+        },
+        "Misc": {
+            "Colors": "Black, Pink, Light blue, Purple, Violet, Silver",
+            "Price group": "1/10 (About 40 EUR)"
+        },
+        "Network": {
+            "": "GSM 850 / 900 / 1800 / 1900 - SIM 2 (S210 only)",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 12",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "S200 - Single SIM\nS210 - Dual SIM",
+        "device_name": "BLU Deejay Touch",
+        "image": {
+            "href": "http://www.gsmarena.com/blu_deejay_touch-pictures-4171.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/blu-deejay-touch.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/blu_deejay_touch-4171.php"
+    }
+}

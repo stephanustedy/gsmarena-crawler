@@ -1,0 +1,74 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 800 mAh battery",
+            "Stand-by": "Up to 270 h",
+            "Talk time": "Up to 6 h"
+        },
+        "Body": {
+            "Dimensions": "85 x 44.5 x 21.9 mm (3.35 x 1.75 x 0.86 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "77 g (2.72 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 1024 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "v1.1",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second external OLED display, 65K colors (80 x 64 pixels)\n- Wallpaper",
+            "Resolution": "176 x 220 pixels (~160 ppi pixel density)",
+            "Size": "1.76 inches (~25.8% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/AAC/AAC+ player\n- Predictive text input\n- Organizer\n- Voice memo",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Cannonball, Bejeweled-T&B, Lemmings, Tetris-T&B",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2006, May",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "10 dialed, 10 received, 10 missed calls",
+            "Card slot": "No",
+            "Internal": "60 MB",
+            "Phonebook": "1000 entries"
+        },
+        "Misc": {
+            "Colors": "",
+            "SAR EU": "0.57 W/kg (head)",
+            "SAR US": "0.85 W/kg (head) \u00a0 \u00a0 0.12 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Samsung E500",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_e500-pictures-825.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/sse500.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_e500-825.php"
+    }
+}

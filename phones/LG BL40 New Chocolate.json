@@ -1,0 +1,86 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1000 mAh battery",
+            "Stand-by": "Up to 400 h (2G) / Up to 370 h (3G)",
+            "Talk time": "Up to 6 h (2G) / Up to 5 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "128 x 51 x 10.9 mm (5.04 x 2.01 x 0.43 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "129 g (4.55 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face, smile and blink detection, manual focus",
+            "Primary": "5 MP, 2560 x 1920 pixels, Schneider-Kreuznach optics, autofocus, LED flash",
+            "Secondary": "Yes",
+            "Video": "480p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS; FM transmitter",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g, DLNA"
+        },
+        "Display": {
+            "": "- S-Class Touch UI",
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "345 x 800 pixels (~217 ppi pixel density)",
+            "Size": "4.01 inches (~57.8% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/DivX/XviD/H.263 player\n- MP3/WAV/eAAC+ player\n- Document viewer\n- Organiser\n- TV out\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Games": "7 incl. motion-based + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS, Email, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2009, August",
+            "Status": "Available. Released 2009, September"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "1.1 GB",
+            "Phonebook": "1000 entries, Photo call"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "2/10 (About 100 EUR)",
+            "SAR EU": "0.76 W/kg (head)",
+            "SAR US": "0.21 W/kg (head) \u00a0 \u00a0 0.62 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Speed": "HSPA 7.2/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Sound": {
+            "": "- Dolby Mobile",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -85.9dB / Crosstalk -81.3dB",
+            "Loudspeaker": "Voice 71dB / Noise 70dB / Ring 81dB"
+        }
+    },
+    "main": {
+        "device_name": "LG BL40 New Chocolate",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_bl40_new_chocolate-pictures-2916.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-bl40.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_bl40_new_chocolate-2916.php"
+    }
+}

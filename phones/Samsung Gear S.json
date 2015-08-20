@@ -1,0 +1,79 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 300 mAh battery",
+            "Stand-by": "Up to 96 h (3G)",
+            "Talk time": ""
+        },
+        "Body": {
+            "": "- IP67 certified - dust and water resistant\n- Water resistant up to 1 meter and 30 minutes",
+            "Dimensions": "58.1 x 39.9 x 12.5 mm (2.29 x 1.57 x 0.49 in)",
+            "SIM": "Nano-SIM",
+            "Weight": "67 g (2.36 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "v4.1, A2DP",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 3",
+            "Resolution": "360 x 480 pixels (~300 ppi pixel density)",
+            "Size": "2.0 inches (~53.4% screen-to-body ratio)",
+            "Type": "Super AMOLED capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- S-Voice natural language commands and dictation\n- MP3/M4A/AAC/WAV player\n- Photo/video viewer\n- Voice memo/dial/commands",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS",
+            "Sensors": "Accelerometer, gyro, proximity, compass, heart rate, barometer, UV light"
+        },
+        "Launch": {
+            "Announced": "2014, August",
+            "Status": "Available. Released 2014, October"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "4 GB, 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "7/10 (About 400 EUR)",
+            "SAR EU": "0.56 W/kg (head) \u00a0 \u00a0 0.65 W/kg (body)",
+            "SAR US": "0.81 W/kg (head) \u00a0 \u00a0 1.07 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 1900",
+            "2G bands": "GSM 900 / 1800",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1 GHz",
+            "OS": "Tizen-based wearable platform"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Initial setup requires a Samsung Galaxy smartphone\nAlso known as Samsung SM-R750",
+        "device_name": "Samsung Gear S",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_gear_s-pictures-6620.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-gear-s.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_gear_s-6620.php"
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1300 mAh battery",
+            "Stand-by": "Up to 245 h (3G)",
+            "Talk time": "Up to 6 h 30 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "114 x 62 x 13 mm (4.49 x 2.44 x 0.51 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "122 g (4.30 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Resolution": "320 x 480 pixels (~165 ppi pixel density)",
+            "Size": "3.5 inches (~51.6% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/WAV/eAAC+ player\n- MP4/H.264 player\n- Organizer\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP2.0 / xHTML",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS, MMS, Email, IM, Push GMail",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2011, February",
+            "Status": "Available. Released 2011, April"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB, 4 GB included",
+            "Internal": "512 MB"
+        },
+        "Misc": {
+            "Colors": "Black, White, Red",
+            "Price group": "7/10 (About 380 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 1900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 7.2/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "600 MHz ARM 11",
+            "Chipset": "Qualcomm MSM7227 Snapdragon S1",
+            "GPU": "Adreno 200",
+            "OS": "Android OS, v2.2 (Froyo)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Cloud-based phone",
+        "device_name": "iNQ Cloud Touch",
+        "image": {
+            "href": "http://www.gsmarena.com/inq_cloud_touch-pictures-3773.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/inq-cloud-touch.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/inq_cloud_touch-3773.php"
+    }
+}

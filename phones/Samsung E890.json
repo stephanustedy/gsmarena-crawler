@@ -1,0 +1,75 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 880 mAh battery",
+            "Stand-by": "Up to 350 h",
+            "Talk time": "Up to 3 h 50 min"
+        },
+        "Body": {
+            "Dimensions": "99.5 x 50 x 14.6 mm (3.92 x 1.97 x 0.57 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "82 g (2.89 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 1024 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "1.1",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Handwriting recognition",
+            "Resolution": "240 x 320 pixels (~174 ppi pixel density)",
+            "Size": "2.3 inches (~32.9% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/AAC/AAC+ player\n- MP4 player\n- Organizer\n- Voice memo\n- Wireless / PictBridge printing\n- TV-out",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes + Java downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2006, October",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "30 dialed, 30 received, 30 missed calls",
+            "Card slot": "microSD",
+            "Internal": "54 MB",
+            "Phonebook": "Yes"
+        },
+        "Misc": {
+            "Colors": "Silver",
+            "Price group": "3/10 (About 110 EUR)",
+            "SAR EU": "0.67 W/kg (head)",
+            "SAR US": "0.64 W/kg (head) \u00a0 \u00a0 0.53 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Samsung E890",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_e890-pictures-1797.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-e890.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_e890-1797.php"
+    }
+}

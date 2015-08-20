@@ -1,0 +1,100 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po battery (28 Wh)",
+            "Stand-by": "",
+            "Talk time": "Up to 6 h (multimedia)"
+        },
+        "Body": {
+            "Dimensions": "265 x 175 x 9.5 mm (10.43 x 6.89 x 0.37 in)",
+            "SIM": "No",
+            "Weight": "660 g (1.46 lb)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, HDR",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus",
+            "Secondary": "2 MP",
+            "Video": "1080p"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0",
+            "GPS": "Yes",
+            "Radio": "No",
+            "USB": "microUSB v2.0, USB Host",
+            "WLAN": "Wi-Fi 802.11 b/g/n"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "1920 x 1200 pixels (~224 ppi pixel density)",
+            "Size": "10.1 inches (~63.8% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Box (25 GB lifetime cloud storage)\n- MP4/H.264 player\n- MP3/WAV/eAAC+ player\n- Photo/video editor\n- Document viewer",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "Email, Push Email, IM",
+            "Sensors": "Accelerometer, gyro"
+        },
+        "Launch": {
+            "Announced": "2014",
+            "Status": "Available. Released 2014"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "16 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "N/A",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "No cellular connectivity"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1 GHz",
+            "OS": "Android OS, v4.4.2 (KitKat)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as HP 10 Plus 2201er",
+        "device_name": "HP 10 Plus",
+        "image": {
+            "href": "http://www.gsmarena.com/hp_10_plus-pictures-6811.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/hp-10-plus-2201er.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/hp_10_plus-6811.php"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion battery",
+            "Stand-by": "Up to 200 h",
+            "Talk time": "Up to 6 h"
+        },
+        "Body": {
+            "Dimensions": "191 x 127 x 11 mm (7.52 x 5.0 x 0.43 in)",
+            "SIM": "Optional",
+            "Weight": "390 g (13.76 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "Yes",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "600 x 1024 pixels (~170 ppi pixel density)",
+            "Size": "7.0 inches (~56.8% screen-to-body ratio)",
+            "Type": "TFT touchscreen"
+        },
+        "Features": {
+            "": "- MP3/AAC+/WAV/WMA player\n- MP4/H.264 player\n- Document viewer\n- Photo viewer/editor",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "Email, IM"
+        },
+        "Launch": {
+            "Announced": "2013, January",
+            "Status": "Available. Released 2013, January"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "4 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Twilight Blue, Black, Vermillion",
+            "Price group": "2/10 (About 100 EUR)"
+        },
+        "Network": {
+            "2G bands": "N/A",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "No cellular connectivity"
+        },
+        "Platform": {
+            "CPU": "1 GHz",
+            "OS": "Android OS, v4.0 (Ice Cream Sandwich)"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Alcatel One Touch Evo 7",
+        "image": {
+            "href": "http://www.gsmarena.com/alcatel_one_touch_evo_7-pictures-5236.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/alcatel-ot-evo-7.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/alcatel_one_touch_evo_7-5236.php"
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 900 mAh battery",
+            "Stand-by": "Up to 800 h",
+            "Talk time": "Up to 13 h 30 min"
+        },
+        "Body": {
+            "Dimensions": "114 x 48.4 x 10.5 mm (4.49 x 1.91 x 0.41 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "86 g (3.03 oz)"
+        },
+        "Camera": {
+            "Primary": "3.15 MP, 2048 x 1536 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "No",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "176 x 220 pixels (~128 ppi pixel density)",
+            "Size": "2.2 inches (~27.6% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- SNS integration\n- MP3/WAV/eAAC+\n- MP4/H.264 player\n- Organizer\n- Document viewer\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2010, November",
+            "Status": "Available. Released 2010, November"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 8 GB",
+            "Internal": "15 MB",
+            "Phonebook": "1000 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "2/10 (About 80 EUR)",
+            "SAR EU": "0.92 W/kg (head) \u00a0 \u00a0 0.93 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration, MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "LG S310",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_s310-pictures-3674.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-s310.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_s310-3674.php"
+    }
+}

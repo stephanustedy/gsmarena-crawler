@@ -1,0 +1,77 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion battery",
+            "Stand-by": "Up to 300 h",
+            "Talk time": "Up to 7 h"
+        },
+        "Body": {
+            "Dimensions": "85 x 47 x 19.5 mm (3.35 x 1.85 x 0.77 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "90 g (3.17 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "No"
+        },
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Icon display\n- Wallpapers, screensavers",
+            "Resolution": "128 x 160 pixels (~114 ppi pixel density)",
+            "Size": "1.8 inches (~25.5% screen-to-body ratio)",
+            "Type": "CSTN, 65K colors"
+        },
+        "Features": {
+            "": "- Predictive text input\n- Photo editor\n- Organizer\n- Voice memo",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS,MMS"
+        },
+        "Launch": {
+            "Announced": "2007, June. Released 2008, October",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "30 received, dialed and missed calls",
+            "Card slot": "No",
+            "Internal": "10 MB",
+            "Phonebook": "Yes"
+        },
+        "Misc": {
+            "Colors": "Morning White, Silent Black",
+            "Price group": "2/10 (About 70 EUR)",
+            "SAR US": "0.76 W/kg (head) \u00a0 \u00a0 0.44 W/kg (body)"
+        },
+        "Network": {
+            "": "GSM 850 / 1800 / 1900 - Z250a",
+            "2G bands": "GSM 900 / 1800 / 1900 - Z250i",
+            "EDGE": "No",
+            "GPRS": "Yes",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Z258c for China\nZ250a for US",
+        "device_name": "Sony Ericsson Z250",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_ericsson_z250-pictures-2005.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/sonyericsson-z250.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_ericsson_z250-2005.php"
+    }
+}

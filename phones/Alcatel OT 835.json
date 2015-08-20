@@ -1,0 +1,97 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 785 mAh battery",
+            "Stand-by": "Up to 160 h",
+            "Talk time": "Up to 7 h"
+        },
+        "Body": {
+            "Dimensions": "87.7 x 45.9 x 20 mm (3.45 x 1.81 x 0.79 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "88 g (3.10 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second external display (98 x 64 pixels), 65K colors\n- Zoom function\n- Landscape mode\n- Joystick",
+            "Resolution": "128 x 160 pixels, 5 lines",
+            "Size": "",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- Predictive text input\n- Voice memo\n- Voice dial\n- Organizer",
+            "Browser": "WAP 1.2.1",
+            "Games": "4 - Space War, Wall Breaker, Ocean, Mine",
+            "Java": "No",
+            "Messaging": "SMS, EMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2004, 1Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "10 dialed, 10 received, 10 missed calls",
+            "Card slot": "No",
+            "Internal": "3 MB",
+            "Phonebook": "300"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "": "- Formats: MJPEG, JPG, GIF, PNG, BMP, SMAF, ADPCM, MIDI, i-Melody, AMR",
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Alcatel OT 835",
+        "image": {
+            "href": "http://www.gsmarena.com/alcatel_ot_835-pictures-669.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/alot835.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/alcatel_ot_835-669.php"
+    }
+}

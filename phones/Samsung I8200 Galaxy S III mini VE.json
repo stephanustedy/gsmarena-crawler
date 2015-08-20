@@ -1,0 +1,83 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1500 mAh battery",
+            "Music play": "Up to 57 h",
+            "Stand-by": "Up to 320 h (3G)",
+            "Talk time": "Up to 8 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "121.6 x 63 x 9.9 mm (4.79 x 2.48 x 0.39 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "112 g (3.95 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face/smile detection, panorama",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, LED flash",
+            "Secondary": "VGA",
+            "Video": "720p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, EDR, LE, apt-X",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "NFC": "Yes (I8200N only)",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "480 x 800 pixels (~233 ppi pixel density)",
+            "Size": "4.0 inches (~59.4% screen-to-body ratio)",
+            "Type": "Super AMOLED capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/DivX/XviD/WMV/H.264 player\n- MP3/WAV/eAAC+/AC3/FLAC player\n- Photo/video editor\n- Document editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2014, March",
+            "Status": "Available. Released 2014, March"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "8/16 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "White, Blue, Gray, Black",
+            "Price group": "4/10 (About 180 EUR)",
+            "SAR EU": "0.64 W/kg (head) \u00a0 \u00a0 0.53 W/kg (body)",
+            "SAR US": "1.14 W/kg (head) \u00a0 \u00a0 1.24 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 1900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 21.1/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "1.2 GHz dual-core Cortex-A9",
+            "OS": "Android OS, v4.2.2 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Samsung I8200 Galaxy S III mini Value Edition, I8200 Galaxy S3 mini\nAvailable as Samsung I8200N Galaxy S III mini with NFC",
+        "device_name": "Samsung I8200 Galaxy S III mini VE",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_i8200_galaxy_s_iii_mini_ve-pictures-6190.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s3-mini-value-edition-i8200.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_i8200_galaxy_s_iii_mini_ve-6190.php"
+    }
+}

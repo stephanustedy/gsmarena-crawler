@@ -1,0 +1,73 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 800 mAh battery",
+            "Stand-by": "Up to 240 h",
+            "Talk time": "Up to 3h"
+        },
+        "Body": {
+            "": "- Flashlight",
+            "Dimensions": "96 x 47 x 16 mm (3.78 x 1.85 x 0.63 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "78.5 g (2.75 oz)"
+        },
+        "Camera": {
+            "Primary": "Yes",
+            "Secondary": "No",
+            "Video": "No"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "No",
+            "Radio": "Stereo FM radio",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "128 x 160 pixels (~113 ppi pixel density)",
+            "Size": "1.81 inches (~22.9% screen-to-body ratio)",
+            "Type": "CSTN, 65K colors"
+        },
+        "Features": {
+            "": "- MP3/AAC player\n- MP4/H.263 player\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Downloadable",
+            "Java": "No",
+            "Messaging": "SMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2010, January",
+            "Status": "Available. Released 2010, January"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 2 GB",
+            "Phonebook": "500 entries"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "1/10 (About 20 EUR)"
+        },
+        "Network": {
+            "": "GSM 900 / 1800 - SIM 2",
+            "2G bands": "GSM 900 / 1800 - SIM 1",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration, Polyphonic",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Micromax X220",
+        "image": {
+            "href": "http://www.gsmarena.com/micromax_x220-pictures-3318.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/x220.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/micromax_x220-3318.php"
+    }
+}

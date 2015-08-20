@@ -1,0 +1,90 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 3000 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "": "- Fingerprint sensor",
+            "Dimensions": "161.2 x 77 x 9.9 mm (6.35 x 3.03 x 0.39 in)",
+            "SIM": "Dual SIM (Nano-SIM/ Micro-SIM)",
+            "Weight": "192 g (6.77 oz)"
+        },
+        "Camera": {
+            "Features": "Motorized rotating lens via on-screen gestures/ O-Click remote control, 1/2.3'' sensor size, 1.34\u00b5m pixel size, geo-tagging, touch focus, face detection, auto panorama (motorized rotation), HDR",
+            "Primary": "16 MP (Schneider Kreuznach certified), 3456 x 4608 pixels, autofocus, dual-LED flash, check quality",
+            "Secondary": "16 MP, autofocus, LED flash",
+            "Video": "1080p@60fps, 720p@120fps, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "NFC": "Yes",
+            "Radio": "No",
+            "USB": "microUSB v2.0, USB Host",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, Wi-Fi Direct, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- Color OS 2.0",
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 3",
+            "Resolution": "1080 x 1920 pixels (~403 ppi pixel density)",
+            "Size": "5.5 inches (~66.5% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- O-Click 2.0 bluetooth remote control\n- Fast battery charging: 75% in 30 min\n- Active noise cancellation with dedicated mic\n- MP4/WMV/H.264 player\n- MP3/WAV/WMA/eAAC+/FLAC player\n- Document viewer\n- Photo/video editor\n- Voice memo/dial/commands",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2014, October",
+            "Status": "Available. Released 2015, January"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 128 GB (uses SIM 2 slot)",
+            "Internal": "32 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "White",
+            "Price group": "9/10 (About 550 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 850 / 900 / 1700 / 1900 / 2100",
+            "4G bands": "LTE band 1(2100), 3(1800), 4(1700/2100), 7(2600), 8(900), 17(700), 20(800), 28(700), 40(2300)",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA, LTE",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 2.3 GHz Krait 400",
+            "Chipset": "Qualcomm MSM8974AA Snapdragon 801",
+            "GPU": "Adreno 330",
+            "OS": "Android OS, v4.4.4 (KitKat)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Battery life": "Endurance rating 64h",
+            "Camera": "Photo / Video",
+            "Performance": "Basemark OS II: 1280 / Basemark OS II 2.0: 1241\nBasemark X: 10095"
+        }
+    },
+    "main": {
+        "device_name": "Oppo N3",
+        "image": {
+            "href": "http://www.gsmarena.com/oppo_n3-pictures-6752.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/oppo-n3-new1.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/oppo_n3-6752.php"
+    }
+}

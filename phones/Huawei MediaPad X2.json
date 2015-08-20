@@ -1,0 +1,83 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po 5000 mAh battery",
+            "Stand-by": "Up to 576 h (3G)",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "183.5 x 103.9 x 7.2 mm (7.22 x 4.09 x 0.28 in)",
+            "SIM": "Dual SIM",
+            "Weight": "239 g (8.43 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "13 MP, 4160 x 3120 pixels, autofocus, LED flash",
+            "Secondary": "5 MP",
+            "Video": "1080p"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, EDR, LE",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, hotspot"
+        },
+        "Display": {
+            "": "- Huawei Emotion UI 3.0",
+            "Multitouch": "Yes, up to 10 fingers",
+            "Resolution": "1200 x 1920 pixels (~323 ppi pixel density)",
+            "Size": "7.0 inches (~74.5% screen-to-body ratio)",
+            "Type": "LTPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- Reverse charging\n- MP3/WAV/WMA/Flac player\n- MP4/H.264/WMV player\n- Document viewer\n- Photo viewer/editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2015, March",
+            "Status": "Available. Released 2015, May"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 128 GB",
+            "Internal": "16 GB, 2 GB RAM/ 32 GB, 3 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Moonlight silver, Amber gold",
+            "Price group": "7/10 (About 350 EUR)"
+        },
+        "Network": {
+            "": "LTE band 1(2100), 3(1800), 7(2600), 8(900), 28(700), 38(2600), 39(1900), 40(2300), 41(2500) - GEM-702L",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "4G bands": "LTE band 1(2100), 3(1800), 7(2600), 38(2600), 39(1900), 40(2300), 41(2500) - GEM-703L",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat6 300/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.5 GHz Cortex-A53 & Quad-core 2 GHz Cortex-A53",
+            "Chipset": "Hisilicon Kirin 930",
+            "GPU": "Mali-T628 MP4",
+            "OS": "Android OS, v5.0 (Lollipop)"
+        },
+        "Sound": {
+            "": "- DTS sound",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Huawei MediaPad X2",
+        "image": {
+            "href": "http://www.gsmarena.com/huawei_mediapad_x2-pictures-7075.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/Huawei-MediaPad-X2.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/huawei_mediapad_x2-7075.php"
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 750 mAh battery",
+            "Stand-by": "Up to 450 h",
+            "Talk time": "Up to 10 h"
+        },
+        "Body": {
+            "Dimensions": "105 x 44.9 x 11.9 mm (4.13 x 1.77 x 0.47 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "90 g (3.17 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 1024 pixels",
+            "Secondary": "No",
+            "Video": "No"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "USB": "miniUSB v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "128 x 160 pixels (~114 ppi pixel density)",
+            "Size": "1.8 inches (~21.6% screen-to-body ratio)",
+            "Type": "CSTN, 65K colors"
+        },
+        "Features": {
+            "": "- MP3/AAC+ player\n- player\n- Predictive text input\n- Organizer",
+            "Browser": "WAP 2.0/HTML",
+            "Games": "2",
+            "Java": "No",
+            "Messaging": "SMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2009, March. Released 2009, May",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "microSD, up to 2 GB",
+            "Internal": "2 MB",
+            "Phonebook": "800 entries"
+        },
+        "Misc": {
+            "Colors": "Titanium Grey, Metallic Pink & Metallic Blue",
+            "Price group": "1/10 (About 40 EUR)",
+            "SAR EU": "1.20 W/kg (head)",
+            "SAR US": "1.35 W/kg (head) \u00a0 \u00a0 1.40 W/kg (body)"
+        },
+        "Network": {
+            "": "GSM 850 / 1900",
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Polyphonic(64) ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Alcatel OT-600",
+        "index": 1,
+        "url": "http://www.gsmarena.com/alcatel_ot_600-2734.php"
+    }
+}

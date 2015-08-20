@@ -1,0 +1,75 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1000 mAh battery",
+            "Stand-by": "Up to 280 h",
+            "Talk time": "Up to 10 h"
+        },
+        "Body": {
+            "Dimensions": "112.7 x 48.6 x 14.3 mm (4.44 x 1.91 x 0.56 in)",
+            "SIM": "Dual SIM (Mini-SIM)",
+            "Weight": "98.7 g (3.46 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 1024 pixels",
+            "Secondary": "No",
+            "Video": "QCIF@15fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "No",
+            "Radio": "Stereo FM radio with RDS, FM recording",
+            "USB": "v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "176 x 220 pixels (~128 ppi pixel density)",
+            "Size": "2.2 inches (~27.8% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/eAAC+/WAV player\n- MP4/H.264 player\n- Organizer\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2009, February",
+            "Status": "Available. Released 2009, May"
+        },
+        "Memory": {
+            "Call records": "30 received, dialed and missed calls",
+            "Card slot": "microSD, up to 8 GB",
+            "Internal": "60 MB",
+            "Phonebook": "1000 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "2/10 (About 90 EUR)",
+            "SAR EU": "0.65 W/kg (head)"
+        },
+        "Network": {
+            "": "GSM 900 / 1800 - SIM 2",
+            "2G bands": "GSM 900 / 1800 - SIM 1",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Samsung Fizz",
+        "device_name": "Samsung C5212",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_c5212-pictures-2709.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-c5212.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_c5212-2709.php"
+    }
+}

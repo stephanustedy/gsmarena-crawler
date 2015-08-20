@@ -1,0 +1,79 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion (BP-3001L)",
+            "Stand-by": "Up to 275 h",
+            "Talk time": "Up to 6 h"
+        },
+        "Body": {
+            "Dimensions": "118 x 52 x 18 mm (4.65 x 2.05 x 0.71 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "150 g (5.29 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 960 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v1.1",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Wallpapers\n- Downloadable pictures",
+            "Resolution": "208 x 320 pixels (~141 ppi pixel density)",
+            "Size": "2.7 inches (~35.0% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 65K colors"
+        },
+        "Features": {
+            "": "- MP3/MP4 player\n- Handwriting recognition\n- iTap\n- Voice memo",
+            "Browser": "WAP 2.0/xHTML",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2005, 1Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "miniSD",
+            "Internal": "18 MB"
+        },
+        "Misc": {
+            "Colors": "Grey",
+            "Price group": "5/10 (About 230 EUR)",
+            "SAR EU": "0.69 W/kg (head)",
+            "SAR US": "0.45 W/kg (head) \u00a0 \u00a0 0.51 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Platform": {
+            "CPU": "144 MHz ARM925T",
+            "Chipset": "TI OMAP 1510",
+            "OS": "Symbian OS v7.0, UIQ v2.1 UI"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Functionally identical to BenQ P31",
+        "device_name": "Nokia 6708",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_6708-pictures-1518.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-6708.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_6708-1518.php"
+    }
+}

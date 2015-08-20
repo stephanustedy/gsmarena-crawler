@@ -1,0 +1,103 @@
+{
+    "data": {
+        "Battery": {
+            "": "Extended battery, Li-Ion 1600 mAh",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "": "- IP67 certified - dust tight and water proof (up to 1m for 30 mins)\n- MIL-STD-810F certified - salt, dust, humidity, rain, vibration, solar radiation, transport and thermal shock resistant\n- Flashlight",
+            "Dimensions": "109.2 x 53.3 x 20.3 mm (4.30 x 2.10 x 0.80 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "131 g (4.62 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "3.15 MP, 2048 x 1536 pixels, autofocus, LED flash",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Secondary external monochrome display, 96 x 96 pixels, 1.35 inches",
+            "Resolution": "240 x 320 pixels (~182 ppi pixel density)",
+            "Size": "2.2 inches (~25.8% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- SNS integration\n- MP4/H.264/WMV player\n- MP3/WAV/eAAC+ player\n- Organizer\n- Document viewer\n- Voice memo/dial/commands\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email",
+            "Sensors": "Accelerometer, compass, thermometer"
+        },
+        "Launch": {
+            "Announced": "2010, October. Released 2010, October",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD",
+            "Internal": "512 MB, 192 MB RAM",
+            "Phonebook": "1000 entries, Photocall"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "CDMA 800 / 1900",
+            "3G bands": "CDMA2000 1xEV-DO",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Speed": "EV-DO Rev.A 3.1 Mbps",
+            "Technology": "CDMA / EVDO"
+        },
+        "Sound": {
+            "": "- 2.5 mm audio jack",
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; MP3",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "canonical_name": "For Verizon",
+        "device_name": "Casio G'zOne Ravine",
+        "image": {
+            "href": "http://www.gsmarena.com/casio_g_zone_ravine-pictures-4553.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/casio-gzone-ravine.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/casio_g_zone_ravine-4553.php"
+    }
+}

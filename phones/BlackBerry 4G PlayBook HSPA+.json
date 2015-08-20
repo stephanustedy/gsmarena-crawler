@@ -1,0 +1,103 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po 5300 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "194 x 130 x 10 mm (7.64 x 5.12 x 0.39 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "425 g (14.99 oz)"
+        },
+        "Camera": {
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus",
+            "Secondary": "3 MP",
+            "Video": "1080p"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP, EDR",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "600 x 1024 pixels (~170 ppi pixel density)",
+            "Size": "7.0 inches (~54.7% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Micro HDMI port\n- Document viewer\n- Media player MP3/WMA/AAC+\n- Video player DivX/WMV/XviD/3gp\n- Organizer\n- Predictive text input",
+            "Browser": "HTML, Adobe Flash",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "Email, Push Email, IM",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2011, February",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "16/32/64 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 1900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 21.1/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1 GHz Cortex-A9",
+            "Chipset": "TI OMAP 4430",
+            "GPU": "PowerVR SGX540",
+            "OS": "BlackBerry Tablet OS"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "canonical_name": "Tablet with no support for GSM voice communication, SMS, and MMS.",
+        "device_name": "BlackBerry 4G PlayBook HSPA+",
+        "image": {
+            "href": "http://www.gsmarena.com/blackberry_4g_playbook_hspa+-pictures-3900.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/blackberry-playbook.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/blackberry_4g_playbook_hspa+-3900.php"
+    }
+}

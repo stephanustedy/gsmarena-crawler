@@ -1,0 +1,90 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1230 mAh battery",
+            "Music play": "Up to 12 h",
+            "Stand-by": "Up to 490 h (2G) / Up to 390 h (3G)",
+            "Talk time": "Up to 6 h 20 min (2G) / Up to 5 h 40 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "120.5 x 67 x 11 mm (4.74 x 2.64 x 0.43 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "157 g (5.54 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "5 MP, 2592 x 1944 pixels, autofocus, dual LED flash, check quality",
+            "Secondary": "No",
+            "Video": "480p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "Yes, with A-GPS; NaviPanel",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB",
+            "WLAN": "Wi-Fi 802.11 b/g, Wi-Fi router"
+        },
+        "Display": {
+            "": "- HTC Sense UI",
+            "Multitouch": "Yes",
+            "Resolution": "480 x 800 pixels (~217 ppi pixel density)",
+            "Size": "4.3 inches (~65.2% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 65K colors"
+        },
+        "Features": {
+            "": "- MP3/WAV/WMA/eAAC+ player\n- MP4/WMV/H.264 player\n- Facebook and Twitter integration\n- YouTube client\n- Pocket Office \n- HTC Peep, HTC Footprints\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS (threaded view), MMS, Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2009, October",
+            "Status": "Available. Released 2009, November"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "448 MB RAM, 512 MB ROM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "3/10 (About 140 EUR)",
+            "SAR US": "0.63 W/kg (head) \u00a0 \u00a0 0.72 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 2100 - Australian Version",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 7.2/2 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "1 GHz Scorpion",
+            "Chipset": "Qualcomm QSD8250 Snapdragon S1",
+            "GPU": "Adreno 200",
+            "OS": "Microsoft Windows Mobile 6.5 Professional"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -89.0dB / Crosstalk -87.5dB",
+            "Camera": "Photo",
+            "Loudspeaker": "Voice 75dB / Noise 72dB / Ring 78dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as HTC HD2 T8585; HTC Leo 100",
+        "device_name": "HTC HD2",
+        "image": {
+            "href": "http://www.gsmarena.com/htc_hd2-pictures-2957.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/htc-hd2-new.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/htc_hd2-2957.php"
+    }
+}

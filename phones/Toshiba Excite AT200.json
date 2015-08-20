@@ -1,0 +1,78 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion battery",
+            "Stand-by": "",
+            "Talk time": "Up to 8 h (multimedia)"
+        },
+        "Body": {
+            "Dimensions": "256 x 176 x 7.7 mm (10.08 x 6.93 x 0.30 in)",
+            "SIM": "No",
+            "Weight": "558 g (1.23 lb)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, LED flash",
+            "Secondary": "2 MP",
+            "Video": "720p"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "miniUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "1280 x 800 pixels (~149 ppi pixel density)",
+            "Size": "10.1 inches (~65.6% screen-to-body ratio)",
+            "Type": "LED-backlit LCD, capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- HDMI port\n- MP3/WAV/WMA/eAAC+ player\n- MP4/H.264/WMV player\n- Organizer\n- Document viewer\n- Photo editor\n- Voice memo\n- Predictive text input",
+            "Browser": "HTML, Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "Email, Push Mail, IM",
+            "Sensors": "Accelerometer, gyro, compass"
+        },
+        "Launch": {
+            "Announced": "2011, September",
+            "Status": "Available. Released 2012, January"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "16/32 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "9/10 (About 530 EUR)"
+        },
+        "Network": {
+            "2G bands": "N/A",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "No cellular connectivity"
+        },
+        "Platform": {
+            "CPU": "1.2 GHz",
+            "Chipset": "TI OMAP 4430",
+            "GPU": "PowerVR SGX540",
+            "OS": "Android OS, v3.2 (Honeycomb)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "device_name": "Toshiba Excite AT200",
+        "image": {
+            "href": "http://www.gsmarena.com/toshiba_excite_at200-pictures-4400.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/toshiba-excite-at200.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/toshiba_excite_at200-4400.php"
+    }
+}

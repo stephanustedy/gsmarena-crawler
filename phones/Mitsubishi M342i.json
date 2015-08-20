@@ -1,0 +1,99 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion battery",
+            "Stand-by": "Up to 380 h",
+            "Talk time": "Up to 5 h"
+        },
+        "Body": {
+            "Dimensions": "107 x 47 x 19 mm, 85 cc (4.21 x 1.85 x 0.75 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "99 (3.49 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "No"
+        },
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Downloadable logos",
+            "Resolution": "128 x 160 pixels",
+            "Size": "",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- Predictive text input\n- Voice memo\n- Organizer\n- Photo editor",
+            "Browser": "iMode",
+            "Games": "2 embedded + downloadable",
+            "Java": "Yes, DoJa 1.5",
+            "Languages": "English, French, German, Italian, Spanish, Dutch a",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2004, 1Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "10 dialed, 10 received, 10 missed calls",
+            "Card slot": "No",
+            "Internal": "5 MB",
+            "Phonebook": "Yes"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "Class 8",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "": "- Melody formats: SP midi, MFI (Music format for i-mode), Midi, i-melody, AMR\n- Picture formats: .jpg, .gif, .png, .wbmp and animated gi",
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic - SP midi, MFI (i-mode), Midi, i-melody, AMR ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Mitsubishi M342i",
+        "image": {
+            "href": "http://www.gsmarena.com/mitsubishi_m342i-pictures-685.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/mim342i.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/mitsubishi_m342i-685.php"
+    }
+}

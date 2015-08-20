@@ -1,0 +1,81 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1230 mAh battery",
+            "Stand-by": "Up to 275 h (2G) / Up to 255 h (3G)",
+            "Talk time": "Up to 4 h (2G) / Up to 4 h 10 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "119.7 x 61.5 x 13 mm (4.71 x 2.42 x 0.51 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "165 g (5.82 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, LED flash",
+            "Secondary": "No",
+            "Video": "720p"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "Yes, with A-GPS; Bing Maps",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n"
+        },
+        "Display": {
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "480 x 800 pixels (~246 ppi pixel density)",
+            "Size": "3.8 inches (~55.8% screen-to-body ratio)",
+            "Type": "Capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP3/WAV/WMA/eAAC+ player\n- MP4/WMV/H.264 player\n- Facebook and Twitter integration\n- YouTube client\n- Document viewer/editor\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2010, October",
+            "Status": "Available. Released 2010, November"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "16 GB, 448 MB RAM, 512 MB ROM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "2/10 (About 90 EUR)",
+            "SAR US": "0.43 W/kg (head) \u00a0 \u00a0 0.81 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 1900 / 2100",
+            "EDGE": "Class 32",
+            "GPRS": "Class 32",
+            "Speed": "HSPA 7.2/2 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "1 GHz Scorpion",
+            "Chipset": "Qualcomm QSD8250 Snapdragon S1",
+            "GPU": "Adreno 200",
+            "OS": "Microsoft Windows Phone 7"
+        },
+        "Sound": {
+            "": "- Dolby Mobile, SRS sound",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "device_name": "HTC 7 Surround",
+        "image": {
+            "href": "http://www.gsmarena.com/htc_7_surround-pictures-3557.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/htc-7-surround.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/htc_7_surround-3557.php"
+    }
+}

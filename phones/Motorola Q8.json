@@ -1,0 +1,78 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1170 mAh battery",
+            "Stand-by": "Up to 240 h",
+            "Talk time": "Up to 5 h"
+        },
+        "Body": {
+            "Dimensions": "116 x 64 x 11.5 mm, 85 cc (4.57 x 2.52 x 0.45 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "115 g (4.06 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 960 pixels, LED flash",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v1.2",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "miniUSB v1.1",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- 5-way navigation button\n- Downloadable wallpaper and screensavers",
+            "Resolution": "320 x 240 pixels (~167 ppi pixel density)",
+            "Size": "2.4 inches, 36 x 48 mm (~24.0% screen-to-body ratio)",
+            "Type": "TFT, 65k colors"
+        },
+        "Features": {
+            "": "- MP3/AAC/MP4 player\n- Voice memo\n- Voice dial",
+            "Browser": "HTML (Pocket IE)",
+            "Java": "No",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2005, July",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "miniSDIO, 128 MB included",
+            "Internal": "40 MB"
+        },
+        "Misc": {
+            "Colors": "Silver, Black",
+            "Price group": "3/10 (About 150 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Platform": {
+            "CPU": "32-bit Intel XScale PXA270 312MHz",
+            "OS": "Microsoft Windows Mobile 6.0 Standard Edition"
+        },
+        "Sound": {
+            "": "- WiFi 802.11b/g through miniSDIO (optional)",
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as MOTO Q gsm",
+        "device_name": "Motorola Q8",
+        "image": {
+            "href": "http://www.gsmarena.com/motorola_q8-pictures-1232.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/motorola-q.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/motorola_q8-1232.php"
+    }
+}

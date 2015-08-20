@@ -1,0 +1,85 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1860 mAh battery",
+            "Stand-by": "Up to 79 h",
+            "Talk time": "Up to 9 h"
+        },
+        "Body": {
+            "": "- MIL-STD-810F certified - salt, dust, humidity, rain, vibration, solar radiation, transport and thermal shock resistant",
+            "Dimensions": "119 x 62 x 12.2 mm (4.69 x 2.44 x 0.48 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "134 g (4.73 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, LED flash",
+            "Secondary": "No",
+            "Video": "480p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, DLNA, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "480 x 640 pixels (~258 ppi pixel density)",
+            "Size": "3.1 inches (~40.3% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP3/WAV/WMA/AAC+ player\n- MP4/WMV/H.264 player\n- Document viewer\n- Photo viewer/editor\n- Organizer\n- Voice memo/dial\n- Predictive text input",
+            "Browser": "HTML, Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS (threaded view), MMS, Email, IM, Push Email",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2011, October",
+            "Status": "Available. Released 2011, October"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "4 GB, 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "4/10 (About 160 EUR)",
+            "SAR US": "1.06 W/kg (head) \u00a0 \u00a0 0.73 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "CDMA 800 / 1900",
+            "3G bands": "CDMA2000 1xEV-DO",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Speed": "EV-DO Rev.A 3.1 Mbps",
+            "Technology": "CDMA / EVDO"
+        },
+        "Platform": {
+            "CPU": "1.2 GHz Scorpion",
+            "Chipset": "Qualcomm MSM8655 Snapdragon S2",
+            "GPU": "Adreno 205",
+            "OS": "Android OS, v2.3.4 (Gingerbread), not upgradable to v4.1 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "For Sprint",
+        "device_name": "Motorola Admiral XT603",
+        "image": {
+            "href": "http://www.gsmarena.com/motorola_admiral_xt603-pictures-4282.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/motorola-admiral.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/motorola_admiral_xt603-4282.php"
+    }
+}

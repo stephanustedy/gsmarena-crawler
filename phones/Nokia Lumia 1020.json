@@ -1,0 +1,97 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 2000 mAh battery (BV-5XW)",
+            "Music play": "Up to 63 h",
+            "Stand-by": "Up to 384 h (3G)",
+            "Talk time": "Up to 19 h (2G) / Up to 13 h 20 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "130.4 x 71.4 x 10.4 mm, 96.9 cc (5.13 x 2.81 x 0.41 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "158 g (5.57 oz)"
+        },
+        "Camera": {
+            "Features": "1/1.5'' sensor size, 1.12 \u00b5m pixel size, PureView technology, geo-tagging, face detection, dual capture, panorama",
+            "Primary": "41 MP (38 MP effective, 7152 x 5368 pixels), Carl Zeiss optics, optical image stabilization, auto/manual focus, Xenon & LED flash, check quality",
+            "Secondary": "1.2 MP, 720p@30fps",
+            "Video": "1080p@30fps, optical stabilization, 4x lossless digital zoom, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, EDR, LE/ apt-X after WP8 Denim update",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "NFC": "Yes",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- PureMotion HD+ ClearBlack display",
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 3",
+            "Resolution": "768 x 1280 pixels (~332 ppi pixel density)",
+            "Size": "4.5 inches (~61.9% screen-to-body ratio)",
+            "Type": "AMOLED capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with a dedicated mic\n- MP3/WMA/WAV/eAAC+ player\n- MP4/DivX/XviD/H.264/WMV player\n- OneDrive (15 GB cloud storage)\n- Document viewer\n- Video/photo editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass, barometer"
+        },
+        "Launch": {
+            "Announced": "2013, July",
+            "Status": "Available. Released 2013, July"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "32 GB, 2 GB RAM / 64 GB (Telefonica exclusive)"
+        },
+        "Misc": {
+            "Colors": "Yellow, white, black, red (AT&T exclusive)",
+            "Price group": "6/10 (About 300 EUR)",
+            "SAR EU": "0.76 W/kg (head) \u00a0 \u00a0 0.67 W/kg (body)",
+            "SAR US": "1.23 W/kg (head) \u00a0 \u00a0 0.97 W/kg (body)"
+        },
+        "Network": {
+            "": "LTE band 2(1900), 4(1700/2100), 5(850), 17(700) - RM-877",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - all versions",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100 - RM-875, RM-877",
+            "4G bands": "LTE band 1(2100), 3(1800), 7(2600), 8(900), 20(800) - RM-875",
+            "EDGE": "Up to 236.8 kbps",
+            "GPRS": "Yes",
+            "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat3 100/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.5 GHz Krait",
+            "Chipset": "Qualcomm MSM8960 Snapdragon S4 Plus",
+            "GPU": "Adreno 225",
+            "OS": "Microsoft Windows Phone 8, upgradeable to v8.1"
+        },
+        "Sound": {
+            "": "- Dolby Digital Plus\n- Dolby Headphone",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Battery life": "Endurance rating 61h",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: Infinite (nominal), 2.103 (sunlight)",
+            "Loudspeaker": "Voice 69dB / Noise 66dB / Ring 72dB",
+            "Performance": "Basemark OS II: 526"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Nokia EOS, Nokia 909, Nokia RM-875, Nokia RM-877, Nokia RM-876",
+        "device_name": "Nokia Lumia 1020",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_lumia_1020-pictures-5506.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-lumia-1020-ofic.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_lumia_1020-5506.php"
+    }
+}

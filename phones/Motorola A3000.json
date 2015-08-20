@@ -1,0 +1,79 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1130 mAh battery",
+            "Stand-by": "Up to 300 h",
+            "Talk time": "Up to 7 h"
+        },
+        "Body": {
+            "": "- Trackball",
+            "Dimensions": "109 x 60 x 13.8 mm (4.29 x 2.36 x 0.54 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "119 g (4.20 oz)"
+        },
+        "Camera": {
+            "Primary": "3.15 MP, 2048 x 1536 pixels, autofocus, LED flash",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "miniUSB",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Handwriting recognition",
+            "Resolution": "240 x 320 pixels (~143 ppi pixel density)",
+            "Size": "2.8 inches (~37.1% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 65K colors"
+        },
+        "Features": {
+            "": "- Pocket Office/Editor )\n- MP3/WMA/MP4/WMV player\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS (threaded view), MMS, Email, IM"
+        },
+        "Launch": {
+            "Announced": "2009, January",
+            "Status": "Available. Released 2009, March"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "256 MB, 128 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "3/10 (About 130 EUR)",
+            "SAR EU": "0.93 W/kg (head)",
+            "SAR US": "1.31 W/kg (head) \u00a0 \u00a0 1.33 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Technology": "GSM"
+        },
+        "Platform": {
+            "CPU": "400 MHz ARM 11",
+            "Chipset": "Qualcomm ESM7206A",
+            "GPU": "Adreno 130",
+            "OS": "Microsoft Windows Mobile 6.1 Professional"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Motorola A3000",
+        "image": {
+            "href": "http://www.gsmarena.com/motorola_a3000-pictures-2894.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/motorola-a3000.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/motorola_a3000-2894.php"
+    }
+}

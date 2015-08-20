@@ -1,0 +1,94 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1830 mAh battery (BL-5H)",
+            "Music play": "Up to 58 h",
+            "Stand-by": "Up to 648 h",
+            "Talk time": "Up to 12 h (2G) / Up to 14 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "129.5 x 66.7 x 9.2 mm, 78.5 cc (5.10 x 2.63 x 0.36 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "134 g (4.73 oz)"
+        },
+        "Camera": {
+            "Features": "1/4'' sensor size, geo-tagging, panorama",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus",
+            "Secondary": "No",
+            "Video": "720p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, LE/ apt-X after WP8 Denim update",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- ClearBlack display",
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 3",
+            "Resolution": "480 x 854 pixels (~221 ppi pixel density)",
+            "Size": "4.5 inches (~62.9% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP3/WAV/eAAC+/WMA player\n- MP4/H.264/WMV player\n- OneDrive (15 GB cloud storage)\n- Document viewer\n- Video/photo editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, sensor core"
+        },
+        "Launch": {
+            "Announced": "2014, April",
+            "Status": "Available. Released 2014, June"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 128 GB",
+            "Internal": "8 GB, 512 MB/ 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Bright Orange, bright green, bright yellow, white, black",
+            "Price group": "3/10 (About 110 EUR)",
+            "SAR EU": "0.75 W/kg (head) \u00a0 \u00a0 0.79 W/kg (body)",
+            "SAR US": "0.97 W/kg (head) \u00a0 \u00a0 0.77 W/kg (body)"
+        },
+        "Network": {
+            "": "LTE band 2(1900), 4(1700/2100), 5(850), 7(2600), 17(700) - RM-975",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 2100 - RM-974",
+            "4G bands": "LTE band 3(1800), 7(2600), 20(800) - RM-974",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat3 100/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.2 GHz Cortex-A7",
+            "Chipset": "Qualcomm Snapdragon 400",
+            "GPU": "Adreno 305",
+            "OS": "Microsoft Windows Phone 8.1"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Battery life": "Endurance rating 66h",
+            "Display": "Contrast ratio: 771:1 (nominal), 2.056 (sunlight)",
+            "Loudspeaker": "Voice 68dB / Noise 65dB / Ring 75dB",
+            "Performance": "Basemark OS II: 451"
+        }
+    },
+    "main": {
+        "canonical_name": "Available as:\nNokia Lumia 635 RM-974 - international model\nNokia Lumia 635 RM-975 - USA, North America",
+        "device_name": "Nokia Lumia 635",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_lumia_635-pictures-6254.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-lumia-635-new.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_lumia_635-6254.php"
+    }
+}

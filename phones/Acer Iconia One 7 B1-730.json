@@ -1,0 +1,78 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 3700 mAh battery",
+            "Stand-by": "",
+            "Talk time": "Up to 7 h (multimedia)"
+        },
+        "Body": {
+            "Dimensions": "8.9 mm thickness",
+            "SIM": "No",
+            "Weight": "-"
+        },
+        "Camera": {
+            "Primary": "5 MP, 2592 \u0445 1944 pixels",
+            "Secondary": "Yes",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "800 x 1280 pixels (~216 ppi pixel density)",
+            "Size": "7.0 inches (~66.4% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen"
+        },
+        "Features": {
+            "": "- MP3/WAV/eAAC+ player\n- MP4/H.263 player\n- Photo viewer/editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "Email, Push Email, IM",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2014, April",
+            "Status": "Available. Released 2014, June"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "8 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Red, white, black, blue, pink",
+            "Price group": "2/10 (About 90 EUR)"
+        },
+        "Network": {
+            "2G bands": "N/A",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "No cellular connectivity"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.6 GHz",
+            "Chipset": "Intel Atom Z2560",
+            "GPU": "PowerVR SGX544MP2",
+            "OS": "Android OS, v4.2.2 (Jelly Bean), planned upgrade to v4.4.2 (KitKat)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "canonical_name": "Tablet with no support for GSM voice communication, SMS, and MMS",
+        "device_name": "Acer Iconia One 7 B1-730",
+        "image": {
+            "href": "http://www.gsmarena.com/acer_iconia_one_7_b1_730-pictures-6341.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/acer-iconia-one-7.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/acer_iconia_one_7_b1_730-6341.php"
+    }
+}

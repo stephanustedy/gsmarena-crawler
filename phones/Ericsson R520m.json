@@ -1,0 +1,93 @@
+{
+    "data": {
+        "Battery": {
+            "": "NiMH battery",
+            "Stand-by": "200 h",
+            "Talk time": "7 h 30 min"
+        },
+        "Body": {
+            "Dimensions": "130 x 50 x 16 mm (5.12 x 1.97 x 0.63 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "105 g (3.70 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "v1.0b",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "5 lines",
+            "Size": "",
+            "Type": "Monochrome graphic"
+        },
+        "Features": {
+            "": "- Predictive text input\n- Code memo\n- Voice dial\n- Voice answer\n- Voice memo\n- Calculator\n- Speaker with proximity switch",
+            "Alarm": "Yes",
+            "Browser": "WAP 1.2",
+            "Clock": "Yes",
+            "Games": "",
+            "Java": "No",
+            "Messaging": "SMS, Email"
+        },
+        "Launch": {
+            "Announced": "Q2 2001 ?",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "",
+            "Card slot": "No",
+            "Phonebook": "500+"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Yes",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable monophonic ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Ericsson R520m",
+        "image": {
+            "href": "http://www.gsmarena.com/ericsson_r520m-pictures-199.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/err520m.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/ericsson_r520m-199.php"
+    }
+}

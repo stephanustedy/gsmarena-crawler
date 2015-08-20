@@ -1,0 +1,97 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 2600 mAh battery",
+            "Stand-by": "Up to 312 h",
+            "Talk time": "Up to 17 h"
+        },
+        "Body": {
+            "": "- IP67 certified - dust and water resistant\n- Water resistant up to 1 meter and 30 minutes",
+            "Dimensions": "139.7 x 71.3 x 9.1 mm (5.5 x 2.81 x 0.36 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "153 g (5.40 oz)"
+        },
+        "Camera": {
+            "Features": "Simultaneous HD video and image recording, geo-tagging, touch focus, face/smile detection, HDR, Aqua mode",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash, check quality",
+            "Secondary": "2 MP, 1080p@30fps",
+            "Video": "1080p@30fps, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, EDR, LE, apt-X",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "Infrared port": "Yes",
+            "NFC": "Yes",
+            "Radio": "No",
+            "USB": "microUSB v2.0 (MHL 2 TV-out), USB Host",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- TouchWiz UI",
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 2",
+            "Resolution": "1080 x 1920 pixels (~441 ppi pixel density)",
+            "Size": "5.0 inches (~69.2% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- S-Voice natural language commands and dictation\n- Smart stay, Smart pause, Smart scroll\n- Air gestures\n- Dropbox (50 GB cloud storage)\n- Active noise cancellation with dedicated mic\n- MP4/DivX/XviD/WMV/H.264 player\n- MP3/WAV/eAAC+/AC3/FLAC player\n- Photo/video editor\n- Document viewer",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass, barometer, gesture"
+        },
+        "Launch": {
+            "Announced": "2013, June",
+            "Status": "Available. Released 2013, June"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "16 GB (11.2 GB user available), 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Urban Grey, Dive Blue, Orange Flare",
+            "Price group": "7/10 (About 310 EUR)",
+            "SAR EU": "0.26 W/kg (head) \u00a0 \u00a0 0.36 W/kg (body)",
+            "SAR US": "0.55 W/kg (head) \u00a0 \u00a0 0.75 W/kg (body)"
+        },
+        "Network": {
+            "": "LTE band 1(2100), 2(1900), 4(1700/2100), 5(850), 7(2600), 17(700) - I537",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+            "4G bands": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 20(800) - I9295",
+            "EDGE": "Class 33",
+            "GPRS": "Class 33",
+            "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat3 100/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.9 GHz Krait 300",
+            "Chipset": "Qualcomm APQ8064T Snapdragon 600",
+            "GPU": "Adreno 320",
+            "OS": "Android OS, v4.2.2 (Jelly Bean), upgradable to v5.0.1 (Lollipop)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -96.1dB / Crosstalk -96.0dB",
+            "Battery life": "Endurance rating 57h",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 1046:1 (nominal), 2.022 (sunlight)",
+            "Loudspeaker": "Voice 72dB / Noise 66dB / Ring 78dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Also available as Samsung I537 for AT&T",
+        "device_name": "Samsung I9295 Galaxy S4 Active",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_i9295_galaxy_s4_active-pictures-5446.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-i9295-galaxy-s4-active-ofic.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_i9295_galaxy_s4_active-5446.php"
+    }
+}

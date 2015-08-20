@@ -1,0 +1,82 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po 6860 mAh battery",
+            "Stand-by": "Up to 1810 h",
+            "Talk time": "Up to 10 h"
+        },
+        "Body": {
+            "Dimensions": "246.2 x 170.4 x 10.9 mm (9.69 x 6.71 x 0.43 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "589 g (1.30 lb)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash",
+            "Secondary": "2 MP",
+            "Video": "1080p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "v2.0",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "800 x 1280 pixels (~149 ppi pixel density)",
+            "Size": "10.1 inches (~70.5% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/DivX/WMV/H.264 player\n- MP3/WAV/eAAC+/FLAC player\n- Photo/video editor\n- Document viewer",
+            "Browser": "HTML, Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "Email, Push Mail, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2011, February",
+            "Status": "Available. Released 2011, April 26th"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "16/32 GB"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "6/10 (About 290 EUR)",
+            "SAR US": "0.97 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 21.1/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1 GHz Cortex-A9",
+            "Chipset": "Nvidia Tegra 2 T20",
+            "GPU": "ULP GeForce",
+            "OS": "Android OS, v3.0 (Honeycomb)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "canonical_name": "Tablet with no GSM voice communication capabilities",
+        "device_name": "Samsung P7100 Galaxy Tab 10.1v",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_p7100_galaxy_tab_10_1v-pictures-3831.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-tab-10.1-p7100.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_p7100_galaxy_tab_10_1v-3831.php"
+    }
+}

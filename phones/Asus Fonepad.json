@@ -1,0 +1,81 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 4270 mAh battery (16 Wh)",
+            "Stand-by": "",
+            "Talk time": "Up to 9 h (multimedia)"
+        },
+        "Body": {
+            "Dimensions": "196.4 x 120.1 x 10.4 mm (7.73 x 4.73 x 0.41 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "340 g (11.99 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "3.15 MP, 2048 x 1536 pixels, autofocus (selected markets only)",
+            "Secondary": "1.2 MP",
+            "Video": "720p"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes, up to 10 fingers",
+            "Resolution": "800 x 1280 pixels (~216 ppi pixel density)",
+            "Size": "7.0 inches (~60.2% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP3/WAV/eAAC+ player\n- MP4/H.264 player\n- Document viewer\n- Photo viewer/editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2013, February",
+            "Status": "Available. Released 2013, April"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "8/16 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Titanium Gray, Champagne Gold",
+            "Price group": "6/10 (About 260 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Speed": "HSPA 21.1/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "1.2 GHz / 1.6 GHz",
+            "Chipset": "Intel Atom Z2420 / Intel Atom Z2460",
+            "GPU": "PowerVR SGX540",
+            "OS": "Android OS, v4.1 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also available with a 1.6 GHz Intel Atom Z2460 processor and 32 GB of built-in storage",
+        "device_name": "Asus Fonepad",
+        "image": {
+            "href": "http://www.gsmarena.com/asus_fonepad-pictures-5329.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/asus-fonepad-new.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/asus_fonepad-5329.php"
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 900 mAh battery (BST-33)",
+            "Stand-by": "Up to 340 h",
+            "Talk time": "Up to 7h 30 min"
+        },
+        "Body": {
+            "Dimensions": "106 x 54 x 15 mm (4.17 x 2.13 x 0.59 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "112 g (3.95 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Handwriting recognition\n- Wallpapers, screensavers",
+            "Resolution": "240 x 320 pixels (~154 ppi pixel density)",
+            "Size": "2.6 inches, 39 x 53 mm (~36.6% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/AAC/MP4 player\n- Predictive text input\n- Photo editor\n- Organizer\n- Voice memo",
+            "Browser": "WAP 2.0/xHTML, HTML(Opera 8.0), RSS reader",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2006, February",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "4 GB"
+        },
+        "Misc": {
+            "Colors": "Mystic purple",
+            "Price group": "4/10 (About 180 EUR)",
+            "SAR EU": "1.35 W/kg (head)",
+            "SAR US": "1.02 W/kg (head) \u00a0 \u00a0 1.22 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "3G bands": "UMTS 2100",
+            "EDGE": "W958c only",
+            "GPRS": "Class 10",
+            "Speed": "Yes, 384 kbps",
+            "Technology": "GSM / UMTS"
+        },
+        "Platform": {
+            "CPU": "32-bit Philips Nexperia PNX4008 208 MHz",
+            "OS": "Symbian OS v9.1, UIQ 3.0"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3, AAC ringtones, composer",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "- W950i UMTS/900/1800/1900 MHz\n- W958c 900/1800/1900 MHz with EDGE for ChinaMainland",
+        "device_name": "Sony Ericsson W950",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_ericsson_w950-pictures-1443.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/sonyericsson-w950.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_ericsson_w950-1443.php"
+    }
+}

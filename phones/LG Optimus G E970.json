@@ -1,0 +1,91 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po 2100 mAh battery",
+            "Stand-by": "Up to 324 h",
+            "Talk time": "Up to 10 h"
+        },
+        "Body": {
+            "Dimensions": "130.8 x 71.6 x 8.4 mm (5.15 x 2.82 x 0.33 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "147.1 g (5.19 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face detection",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash",
+            "Secondary": "1.3 MP",
+            "Video": "1080p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, LE",
+            "GPS": "Yes, with A-GPS, S-GPS, GLONASS",
+            "NFC": "Yes",
+            "Radio": "No",
+            "USB": "microUSB v2.0 (MHL TV-out), USB Host",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- LG Optimus UI v3.0",
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 2",
+            "Resolution": "768 x 1280 pixels (~318 ppi pixel density)",
+            "Size": "4.7 inches (~67.1% screen-to-body ratio)",
+            "Type": "True HD-IPS + LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP4/H.264/WMV/DviX player\n- MP3/WMA/WAV/FLAC/eAAC+ player\n- Photo viewer/editor\n- Document viewer/editor",
+            "Browser": "HTML5, Adobe Flash",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2012, September",
+            "Status": "Available. Released 2012, November"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB, 16 GB included",
+            "Internal": "16 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "5/10 (About 250 EUR)",
+            "SAR US": "0.67 W/kg (head) \u00a0 \u00a0 1.22 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 1900 / 2100",
+            "4G bands": "LTE band 4(1700/2100), 17(700)",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 21.1/5.76 Mbps, LTE Cat3 100/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.5 GHz Krait",
+            "Chipset": "Qualcomm APQ8064 Snapdragon S4 Pro",
+            "GPU": "Adreno 320",
+            "OS": "Android OS, v4.0 (Ice Cream Sandwich), upgradable to v4.1.2 (Jelly Bean)"
+        },
+        "Sound": {
+            "": "- Dolby mobile",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -82.5dB / Crosstalk -81.6dB",
+            "Display": "Contrast ratio: 1438:1 (nominal) / 1.753:1 (sunlight)"
+        }
+    },
+    "main": {
+        "canonical_name": "For AT&T",
+        "device_name": "LG Optimus G E970",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_optimus_g_e970-pictures-5062.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-optimus-g-e970.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_optimus_g_e970-5062.php"
+    }
+}

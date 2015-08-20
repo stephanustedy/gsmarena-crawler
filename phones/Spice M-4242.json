@@ -1,0 +1,69 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1200 mAh battery",
+            "Stand-by": "Up to 400 h",
+            "Talk time": "Up to 5 h"
+        },
+        "Body": {
+            "": "- Flashlight",
+            "Dimensions": "110.8 x 47 x 16 mm (4.36 x 1.85 x 0.63 in)",
+            "SIM": "Dual SIM (Mini-SIM)",
+            "Weight": "92.6 (3.25 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "FM radio, scheduled FM recording",
+            "USB": "No",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "128 x 160 pixels (~114 ppi pixel density)",
+            "Size": "1.8 inches (~19.6% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- Currency/Unit Convertor\n- Auto Power On/Off\n- Predictive text input",
+            "Browser": "No",
+            "Games": "Downloadable",
+            "Java": "No",
+            "Messaging": "SMS"
+        },
+        "Launch": {
+            "Announced": "2010",
+            "Status": "Available. Released 2010"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "microSD, up to 2 GB",
+            "Phonebook": "500 entries"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "1/10 (About 20 EUR)"
+        },
+        "Network": {
+            "": "GSM 900 / 1800 - SIM 2",
+            "2G bands": "GSM 900 / 1800 - SIM 1",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration, MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Spice M-4242",
+        "image": {
+            "href": "http://www.gsmarena.com/spice_m_4242-pictures-3655.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/spice-m-4242.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/spice_m_4242-3655.php"
+    }
+}

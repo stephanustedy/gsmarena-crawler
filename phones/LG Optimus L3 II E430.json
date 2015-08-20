@@ -1,0 +1,83 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 1540 mAh battery",
+            "Stand-by": "Up to 608 h (2G) / Up to 700 h (3G)",
+            "Talk time": "Up to 11 h 30 min (2G) / Up to 10 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "102.6 x 61.1 x 11.9 mm (4.04 x 2.41 x 0.47 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "107 g (3.77 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "3.15 MP, 2048 x 1536 pixels",
+            "Secondary": "No",
+            "Video": "480p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "240 x 320 pixels (~125 ppi pixel density)",
+            "Size": "3.2 inches (~50.6% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen"
+        },
+        "Features": {
+            "": "- MP4/H.264/WMV player\n- MP3/WAV/WMA/eAAC+ player\n- Document viewer\n- Photo viewer",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2013, February",
+            "Status": "Available. Released 2013, April"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "4 GB (1.6 GB user available), 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Indigo Black, Titanium silver, White",
+            "Price group": "2/10 (About 90 EUR)",
+            "SAR EU": "1.00 W/kg (head) \u00a0 \u00a0 0.52 W/kg (body)",
+            "SAR US": "1.02 W/kg (head) \u00a0 \u00a0 1.23 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 7.2/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "1 GHz Cortex-A5",
+            "Chipset": "Qualcomm MSM7225A Snapdragon S1",
+            "GPU": "Adreno 200",
+            "OS": "Android OS, v4.1.2 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also available as LG E425",
+        "device_name": "LG Optimus L3 II E430",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_optimus_l3_ii_e430-pictures-5292.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-l3-ii.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_optimus_l3_ii_e430-5292.php"
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 650 mAh battery",
+            "Stand-by": "Up to 250 h",
+            "Talk time": "Up to 5 h"
+        },
+        "Body": {
+            "Dimensions": "101 x 45 x 20 mm (3.98 x 1.77 x 0.79 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "78 g (2.75 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Softkeys",
+            "Resolution": "101 x 64 pixels",
+            "Size": "",
+            "Type": "Monochrome graphic"
+        },
+        "Features": {
+            "": "- Predictive text input\n- Calculator",
+            "Browser": "",
+            "Games": "2 - Balloon Shooter and Stack Attack",
+            "Java": "No",
+            "Messaging": "SMS, EMS"
+        },
+        "Launch": {
+            "Announced": "2005, 1Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "10 dialed, 10 received, 10 missed calls",
+            "Card slot": "No",
+            "Phonebook": "250 entries (SIM)"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "": "GSM 850 / 1800 / 1900 - US version",
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Polyphonic(32) ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Siemens A71 - US version",
+        "device_name": "Siemens A70",
+        "image": {
+            "href": "http://www.gsmarena.com/siemens_a70-pictures-1083.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/siemens-a70.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/siemens_a70-1083.php"
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1500 mAh battery",
+            "Stand-by": "Up to 650 h (2G) / Up to 580 h (3G)",
+            "Talk time": "Up to 11 h 30 min (2G) / Up to 6 h 50 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "115 x 57 x 13.2 mm (4.53 x 2.24 x 0.52 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "124 g (4.37 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "3.15 MP, 2048 x 1536 pixels, autofocus",
+            "Secondary": "No",
+            "Video": "CIF@15fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "Yes",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g"
+        },
+        "Display": {
+            "Resolution": "320 x 480 pixels (~180 ppi pixel density)",
+            "Size": "3.2 inches (~46.5% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/H.264/WMV/DivX player\n- MP3/eAAC+/WMA player",
+            "Browser": "HTML",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS(threaded view), MMS, Email, IM",
+            "Sensors": "Accelerometer, compass"
+        },
+        "Launch": {
+            "Announced": "2009, September",
+            "Status": "Available. Released 2009, November"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "180 MB"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "4/10 (About 160 EUR)",
+            "SAR EU": "0.59 W/kg (head)",
+            "SAR US": "0.55 W/kg (head) \u00a0 \u00a0 0.61 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 1900 - American version",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 3.6/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "800MHz",
+            "OS": "Android OS, v1.5 (Cupcake)/ v2.1 (Eclair)"
+        },
+        "Sound": {
+            "": "- DNSe (Digital Natural Sound Engine)",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -88.6dB / Crosstalk -80.2dB",
+            "Loudspeaker": "Voice 66dB / Noise 62dB / Ring 75dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as:\nSamsung I5700 Galaxy Lite\nSamsung I5700 Galaxy Portal for T-Mobile",
+        "device_name": "Samsung I5700 Galaxy Spica",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_i5700_galaxy_spica-pictures-2965.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-spica.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_i5700_galaxy_spica-2965.php"
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 1400 mAh battery (BP6X)",
+            "Stand-by": "Up to 400 h (2G) / Up to 400 h (3G)",
+            "Talk time": "Up to 7 h 40 min (2G) / Up to 4 h 50 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "116.3 x 60.5 x 13.7 mm (4.58 x 2.38 x 0.54 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "169 g (5.96 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face detection, touch focus",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, dual-LED flash, check quality",
+            "Secondary": "No",
+            "Video": "720p@30fps, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- MOTOBLUR UI with Live Widgets\n- Touch sensitive controls",
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "480 x 854 pixels (~265 ppi pixel density)",
+            "Size": "3.7 inches (~53.6% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP3/WAV/WMA/AAC+ player\n- MP4/WMV/H.264/DivX/XviD player\n- Quickoffice document editor\n- Photo viewer/editor\n- Organizer\n- Voice memo/dial/commands\n- Active noise cancellation with dedicated mic\n- Predictive text input",
+            "Browser": "HTML, Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS (threaded view), MMS, Email, IM, Push Email",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2010, September",
+            "Status": "Available. Released 2010, October"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB, 8 GB included",
+            "Internal": "8 GB; 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "4/10 (About 170 EUR)",
+            "SAR US": "0.65 W/kg (head) \u00a0 \u00a0 0.72 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 1900 / 2100",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "1 GHz Cortex-A8",
+            "Chipset": "TI OMAP 3630",
+            "GPU": "PowerVR SGX530",
+            "OS": "Android OS, v2.2 (Froyo), upgradable to v2.3 (Gingerbread)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -88.2dB / Crosstalk -90.2dB",
+            "Camera": "Photo / Video",
+            "Loudspeaker": "Voice 66dB / Noise 63dB / Ring 74dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Motorola MILESTONE 2 A953\nDistributed as Motorola DROID 2 in the USA",
+        "device_name": "Motorola MILESTONE 2",
+        "image": {
+            "href": "http://www.gsmarena.com/motorola_milestone_2-pictures-3495.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/motorola-milestone-2.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/motorola_milestone_2-3495.php"
+    }
+}

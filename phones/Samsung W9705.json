@@ -1,0 +1,80 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1000 mAh battery",
+            "Stand-by": "Up to 490 h (2G) / Up to 360 h (3G)",
+            "Talk time": "Up to 7 h 30 min (2G) / Up to 4 h 40 min (3G)"
+        },
+        "Body": {
+            "": "- Dust, shock and splash resistant",
+            "Dimensions": "100.5 x 52 x 22.9 mm (3.96 x 2.05 x 0.90 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "135 g (4.76 oz)"
+        },
+        "Camera": {
+            "Features": "Video-calling",
+            "Primary": "2 MP, 1600 x 1200 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g"
+        },
+        "Display": {
+            "": "External 1.1\" 65K CSTN display",
+            "Resolution": "240 x 320 pixels (~167 ppi pixel density)",
+            "Size": "2.4 inches (~34.1% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/eAAC+ player\n- MP4/H.263 player\n- Organizer\n- Call recording\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP/xHTML",
+            "Games": "Yes",
+            "Java": "No",
+            "Messaging": "SMS, MMS, Email",
+            "Sensors": "Compass"
+        },
+        "Launch": {
+            "Announced": "2010, March",
+            "Status": "Available. Released 2010, July"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 16 GB",
+            "Internal": "83 MB",
+            "Phonebook": "3000 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Red on Black, Yellow on Black",
+            "Price group": "2/10 (About 70 EUR)",
+            "SAR EU": "0.72 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Speed": "HSPA 3.6/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "canonical_name": "For South Korea\nAlso known as Samsung Extreme",
+        "device_name": "Samsung W9705",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_w9705-pictures-3243.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-sph-w9705.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_w9705-3243.php"
+    }
+}

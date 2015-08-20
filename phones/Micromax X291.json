@@ -1,0 +1,70 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1450 mAh battery",
+            "Stand-by": "Up to 350 h",
+            "Talk time": "Up to 7 h"
+        },
+        "Body": {
+            "Dimensions": "119 x 54 x 12.6 mm (4.69 x 2.13 x 0.50 in)",
+            "SIM": "Dual SIM (Mini-SIM)",
+            "Weight": "98.6 g (3.46 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 1024 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "No",
+            "Radio": "FM radio",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~154 ppi pixel density)",
+            "Size": "2.6 inches (~32.6% screen-to-body ratio)",
+            "Type": "TFT"
+        },
+        "Features": {
+            "Browser": "WAP",
+            "Games": "Downloadable",
+            "Java": "No",
+            "Messaging": "SMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2012, May",
+            "Status": "Available"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 8 GB",
+            "Phonebook": "Yes"
+        },
+        "Misc": {
+            "Colors": "White, Black, Silver",
+            "Price group": "1/10 (About 30 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, Polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Micromax X291",
+        "image": {
+            "href": "http://www.gsmarena.com/micromax_x291-pictures-4890.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/micromax-x291.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/micromax_x291-4890.php"
+    }
+}

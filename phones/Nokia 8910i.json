@@ -1,0 +1,74 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 830 mAh battery (BLB-2)",
+            "Stand-by": "Up to 150 - 300 h",
+            "Talk time": "Up to 2 h - 4 h 30 m"
+        },
+        "Body": {
+            "Dimensions": "103 x 46 x 20 mm, 83 cc (4.06 x 1.81 x 0.79 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "112 g (3.95 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "v1.1",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Wallpapers (downloadable)\n- Digital clock screensaver (fixed)\n- Dynamic font size\n- Softkey",
+            "Resolution": "96 x 65 pixels (~93 ppi pixel density)",
+            "Size": "1.25 inches (~9.9% screen-to-body ratio)",
+            "Type": "CSTN, 4096 colors"
+        },
+        "Features": {
+            "": "- Titanium casing\n- Predictive text input\n- Organizer\n- Voice command\n- Mobile Chat\n- Profile Selection",
+            "Alarm": "Yes",
+            "Browser": "WAP 1.2.1",
+            "Clock": "Yes",
+            "Games": "2 (Backgammon and Sky Diver) + Java",
+            "Java": "Yes",
+            "Languages": "Major European and Asian languages",
+            "Messaging": "SMS, MMS"
+        },
+        "Launch": {
+            "Announced": "1Q, 2003",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- 50 text messages\n- 10 voice dial numbers\n- 250 Calendar notes\n- 30 To-do entries\n- Message templates",
+            "Call records": "20 dialed, 10 received, 10 missed calls",
+            "Card slot": "No",
+            "Phonebook": "500 x 3 fields"
+        },
+        "Misc": {
+            "Colors": "",
+            "SAR EU": "0.43 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "Class 4",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "": "- Ascending ringing tones\n- Personal alert tones",
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable monophonic ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 8910i",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_8910i-pictures-370.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/no8910i.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_8910i-370.php"
+    }
+}

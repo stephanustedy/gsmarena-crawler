@@ -1,0 +1,81 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion battery",
+            "Music play": "Up to 31 h",
+            "Stand-by": "Up to 430 h",
+            "Talk time": "Up to 7 h"
+        },
+        "Body": {
+            "Dimensions": "241.2 x 174.3 x 10.1-20.6 mm",
+            "SIM": "No",
+            "Weight": "598 g (1.32 lb)"
+        },
+        "Camera": {
+            "Features": "Touch focus, geo-tagging, face/smile detection",
+            "Primary": "5 MP, 2560 x 1920 pixels, autofocus",
+            "Secondary": "VGA",
+            "Video": "720p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP, EDR",
+            "GPS": "Yes",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "microUSB v2.0, USB Host",
+            "WLAN": "Wi-Fi 802.11 b/g/n, DLNA"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "800 x 1280 pixels (~161 ppi pixel density)",
+            "Size": "9.4 inches (~60.9% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/H.264 player\n- MP3/WAV/eAAC+/OGG player\n- Organizer\n- Voice memo\n- Predictive text input",
+            "Browser": "HTML, Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "Email, Push Mail, IM",
+            "Sensors": "Accelerometer, gyro, compass"
+        },
+        "Launch": {
+            "Announced": "2011, August",
+            "Status": "Available. Released 2011, September"
+        },
+        "Memory": {
+            "Card slot": "SD, up to 32 GB",
+            "Internal": "16/32 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "4/10 (About 180 EUR)"
+        },
+        "Network": {
+            "2G bands": "N/A",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "No cellular connectivity"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1 GHz Cortex-A9",
+            "Chipset": "Nvidia Tegra 2 T20",
+            "GPU": "ULP GeForce",
+            "OS": "Android OS, v3.1 (Honeycomb), upgradable to v4.0.3 (Ice Cream Sandwich)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "canonical_name": "Tablet with no support for GSM voice communication, SMS, and MMS",
+        "device_name": "Sony Tablet S",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_tablet_s-pictures-4137.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/sony-tablet-s.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_tablet_s-4137.php"
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 3140 mAh battery",
+            "Stand-by": "Up to 700 h (2G) / Up to 700 h (3G)",
+            "Talk time": "Up to 12 h (2G) / Up to 14 h (3G)"
+        },
+        "Body": {
+            "": "- Stylus",
+            "Dimensions": "150.2 x 76.9 x 9.4 mm (5.91 x 3.03 x 0.37 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "161 g (5.68 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face detection, panorama",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash",
+            "Secondary": "1.3 MP",
+            "Video": "720p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "Infrared port": "Yes",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, DLNA, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "540 x 960 pixels (~200 ppi pixel density)",
+            "Size": "5.5 inches (~72.2% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP4/H.264/WMV/DviX player\n- MP3/WMA/WAV/FLAC/eAAC+ player\n- Photo viewer/editor\n- Document viewer/editor\n- Voice memo/dial/commands",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2013, October",
+            "Status": "Available. Released 2013, November"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "8 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "White, Black",
+            "Price group": "6/10 (About 250 EUR)",
+            "SAR EU": "0.26 W/kg (head) \u00a0 \u00a0 0.58 W/kg (body)",
+            "SAR US": "0.43 W/kg (head) \u00a0 \u00a0 0.59 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 900 / 1900 / 2100 - D680, D682TR",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 7.2/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1 GHz Cortex-A9",
+            "Chipset": "Mediatek MT6577",
+            "GPU": "PowerVR SGX531",
+            "OS": "Android OS, v4.1.2 (Jelly Bean), upgrad\u0430ble to v4.4.2 (KitKat)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as LG Pro Lite D680, D682TR",
+        "device_name": "LG G Pro Lite",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_g_pro_lite-pictures-5772.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-g-pro-lite-d680.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_g_pro_lite-5772.php"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 760 mAh battery (BL-5B)",
+            "Stand-by": "Up to 350 h",
+            "Talk time": "Up to 3 h"
+        },
+        "Body": {
+            "Dimensions": "105 x 45 x 18 mm, 72 cc (4.13 x 1.77 x 0.71 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "92 g (3.25 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "Stereo FM radio",
+            "USB": "Pop-Port",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- 5-way navigation joystick\n- Downloadable themes",
+            "Resolution": "128 x 128 pixels (~113 ppi pixel density)",
+            "Size": "1.6 inches (~17.5% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- Voice memo/dial\n- Predictive text input\n- Organizer\n- Presence enhanced contacts",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "2 - Glamour Pinball and Backgammon + downloadable",
+            "Java": "Yes",
+            "Messaging": "SMS, MMS, EMail, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "3Q, 2004",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "10 dialed, 10 received, 10 missed calls",
+            "Card slot": "No",
+            "Phonebook": "500 x 10 fields, Photo call"
+        },
+        "Misc": {
+            "Colors": "",
+            "SAR EU": "0.51 W/kg (head)",
+            "SAR US": "0.80 W/kg (head) \u00a0 \u00a0 0.77 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Yes",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 7260",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_7260-pictures-882.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/no7260.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_7260-882.php"
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 780 mAh battery (BST-36)",
+            "Stand-by": "Up to 300 h",
+            "Talk time": "Up to 7 h"
+        },
+        "Body": {
+            "Dimensions": "100 x 45 x 13 mm (3.94 x 1.77 x 0.51 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "82 g (2.89 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 1024 pixels",
+            "Secondary": "No",
+            "Video": "No"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "No",
+            "Radio": "FM radio",
+            "USB": "No",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Wallpapers, screensavers",
+            "Resolution": "128 x 160 pixels (~121 ppi pixel density)",
+            "Size": "1.7 inches (~20.2% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- Organizer\n- Stopwatch\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2008, January. Released 2008, May",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "30 received, dialed and missed calls",
+            "Card slot": "No",
+            "Internal": "10 MB",
+            "Phonebook": "300 contacts, Photo call"
+        },
+        "Misc": {
+            "Colors": "Silver on Black, Copper on Silver, Firmanent Blue, Blossom Pink",
+            "Price group": "2/10 (About 60 EUR)",
+            "SAR EU": "0.96 W/kg (head)"
+        },
+        "Network": {
+            "": "GSM 850 / 1900 - T280a",
+            "2G bands": "GSM 900 / 1800 - T280i",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones, composer",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "T280i GSM 900/1800 MHz\nT280a GSM 850/1900 MHz for America",
+        "device_name": "Sony Ericsson T280",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_ericsson_t280-pictures-2230.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/se-t280.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_ericsson_t280-2230.php"
+    }
+}

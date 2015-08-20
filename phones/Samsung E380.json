@@ -1,0 +1,74 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 750 mAh battery",
+            "Stand-by": "Up to 320 h",
+            "Talk time": "Up to 3 h 50 min"
+        },
+        "Body": {
+            "Dimensions": "93 x 46 x 16.8 mm (3.66 x 1.81 x 0.66 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "77 g (2.72 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 1024 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "v1.1",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second external CSTN, 65K colors display, 96 x 96 pixels\n- Wallpaper",
+            "Resolution": "176 x 220 pixels (~148 ppi pixel density)",
+            "Size": "1.9 inches, 30 x 37 mm (~26.6% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- MP3/AMR/AAC/AAC+ player\n- Predictive text input\n- Organizer\n- Voice memo",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2006, July",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "10 dialed, 10 received, 10 missed calls",
+            "Card slot": "No",
+            "Internal": "40 MB",
+            "Phonebook": "1000 entries"
+        },
+        "Misc": {
+            "Colors": "Champagne Gold, Scarlet Red, Ice Blue",
+            "SAR EU": "0.91 W/kg (head)",
+            "SAR US": "1.16 W/kg (head) \u00a0 \u00a0 0.58 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Samsung E380",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_e380-pictures-1624.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-e380.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_e380-1624.php"
+    }
+}

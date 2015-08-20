@@ -1,0 +1,79 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1020 mAh battery (BL-5C)",
+            "Stand-by": "Up to 490 h",
+            "Talk time": "Up to 12 h 30 min"
+        },
+        "Body": {
+            "Dimensions": "111.2 x 45.7 x 13.7 mm, 60.4 cc (4.38 x 1.80 x 0.54 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "87 g (3.07 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels",
+            "Secondary": "No",
+            "Video": "320p@15fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP, EDR",
+            "GPS": "Yes, with A-GPS, Maps for S40",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~182 ppi pixel density)",
+            "Size": "2.2 inches (~29.5% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- Nokia Maps with lifetime navigation license\n- Car mount and car charger in retail package (select markets)\n- MP4/H.264/WMV player\n- MP3/WAV/eAAC+/WMA player\n- Organizer\n- Voice memo/dial\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML, Adobe Flash Lite",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS, MMS, Email, IM, Push Email",
+            "Sensors": "Accelerometer, compass"
+        },
+        "Launch": {
+            "Announced": "2009, December",
+            "Status": "Available. Released 2010, May"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 16 GB, 2 GB included",
+            "Internal": "64 MB RAM, 128 MB ROM",
+            "Phonebook": "1000 contacts, Photocall"
+        },
+        "Misc": {
+            "Colors": "Jet Black, Warm Silver, White Silver",
+            "Price group": "2/10 (About 90 EUR)",
+            "SAR EU": "0.80 W/kg (head)",
+            "SAR US": "0.97 W/kg (head) \u00a0 \u00a0 0.89 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "Class 10",
+            "GPRS": "Class 32",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3 ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -88.6dB / Crosstalk -87.5dB",
+            "Loudspeaker": "Voice 71dB / Noise 65dB / Ring 75dB"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 2710 Navigation Edition",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_2710_navigation_edition-pictures-3051.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-2710-navigation-edition.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_2710_navigation_edition-3051.php"
+    }
+}

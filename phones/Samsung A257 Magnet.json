@@ -1,0 +1,75 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 800 mAh battery",
+            "Stand-by": "Up to 240 h",
+            "Talk time": "Up to 5 h"
+        },
+        "Body": {
+            "Dimensions": "109 x 59 x 12 mm (4.29 x 2.32 x 0.47 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "87.6 g (3.07 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "No"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "220 x 176 pixels (~128 ppi pixel density)",
+            "Size": "2.2 inches (~23.7% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- MP3/MP4 player\n- Windows Live, Yahoo!, AOL\n- Currency Converter \n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0 / xHTML",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email, IM"
+        },
+        "Launch": {
+            "Announced": "2009, March",
+            "Status": "Available. Released 2009, May"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "No",
+            "Internal": "64 MB",
+            "Phonebook": "Yes, Photo call"
+        },
+        "Misc": {
+            "Colors": "Yes",
+            "Price group": "2/10 (About 90 EUR)",
+            "SAR US": "0.61 W/kg (head) \u00a0 \u00a0 0.72 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "For AT&T",
+        "device_name": "Samsung A257 Magnet",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_a257_magnet-pictures-2795.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-magnet.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_a257_magnet-2795.php"
+    }
+}

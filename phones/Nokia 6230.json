@@ -1,0 +1,78 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 850 mAh battery (BL-5C)",
+            "Stand-by": "Up to 150 h - 300 h",
+            "Talk time": "Up to 3 h - 5 h"
+        },
+        "Body": {
+            "Dimensions": "103 x 44 x 20 mm, 76 cc (4.06 x 1.73 x 0.79 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "97 g (3.42 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v1.1",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "FM radio",
+            "USB": "Pop-Port",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Wallpapers\n- Four-way navigation",
+            "Resolution": "128 x 128 pixels, 5 lines (~121 ppi pixel density)",
+            "Size": "1.5 inches, 27 x 27 mm (~16.0% screen-to-body ratio)",
+            "Type": "Active TFT, 65K colors"
+        },
+        "Features": {
+            "": "- MP3/Video player\n- Predictive text input\n- Organizer\n- Voice command\n- Presence enhanced contacts\n- Interchangeable covers",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Beach Ralley II, Golf, Chess Puzzle + Java",
+            "Java": "Yes",
+            "Languages": "Major European languages",
+            "Messaging": "SMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2003, 4Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- 150 short messages\n- 16 voice commands, 25 voice dial slots\n- 3 min voice memo",
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "MMC, 32 MB included",
+            "Internal": "6 MB",
+            "Phonebook": "1000 entries, Photo call"
+        },
+        "Misc": {
+            "Colors": "2 - Graphite, Pearl White",
+            "SAR EU": "0.49 W/kg (head)",
+            "SAR US": "0.76 W/kg (head) \u00a0 \u00a0 1.11 W/kg (body)"
+        },
+        "Network": {
+            "": "GSM 850 / 1800 / 1900 - US version",
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, monophonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 6230",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_6230-pictures-566.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/no6230.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_6230-566.php"
+    }
+}

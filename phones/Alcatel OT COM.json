@@ -1,0 +1,92 @@
+{
+    "data": {
+        "Battery": {
+            "": "NiMH 880 mAh battery",
+            "Stand-by": "60 h",
+            "Talk time": "2 h"
+        },
+        "Body": {
+            "Dimensions": "151 x 62 x 24 mm (5.94 x 2.44 x 0.94 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "230 g (8.11 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Used to also draw the digit buttons",
+            "Resolution": "160 x 239 pixels",
+            "Size": "",
+            "Type": "Monochrome resistive touchscreen"
+        },
+        "Features": {
+            "": "- Organizer",
+            "Alarm": "Yes",
+            "Browser": "",
+            "Clock": "Yes",
+            "Games": "3",
+            "Java": "No",
+            "Languages": "4",
+            "Messaging": "SMS, Email"
+        },
+        "Launch": {
+            "Announced": "1998",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "No",
+            "Internal": "512 KB",
+            "Phonebook": "A lot"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Monophonic ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Alcatel OT COM",
+        "index": 1,
+        "url": "http://www.gsmarena.com/alcatel_ot_com-31.php"
+    }
+}

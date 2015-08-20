@@ -1,0 +1,81 @@
+{
+    "data": {
+        "Battery": {
+            "": "Standard battery, Li-Po 1120 mAh",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "106 x 55 x 17 mm (4.17 x 2.17 x 0.67 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "124 g (4.37 oz)"
+        },
+        "Camera": {
+            "Primary": "3.15 MP, 2048 x 1536 pixels, autofocus, LED flash",
+            "Secondary": "VGA videocall camera",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "v2.0",
+            "WLAN": "Wi-Fi 802.11b"
+        },
+        "Display": {
+            "": "- Handwriting recognition",
+            "Resolution": "240 x 320 pixels (~154 ppi pixel density)",
+            "Size": "2.6 inches (~35.9% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- Media Player (MP3, AAC, video)\n- SyncML\n- Document viewer (Word, Excel, PowerPoint, PDF)\n- Business card scanner \n- Organizer\n- Voice memo",
+            "Browser": "HTML (Opera), RSS reader",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2007, May. Released 2007, July",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "Memory Stick Micro (M2), up to 4 GB, 512 MB included",
+            "Internal": "160 MB, 128 MB RAM, 256 MB ROM"
+        },
+        "Misc": {
+            "Colors": "Silver Black",
+            "Price group": "4/10 (About 170 EUR)",
+            "SAR EU": "0.56 W/kg (head)",
+            "SAR US": "0.98 W/kg (head) \u00a0 \u00a0 1.10 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "3G bands": "UMTS 2100",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Speed": "Yes, 384 kbps",
+            "Technology": "GSM / UMTS"
+        },
+        "Platform": {
+            "CPU": "32-bit Philips Nexperia PNX4008 208 MHz",
+            "OS": "Symbian OS v9.1, UIQ 3.0"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3, AAC ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "- P1i UMTS/900/1800/1900 MHz for Europe\n- P1c GSM 900/1800/1900 MHz for Mainland China",
+        "device_name": "Sony Ericsson P1",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_ericsson_p1-pictures-1982.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/sonyericsson-p1.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_ericsson_p1-1982.php"
+    }
+}

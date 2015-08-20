@@ -1,0 +1,84 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1400 mAh battery",
+            "Stand-by": "Up to 243 h",
+            "Talk time": "Up to 6 h 40 min"
+        },
+        "Body": {
+            "": "- Optical trackpad",
+            "Dimensions": "122.2 x 62.5 x 11.1 mm (4.81 x 2.46 x 0.44 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "150 g (5.29 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "5 MP, 2592 x 1944 pixels, autofocus, LED flash",
+            "Secondary": "VGA videocall camera",
+            "Video": "720p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- HTC Sense UI 2.0",
+            "Multitouch": "Yes",
+            "Resolution": "480 x 800 pixels (~246 ppi pixel density)",
+            "Size": "3.8 inches (~53.8% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/H.264 player\n- MP3/WAV/eAAC+ player\n- Organizer\n- Document viewer \n- Voice memo/dial/commands\n- Predictive text input (Swype)",
+            "Browser": "HTML, Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2011, June",
+            "Status": "Available. Released 2011, July"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB, 8 GB included",
+            "Internal": "8 GB (1.2 GB user available), 768 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "5/10 (About 200 EUR)",
+            "SAR US": "0.68 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 1700 / 2100",
+            "EDGE": "Class 10",
+            "GPRS": "Yes",
+            "Speed": "HSPA 14.4/2 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "1 GHz Scorpion",
+            "Chipset": "Qualcomm MSM8255 Snapdragon S2",
+            "GPU": "Adreno 205",
+            "OS": "Android OS, v2.3 (Gingerbread)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "For North Canada\nAlso known as HTC Panache 4G",
+        "device_name": "HTC Panache",
+        "image": {
+            "href": "http://www.gsmarena.com/htc_panache-pictures-4070.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/htc-panache.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/htc_panache-4070.php"
+    }
+}

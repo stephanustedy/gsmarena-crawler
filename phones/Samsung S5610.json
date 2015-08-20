@@ -1,0 +1,78 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1000 mAh battery",
+            "Stand-by": "Up to 960 h (2G) / Up to 680 h (3G)",
+            "Talk time": "Up to 15 h 16 min (2G) / Up to 5 h 10 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "118.9 x 49.7 x 12.9 mm (4.68 x 1.96 x 0.51 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "91 g (3.21 oz)"
+        },
+        "Camera": {
+            "Features": "Smile detection",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, LED flash",
+            "Secondary": "No",
+            "Video": "320p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "No",
+            "Radio": "Stereo FM radio with RDS, FM recording",
+            "USB": "microUSB v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~167 ppi pixel density)",
+            "Size": "2.4 inches (~30.2% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- SNS applications\n- MP3/WMA/eAAC+ player\n- MP4/H.263 player\n- Organizer\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email, Push Email, IM"
+        },
+        "Launch": {
+            "Announced": "2011, August",
+            "Status": "Available. Released 2011, August"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 16 GB",
+            "Internal": "108 MB",
+            "Phonebook": "Yes"
+        },
+        "Misc": {
+            "Colors": "Gray, Metalic Gold",
+            "Price group": "2/10 (About 80 EUR)",
+            "SAR EU": "0.84 W/kg (head)",
+            "SAR US": "0.39 W/kg (head) \u00a0 \u00a0 0.28 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 7.2/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Samsung Primo",
+        "device_name": "Samsung S5610",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_s5610-pictures-4191.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-s5610.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_s5610-4191.php"
+    }
+}

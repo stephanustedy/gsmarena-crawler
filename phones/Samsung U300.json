@@ -1,0 +1,76 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 690 mAh battery",
+            "Stand-by": "Up to 300 h",
+            "Talk time": "Up to 6 h"
+        },
+        "Body": {
+            "Dimensions": "100 x 51 x 9.6 mm (3.94 x 2.01 x 0.38 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "89 g (3.14 oz)"
+        },
+        "Camera": {
+            "Primary": "3.15 MP, 2048 x 1536 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second external mono, OLED display (96 x 16 pixels)",
+            "Resolution": "240 x 320 pixels (~182 ppi pixel density)",
+            "Size": "2.2 inches (~29.4% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/ACC/eAAC+/WMA/WMDRM player\n- MP4/H.263 player\n- Predictive text input\n- Document viewer (Word, Excel, PowerPoint, PDF)\n- Bluetooth printing\n- TV-out\n- Organizer\n- Voice memo",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2007, February",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "30 dialed, 30 received, 30 missed calls",
+            "Card slot": "No",
+            "Internal": "70 MB",
+            "Phonebook": "1000 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Blue/Gold, Gray/Black, Silver",
+            "Price group": "4/10 (About 150 EUR)",
+            "SAR EU": "0.26 W/kg (head)",
+            "SAR US": "0.32 W/kg (head) \u00a0 \u00a0 0.12 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "Yes",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Ultra Edition II - Ultra Edition 9.6",
+        "device_name": "Samsung U300",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_u300-pictures-1853.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-u300.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_u300-1853.php"
+    }
+}

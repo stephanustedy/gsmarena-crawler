@@ -1,0 +1,85 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 2500 mAh battery",
+            "Stand-by": "Up to 600 h (2G) / Up to 594 h (3G)",
+            "Talk time": "Up to 9 h (2G) / Up to 8 h (3G)"
+        },
+        "Body": {
+            "": "- Stylus",
+            "Dimensions": "143 x 78.4 x 9.8 mm (5.63 x 3.09 x 0.39 in)",
+            "SIM": "Optional Dual SIM (Mini-SIM)",
+            "Weight": "163 g (5.75 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, LED flash",
+            "Secondary": "VGA",
+            "Video": "720p@24fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot, Wi-Fi Direct"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Scratch-resistant glass",
+            "Resolution": "480 x 800 pixels (~187 ppi pixel density)",
+            "Size": "5.0 inches (~63.5% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP3/AAC+/WAV/WMA player\n- MP4/H.264 player\n- Document viewer\n- Photo viewer/editor",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2013, February",
+            "Status": "Available. Released 2013, May"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "4 GB (2.4 GB user available), 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Flash Red, Flash Yellow, Black and Flash Blue",
+            "Price group": "4/10 (About 170 EUR)",
+            "SAR EU": "1.39 W/kg (head) \u00a0 \u00a0 1.13 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 1900 / 2100",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 7.2/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.2 GHz Cortex-A5",
+            "Chipset": "Qualcomm MSM8225 Snapdragon S4 Play",
+            "GPU": "Adreno 203",
+            "OS": "Android OS, v4.1.2 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Available as Alcatel One Touch Scribe Easy 8000D/ 8000E with dual SIM card slot",
+        "device_name": "Alcatel One Touch Scribe Easy",
+        "image": {
+            "href": "http://www.gsmarena.com/alcatel_one_touch_scribe_easy-pictures-5332.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/alcatel-ot-scribe-easy1.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/alcatel_one_touch_scribe_easy-5332.php"
+    }
+}

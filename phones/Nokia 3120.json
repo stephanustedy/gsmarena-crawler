@@ -1,0 +1,71 @@
+{
+    "data": {
+        "Battery": {
+            "": "Standard, Li-Ion 850 mAh (BR-5C)",
+            "Stand-by": "Up to 410 h",
+            "Talk time": "Up to 6 h"
+        },
+        "Body": {
+            "Dimensions": "102 x 43 x 20 mm, 67 cc (4.02 x 1.69 x 0.79 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "84 g (2.96 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "Pop-Port",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Four-way navigation\n- Wallpaper and animated screensavers\n- Downloadable screensavers",
+            "Resolution": "128 x 128 pixels, 5 lines (~113 ppi pixel density)",
+            "Size": "1.6 inches (~18.8% screen-to-body ratio)",
+            "Type": "CSTN, 4096 colors"
+        },
+        "Features": {
+            "": "- Predictive text input\n- Organizer\n- Stopwatch\n- Preloaded content from Smileyworld\n- Optional digital camera",
+            "Browser": "WAP 1.2.1, xHTML",
+            "Games": "3 - Snake EX2, Beach Rally, Nature Park + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Languages": "Major European and Asia languages",
+            "Messaging": "SMS, MMS, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2004, 2Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "10 dialed, 10 received, 10 missed calls",
+            "Card slot": "No",
+            "Phonebook": "256 x 4 fields"
+        },
+        "Misc": {
+            "Colors": "Lime Tree Green, Iron Blue",
+            "SAR EU": "0.79 W/kg (head)",
+            "SAR US": "0.75 W/kg (head) \u00a0 \u00a0 0.59 W/kg (body)"
+        },
+        "Network": {
+            "": "GSM 850 / 1800 / 1900 - US version",
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 4",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 3120",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_3120-pictures-747.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/no3120.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_3120-747.php"
+    }
+}

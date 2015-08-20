@@ -1,0 +1,95 @@
+{
+    "data": {
+        "Battery": {
+            "": "NiMH 550 mAh battery",
+            "Stand-by": "up to 120 h",
+            "Talk time": "up to 5 h"
+        },
+        "Body": {
+            "Dimensions": "106 x 40 x 16 mm, 66 cc (4.17 x 1.57 x 0.63 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "99 g (3.49 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Screensavers",
+            "Resolution": "98 x 64 pixels, 5 lines,",
+            "Size": "",
+            "Type": "Monochrome graphic"
+        },
+        "Features": {
+            "": "- Predictive text input\n- Voice note\n- Voice activation\n- Organizer",
+            "Alarm": "No",
+            "Browser": "WAP 1.1",
+            "Clock": "Yes",
+            "Games": "3",
+            "Java": "No",
+            "Languages": "16 + 11",
+            "Messaging": "SMS"
+        },
+        "Launch": {
+            "Announced": "Sept, 2002",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "10 dialed, 10 received, 10 missed calls",
+            "Card slot": "No",
+            "Phonebook": "100"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Monophonic ringtones, composer",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "canonical_name": "Talkabout T190",
+        "device_name": "Motorola T190",
+        "image": {
+            "href": "http://www.gsmarena.com/motorola_t190-pictures-465.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/mot190.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/motorola_t190-465.php"
+    }
+}

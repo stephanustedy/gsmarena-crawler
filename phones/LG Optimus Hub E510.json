@@ -1,0 +1,83 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1500 mAh battery",
+            "Stand-by": "Up to 550 h (2G) / Up to 600 h (3G)",
+            "Talk time": "Up to 9 h (2G) / Up to 7 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "113.4 x 60.8 x 11.9 mm (4.46 x 2.39 x 0.47 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "123 g (4.34 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face/smile detection",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus",
+            "Secondary": "No",
+            "Video": "480p@24fps"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- Optimus 2.0 UI",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "320 x 480 pixels (~165 ppi pixel density)",
+            "Size": "3.5 inches (~52.9% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- DivX/Xvid/MP4/H.264/WMV player\n- MP3/WAV/WMA/eAAC+ player\n- Document viewer/editor\n- Organizer\n- Voice memo\n- Predictive text input",
+            "Browser": "HTML",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2011, September",
+            "Status": "Available. Released 2011, October"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB, 2 GB included",
+            "Internal": "512 MB, 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, white",
+            "Price group": "2/10 (About 80 EUR)",
+            "SAR EU": "0.71 W/kg (head) \u00a0 \u00a0 1.12 W/kg (body)",
+            "SAR US": "0.98 W/kg (head) \u00a0 \u00a0 1.19 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 3.6/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "800 MHz ARM v6",
+            "Chipset": "Qualcomm MSM7227\u0422 Snapdragon S1",
+            "GPU": "Adreno 200",
+            "OS": "Android OS, v2.3.4 (Gingerbread)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "LG Optimus Hub E510",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_optimus_hub_e510-pictures-4157.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-optimus-hub.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_optimus_hub_e510-4157.php"
+    }
+}

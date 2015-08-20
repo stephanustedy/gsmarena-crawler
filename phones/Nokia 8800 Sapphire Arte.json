@@ -1,0 +1,79 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1000 mAh battery (BL-4U)",
+            "Stand-by": "Up to 300 h (2G) / 288 h (3G)",
+            "Talk time": "Up to 3 h (2G) / 2 h 45 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "109 x 45.6 x 14.6 mm, 65 cc (4.29 x 1.80 x 0.57 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "150 g (5.29 oz)"
+        },
+        "Camera": {
+            "Primary": "3.15 MP, 2048 x 1536 pixels, autofocus",
+            "Secondary": "No",
+            "Video": "480p@15fps"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "microUSB, USB Host",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Sapphire gem stone on D-pad",
+            "Protection": "Scratch-resistant glass",
+            "Resolution": "240 x 320 pixels (~200 ppi pixel density)",
+            "Size": "2.0 inches (~24.9% screen-to-body ratio)",
+            "Type": "OLED, 16M colors"
+        },
+        "Features": {
+            "": "- MP3 player\n- Voice memo\n- Predictive text input\n- Organizer",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes + Downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2007, November. Released 2008, February",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "No",
+            "Internal": "1 GB",
+            "Phonebook": "1000 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Brown",
+            "Price group": "9/10 (About 720 EUR)",
+            "SAR EU": "0.34 W/kg (head)",
+            "SAR US": "0.39 W/kg (head) \u00a0 \u00a0 0.60 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "3G bands": "UMTS 2100",
+            "EDGE": "Class 8",
+            "GPRS": "Class 8",
+            "Speed": "Yes, 384 kbps",
+            "Technology": "GSM / UMTS"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3, video ringtones ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 8800 Sapphire Arte",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_8800_sapphire_arte-pictures-2176.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-8800-sp-arte.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_8800_sapphire_arte-2176.php"
+    }
+}

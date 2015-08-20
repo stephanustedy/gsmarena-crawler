@@ -1,0 +1,91 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1230 mAh battery (JM-1)",
+            "Music play": "Up to 33 h",
+            "Stand-by": "Up to 432 h (2G) / Up to 408 h (3G)",
+            "Talk time": "Up to 5 h 10 min (2G) / Up to 5 h 20 min (3G)"
+        },
+        "Body": {
+            "": "- Optical trackpad",
+            "Dimensions": "110 x 60 x 11.4 mm (4.33 x 2.36 x 0.45 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "107 g (3.77 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face detection",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, LED flash, check quality",
+            "Secondary": "No",
+            "Video": "480p"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "NFC": "Carrier dependent",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band"
+        },
+        "Display": {
+            "Resolution": "480 x 360 pixels (~245 ppi pixel density)",
+            "Size": "2.45 inches (~28.2% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP3/WMA/WAV/eAAC+/FLAC player\n- DivX/XviD/MP4/H.264/WMV player\n- Organizer\n- Document viewer/editor\n- Voice memo/dial\n- Predictive text input",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM"
+        },
+        "Launch": {
+            "Announced": "2011, November",
+            "Status": "Available. Released 2011, December"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "8 GB, 768 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "3/10 (About 130 EUR)",
+            "SAR EU": "1.56 W/kg (head) \u00a0 \u00a0 0.84 W/kg (body)",
+            "SAR US": "1.35 W/kg (head) \u00a0 \u00a0 0.81 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 900 / 1700 / 2100",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 1900 / 2100 / 800",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 7.2/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Marvel Tavor MG1 1 GHz",
+            "OS": "BlackBerry OS 7.0"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -89.4dB / Crosstalk -32.7dB",
+            "Battery life": "Endurance rating 35h",
+            "Camera": "Photo",
+            "Display": "Contrast ratio: 1043:1 (nominal)",
+            "Loudspeaker": "Voice 61dB / Noise 60dB / Ring 63dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as RIM BlackBerry Onyx III, RIM BlackBerry Bellagio",
+        "device_name": "BlackBerry Bold 9790",
+        "image": {
+            "href": "http://www.gsmarena.com/blackberry_bold_9790-pictures-4332.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/blackberry-bold-9790.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/blackberry_bold_9790-4332.php"
+    }
+}

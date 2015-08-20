@@ -1,0 +1,71 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 800 mAh battery",
+            "Stand-by": "Up to 300 h",
+            "Talk time": "Up to 6 h"
+        },
+        "Body": {
+            "Dimensions": "95 x 48 x 18.3 mm (3.74 x 1.89 x 0.72 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "84.5 g (2.96 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "No"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "No",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- External 1\" display, 96 x 96 pixels",
+            "Resolution": "128 x 160 pixels (~146 ppi pixel density)",
+            "Size": "1.4 inches (~13.5% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- MP3/MP4 player\n- Organizer\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2009, November",
+            "Status": "Available. Released 2010, February"
+        },
+        "Memory": {
+            "Call records": "30 received, dialed and missed calls",
+            "Card slot": "No",
+            "Internal": "10 MB",
+            "Phonebook": "300 contacts, Photo call"
+        },
+        "Misc": {
+            "Colors": "Black, Gray",
+            "Price group": "1/10 (About 40 EUR)",
+            "SAR US": "0.60 W/kg (head) \u00a0 \u00a0 1.04 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration, MP3",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "For T-Mobile",
+        "device_name": "Samsung T139",
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_t139-3123.php"
+    }
+}

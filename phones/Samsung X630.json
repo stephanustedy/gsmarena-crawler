@@ -1,0 +1,73 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 800 mAh battery",
+            "Stand-by": "Up to 350 h",
+            "Talk time": "Up to 2 h 15 min"
+        },
+        "Body": {
+            "Dimensions": "104 x 43 x 19 mm (4.09 x 1.69 x 0.75 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "84 g (2.96 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "No",
+            "Radio": "Stereo FM radio",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "128 x 160 pixels (~121 ppi pixel density)",
+            "Size": "1.7 inches (~20.3% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- MP3 player\n- Predictive text input\n- Organizer\n- Voice memo",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2006, 2Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "No",
+            "Internal": "28 MB",
+            "Phonebook": "1000 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Black, Blue, Titan Silver",
+            "SAR EU": "0.52 W/kg (head)",
+            "SAR US": "1.26 W/kg (head) \u00a0 \u00a0 0.49 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Samsung X630",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_x630-pictures-1619.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-x630.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_x630-1619.php"
+    }
+}

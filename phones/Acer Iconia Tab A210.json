@@ -1,0 +1,81 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po 3260 mAh battery",
+            "Stand-by": "",
+            "Talk time": "Up to 8 h (multimedia)"
+        },
+        "Body": {
+            "Dimensions": "259.1 x 175.3 x 12.2 mm (10.20 x 6.90 x 0.48 in)",
+            "SIM": "No",
+            "Weight": "685 g (1.51 lb)"
+        },
+        "Camera": {
+            "Features": "Touch focus, face detection",
+            "Primary": "2 MP, 1600 x 1200 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, EDR",
+            "GPS": "Yes, with GLONASS",
+            "Radio": "No",
+            "USB": "microUSB v2.0, USB v2.0, USB Host",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "": "- Acer UI",
+            "Multitouch": "Yes",
+            "Resolution": "800 x 1280 pixels (~149 ppi pixel density)",
+            "Size": "10.1 inches (~65.1% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/WAV/WMA/eAAC+ player\n- XviD/MP4/H.264 player\n- Document viewer\n- Photo viewer/editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "Email, Push Email, IM",
+            "Sensors": "Accelerometer, gyro"
+        },
+        "Launch": {
+            "Announced": "2012, Q3",
+            "Status": "Available. Released 2012, November"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "8/16 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Titanium Gray",
+            "Price group": "6/10 (About 260 EUR)"
+        },
+        "Network": {
+            "2G bands": "N/A",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "No cellular connectivity"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.2 GHz",
+            "Chipset": "Nvidia Tegra 3",
+            "GPU": "ULP GeForce",
+            "OS": "Android OS, v4.0 (Ice Cream Sandwich), upgradable to v4.1 (Jelly Bean)"
+        },
+        "Sound": {
+            "": "- Stereo sound",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "canonical_name": "Tablet with no support for GSM voice communication, SMS, and MMS",
+        "device_name": "Acer Iconia Tab A210",
+        "image": {
+            "href": "http://www.gsmarena.com/acer_iconia_tab_a210-pictures-5066.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/acer-iconia-tab-a200.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/acer_iconia_tab_a210-5066.php"
+    }
+}

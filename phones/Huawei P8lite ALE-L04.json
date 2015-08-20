@@ -1,0 +1,89 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 2200 mAh battery",
+            "Stand-by": "Up to 549 h (3G)",
+            "Talk time": "Up to 17 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "143 x 70.6 x 7.7 mm (5.63 x 2.78 x 0.30 in)",
+            "SIM": "Dual SIM (Micro-SIM/Nano-SIM, dual stand-by)",
+            "Weight": "131 g (4.62 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face/smile detection, panorama, HDR",
+            "Primary": "13 MP, 4160 x 3120 pixels, autofocus, dual-LED flash",
+            "Secondary": "5 MP, 720p",
+            "Video": "1080p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, EDR, LE",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot"
+        },
+        "Display": {
+            "": "- Emotion 3.0 UI",
+            "Multitouch": "Yes",
+            "Resolution": "720 x 1280 pixels (~294 ppi pixel density)",
+            "Size": "5.0 inches (~68.3% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- XviD/MP4/H.264/WMV player\n- MP3/eAAC+/WMA/WAV/Flac player\n- Document viewer\n- Photo/video editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2015, April",
+            "Status": "Available. Released 2015, May"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 128 GB (uses SIM 2 slot)",
+            "Internal": "16 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White, Gold",
+            "Price group": "5/10 (About 230 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 850 / 1700(AWS) / 1900 / 2100",
+            "4G bands": "LTE band 2(1900), 4(1700/2100), 5(850), 12(700), 17(700)",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.5 GHz Cortex-A53 & quad-core 1.0 GHz Cortex-A53",
+            "Chipset": "Qualcomm MSM8939 Snapdragon 615",
+            "GPU": "Adreno 405",
+            "OS": "Android OS, v4.4.4 (KitKat)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise-89.0dB / Crosstalk -74.2dB",
+            "Battery life": "Endurance rating 61h",
+            "Display": "Contrast ratio: 802 (nominal), 2.078 (sunlight)",
+            "Loudspeaker": "Voice 66dB / Noise 66dB / Ring 75dB",
+            "Performance": "Basemark OS II: 799 / Basemark X: 5062"
+        }
+    },
+    "main": {
+        "device_name": "Huawei P8lite ALE-L04",
+        "image": {
+            "href": "http://www.gsmarena.com/huawei_p8lite_ale_l04-pictures-7279.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/huawei-p8-lite1.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/huawei_p8lite_ale_l04-7279.php"
+    }
+}

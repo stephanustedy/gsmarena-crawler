@@ -1,0 +1,84 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 3000 mAh battery",
+            "Stand-by": "Up to 750 h (3G)",
+            "Talk time": "Up to 36 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "152.6 x 76.2 x 8 mm (6.01 x 3.00 x 0.31 in)",
+            "SIM": "Dual SIM (Micro-SIM, dual stand-by)",
+            "Weight": "150 g (5.29 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection, HDR, panorama",
+            "Primary": "13 MP, 4128 x 3096 pixels, autofocus, dual-LED flash",
+            "Secondary": "5 MP",
+            "Video": "1080p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.1, A2DP, LE",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0, USB Host",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "": "- Lenovo Vibe 2.0",
+            "Multitouch": "Yes, up to 5 fingers",
+            "Resolution": "1080 x 1920 pixels (~401 ppi pixel density)",
+            "Size": "5.5 inches (~71.7% screen-to-body ratio)",
+            "Type": "IPS capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP4/H.264 player\n- MP3/WAV/eAAC+/FLAC player\n- Photo/video editor\n- Document viewer",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2015, March",
+            "Status": "Available. Released 2015, March"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "16 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Onyx Black, Pearl White, Laser Yellow",
+            "Price group": "3/10 (About 150 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 2100",
+            "4G bands": "LTE band 1(2100), 3(1800), 7(2600), 38(2600), 39(1900), 40(2300), 41(2500)",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA, TD-SCDMA, LTE, TD-LTE",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Octa-core 1.7 GHz Cortex-A53",
+            "Chipset": "Mediatek MT6752",
+            "GPU": "Mali-T760MP2",
+            "OS": "Android OS, v5.0 (Lollipop)"
+        },
+        "Sound": {
+            "": "- Dolby Atmos",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Available as Lenovo K3 Note K50-t5 for China",
+        "device_name": "Lenovo K3 Note",
+        "image": {
+            "href": "http://www.gsmarena.com/lenovo_k3_note-pictures-7147.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lenovo-k3-note.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lenovo_k3_note-7147.php"
+    }
+}

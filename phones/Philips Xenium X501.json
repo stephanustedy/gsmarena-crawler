@@ -1,0 +1,74 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1800 mAh battery",
+            "Music play": "Up to 40 h",
+            "Stand-by": "Up to 1440 h",
+            "Talk time": "Up to 16 h"
+        },
+        "Body": {
+            "Dimensions": "110 x 47.2 x 15.3 mm (4.33 x 1.86 x 0.60 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "129 g (4.55 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels",
+            "Secondary": "No",
+            "Video": "CIF@15fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "miniUSB v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~182 ppi pixel density)",
+            "Size": "2.2 inches (~28.9% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/AAC/WMA/WAV player\n- MP4/H.264 player\n- Organizer\n- Chinese/English dictionary\n- Voice memo\n- Predictive text input",
+            "Browser": "HTML",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2009, September. Released 2010, January",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "30 dialed, 30 received, 30 missed calls",
+            "Card slot": "microSD, up to 8 GB",
+            "Internal": "60 MB",
+            "Phonebook": "2000 entries"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "3/10 (About 140 EUR)",
+            "SAR EU": "0.32 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Philips Xenium X501",
+        "image": {
+            "href": "http://www.gsmarena.com/philips_xenium_x501-pictures-2984.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/philips-x501-new.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/philips_xenium_x501-2984.php"
+    }
+}

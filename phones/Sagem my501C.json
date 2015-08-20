@@ -1,0 +1,73 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion battery",
+            "Stand-by": "Up to 250 h",
+            "Talk time": "Up to 3 h 30 min"
+        },
+        "Body": {
+            "Dimensions": "93 x 44.6 x 23.6 mm (3.66 x 1.76 x 0.93 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "99 g (3.49 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 1024 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second external OLED, 256 colors display\n- Downloadable wallpapers",
+            "Resolution": "128 x 160 pixels (~114 ppi pixel density)",
+            "Size": "1.8 inches (~24.6% screen-to-body ratio)",
+            "Type": "CSTN, 65K colors"
+        },
+        "Features": {
+            "": "- MP3/AAC player\n- Predictive text input\n- Calculator\n- Currency converter\n- SyncML",
+            "Browser": "WAP 1.2",
+            "Games": "Yes",
+            "Java": "Yes",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2006, August",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "20 received, dialed and missed calls",
+            "Card slot": "microSD",
+            "Internal": "32 MB",
+            "Phonebook": "Yes"
+        },
+        "Misc": {
+            "Colors": "Silver, Red",
+            "Price group": "3/10 (About 140 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "Yes",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, Hi-Fi ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Sagem my501C",
+        "image": {
+            "href": "http://www.gsmarena.com/sagem_my501c-pictures-1789.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/sagem-my501c.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sagem_my501c-1789.php"
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 850 mAh battery (BL-5C)",
+            "Stand-by": "Up to 200 h",
+            "Talk time": "Up to 4 h"
+        },
+        "Body": {
+            "Dimensions": "134 x 70 x 20 mm, 139 cc (5.28 x 2.76 x 0.79 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "137 g (4.83 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "v1.1",
+            "GPS": "No",
+            "Radio": "Stereo FM radio",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Five-way directional controller",
+            "Resolution": "176 x 208 pixels (~130 ppi pixel density)",
+            "Size": "2.1 inches, 35 x 41 mm (~15.0% screen-to-body ratio)",
+            "Type": "TFT, 4096 colors"
+        },
+        "Features": {
+            "": "- MP3/AAC player\n- Predictive text input\n- SyncML\n- Voice dial",
+            "Alarm": "Yes",
+            "Browser": "WAP 2.0/xHTML, iMode",
+            "Clock": "Yes",
+            "Java": "Yes",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "4Q, 2003",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- Shared memory for images, contact data, calendar, messages, add-on applications\n- 20 voice dial numbers",
+            "Card slot": "MMC",
+            "Internal": "3.4 MB"
+        },
+        "Misc": {
+            "Colors": "",
+            "SAR EU": "0.37 W/kg (head)",
+            "SAR US": "0.24 W/kg (head) \u00a0 \u00a0 0.47 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 6",
+            "Technology": "GSM"
+        },
+        "Platform": {
+            "CPU": "104 MHz ARM 920T",
+            "OS": "Symbian OS v6.1, Series 60 v1.0 UI"
+        },
+        "Sound": {
+            "": "- Stereo line-in\n- Hi-fi stereo headset",
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, monophonic, WAV, MP3 ringtones, composer",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Nokia N-Gage",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_n_gage-pictures-390.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nongage.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_n_gage-390.php"
+    }
+}

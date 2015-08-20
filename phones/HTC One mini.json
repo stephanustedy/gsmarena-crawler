@@ -1,0 +1,94 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po 1800 mAh battery",
+            "Stand-by": "Up to 500 h (2G) / Up to 692 h (3G)",
+            "Talk time": "Up to 20 h 40 min (2G) / Up to 13 h 20 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "132 x 63.2 x 9.3 mm (5.20 x 2.49 x 0.37 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "122 g (4.30 oz)"
+        },
+        "Camera": {
+            "Features": "1/3'' sensor size, 2\u00b5m pixel size, geo-tagging, face/smile detection",
+            "Primary": "4 MP, 2688 x 1520 pixels, autofocus, LED flash, check quality",
+            "Secondary": "1.6 MP, 720p",
+            "Video": "1080p@30fps, HDR, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, apt-X",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "Radio": "Yes",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual band, DLNA"
+        },
+        "Display": {
+            "": "- HTC Sense UI",
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 3",
+            "Resolution": "720 x 1280 pixels (~342 ppi pixel density)",
+            "Size": "4.3 inches (~61.1% screen-to-body ratio)",
+            "Type": "Super LCD2 capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP4/H.264/WMV player\n- MP3/eAAC+/WMA/WAV player\n- Document viewer\n- Photo viewer/editor\n- Voice memo/dial",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2013, July",
+            "Status": "Available. Released 2013, August"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "16 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Glacial Silver, Stealth Black, Blue",
+            "Price group": "5/10 (About 240 EUR)",
+            "SAR US": "0.90 W/kg (head) \u00a0 \u00a0 0.49 W/kg (body)"
+        },
+        "Network": {
+            "": "LTE band 2(1900), 4(1700/2100), 5(850), 17(700) - AT&T",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 1900 / 2100 - EMEA",
+            "4G bands": "LTE band 3(1800), 7(2600), 20(800) - EMEA",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA, LTE",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.4 GHz Krait 200",
+            "Chipset": "Qualcomm Snapdragon 400",
+            "GPU": "Adreno 305",
+            "OS": "Android OS, v4.2.2 (Jelly Bean), upgradable to v4.4.2 (KitKat), planned upgrade to v5.0 (Lollipop)"
+        },
+        "Sound": {
+            "": "- Beats Audio",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        },
+        "Tests": {
+            "Audio quality": "Noise -94.4dB / Crosstalk -87.9dB",
+            "Battery life": "Endurance rating 40h",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 1361:1 (nominal) / 2.003:1 (sunlight)",
+            "Loudspeaker": "Voice 68dB / Noise 68dB / Ring 78dB",
+            "Performance": "Basemark OS II: 257"
+        }
+    },
+    "main": {
+        "device_name": "HTC One mini",
+        "image": {
+            "href": "http://www.gsmarena.com/htc_one_mini-pictures-5505.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/htc-one-mini-ofic.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/htc_one_mini-5505.php"
+    }
+}

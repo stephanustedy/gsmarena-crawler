@@ -1,0 +1,68 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 950 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "103 x 47 x 15.6 mm (4.06 x 1.85 x 0.61 in)",
+            "SIM": "Mini-SIM",
+            "Weight": ""
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "FM radio",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "120 x 160 pixels (~100 ppi pixel density)",
+            "Size": "2.0 inches (~25.6% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- MP3 player\n- Organizer\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS"
+        },
+        "Launch": {
+            "Announced": "2009, February",
+            "Status": "Available. Released 2009"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "No",
+            "Internal": "64 MB",
+            "Phonebook": "Yes, Photocall"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "1/10 (About 40 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "Yes",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones, composer",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "LG GB130",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_gb130-pictures-2699.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-gb130.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_gb130-2699.php"
+    }
+}

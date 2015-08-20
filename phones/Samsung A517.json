@@ -1,0 +1,74 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 800 mAh battery",
+            "Stand-by": "Up to 250 h",
+            "Talk time": "Up to 3 h"
+        },
+        "Body": {
+            "Dimensions": "95 x 48 x 16 mm (3.74 x 1.89 x 0.63 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "82 g (2.89 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 960 pixels",
+            "Secondary": "No",
+            "Video": "QCIF"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0",
+            "GPS": "No",
+            "Radio": "MobiRadio",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second external, monochrome display (96 x 96 pixels)",
+            "Resolution": "176 x 220 pixels",
+            "Size": "",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- MobiTV & MobiRadio\n- MP3 player\n- Organizer\n- Stopwatch\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes",
+            "Java": "Yes",
+            "Messaging": "SMS, EMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2007, September",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "30 dialed, 30 received, 30 missed calls",
+            "Card slot": "microSD, up to 2 GB",
+            "Phonebook": "1000 entries"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "2/10 (About 50 EUR)",
+            "SAR US": "1.06 W/kg (head) \u00a0 \u00a0 0.64 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "For AT&T",
+        "device_name": "Samsung A517",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_a517-pictures-2215.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-a517.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_a517-2215.php"
+    }
+}

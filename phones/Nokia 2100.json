@@ -1,0 +1,72 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 720 mAh battery (BLD-3)",
+            "Stand-by": "Up to 50 - 150 h",
+            "Talk time": "Up to 2 h - 3 h 20 m"
+        },
+        "Body": {
+            "Dimensions": "105 x 44 x 20 mm, 77 cc (4.13 x 1.73 x 0.79 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "85 g (3.00 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- White backlight\n- Rhythmic backlight alert\n- Full display screensaver\n- Dynamic font size\n- Softkeys",
+            "Resolution": "96 x 65 pixels",
+            "Size": "",
+            "Type": "Monochrome graphic"
+        },
+        "Features": {
+            "": "- Predictive text input\n- SMS to many\n- Calculator\n- Currency converter\n- Stopwatch\n- Picture messaging\n- Xpress-on front and back covers",
+            "Alarm": "Yes",
+            "Browser": "",
+            "Clock": "Yes",
+            "Games": "3 - Link5, Space Impact, Snake II",
+            "Java": "No",
+            "Languages": "Major European languages",
+            "Messaging": "SMS"
+        },
+        "Launch": {
+            "Announced": "1Q, 2003",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- Dynamic phonebook memory\n- Editable message templates",
+            "Call records": "10 dialed, 10 received, 10 missed calls",
+            "Card slot": "No",
+            "Phonebook": "100"
+        },
+        "Misc": {
+            "Colors": "3 (Yellow, Green, and Grey) + Xpress-on covers",
+            "SAR EU": "0.55 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable monophonic ringtones, composer",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 2100",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_2100-pictures-366.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/no2100.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_2100-366.php"
+    }
+}

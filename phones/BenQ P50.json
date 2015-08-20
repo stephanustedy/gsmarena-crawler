@@ -1,0 +1,100 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1240 mAh battery",
+            "Stand-by": "Up to 120 h",
+            "Talk time": "Up to 4 h"
+        },
+        "Body": {
+            "Dimensions": "122 x 60 x 20 mm (4.80 x 2.36 x 0.79 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "170 g (6.00 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 960 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v1.1",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "Yes",
+            "WLAN": "Wi-Fi 802.11b"
+        },
+        "Display": {
+            "": "- Wallpapers\n- Downloadable pictures",
+            "Resolution": "240 x 320 pixels (~143 ppi pixel density)",
+            "Size": "2.8 inches, 42 x 57 mm (~33.2% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 65K colors"
+        },
+        "Features": {
+            "": "- MP3/MP4 player\n- Handwriting recognition\n- Pocket Office \n- Voice command",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2004, 1Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "",
+            "Card slot": "MMC/SDIO, up to 2 GB",
+            "Internal": "64 MB RAM, 64 MB ROM"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Platform": {
+            "CPU": "Intel PXA272 416 MHz",
+            "OS": "Microsoft Windows PocketPC 2003 Phone edition"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "BenQ P50",
+        "image": {
+            "href": "http://www.gsmarena.com/benq_p50-pictures-759.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/bqp50.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/benq_p50-759.php"
+    }
+}

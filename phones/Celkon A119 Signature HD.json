@@ -1,0 +1,83 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 2100 mAh battery",
+            "Stand-by": "Up to 140 h",
+            "Talk time": "Up to 6 h"
+        },
+        "Body": {
+            "": "- Flashlight",
+            "Dimensions": "148 x 74.5 x 9.3 mm (5.83 x 2.93 x 0.37 in)",
+            "SIM": "Dual SIM (Mini-SIM)",
+            "Weight": "177 g (6.24 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus",
+            "Primary": "12 MP, 4000 x 3000 pixels, autofocus, LED flash",
+            "Secondary": "3 MP",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP",
+            "GPS": "Yes",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "720 x 1280 pixels (~294 ppi pixel density)",
+            "Size": "5.0 inches (~62.5% screen-to-body ratio)",
+            "Type": "Capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP3/WAV/eAAC player\n- MP4/H.264 player\n- Document viewer\n- Photo viewer/editor",
+            "Browser": "Yes",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2013, March",
+            "Status": "Available. Released 2013, March"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "4 GB (1.45 GB user available), 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "4/10 (About 200 EUR)",
+            "SAR EU": "0.39 W/kg (head) \u00a0 \u00a0 0.35 W/kg (body)",
+            "SAR US": "0.80 W/kg (head) \u00a0 \u00a0 0.81 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 2100",
+            "EDGE": "Class 12",
+            "GPRS": "Yes",
+            "Speed": "HSPA 7.2/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1 GHz Cortex-A9",
+            "Chipset": "Mediatek MT6577H",
+            "GPU": "PowerVR SGX531u",
+            "OS": "Android OS, v4.1 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Celkon A119 Signature HD",
+        "image": {
+            "href": "http://www.gsmarena.com/celkon_a119_signature_hd-pictures-5387.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/celkon-a1191.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/celkon_a119_signature_hd-5387.php"
+    }
+}

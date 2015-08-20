@@ -1,0 +1,81 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1380 mAh battery",
+            "Stand-by": "Up to 100 h",
+            "Talk time": "Up to 5 h 40 min"
+        },
+        "Body": {
+            "Dimensions": "109.9 x 57 x 18.6 mm, 98 cc (4.33 x 2.24 x 0.73 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "165 g (4.23 oz)"
+        },
+        "Camera": {
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, LED flash",
+            "Secondary": "No",
+            "Video": "720p@20fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g"
+        },
+        "Display": {
+            "": "- Touch sensitive controls",
+            "Resolution": "480 x 854 pixels (~306 ppi pixel density)",
+            "Size": "3.2 inches (~45.0% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP3/WAV/WMA/AAC+ player\n- MP4/H.264/AVI/MKV/WMV player\n- Document viewer\n- Organizer\n- Voice memo\n- Predictive text input",
+            "Browser": "HTML",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, compass"
+        },
+        "Launch": {
+            "Announced": "2010, September",
+            "Status": "Available. Released 2010, Q4"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "512 MB, 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Gray",
+            "SAR US": "0.32 W/kg (head) \u00a0 \u00a0 0.81 W/kg (body)"
+        },
+        "Network": {
+            "": "CDMA 800 / 1900",
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "3G bands": "CDMA2000 1xEV-DO",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "EV-DO Rev.A 3.1 Mbps",
+            "Technology": "GSM / CDMA / EVDO"
+        },
+        "Platform": {
+            "CPU": "600 MHz Cortex-A8",
+            "Chipset": "TI OMAP 3430",
+            "GPU": "PowerVR SGX530",
+            "OS": "Android OS, v2.1 (Eclair)"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "For China Telecom\nAlso known as Motorola XT806 Qilin",
+        "device_name": "Motorola XT806",
+        "image": {
+            "href": "http://www.gsmarena.com/motorola_xt806-pictures-3476.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/Motorola-XT806-Qilin.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/motorola_xt806-3476.php"
+    }
+}

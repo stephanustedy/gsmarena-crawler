@@ -1,0 +1,73 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 800 mAh battery",
+            "Stand-by": "Up to 220 h",
+            "Talk time": "Up to 3 h 30 min"
+        },
+        "Body": {
+            "Dimensions": "87.4 x 47 x 23 mm (3.44 x 1.85 x 0.91 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "85 g (3.00 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "No"
+        },
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Wallpapers\n- Downloadable pictures",
+            "Resolution": "128 x 160 pixels, 8 lines",
+            "Size": "",
+            "Type": "UFB, 65K colors"
+        },
+        "Features": {
+            "": "- Predictive text input\n- Organizer",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "2 - Snowball fighter, Bubble smile + downloadable",
+            "Java": "Yes, MIDP 2.0, CLDC 1.1",
+            "Messaging": "SMS, EMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2005, 1Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- 6.5 MB dynamic memory for photos, MMS and sound\n- 200 SMS\n- 3 MB for Java",
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "No",
+            "Phonebook": "1000 entries, Photo call"
+        },
+        "Misc": {
+            "Colors": "",
+            "SAR EU": "0.80 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Samsung X640",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_x640-pictures-1023.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/ssx640.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_x640-1023.php"
+    }
+}

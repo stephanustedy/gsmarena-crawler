@@ -1,0 +1,78 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1000 mAh battery",
+            "Stand-by": "Up to 250 h",
+            "Talk time": "Up to 3 h"
+        },
+        "Body": {
+            "Dimensions": "98.4 x 55 x 11.6 mm (3.87 x 2.17 x 0.46 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "106 g (3.74 oz)"
+        },
+        "Camera": {
+            "Features": "Face detection, WDR",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, LED flash",
+            "Secondary": "VGA videocall camera",
+            "Video": "320p"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- TouchWiz UI\n- Smart dialing",
+            "Resolution": "240 x 320 pixels (~143 ppi pixel density)",
+            "Size": "2.8 inches (~44.9% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- SNS integration\n- Photo/Video editor\n- H.264/MP4/WMV player\n- MP3/eAAC+/WMA player\n- Organizer\n- Document viewer (Word, Excel, PowerPoint, PDF)",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS, Email, IM, RSS"
+        },
+        "Launch": {
+            "Announced": "2009, February",
+            "Status": "Available. Released 2009, August"
+        },
+        "Memory": {
+            "Call records": "30 dialed, 30 received, 30 missed calls",
+            "Card slot": "microSD, up to 16 GB",
+            "Internal": "160 MB",
+            "Phonebook": "2000 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Black, Pink, La Fleur, Pearl White",
+            "Price group": "2/10 (About 100 EUR)",
+            "SAR EU": "0.94 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "3G bands": "HSDPA 2100",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 7.2/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Samsung Player Style i",
+        "device_name": "Samsung F480i",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_f480i-pictures-2987.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-f480i-la-fleur.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_f480i-2987.php"
+    }
+}

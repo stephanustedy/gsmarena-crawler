@@ -1,0 +1,75 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1000 mAh battery",
+            "Stand-by": "Up to 285 h",
+            "Talk time": "Up to 5 h"
+        },
+        "Body": {
+            "Dimensions": "95 x 48 x 24 mm (3.74 x 1.89 x 0.94 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "95 g (3.35 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 1024 pixels, LED flash",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second external TFT display, 65K colors (96 x 96 pixels)",
+            "Resolution": "176 x 220 pixels (~157 ppi pixel density)",
+            "Size": "1.8 inches, 29 x 36 mm (~22.4% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/AAC/MPEG player\n- Document viewer (Word, Excel, PowerPoint, PDF)\n- SyncML\n- Predictive text input\n- Voice memo\n- Voice command\n- Organizer",
+            "Browser": "WAP 2.0/xHTML",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, EMail, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2005, 1Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "MMC-micro",
+            "Internal": "18 MB"
+        },
+        "Misc": {
+            "Colors": "",
+            "SAR EU": "1.01 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Platform": {
+            "CPU": "TI 192 MHz",
+            "OS": "Symbian OS, Series 60 UI"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Samsung D730",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_d730-pictures-1124.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-d730.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_d730-1124.php"
+    }
+}

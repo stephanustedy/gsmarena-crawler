@@ -1,0 +1,95 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion battery",
+            "Stand-by": "Up to 100 h",
+            "Talk time": "Up to 2 h 30 min"
+        },
+        "Body": {
+            "Dimensions": "108 x 71 x 21 mm (4.25 x 2.80 x 0.83 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "147 g (5.19 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "160 x 160 pixels",
+            "Size": "",
+            "Type": "Monochrome resistive touchscreen, 16 shades"
+        },
+        "Features": {
+            "": "- 33 MHz Motorola Dragonball Processor\n- Organizer\n- Advanced calculator\n- GPRS upgradeable\n- Handsfree ear-bud headset included",
+            "Browser": "HTML (Blazer 2.0)",
+            "Java": "No",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2002",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "16 MB"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "": "GSM 900 / 1900 - US version",
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "GSM"
+        },
+        "Platform": {
+            "CPU": "Motorola DragonBall VZ MC68VZ328 33MHz",
+            "OS": "Palm OS v3.5.2H"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Monophonic ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Palm Treo 180",
+        "image": {
+            "href": "http://www.gsmarena.com/palm_treo_180-pictures-623.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/hst180.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/palm_treo_180-623.php"
+    }
+}

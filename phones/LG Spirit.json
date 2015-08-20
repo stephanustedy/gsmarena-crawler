@@ -1,0 +1,86 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 2100 mAh battery",
+            "Stand-by": "Up to 540 h (2G) / Up to 591 h (3G)",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "133.3 x 66.1 x 10 mm (5.25 x 2.60 x 0.39 in)",
+            "SIM": "Yes",
+            "Weight": "124.4 g (4.37 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash - H440N\n5 MP, 2592 \u0445 1944 pixels, autofocus, LED flash - H420",
+            "Secondary": "1 MP, 720p",
+            "Video": "1080p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.1, A2DP, LE",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "Radio": "FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 3",
+            "Resolution": "720 x 1280 pixels (~312 ppi pixel density)",
+            "Size": "4.7 inches (~69.1% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- XviD/MP4/H.264 player\n- MP3/WAV/eAAC+/Flac player\n- Photo/video editor\n- Document viewer",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2015, February",
+            "Status": "Available. Released 2015, March"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "8 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Titan, Gold, White",
+            "Price group": "4/10 (About 160 EUR)",
+            "SAR EU": "0.78 W/kg (head) \u00a0 \u00a0 0.69 W/kg (body)",
+            "SAR US": "1.06 W/kg (head) \u00a0 \u00a0 0.92 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 900 / 2100 - H420",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 1900 / 2100 - H440N",
+            "4G bands": "LTE band 1(2100), 3(1800), 7(2600), 8(900), 20(800) - H440N",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 21.1/5.76 Mbps, LTE Cat4 150/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.2 GHz Cortex-A53 - H440N\nQuad-core 1.3 GHz Cortex-A7 - H420",
+            "Chipset": "Qualcomm MSM8916 Snapdragon 410 - H440N\nMediatek MT6582 - H420",
+            "GPU": "Adreno 306\nMali-400MP2",
+            "OS": "Android OS, v5.0.1 (Lollipop)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "LG Spirit 4G LTE H440N with LTE support\nLG Spirit H420 with 3G support",
+        "device_name": "LG Spirit",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_spirit-pictures-7052.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-spirit1.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_spirit-7052.php"
+    }
+}

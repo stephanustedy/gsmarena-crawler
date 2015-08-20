@@ -1,0 +1,91 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 2000 mAh battery",
+            "Music play": "Up to 60 h",
+            "Stand-by": "",
+            "Talk time": "Up to 13 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "130.8 x 67.9 x 8.8 mm (5.15 x 2.67 x 0.35 in)",
+            "SIM": "Optional Dual SIM (Micro-SIM, dual stand-by)",
+            "Weight": "130 g (4.59 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, LED flash, check quality",
+            "Secondary": "2 MP",
+            "Video": "720p@30fps, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP",
+            "GPS": "Yes, with A-GPS, GLONASS, Beidou",
+            "NFC": "Yes (LTE models, except SM-G360BT)",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "480 x 800 pixels (~207 ppi pixel density)",
+            "Size": "4.5 inches (~64.9% screen-to-body ratio)",
+            "Type": "Capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Digital TV (SM-G360BT)\n- MP4/H.264 player\n- MP3/WAV/eAAC+/FLAC player\n- Photo/video editor\n- Document viewer",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2014, November",
+            "Status": "Available. Released 2014, November"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "8 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White, Gray",
+            "Price group": "3/10 (About 140 EUR)",
+            "SAR EU": "0.60 W/kg (head) \u00a0 \u00a0 0.40 W/kg (body)",
+            "SAR US": "0.70 W/kg (head) \u00a0 \u00a0 1.07 W/kg (body)"
+        },
+        "Network": {
+            "": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 7(2600), 17(700) - G360BT",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2 (optional)",
+            "3G bands": "HSDPA 850 / 900 / 2100 - G360F",
+            "4G bands": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 28(700) - G360G",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.2 GHz Cortex-A53",
+            "Chipset": "Qualcomm MSM8916 Snapdragon 410",
+            "GPU": "Adreno 306",
+            "OS": "Android OS, v4.4.4 (KitKat), upgradable to v5.0.2 (Lollipop)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Camera": "Photo / Video",
+            "Performance": "Basemark OS II: 564 / Basemark X: 1895"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Samsung Galaxy Win 2 Duos TV SM-G360BT for Brazil\nAvailable versions:\nSM-G360F, G360G, G360GY, G360HU, G360M, G360P, G360BT/DS, G360FY/DS, G360H/DS, G360HU/DS, G360M/DS",
+        "device_name": "Samsung Galaxy Core Prime",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_galaxy_core_prime-pictures-6716.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-core-prime.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_galaxy_core_prime-6716.php"
+    }
+}

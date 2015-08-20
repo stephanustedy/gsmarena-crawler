@@ -1,0 +1,71 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion battery",
+            "Stand-by": "Up to 700 h",
+            "Talk time": "Up to 8 h"
+        },
+        "Body": {
+            "Dimensions": "113.7 x 49 x 15.8 mm (4.48 x 1.93 x 0.62 in)",
+            "SIM": "Dual SIM (Mini-SIM)",
+            "Weight": "61.7 g (2.15 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 1024 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "No",
+            "Radio": "FM radio",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~167 ppi pixel density)",
+            "Size": "2.4 inches (~32.0% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- Audio/video player\n- Photo viewer\n- Organizer",
+            "Browser": "WAP",
+            "Games": "Downloadable",
+            "Java": "Yes",
+            "Messaging": "SMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2012, Q2",
+            "Status": "Available. Released 2012, May"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 8 GB",
+            "Phonebook": "Yes"
+        },
+        "Misc": {
+            "Colors": "Gray",
+            "Price group": "1/10 (About 30 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+            "EDGE": "No",
+            "GPRS": "Yes",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, Polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Micromax X288",
+        "image": {
+            "href": "http://www.gsmarena.com/micromax_x288-pictures-4789.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/micromax-x288.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/micromax_x288-4789.php"
+    }
+}

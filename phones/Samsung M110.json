@@ -1,0 +1,74 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1000 mAh battery",
+            "Stand-by": "Up to 400 h",
+            "Talk time": "Up to 8 h"
+        },
+        "Body": {
+            "": "- IP54 certified - dust and splash resistant\n- Flashlight",
+            "Dimensions": "109 x 48 x 17.9 mm (4.29 x 1.89 x 0.70 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "95 g (3.35 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels, LED flash",
+            "Secondary": "No",
+            "Video": "No"
+        },
+        "Comms": {
+            "Bluetooth": "v1.2",
+            "GPS": "No",
+            "Radio": "FM radio",
+            "USB": "No",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "128 x 128 pixels (~119 ppi pixel density)",
+            "Size": "1.52 inches (~14.2% screen-to-body ratio)",
+            "Type": "CSTN, 65K colors"
+        },
+        "Features": {
+            "": "- Organizer\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2008, January. Released 2008, March",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "30 dialed, 30 received, 30 missed calls",
+            "Card slot": "No",
+            "Internal": "2 MB",
+            "Phonebook": "500 entries"
+        },
+        "Misc": {
+            "Colors": "Olive Green, Black",
+            "Price group": "2/10 (About 80 EUR)",
+            "SAR EU": "0.29 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Samsung M110",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_m110-pictures-2196.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-m110.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_m110-2196.php"
+    }
+}

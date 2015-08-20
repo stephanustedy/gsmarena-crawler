@@ -1,0 +1,75 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 750 mAh battery",
+            "Music play": "Up to 10 h",
+            "Stand-by": "Up to 300 h",
+            "Talk time": "Up to 7 h"
+        },
+        "Body": {
+            "Dimensions": "89 x 45.7 x 22 mm (3.50 x 1.80 x 0.87 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "83g (2.93 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "QCIF"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Embedded images and animations",
+            "Resolution": "128 x 160 pixels (~114 ppi pixel density)",
+            "Size": "1.8 inches (~25.1% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- Conference call up to 5 persons\n- Powerful Music Player: MP3, M4a, AAC, AAC+ (Optional)\n- Synthesized Audio : MIDI, SP-MIDI, AMR\n- 3GP/MP4 Video Recorder (Unlimited) & Player\n- H263/MP4 Codec Supported\n- ID3 Tag Support\n- Flight Mode\n- Karaoke\n- PC Software Suite\n- Voice memo\n- Predictive text input\n- Organizer",
+            "Browser": "WAP 2.0",
+            "Games": "2",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2007, February",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "microSD",
+            "Internal": "10 MB",
+            "Phonebook": "800 entries, Photo call"
+        },
+        "Misc": {
+            "Colors": "Soft Touch Black, Soft Touch Blue, Soft Touch Orange",
+            "SAR EU": "1.00 W/kg (head)",
+            "SAR US": "0.83 W/kg (head) \u00a0 \u00a0 1.07 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Polyphonic(64), MP3, M4a, AAC, AAC + (Optional) ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Alcatel OT-C701",
+        "image": {
+            "href": "http://www.gsmarena.com/alcatel_ot_c701-pictures-1902.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/alcatel-c701.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/alcatel_ot_c701-1902.php"
+    }
+}

@@ -1,0 +1,155 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "112 x 60 x 14 mm (4.41 x 2.36 x 0.55 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": ""
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v1.2, A2DP",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "320 x 240 pixels",
+            "Size": "",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- Pocket Office \n- MP3/MP4 player\n- Voice dial\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2007, November",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "0": "C",
+            "1": "a",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "r",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "g",
+            "25": "l",
+            "26": "o",
+            "27": "s",
+            "28": "s",
+            "29": "a",
+            "3": "d",
+            "30": "r",
+            "31": "y",
+            "32": ".",
+            "33": "p",
+            "34": "h",
+            "35": "p",
+            "36": "3",
+            "37": "?",
+            "38": "t",
+            "39": "e",
+            "4": " ",
+            "40": "r",
+            "41": "m",
+            "42": "=",
+            "43": "m",
+            "44": "e",
+            "45": "m",
+            "46": "o",
+            "47": "r",
+            "48": "y",
+            "49": "-",
+            "5": "s",
+            "50": "c",
+            "51": "a",
+            "52": "r",
+            "53": "d",
+            "54": "-",
+            "55": "s",
+            "56": "l",
+            "57": "o",
+            "58": "t",
+            "6": "l",
+            "7": "o",
+            "8": "t",
+            "9": "w"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 1800 / 1900",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Platform": {
+            "CPU": "260 MHz",
+            "Chipset": "TI OMAP V1030",
+            "OS": "Microsoft Windows Mobile 5.0 PocketPC"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "AT&T SMT5700",
+        "image": {
+            "href": "http://www.gsmarena.com/at&t_smt5700-pictures-2603.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/att-5700.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/at&t_smt5700-2603.php"
+    }
+}

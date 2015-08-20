@@ -1,0 +1,72 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 2200 mAh battery",
+            "Stand-by": "Up to 600 h",
+            "Talk time": "Up to 10 h"
+        },
+        "Body": {
+            "Dimensions": "118.8 x 52.5 x 14.9 mm (4.68 x 2.07 x 0.59 in)",
+            "SIM": "Dual SIM (Mini-SIM)",
+            "Weight": "95 g (3.35 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 1024 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "No",
+            "Radio": "FM radio; Wireless FM",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~154 ppi pixel density)",
+            "Size": "2.6 inches (~33.6% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- Audio/video player\n- Photo viewer\n- Organizer",
+            "Browser": "Yes",
+            "Games": "Yes",
+            "Java": "Yes",
+            "Messaging": "SMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2012",
+            "Status": "Available"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 8 GB",
+            "Phonebook": "500 entries"
+        },
+        "Misc": {
+            "Colors": "Black/Silver, White/Black",
+            "Price group": "1/10 (About 30 EUR)",
+            "SAR EU": "0.95 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+            "EDGE": "No",
+            "GPRS": "Yes",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration, Polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "device_name": "Karbonn K4+ Titan",
+        "image": {
+            "href": "http://www.gsmarena.com/karbonn_k4+_titan-pictures-5182.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/karbonn-k4+.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/karbonn_k4+_titan-5182.php"
+    }
+}

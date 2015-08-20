@@ -1,0 +1,89 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1230 mAh battery",
+            "Stand-by": "Up to 360 h (2G) / Up to 570 h (3G)",
+            "Talk time": "Up to 7 h 10 min (2G) / Up to 5 h 50 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "101.3 x 59.4 x 12.4 mm (3.99 x 2.34 x 0.49 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "105 g (3.70 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face detection",
+            "Primary": "5 MP, 2592 x 1944 pixels, autofocus, LED flash, check quality",
+            "Secondary": "No",
+            "Video": "480p@24fps"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "": "- HTC Sense UI 2.1",
+            "Resolution": "320 x 480 pixels (~180 ppi pixel density)",
+            "Size": "3.2 inches (~50.7% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/AAC+/WAV player\n- Xvid/MP4/H.264 player\n- Organizer\n- Voice memo\n- Predictive text input",
+            "Browser": "HTML",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2011, February",
+            "Status": "Available. Released 2011, May"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB, 2 GB included",
+            "Internal": "512 MB, 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, Silver, Brown, Lilac",
+            "Price group": "2/10 (About 100 EUR)",
+            "SAR US": "0.90 W/kg (head) \u00a0 \u00a0 1.21 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 2100 - for Australia",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Up to 560 kbps",
+            "GPRS": "Up to 114 kbps",
+            "Speed": "HSPA 7.2/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "600 MHz ARM 11",
+            "Chipset": "Qualcomm MSM7227 Snapdragon S1",
+            "GPU": "Adreno 200",
+            "OS": "Android OS, v2.3 (Gingerbread), upgradable to v2.3.5 (Gingerbread)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -81.3dB / Crosstalk -81.3B",
+            "Camera": "Photo",
+            "Display": "Contrast ratio: 414:1 (nominal)",
+            "Loudspeaker": "Voice 73dB / Noise 66dB / Ring 69dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as HTC PG76110",
+        "device_name": "HTC Wildfire S",
+        "image": {
+            "href": "http://www.gsmarena.com/htc_wildfire_s-pictures-3777.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/htc-wildfire-s-ofic1.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/htc_wildfire_s-3777.php"
+    }
+}

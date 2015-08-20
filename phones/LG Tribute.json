@@ -1,0 +1,82 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 2100 mAh battery",
+            "Stand-by": "",
+            "Talk time": "Up to 15 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "127.5 x 67.8 x 10.7 mm (5.02 x 2.67 x 0.42 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "138.9 g (4.94 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, panorama",
+            "Primary": "5 MP, 2560 \u0445 1920 pixels, autofocus, LED flash",
+            "Secondary": "VGA",
+            "Video": "1080p"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, LE",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "480 x 800 pixels (~207 ppi pixel density)",
+            "Size": "4.5 inches (~66.7% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/H.264 player\n- MP3/eAAC+/WAV/FLAC player\n- Photo/video editor\n- Document viewer",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2014, September",
+            "Status": "Available. Released 2014, October"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "4 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "White",
+            "Price group": "1/10 (About 50 EUR)"
+        },
+        "Network": {
+            "2G bands": "CDMA 800 / 1900",
+            "3G bands": "CDMA2000 1xEV-DO",
+            "4G bands": "LTE band 25(1900), 26(850), 41(2500)",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Speed": "LTE, EV-DO Rev.A 3.1 Mbps",
+            "Technology": "CDMA / EVDO / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.2 GHz",
+            "Chipset": "Qualcomm MSM8926 Snapdragon 400",
+            "GPU": "Adreno 305",
+            "OS": "Android OS, v4.4.2 (KitKat)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as LG Tribute LS660",
+        "device_name": "LG Tribute",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_tribute-pictures-6812.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-tribute-ls660.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_tribute-6812.php"
+    }
+}

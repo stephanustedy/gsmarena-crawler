@@ -1,0 +1,91 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 7000 mAh battery",
+            "Stand-by": "Up to 1500 h",
+            "Talk time": "Up to 33 h 20 min"
+        },
+        "Body": {
+            "": "- S Pen stylus",
+            "Dimensions": "262 x 180 x 8.9 mm (10.31 x 7.09 x 0.35 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "600 g (1.32 lb)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, LED flash, check quality",
+            "Secondary": "1.9 MP",
+            "Video": "720p@30fps, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP",
+            "GPS": "Yes, with A-GPS; GLONASS",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "Yes",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, hotspot"
+        },
+        "Display": {
+            "": "- Samsung TouchWiz UI",
+            "Multitouch": "Yes",
+            "Resolution": "800 x 1280 pixels (~149 ppi pixel density)",
+            "Size": "10.1 inches (~62.7% screen-to-body ratio)",
+            "Type": "PLS TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/DivX/Xvid/FLV/MKV/H.264 player\n- MP3/WAV/eAAC+/Flac player\n- Photo/video editor\n- Adobe Photoshop Touch app\n- Document editor/viewer",
+            "Browser": "HTML, Adobe Flash",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, gyro, compass"
+        },
+        "Launch": {
+            "Announced": "2012, August",
+            "Status": "Available. Released 2012, August"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "16/32/64 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White/Silver",
+            "Price group": "7/10 (About 320 EUR)",
+            "SAR US": "1.10 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 21.1/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.4 GHz Cortex-A9",
+            "Chipset": "Exynos 4412 Quad",
+            "GPU": "Mali-400MP4",
+            "OS": "Android OS, v4.0.3 (Ice Cream Sandwich), upgradable to v4.4.2 (KitKat)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        },
+        "Tests": {
+            "Audio quality": "Noise -90.2dB / Crosstalk -91.3dB",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 821:1 (nominal)",
+            "Loudspeaker": "Voice 71dB / Noise 69dB / Ring 79dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Tablet with support for GSM voice communication, SMS, and MMS\nAlso known as Samsung Galaxy Note 800, Samsung Galaxy Note 10.1 3G & WiFi",
+        "device_name": "Samsung Galaxy Note 10.1 N8000",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_galaxy_note_10_1_n8000-pictures-4573.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-note-101-n8000.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_galaxy_note_10_1_n8000-4573.php"
+    }
+}

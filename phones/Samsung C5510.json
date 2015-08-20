@@ -1,0 +1,77 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 960 mAh battery",
+            "Stand-by": "Up to 400 h (2G) / Up to 300 h (3G)",
+            "Talk time": "Up to 8 h (2G) / Up to 4 h 30 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "99.8 x 47.5 x 15.3 mm (3.93 x 1.87 x 0.60 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "99.6 g (3.49 oz)"
+        },
+        "Camera": {
+            "Features": "Smile detection",
+            "Primary": "2 MP, 1600 x 1200 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "No",
+            "Radio": "FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~182 ppi pixel density)",
+            "Size": "2.2 inches (~31.6% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- MP4/H.264/WMV player\n- MP3/AAC/WMA player\n- Organizer\n- Document viewer (Word, Excel, PowerPoint, PDF)\n- Mobile Tracker\n- Photo editor\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2009, June",
+            "Status": "Available. Released 2009, September"
+        },
+        "Memory": {
+            "Call records": "30 dialed, 30 received, 30 missed calls",
+            "Card slot": "microSD, up to 16 GB",
+            "Internal": "20 MB",
+            "Phonebook": "1000 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Silver",
+            "Price group": "2/10 (About 90 EUR)",
+            "SAR EU": "0.72 W/kg (head)",
+            "SAR US": "0.54 W/kg (head) \u00a0 \u00a0 0.66 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "UMTS 900 / 2100",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Speed": "Yes, 384 kbps",
+            "Technology": "GSM / UMTS"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Samsung C5510",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_c5510-pictures-2856.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-c5510.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_c5510-2856.php"
+    }
+}

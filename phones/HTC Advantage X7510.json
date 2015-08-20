@@ -1,0 +1,84 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 2100 mAh battery",
+            "Stand-by": "Up to 300 h",
+            "Talk time": "Up to 6 h"
+        },
+        "Body": {
+            "Dimensions": "133 x 98 x 16 mm (5.24 x 3.86 x 0.63 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "375 g (13.23 oz)"
+        },
+        "Camera": {
+            "Primary": "3.15 MP, 2048 x 1536 pixels, autofocus, LED flash",
+            "Secondary": "VGA videocall camera",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "Yes",
+            "Radio": "No",
+            "USB": "miniUSB",
+            "WLAN": "Wi-Fi 802.11 b/g"
+        },
+        "Display": {
+            "": "- Handwriting recognition",
+            "Resolution": "640 x 480 pixels (~160 ppi pixel density)",
+            "Size": "5.0 inches (~59.4% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 256K colors (65K effective)"
+        },
+        "Features": {
+            "": "- Voice memo\n- MP3/AAC/AAC+/WMA/OGG/AMR player\n- WMV/MP4 player\n- Pocket Office \n- File manager\n- TV-out",
+            "Browser": "WAP 2.0/xHTML, HTML ( Opera 9)",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2008, February. Released 2008, June",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "miniSD",
+            "Internal": "16 GB, 128 MB RAM, 256 MB ROM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "9/10 (About 640 EUR)",
+            "SAR EU": "0.48 W/kg (head)"
+        },
+        "Network": {
+            "": "UMTS 850 / 1900 - American version",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 1.8 Mbps",
+            "Technology": "GSM / UMTS / HSPA"
+        },
+        "Platform": {
+            "CPU": "Marvell PXA270 624 MHz",
+            "OS": "Microsoft Windows Mobile 6.0 Professional"
+        },
+        "Sound": {
+            "": "- Dual speakers",
+            "3.5mm jack": "Yes",
+            "Alert types": "Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "canonical_name": {
+            "href": "http://www.gsmarena.com/htc_pocketpc_smartphone.php3",
+            "text": "HTC Athena 100 platform. Full HTC platforms guide"
+        },
+        "device_name": "HTC Advantage X7510",
+        "image": {
+            "href": "http://www.gsmarena.com/htc_advantage_x7510-pictures-2267.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/htc-x7510.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/htc_advantage_x7510-2267.php"
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion battery",
+            "Stand-by": "Up to 800 h",
+            "Talk time": "Up to 6 h 50 min"
+        },
+        "Body": {
+            "Dimensions": "113.8 x 55.4 x 12.2 mm (4.48 x 2.18 x 0.48 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "109.2 g (3.84 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "3.15 MP, 2048 x 1536 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Scratch-resistant glass",
+            "Resolution": "240 x 400 pixels (~146 ppi pixel density)",
+            "Size": "3.2 inches (~46.2% screen-to-body ratio)",
+            "Type": "TFT touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- Photo editor\n- MP3/WMA/WAV/eAAC+ player\n- MP4/H.264 player\n- Organizer\n- Document viewer\n- Voice memo\n- Predictive text input (Swype)",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS, MMS, Email",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2011, January",
+            "Status": "Available. Released 2011, February"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 16 GB",
+            "Internal": "124 MB"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "2/10 (About 50 EUR)",
+            "SAR US": "0.47 W/kg (head) \u00a0 \u00a0 1.02 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "CDMA 800 / 1900",
+            "3G bands": "CDMA2000 1xEV-DO",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Speed": "EV-DO Rev.A 3.1 Mbps",
+            "Technology": "CDMA / EVDO"
+        },
+        "Platform": {
+            "CPU": "800MHz",
+            "OS": "Android OS, v2.1 (Eclair)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Samsung I100 Gem",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_i100_gem-pictures-3738.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/Samsung-Gem-sch-i100.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_i100_gem-3738.php"
+    }
+}

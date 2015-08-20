@@ -1,0 +1,69 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 800 mAh battery",
+            "Stand-by": "Up to 200 h",
+            "Talk time": "Up to 3 h"
+        },
+        "Body": {
+            "Dimensions": "87 x 45 x 19 mm (3.43 x 1.77 x 0.75 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "78 g (2.75 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "FM radio",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "128 x 128 pixels (~119 ppi pixel density)",
+            "Size": "1.52 inches (~19.0% screen-to-body ratio)",
+            "Type": "CSTN, 65K colors"
+        },
+        "Features": {
+            "": "- MP3 player\n- Organizer\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2008, June. Released 2008, July",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "30 dialed, 30 received, 30 missed calls",
+            "Card slot": "No",
+            "Internal": "2 MB",
+            "Phonebook": "500 entries"
+        },
+        "Misc": {
+            "Colors": "Blue",
+            "Price group": "2/10 (About 80 EUR)",
+            "SAR EU": "0.73 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Samsung B300",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_b300-pictures-2463.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-b300-new.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_b300-2463.php"
+    }
+}

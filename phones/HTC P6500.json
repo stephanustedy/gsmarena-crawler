@@ -1,0 +1,85 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1500 mAh battery",
+            "Stand-by": "Up to 400 h",
+            "Talk time": "Up to 7 h 40 min"
+        },
+        "Body": {
+            "": "- Fingerprint sensor",
+            "Dimensions": "137.4 x 72.9 x 20.5 mm (5.41 x 2.87 x 0.81 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "220 g (7.76 oz)"
+        },
+        "Camera": {
+            "Primary": "3 MP, 2048 x 1536 pixels, autofocus",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0",
+            "GPS": "Yes",
+            "Radio": "No",
+            "USB": "miniUSB",
+            "WLAN": "Wi-Fi 802.11b/g"
+        },
+        "Display": {
+            "": "- Handwriting recognition\n- 5-way navigation",
+            "Resolution": "240 x 320 pixels (~114 ppi pixel density)",
+            "Size": "3.5 inches (~37.9% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 65K colors"
+        },
+        "Features": {
+            "": "- Pocket Office \n- Business card scanner\n- Voice memo\n- MP3/AAC player",
+            "Browser": "WAP 2.0/xHTML, HTML (PocketIE)",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2007, October. Released 2008, April",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "2 x SDIO",
+            "Internal": "1 GB"
+        },
+        "Misc": {
+            "Colors": "Silver",
+            "Price group": "6/10 (About 270 EUR)",
+            "SAR US": "0.54 W/kg (head) \u00a0 \u00a0 1.11 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 1900 - American version",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 2100",
+            "EDGE": "Yes",
+            "GPRS": "Class 10",
+            "Speed": "HSPA 3.6/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "400 MHz ARM 11",
+            "Chipset": "Qualcomm MSM7200",
+            "GPU": "Adreno 130",
+            "OS": "Microsoft Windows Mobile 6.0 Professional"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": {
+            "href": "http://www.gsmarena.com/htc_pocketpc_smartphone.php3",
+            "text": "HTC Sirius platform. Full HTC platforms guide"
+        },
+        "device_name": "HTC P6500",
+        "image": {
+            "href": "http://www.gsmarena.com/htc_p6500-pictures-2129.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/htc-p6500.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/htc_p6500-2129.php"
+    }
+}

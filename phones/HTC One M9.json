@@ -1,0 +1,94 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po 2840 mAh battery",
+            "Stand-by": "Up to 391 h (2G) / Up to 402 h (3G)",
+            "Talk time": "Up to 25 h 20 min (2G) / Up to 21 h 50 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "144.6 x 69.7 x 9.6 mm (5.69 x 2.74 x 0.38 in)",
+            "SIM": "Nano-SIM",
+            "Weight": "157 g (5.54 oz)"
+        },
+        "Camera": {
+            "Features": "Automatic simultaneous video and image recording, geo-tagging, face/smile detection, HDR, panorama",
+            "Primary": "20 MP, 5376 x 3752 pixels, autofocus, dual-LED (dual tone) flash, check quality",
+            "Secondary": "4 MP, 1080p@30fps, HDR",
+            "Video": "2160p@30fps, 1080p@60fps, 720p@120fps, HDR, stereo sound rec., check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v4.1, A2DP, apt-X",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "Infrared port": "Yes",
+            "NFC": "Yes",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0 (MHL 3.0 TV-out), USB Host",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- HTC Sense UI 7.0",
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 4",
+            "Resolution": "1080 x 1920 pixels (~441 ppi pixel density)",
+            "Size": "5.0 inches (~68.4% screen-to-body ratio)",
+            "Type": "Super LCD3 capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Fast battery charging: 60% in 30 min (Quick Charge 2.0)\n- Google Drive (100 GB cloud storage)\n- Active noise cancellation with dedicated mic\n- XviD/MP4/H.264/WMV player\n- MP3/eAAC+/WMA/WAV/FLAC player\n- Document editor\n- Photo/video editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2015, March",
+            "Status": "Available. Released 2015, March"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 128 GB",
+            "Internal": "32 GB, 3 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Gunmetal Gray, Amber Gold, Silver/Rose gold, Gold/Pink",
+            "Price group": "9/10 (About 750 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+            "4G bands": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 20(800), 28(700), 38(2600), 40(2300), 41(2500)",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 42.2/21.1 Mbps, LTE Cat6 300/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.5 GHz Cortex-A53 & Quad-core 2 GHz Cortex-A57",
+            "Chipset": "Qualcomm MSM8994 Snapdragon 810",
+            "GPU": "Adreno 430",
+            "OS": "Android OS, v5.0 (Lollipop)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        },
+        "Tests": {
+            "Audio quality": "Noise -94.8dB / Crosstalk -93.7dB",
+            "Battery life": "Endurance rating 62h",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 1221:1 (nominal), 2.334 (sunlight)",
+            "Loudspeaker": "Voice 65dB / Noise 64dB / Ring 76dB",
+            "Performance": "Basemark OS II: 1526 / Basemark OS II 2.0: 1365\nBasemark X: 19848"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as HTC M9, HTC One Hima",
+        "device_name": "HTC One M9",
+        "image": {
+            "href": "http://www.gsmarena.com/htc_one_m9-pictures-6891.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/htc-one-m9-1.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/htc_one_m9-6891.php"
+    }
+}

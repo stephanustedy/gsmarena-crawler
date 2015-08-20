@@ -1,0 +1,83 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 2200 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "7.8 mm thickness",
+            "SIM": "Dual SIM (Micro-SIM, dual stand-by)",
+            "Weight": "-"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection, panorama, HDR",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash",
+            "Secondary": "2 MP",
+            "Video": "720p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.1, LE",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot"
+        },
+        "Display": {
+            "": "- Emotion 3.1 UI",
+            "Multitouch": "Yes",
+            "Resolution": "720 x 1280 pixels (~294 ppi pixel density)",
+            "Size": "5.0 inches",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP3/WAV/eAAC+/Flac player\n- DivX/MP4/H.265 player\n- Document viewer\n- Photo/video editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2015, July",
+            "Status": "Available. Released 2015, July"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 128 GB",
+            "Internal": "8 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "White, Black, Gold",
+            "Price group": "2/10 (About 90 EUR)"
+        },
+        "Network": {
+            "": "LTE band 1(2100), 3(1800), 38(2600), 39(1900), 40(2300), 41(2500) - SCL-AL00",
+            "2G bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2 - SCL-TL00H",
+            "3G bands": "HSDPA 900 / 2100 - SCL-AL00",
+            "4G bands": "LTE band 38(2600), 39(1900), 40(2300) - SCL-TL00H",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA, LTE Cat4 150/50 Mbps",
+            "Technology": "GSM / HSPA / EVDO / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.1 GHz Cortex-A7",
+            "Chipset": "Qualcomm MSM8909 Snapdragon 210",
+            "GPU": "Adreno 304",
+            "OS": "Android OS, v5.1 (Lollipop)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Huawei Honor 4A",
+        "image": {
+            "href": "http://www.gsmarena.com/huawei_honor_4a-pictures-7440.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/huawei-honor-4a.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/huawei_honor_4a-7440.php"
+    }
+}

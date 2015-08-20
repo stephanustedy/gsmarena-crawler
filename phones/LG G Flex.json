@@ -1,0 +1,97 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po 3500 mAh battery",
+            "Stand-by": "Up to 720 h",
+            "Talk time": "Up to 15 h"
+        },
+        "Body": {
+            "": "- Self-healing back panel coating",
+            "Build": "Curved body and display",
+            "Dimensions": "160.5 x 81.6 x 8.7 mm (6.32 x 3.21 x 0.34 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "177 g (6.24 oz)"
+        },
+        "Camera": {
+            "Features": "Simultaneous video and image recording, geo-tagging, face detection, panorama, HDR",
+            "Primary": "13 MP, 4160 x 3120 pixels, autofocus, LED flash, check quality",
+            "Secondary": "2.1 MP, 1080p@30fps",
+            "Video": "1080p@60fps, HDR, stereo sound rec., check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, LE, apt-X",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "Infrared port": "Yes",
+            "NFC": "Yes",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v3.0, USB Host",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, DLNA, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 2",
+            "Resolution": "720 x 1280 pixels (~245 ppi pixel density)",
+            "Size": "6.0 inches (~75.8% screen-to-body ratio)",
+            "Type": "Curved P-OLED capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- DMB TV tuner (Korean model only)\n- Active noise cancellation with dedicated mic\n- MP4/DviX/XviD/H.264/WMV player\n- MP3/WAV/FLAC/eAAC+/AC3/WMA player\n- Photo viewer/editor\n- Document viewer\n- Voice memo/dial/commands",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2013, October",
+            "Status": "Available. Released 2013, November"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "32 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Titan silver",
+            "Price group": "7/10 (About 360 EUR)",
+            "SAR EU": "0.38 W/kg (head) \u00a0 \u00a0 0.41 W/kg (body)"
+        },
+        "Network": {
+            "": "LTE band 1(2100), 3(1800), 7(2600), 8(900), 20(800) - D955",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - all versions",
+            "3G bands": "HSDPA 850 / 1900 / 2100 - D950",
+            "4G bands": "LTE band 3(1800), 7(2600), 20(800) - D958",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 2.26 GHz Krait 400",
+            "Chipset": "Qualcomm MSM8974 Snapdragon 800",
+            "GPU": "Adreno 330",
+            "OS": "Android OS, v4.2.2 (Jelly Bean)"
+        },
+        "Sound": {
+            "": "- Dolby mobile",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -98.4dB / Crosstalk -83.7dB",
+            "Battery life": "Endurance rating 97h",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: Infinite (nominal), 2.407 (sunlight)",
+            "Loudspeaker": "Voice 66dB / Noise 66dB / Ring 77dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Available as:\nLG G Flex D955 for Europe\nLG G Flex D958 for Hong Kong & Asia\nLG G Flex D959 for T-Mobile USA\nLG G Flex D950 for AT&T\nLG G Flex LS995 for Sprint\nLG G Flex F340 for Korea",
+        "device_name": "LG G Flex",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_g_flex-pictures-5806.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-g-flex.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_g_flex-5806.php"
+    }
+}

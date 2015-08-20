@@ -1,0 +1,81 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 1800 mAh battery",
+            "Stand-by": "Up to 324 h (2G) / Up to 324 h (3G)",
+            "Talk time": "Up to 14 h 30 min (2G) / Up to 10 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "134.5 x 67.7 x 8.1 mm (5.30 x 2.67 x 0.32 in)",
+            "SIM": "Dual SIM (Dual stand-by)",
+            "Weight": "103.5 g (3.63 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face/smile detection",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash",
+            "Secondary": "2 MP",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "FM radio; recording",
+            "USB": "microUSB",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "540 x 960 pixels (~234 ppi pixel density)",
+            "Size": "4.7 inches (~66.9% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/H.264 player\n- MP3/WAV/eAAC+ player\n- Photo/video editor\n- Document viewer\n- Voice memo/dial",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2014, Q1",
+            "Status": "Available. Released 2014, Q1"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "8 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "4/10 (About 160 EUR)",
+            "SAR US": "0.45 W/kg (head) \u00a0 \u00a0 0.57 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.3 GHz Cortex-A7",
+            "Chipset": "Mediatek MT6582V/X",
+            "GPU": "Mali-400MP2",
+            "OS": "Android OS, v4.2 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Gionee Ctrl V5",
+        "image": {
+            "href": "http://www.gsmarena.com/gionee_ctrl_v5-pictures-6340.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/gionee-ctrl-v5.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/gionee_ctrl_v5-6340.php"
+    }
+}

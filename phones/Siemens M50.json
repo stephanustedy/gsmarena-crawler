@@ -1,0 +1,94 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion battery",
+            "Stand-by": "260 h",
+            "Talk time": "6 h"
+        },
+        "Body": {
+            "Dimensions": "109 x 46 x 23 mm, 82 cc (4.29 x 1.81 x 0.91 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "97 g (3.42 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Orange or blue backlight\n- Navi key",
+            "Resolution": "101 x 64 pixels, 5 lines",
+            "Size": "",
+            "Type": "Monochrome graphic"
+        },
+        "Features": {
+            "": "- Predictive text input\n- Reminder list\n- Organizer\n- Changeable cover\n- User profiles",
+            "Alarm": "Yes",
+            "Browser": "WAP 1.2.1",
+            "Clock": "Yes",
+            "Games": "Downloadable",
+            "Java": "Yes",
+            "Languages": "20",
+            "Messaging": "SMS, EMS"
+        },
+        "Launch": {
+            "Announced": "June 2002",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "10 dialed, 10 received, 10 missed calls",
+            "Card slot": "No",
+            "Phonebook": "50"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "Class 8",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable monophonic ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Siemens M50",
+        "image": {
+            "href": "http://www.gsmarena.com/siemens_m50-pictures-324.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/sim50.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/siemens_m50-324.php"
+    }
+}

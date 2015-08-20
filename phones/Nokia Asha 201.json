@@ -1,0 +1,77 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1430 mAh battery (BL-5J)",
+            "Music play": "Up to 52 h",
+            "Stand-by": "Up to 888 h",
+            "Talk time": "Up to 7 h"
+        },
+        "Body": {
+            "Dimensions": "115.5 x 61.1 x 14 mm, 47.7 cc (4.55 x 2.41 x 0.55 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "105 g (3.70 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels",
+            "Secondary": "No",
+            "Video": "176x144@10fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, EDR",
+            "GPS": "No",
+            "Radio": "Stereo FM radio with RDS, FM recording",
+            "USB": "microUSB v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "320 x 240 pixels (~167 ppi pixel density)",
+            "Size": "2.4 inches (~25.3% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- SNS integration\n- MP4/H.264/WMV player\n- MP3/WAV/WMA/AAC player\n- Organizer\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML, Adobe Flash Lite",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS(threaded view), MMS, Email, IM"
+        },
+        "Launch": {
+            "Announced": "2011, October",
+            "Status": "Available. Released 2012, February"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "10 MB, 64 MB ROM, 32 MB RAM",
+            "Phonebook": "Yes, Photocall"
+        },
+        "Misc": {
+            "Colors": "Graphite, Green, Blue, Aqua, Pearl White, Light Pink, Pink, Orange",
+            "Price group": "2/10 (About 50 EUR)",
+            "SAR EU": "0.95 W/kg (head)",
+            "SAR US": "1.28 W/kg (head) \u00a0 \u00a0 0.92 W/kg (body)"
+        },
+        "Network": {
+            "": "GSM 850 / 1900 - RM-800",
+            "2G bands": "GSM 900 / 1800 - RM-799",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, Polyphonic(64), MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Nokia Asha 201",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_asha_201-pictures-4280.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-asha-201.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_asha_201-4280.php"
+    }
+}

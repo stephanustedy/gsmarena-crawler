@@ -1,0 +1,93 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 2000 mAh battery (BN-02)",
+            "Music play": "Up to 37 h",
+            "Stand-by": "Up to 720 h",
+            "Talk time": "Up to 16 h (2G) / Up to 13 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "141.4 x 77.7 x 10.9 mm, 109 cc (5.57 x 3.06 x 0.43 in)",
+            "SIM": "Optional Dual SIM (Micro-SIM)",
+            "Weight": "190 g (6.70 oz)"
+        },
+        "Camera": {
+            "Features": "1/4'' sensor size, panorama, face detection",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, LED flash, check quality",
+            "Secondary": "2 MP",
+            "Video": "480p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "": "- Nokia X platform 1.0 UI",
+            "Multitouch": "Yes",
+            "Resolution": "480 x 800 pixels (~187 ppi pixel density)",
+            "Size": "5.0 inches (~64.8% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP3/WAV/eAAC+/Flac player\n- MP4/H.264 player\n- Document viewer\n- Photo editor\n- Voice memo/dial",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2014, February",
+            "Status": "Available. Released 2014, May"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "4 GB, 768 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Bright green, orange, cyan, yellow, black, white",
+            "Price group": "3/10 (About 100 EUR)",
+            "SAR EU": "0.67 W/kg (head)",
+            "SAR US": "0.89 W/kg (head) \u00a0 \u00a0 1.07 W/kg (body)"
+        },
+        "Network": {
+            "": "GSM 850 / 900 / 1800 / 1900",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Up to 236.8 kbps",
+            "GPRS": "Up to 85.6 kbps",
+            "Speed": "HSPA 7.2/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1 GHz Cortex-A5",
+            "Chipset": "Qualcomm MSM8225 Snapdragon S4 Play",
+            "GPU": "Adreno 203",
+            "OS": "Android OS, v4.1.2 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Battery life": "Endurance rating 62h",
+            "Camera": "Photo",
+            "Display": "Contrast ratio: 874:1 (nominal), 1.204 (sunlight)",
+            "Loudspeaker": "Voice 66dB / Noise 65dB / Ring 76dB",
+            "Performance": "Basemark OS II: 154"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Nokia XL Dual SIM RM-1030/RM-1042",
+        "device_name": "Nokia XL",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_xl-pictures-6148.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-xl.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_xl-6148.php"
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 930 mAh battery",
+            "Stand-by": "Up to 400 h (2G) / Up to 400 h (3G)",
+            "Talk time": "Up to10 h (2G) / Up to 4 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "93.5 x 50 x 14 mm (3.68 x 1.97 x 0.55 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "98 g (3.46 oz)"
+        },
+        "Camera": {
+            "Primary": "3.15 MP, 2048 x 1536 pixels",
+            "Secondary": "Yes",
+            "Video": "320p@15fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Secondary external monochrome display, 36 x 128 pixels, 1.1\"",
+            "Protection": "Scratch-resistant glass",
+            "Resolution": "240 x 320 pixels (~182 ppi pixel density)",
+            "Size": "2.2 inches (~32.1% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- Walkman media player \n- Shake and gesture control\n- TrackID music recognition\n- Photo editor\n- Organizer\n- Exchangeable Style-Up covers",
+            "Browser": "WAP 2.0/xHTML, HTML (NetFront)",
+            "Games": "3, incl. motion-based + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS, Email, Instant Messaging",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2009, January",
+            "Status": "Available. Released 2009, May"
+        },
+        "Memory": {
+            "Call records": "30 received, dialed and missed calls",
+            "Card slot": "Memory Stick Micro (M2), up to 16 GB, 1 GB included",
+            "Internal": "100 MB",
+            "Phonebook": "1000 x 24 fields, Photo call"
+        },
+        "Misc": {
+            "Colors": "Metal Grey, Poetic White",
+            "Price group": "2/10 (About 100 EUR)",
+            "SAR EU": "0.85 W/kg (head)",
+            "SAR US": "0.73 W/kg (head) \u00a0 \u00a0 0.85 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 1900 / 2100 - W508a",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 2100",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Speed": "HSPA",
+            "Technology": "GSM / HSPA"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration, MP3, AAC ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -85.9dB / Crosstalk -84.7dB",
+            "Loudspeaker": "Voice 75dB / Noise 82dB / Ring 76dB"
+        }
+    },
+    "main": {
+        "device_name": "Sony Ericsson W508",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_ericsson_w508-pictures-2641.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/se-w508.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_ericsson_w508-2641.php"
+    }
+}

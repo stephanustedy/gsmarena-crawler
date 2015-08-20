@@ -1,0 +1,88 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1300 mAh battery",
+            "Stand-by": "Up to 570 h (2G) / Up to 420 h (3G)",
+            "Talk time": "Up to 18 h 30 min (2G) / Up to 7 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "112.7 x 61.5 x 11.5 mm (4.44 x 2.42 x 0.45 in)",
+            "SIM": "Dual SIM, dual call (Mini-SIM, dual stand-by)",
+            "Weight": "122 g (4.30 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, smile detection",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, check quality",
+            "Secondary": "No",
+            "Video": "480p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "": "- TouchWiz UX UI",
+            "Multitouch": "Yes",
+            "Resolution": "320 x 480 pixels (~165 ppi pixel density)",
+            "Size": "3.5 inches (~52.6% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- MP4/H.264 player\n- MP3/WAV/eAAC+ player\n- Document editor\n- Photo editor",
+            "Browser": "HTML",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS(threaded view), MMS, Email",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2012, May",
+            "Status": "Available. Released 2012, June"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "3 GB, 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "White, Black, Yellow, La Fleur",
+            "Price group": "3/10 (About 120 EUR)",
+            "SAR EU": "0.65 W/kg (head)",
+            "SAR US": "1.00 W/kg (head) \u00a0 \u00a0 0.84 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 7.2/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "832 MHz",
+            "OS": "Android OS, v2.3 (Gingerbread)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -87.9dB / Crosstalk -84.0dB",
+            "Battery life": "Endurance rating 42h",
+            "Camera": "Photo",
+            "Display": "Contrast ratio: 655 (nominal) / 1.148:1 (sunlight)",
+            "Loudspeaker": "Voice 62dB / Noise 61dB / Ring 66dB"
+        }
+    },
+    "main": {
+        "device_name": "Samsung Galaxy Ace Duos S6802",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_galaxy_ace_duos_s6802-pictures-4777.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-ace-duos-gsm.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_galaxy_ace_duos_s6802-4777.php"
+    }
+}

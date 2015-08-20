@@ -1,0 +1,75 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1140 mAh battery",
+            "Stand-by": "Up to 230 h",
+            "Talk time": "Up to 4 h 50 min"
+        },
+        "Body": {
+            "Dimensions": "115.5 x 48 x 15.9 mm (4.55 x 1.89 x 0.63 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "120 g (4.23 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 1024 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1",
+            "GPS": "No",
+            "Radio": "FM radio; FM recording",
+            "USB": "v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "176 x 220 pixels (~128 ppi pixel density)",
+            "Size": "2.2 inches (~27.5% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/eAAC+ player\n- MP4/H.263 player\n- Organizer\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0 (Using GSM SIM Only)",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS (GSM Only), e-mail"
+        },
+        "Launch": {
+            "Announced": "2009",
+            "Status": "Available. Released 2009"
+        },
+        "Memory": {
+            "Call records": "250 received, dialed and missed calls",
+            "Card slot": "microSD, up to 8 GB, 1 GB included",
+            "Internal": "40 MB",
+            "Phonebook": "1000 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "2/10 (About 80 EUR)",
+            "SAR EU": "0.72 W/kg (head)",
+            "SAR US": "1.09 W/kg (head) \u00a0 \u00a0 0.79 W/kg (body)"
+        },
+        "Network": {
+            "": "CDMA 800",
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "Up to 384 kbps",
+            "GPRS": "Yes",
+            "Technology": "GSM / CDMA"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Samsung W259 Duos",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_w259_duos-pictures-3463.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-duos-259.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_w259_duos-3463.php"
+    }
+}

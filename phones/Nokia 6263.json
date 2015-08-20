@@ -1,0 +1,77 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion battery",
+            "Stand-by": "288 h (3G)",
+            "Talk time": "3 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "94.5 x 47.7 x 21.5 mm (3.72 x 1.88 x 0.85 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "105 g (3.70 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 960 pixels, LED flash",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "Stereo FM radio; Visual radio",
+            "USB": "miniUSB v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second external TFT display, 256K colors (128 x 160 pixels)\n- Downloadable screensavers, \nwallpapers",
+            "Resolution": "240 x 320 pixels (~182 ppi pixel density)",
+            "Size": "2.2 inches (~33.3% screen-to-body ratio)",
+            "Type": "TFT, 16M colors"
+        },
+        "Features": {
+            "": "- MP3/AAC/M4A/eAAC+ player \n- Predictive text input\n- Organizer\n- Voice dial/memo",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2007, December. Released 2007, December",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "microSD",
+            "Phonebook": "Yes, Photocall"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "2/10 (About 70 EUR)",
+            "SAR EU": "0.31 W/kg (head)",
+            "SAR US": "0.43 W/kg (head) \u00a0 \u00a0 0.60 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "UMTS 1700 / 2100",
+            "EDGE": "Class 32, 236.8 kbits",
+            "GPRS": "Class 32, 53.6 kbps",
+            "Speed": "Yes, 384 kbps",
+            "Technology": "GSM / UMTS"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "For T-Mobile",
+        "device_name": "Nokia 6263",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_6263-pictures-2223.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-6263.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_6263-2223.php"
+    }
+}

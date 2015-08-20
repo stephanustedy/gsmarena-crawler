@@ -1,0 +1,93 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1350 mAh battery",
+            "Stand-by": "Up to 640 h (2G) / Up to 420 h (3G)",
+            "Talk time": "Up to 11 h (2G) / Up to 6 h 30 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "112.4 x 59.9 x 11.5 mm (4.43 x 2.36 x 0.45 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "113 g (3.99 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face/smile detection",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, LED flash, check quality",
+            "Secondary": "No",
+            "Video": "480p@24fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- TouchWiz v3.0 UI",
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "320 x 480 pixels (~165 ppi pixel density)",
+            "Size": "3.5 inches (~54.2% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/H.264 player\n- MP3/WAV/eAAC+ player\n- Document editor\n- Photo editor",
+            "Browser": "HTML",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS(threaded view), MMS, Email",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2011, January",
+            "Status": "Available. Released 2011, February"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB, 2 GB included",
+            "Internal": "158 MB, 278 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White, Hugo Boss Edition, La Fleur",
+            "Price group": "2/10 (About 90 EUR)",
+            "SAR EU": "0.84 W/kg (head)",
+            "SAR US": "0.69 W/kg (head) \u00a0 \u00a0 1.31 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 1900 - Samsung Galaxy Ace S5830L",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 7.2/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "800 MHz ARM 11",
+            "Chipset": "Qualcomm MSM7227 Snapdragon S1",
+            "GPU": "Adreno 200",
+            "OS": "Android OS, v2.3 (Gingerbread)"
+        },
+        "Sound": {
+            "": "- DNSe sound",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -84.9dB / Crosstalk -82.1dB",
+            "Camera": "Photo",
+            "Display": "Contrast ratio: 683:1 (nominal)",
+            "Loudspeaker": "Voice 71dB / Noise 66dB / Ring 67dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Samsung Galaxy Ace La Fleur, Samsung Galaxy Ace Hugo Boss",
+        "device_name": "Samsung Galaxy Ace S5830",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_galaxy_ace_s5830-pictures-3724.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-mini-s5830-ofic.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_galaxy_ace_s5830-3724.php"
+    }
+}

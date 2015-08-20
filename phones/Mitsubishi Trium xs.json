@@ -1,0 +1,92 @@
+{
+    "data": {
+        "Battery": {
+            "": "NiMH battery",
+            "Stand-by": "130 h",
+            "Talk time": "3 h"
+        },
+        "Body": {
+            "Dimensions": "120 x 50 x 28 mm (4.72 x 1.97 x 1.10 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "120 g (4.23 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Picture menu\n- Softkey",
+            "Resolution": "5 x 13 to 25 chars",
+            "Size": "",
+            "Type": "Monochrome graphic"
+        },
+        "Features": {
+            "": "- Predictive text input\n- Calculator\n- Scratchpad\n- Currency converter",
+            "Alarm": "Yes",
+            "Browser": "WAP 1.1",
+            "Clock": "Yes",
+            "Games": "Yes",
+            "Java": "No",
+            "Languages": "8",
+            "Messaging": "SMS"
+        },
+        "Launch": {
+            "Announced": "2000",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- Detailed call duration reports",
+            "Call records": "10 dialed, 10 received, 10 missed calls",
+            "Card slot": "No",
+            "Phonebook": "100"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "": "- Ascending ring tone",
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Monophonic ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Mitsubishi Trium xs",
+        "index": 1,
+        "url": "http://www.gsmarena.com/mitsubishi_trium_xs-63.php"
+    }
+}

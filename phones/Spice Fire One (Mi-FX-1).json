@@ -1,0 +1,78 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1400 mAh battery",
+            "Music play": "Up to 20 h",
+            "Stand-by": "Up to 120 h",
+            "Talk time": "Up to 8 h"
+        },
+        "Body": {
+            "Dimensions": "115.6 x 62 x 11.2 mm (4.55 x 2.44 x 0.44 in)",
+            "SIM": "Dual SIM (Mini-SIM)",
+            "Weight": "65 g (2.29 oz)"
+        },
+        "Camera": {
+            "Features": "Yes",
+            "Primary": "1.3 MP, 1280 x 960 pixels, LED flash",
+            "Secondary": "VGA",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "No",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "320 x 480 pixels (~165 ppi pixel density)",
+            "Size": "3.5 inches (~50.9% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- MP4/H.263 player\n- MP3/AAC player",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, IM",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2014, August",
+            "Status": "Available. Released 2014, August"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 4 GB",
+            "Internal": "256 MB, 128 MB RAM"
+        },
+        "Misc": {
+            "Colors": "White, Black, Orange",
+            "SAR EU": "0.74 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Technology": "GSM"
+        },
+        "Platform": {
+            "CPU": "1 GHz",
+            "Chipset": "Spreadtrum 6821",
+            "OS": "Firefox OS"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, dual speakers"
+        }
+    },
+    "main": {
+        "device_name": "Spice Fire One (Mi-FX-1)",
+        "image": {
+            "href": "http://www.gsmarena.com/spice_fire_one_(mi_fx_1)-pictures-7004.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/spice-firefox.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/spice_fire_one_(mi_fx_1)-7004.php"
+    }
+}

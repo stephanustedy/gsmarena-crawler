@@ -1,0 +1,93 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1000 mAh battery",
+            "Stand-by": "Up to 350 h",
+            "Talk time": "Up to 4 h"
+        },
+        "Body": {
+            "Dimensions": "105 x 44.4 x 14.8 mm (4.13 x 1.75 x 0.58 in)",
+            "SIM": "Dual SIM (Mini-SIM)",
+            "Weight": "87 g (3.07 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 1024 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "No",
+            "Radio": "Stereo FM radio",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "128 x 160 pixels (~114 ppi pixel density)",
+            "Size": "1.8 inches (~21.9% screen-to-body ratio)",
+            "Type": "TFT"
+        },
+        "Features": {
+            "": "- Audio/video player",
+            "Browser": "No",
+            "Games": "Yes",
+            "Java": "No",
+            "Messaging": "SMS"
+        },
+        "Launch": {
+            "Announced": "2011",
+            "Status": "Available"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "microSD, up to 8 GB",
+            "Phonebook": "100 entries"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "Alert types": "Vibration, Polyphonic",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Celkon C201",
+        "image": {
+            "href": "http://www.gsmarena.com/celkon_c201-pictures-4478.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/celkon-c201.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/celkon_c201-4478.php"
+    }
+}

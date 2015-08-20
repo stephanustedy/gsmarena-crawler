@@ -1,0 +1,68 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 750 mAh battery",
+            "Stand-by": "Up to 400 h",
+            "Talk time": "Up to 10 h"
+        },
+        "Body": {
+            "Dimensions": "103.5 x 44.9 x 10.9 mm (4.07 x 1.77 x 0.43 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "83 g (2.93 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "No"
+        },
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "miniUSB v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "128 x 160 pixels (~114 ppi pixel density)",
+            "Size": "1.8 inches (~21.9% screen-to-body ratio)",
+            "Type": "STN"
+        },
+        "Features": {
+            "": "- MP3/AAC+ player\n- Organizer\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "2",
+            "Java": "No",
+            "Messaging": "SMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2008. Released 2008",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "No",
+            "Internal": "2 MB",
+            "Phonebook": "800 entries"
+        },
+        "Misc": {
+            "Colors": "Dark grey, Cherry red",
+            "SAR US": "1.15 W/kg (head) \u00a0 \u00a0 1.17 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Polyphonic(64), MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Alcatel OT-S521A",
+        "index": 1,
+        "url": "http://www.gsmarena.com/alcatel_ot_s521a-3130.php"
+    }
+}

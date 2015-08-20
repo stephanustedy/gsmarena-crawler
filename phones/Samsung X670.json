@@ -1,0 +1,74 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 800 mAh battery",
+            "Stand-by": "Up to 200 h",
+            "Talk time": "Up to 3 h"
+        },
+        "Body": {
+            "Dimensions": "87 x 45 x 21 mm (3.43 x 1.77 x 0.83 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "79 g (2.79 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "No",
+            "Radio": "FM radio",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second external 65K colors, UFB display (96 x 96 pixels)\n- Wallpapers",
+            "Resolution": "128 x 160 pixels (~114 ppi pixel density)",
+            "Size": "1.8 inches, 28 x 35 mm (~26.0% screen-to-body ratio)",
+            "Type": "UFB, 65K colors"
+        },
+        "Features": {
+            "": "- MP3/AAC player\n- Predictive text input\n- Organizer",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Forgotten Warrior, Freekick, ArchAngel",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2006, 1Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- 200 short messages",
+            "Call records": "30 dialed, 30 received, 30 missed calls",
+            "Card slot": "No",
+            "Internal": "18 MB",
+            "Phonebook": "1000 entries, Photo call"
+        },
+        "Misc": {
+            "Colors": "",
+            "SAR EU": "0.85 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Samsung X670",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_x670-pictures-1545.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-x670.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_x670-1545.php"
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "85 x 43 x 21 mm (3.35 x 1.69 x 0.83 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "79 g (2.79 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "No"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Downloadable pictures and animations",
+            "Resolution": "128 x 160 pixels (~114 ppi pixel density)",
+            "Size": "1.8 inches, 29 x 35 mm (~27.9% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/AAC player\n- Predictive text input\n- Organizer\n- Stopwatch\n- PC Sync",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2006, March",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "50 dialed, 50 received, 50 missed calls",
+            "Card slot": "Yes",
+            "Internal": "128 MB",
+            "Phonebook": "Yes, Photo call"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "2/10 (About 60 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "VK Mobile VK4000",
+        "image": {
+            "href": "http://www.gsmarena.com/vk_mobile_vk4000-pictures-1516.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/vkmobile-vk4000.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/vk_mobile_vk4000-1516.php"
+    }
+}

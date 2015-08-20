@@ -1,0 +1,98 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 3220 mAh battery",
+            "Music play": "Up to 82 h",
+            "Stand-by": "",
+            "Talk time": "Up to 20 h (3G)"
+        },
+        "Body": {
+            "": "- Fingerprint sensor (PayPal certified)\n- S Pen stylus",
+            "Dimensions": "153.5 x 78.6 x 8.5 mm (6.04 x 3.09 x 0.33 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "176 g (6.21 oz)"
+        },
+        "Camera": {
+            "Features": "Dual Shot, Simultaneous HD video and image recording, geo-tagging, touch focus, face/smile detection, panorama, HDR",
+            "Primary": "16 MP, 5312 x 2988 pixels, optical image stabilization, autofocus, LED flash, check quality",
+            "Secondary": "3.7 MP, 1440p",
+            "Video": "2160p@30fps, 1080p@60fps, optical stabilization, dual-video rec., check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v4.1, A2DP, EDR, LE",
+            "GPS": "Yes, with A-GPS, GLONASS, Beidou",
+            "Infrared port": "Yes",
+            "NFC": "Yes",
+            "Radio": "No",
+            "USB": "microUSB v2.0 (MHL 3 TV-out), USB Host",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 4",
+            "Resolution": "1440 x 2560 pixels (~515 ppi pixel density)",
+            "Size": "5.7 inches (~74.2% screen-to-body ratio)",
+            "Type": "Super AMOLED capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Fast battery charging: 60% in 30 min (Quick Charge 2.0)\n- ANT+ support\n- S-Voice natural language commands and dictation\n- Air gestures\n- Dropbox (50 GB cloud storage)\n- Active noise cancellation with dedicated mic\n- MP4/DivX/XviD/WMV/H.264 player\n- MP3/WAV/eAAC+/AC3/FLAC player\n- Photo/video editor\n- Document editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass, barometer, gesture, UV, heart rate, SpO2"
+        },
+        "Launch": {
+            "Announced": "2014, September",
+            "Status": "Available. Released 2014, October"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 128 GB",
+            "Internal": "32 GB, 3 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Frosted white, Charcoal black, Bronze Gold, Blossom Pink",
+            "Price group": "8/10 (About 490 EUR)",
+            "SAR EU": "0.37 W/kg (head) \u00a0 \u00a0 0.38 W/kg (body)",
+            "SAR US": "0.37 W/kg (head) \u00a0 \u00a0 0.88 W/kg (body)"
+        },
+        "Network": {
+            "": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 28(700) - N910U",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+            "4G bands": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 17(700), 20(800) - N910F, N910C",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps (N910C)\nHSPA 42.2/5.76 Mbps, LTE Cat6 300/50 Mbps (N910S)",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 2.7 GHz Krait 450 (SM-N910S)\nQuad-core 1.3 GHz Cortex-A53 & Quad-core 1.9 GHz Cortex-A57 (SM-N910C)",
+            "Chipset": "Qualcomm Snapdragon 805 (SM-N910S)\nExynos 5433 (SM-N910C)",
+            "GPU": "Adreno 420 (SM-N910S)\nMali-T760 (SM-N910C)",
+            "OS": "Android OS, v4.4.4 (KitKat), upgradable to v5.0.1 (Lollipop)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -96.6dB / Crosstalk -94.2dB",
+            "Battery life": "Endurance rating 90h",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: Infinity (nominal), 4.033 (sunlight)",
+            "Loudspeaker": "Voice 74dB / Noise 73dB / Ring 81dB",
+            "Performance": "Basemark OS II: 1181 / Basemark OS II 2.0: 1328\nBasemark X: 18684"
+        }
+    },
+    "main": {
+        "canonical_name": "Available versions: SM-N910F (Europe), SM-N910K/SM-N910L/SM-N910S (Korea), SM-N910C (Asia, Europe, South America), SM-N910FD (United Arab Emirates), SM-N910FQ (Turkey), SM-N910H (Asia-Pacific), SM-N910G (Singapore, India, Australia), SM-N910U (Hong Kong, Taiwan, Australia, New Zealand, Chile), SM-N910W8 (North America)",
+        "device_name": "Samsung Galaxy Note 4",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_galaxy_note_4-pictures-6434.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-note-4-new.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_galaxy_note_4-6434.php"
+    }
+}

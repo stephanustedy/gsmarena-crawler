@@ -1,0 +1,79 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 950 mAh battery (BL-5F)",
+            "Music play": "Up to 30 h",
+            "Stand-by": "Up to 408 h (2G) / Up to 288 h (3G)",
+            "Talk time": "Up to 6 h (2G) / Up to 4 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "99.4 x 46.5 x 15.4 mm (3.91 x 1.83 x 0.61 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "114 g (4.02 oz)"
+        },
+        "Camera": {
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, Carl Zeiss optics, autofocus, LED flash",
+            "Secondary": "VGA videocall camera",
+            "Video": "480p@15fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "Yes, with A-GPS; Nokia Maps",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g"
+        },
+        "Display": {
+            "": "- Downloadable themes",
+            "Resolution": "320 x 480 pixels (~240 ppi pixel density)",
+            "Size": "2.4 inches (~37.1% screen-to-body ratio)",
+            "Type": "TFT, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/H.263/WMV player\n- MP3/WAV/eAAC+/WMA player\n- Organizer\n- Photo editor\n- Voice command/dial\n- TV Out\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML, Adobe Flash Lite",
+            "Games": "Yes + Java downloadable",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2008, November. Released 2009, April",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "30 dialed, 30 received, 30 missed calls",
+            "Card slot": "microSD, up to 8 GB",
+            "Internal": "200 MB",
+            "Phonebook": "2000 contacts, Photo call"
+        },
+        "Misc": {
+            "Colors": "Black, Beige",
+            "Price group": "4/10 (About 150 EUR)",
+            "SAR EU": "0.79 W/kg (head)",
+            "SAR US": "1.26 W/kg (head) \u00a0 \u00a0 0.97 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 1900 / 2100",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Speed": "HSPA 10.2/2 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Sound": {
+            "": "- 2.5mm audio jack",
+            "3.5mm jack": "No",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 6260 slide",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_6260_slide-pictures-2613.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-6260-slide.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_6260_slide-2613.php"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 700 mAh battery (BST-14)",
+            "Stand-by": "up to 300 h",
+            "Talk time": "Up to 11 h"
+        },
+        "Body": {
+            "Dimensions": "101 x 48 x 19.5 mm (3.98 x 1.89 x 0.77 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "84 g (2.96 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "v1.0b",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Joystick navigation\n- Image handling",
+            "Resolution": "101 x 80 pixels",
+            "Size": "",
+            "Type": "STN, 256 colors"
+        },
+        "Features": {
+            "": "- Predictive text input\n- Organizer\n- Voice dialing\n- Voice answering\n- Profiles",
+            "Alarm": "Yes",
+            "Browser": "WAP 2.0/xHTML",
+            "Clock": "Yes",
+            "Games": "Downloadable",
+            "Java": "No",
+            "Messaging": "SMS, EMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "April 2002",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- 1000 sec voice memo\n- 300 calendar events",
+            "Call records": "10 dialed, 10 received, 10 missed calls",
+            "Card slot": "No",
+            "Phonebook": "500 x 8 fields, Photo call"
+        },
+        "Misc": {
+            "Colors": "Arctic Blue",
+            "SAR EU": "0.38 W/kg (head)",
+            "SAR US": "0.54 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 4",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "": "- Ringtones can be assigned to contacts",
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable monophonic ringtones, composer",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Sony Ericsson T68i",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_ericsson_t68i-pictures-325.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/snt68i.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_ericsson_t68i-325.php"
+    }
+}

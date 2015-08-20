@@ -1,0 +1,101 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1850 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "146.8 x 64.2 x 12 mm (5.78 x 2.53 x 0.47 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "-"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "5 MP, 2592 x 1944 pixels, autofocus, LED flash",
+            "Secondary": "Yes",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "-",
+            "USB": "Yes",
+            "WLAN": "Wi-Fi 802.11 b/g"
+        },
+        "Display": {
+            "": "- S-Class UI",
+            "Resolution": "480 x 1024 pixels (~236 ppi pixel density)",
+            "Size": "4.8 inches (~60.6% screen-to-body ratio)",
+            "Type": "TFT touchscreen"
+        },
+        "Features": {
+            "": "- MP4/H.264 player\n- MP3/WMA/eAAC+ player\n- Document viewer (Word, Excel, PowerPoint, PDF)\n- Organizer\n- Predictive text input",
+            "Browser": "xHTML, HTML",
+            "Java": "-",
+            "Messaging": "SMS, MMS, Email",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2010, January",
+            "Status": "Cancelled"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "512 MB RAM"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Speed": "HSPA 7.2/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Intel Atom (Pineview, 45nm)",
+            "OS": "MeeGo OS"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "LG GW990",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_gw990-pictures-3164.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-gw990.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_gw990-3164.php"
+    }
+}

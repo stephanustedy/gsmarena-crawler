@@ -1,0 +1,90 @@
+{
+    "data": {
+        "Battery": {
+            "": "NiMH 800 mAh battery",
+            "Stand-by": "80 h",
+            "Talk time": "265 min"
+        },
+        "Body": {
+            "Dimensions": "130 x 49 x 21 mm (5.12 x 1.93 x 0.83 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "172 g (6.07 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Fixed icons",
+            "Resolution": "3 x 12 chars",
+            "Size": "",
+            "Type": "Alphanumeric"
+        },
+        "Features": {
+            "Alarm": "Yes",
+            "Browser": "",
+            "Clock": "Yes",
+            "Games": "No",
+            "Java": "No",
+            "Languages": "24",
+            "Messaging": "SMS"
+        },
+        "Launch": {
+            "Announced": "1998",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "",
+            "Card slot": "No",
+            "Phonebook": "100"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Monophonic ringtones, composer",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Ericsson S 868",
+        "index": 1,
+        "url": "http://www.gsmarena.com/ericsson_s_868-111.php"
+    }
+}

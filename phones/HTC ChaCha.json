@@ -1,0 +1,88 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1250 mAh battery",
+            "Stand-by": "Up to 430 h (2G) / Up to 660 h (3G)",
+            "Talk time": "Up to 7 h 30 min (2G) / Up to 7 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "114.4 x 64.6 x 10.7 mm (4.50 x 2.54 x 0.42 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "120 g (4.23 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face detection",
+            "Primary": "5 MP, 2592 x 1944 pixels, autofocus, LED flash, check quality",
+            "Secondary": "VGA",
+            "Video": "480p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "": "- HTC Sense UI 2.1",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "480 x 320 pixels (~222 ppi pixel density)",
+            "Size": "2.6 inches (~27.2% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- Facebook dedicated key\n- MP3/AAC+/WAV/WMA player\n- MP4/H.264 player\n- Organizer\n- Document viewer/editor\n- Voice memo\n- Predictive text input",
+            "Browser": "HTML",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2011, February",
+            "Status": "Available. Released 2011, June"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB, 2 GB included",
+            "Internal": "512 MB, 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, Silver",
+            "Price group": "2/10 (About 70 EUR)",
+            "SAR US": "0.68 W/kg (head) \u00a0 \u00a0 1.37 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 7.2/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "800 MHz",
+            "OS": "Android OS, v2.3 (Gingerbread)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -85.8dB / Crosstalk -84.8dB",
+            "Camera": "Photo",
+            "Display": "Contrast ratio: 923:1 (nominal)",
+            "Loudspeaker": "Voice 63dB / Noise 61dB / Ring 72dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as HTC ChaChaCha",
+        "device_name": "HTC ChaCha",
+        "image": {
+            "href": "http://www.gsmarena.com/htc_chacha-pictures-3787.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/htc-chacha.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/htc_chacha-3787.php"
+    }
+}

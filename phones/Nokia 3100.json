@@ -1,0 +1,75 @@
+{
+    "data": {
+        "Battery": {
+            "": "Standard, Li-Ion 820 mAh (BR-5C)",
+            "Stand-by": "Up to 410 h",
+            "Talk time": "Up to 6 h"
+        },
+        "Body": {
+            "Dimensions": "102 x 43 x 15 mm, 69 cc (4.02 x 1.69 x 0.59 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "85 g (3.00 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "Pop-Port",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Glow-in-the-dark cover \n- Four-way navigation\n- Wallpaper and animated screensavers",
+            "Resolution": "128 x 128 pixels, 5 lines (~121 ppi pixel density)",
+            "Size": "1.5 inches (~16.5% screen-to-body ratio)",
+            "Type": "CSTN, 4096 colors"
+        },
+        "Features": {
+            "": "- Predictive text input\n- Organizer\n- Profiles\n- Personal shortcuts",
+            "Alarm": "Yes",
+            "Browser": "WAP 1.2.1, xHTML",
+            "Clock": "Yes",
+            "Games": "3 - Beach rally, Snake EX2, Bowling + downloadable",
+            "Java": "Yes",
+            "Languages": "Major European , Africa and APAC languages",
+            "Messaging": "SMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2003, 3Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- MMS, max 45 kB each \n- Images \n- Java apps, max 64 kB each",
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "No",
+            "Internal": "484 KB",
+            "Phonebook": "256 x 4 fields"
+        },
+        "Misc": {
+            "Colors": "3 - Blue, Red, White",
+            "SAR EU": "0.72 W/kg (head)",
+            "SAR US": "1.17 W/kg (head) \u00a0 \u00a0 1.06 W/kg (body)"
+        },
+        "Network": {
+            "": "GSM 850 / 1800 / 1900 - US version",
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 4",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, monophonic ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 3100",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_3100-pictures-453.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/no3100.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_3100-453.php"
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "98 x 45 x 12.9 mm (3.86 x 1.77 x 0.51 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "60 g (2.12 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "No",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "128 x 128 pixels (~121 ppi pixel density)",
+            "Size": "1.5 inches (~16.5% screen-to-body ratio)",
+            "Type": "CSTN, 65K colors"
+        },
+        "Features": {
+            "": "- Predictive text input\n- Organizer\n- Voice memo\n- Notes",
+            "Browser": "WAP",
+            "Games": "Yes",
+            "Java": "No",
+            "Messaging": "SMS"
+        },
+        "Launch": {
+            "Announced": "2007, September",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "40 dialed, 40 received, 40 missed calls",
+            "Card slot": "No",
+            "Phonebook": "300 entries"
+        },
+        "Misc": {
+            "Colors": "Black, Pink",
+            "Price group": "1/10 (About 50 EUR)"
+        },
+        "Network": {
+            "": "GSM 850 / 1900 - American version",
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "LG MG160",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_mg160-pictures-2409.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-mg160.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_mg160-2409.php"
+    }
+}

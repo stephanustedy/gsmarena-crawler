@@ -1,0 +1,76 @@
+{
+    "data": {
+        "Battery": {
+            "": "Extended battery, Li-Ion 1100 mAh",
+            "Stand-by": "Up to 335 h",
+            "Talk time": "Up to 4 h 20 min"
+        },
+        "Body": {
+            "Dimensions": "94 x 45 x 25 mm (3.70 x 1.77 x 0.98 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "123 g (4.34 oz)"
+        },
+        "Camera": {
+            "Primary": "1 MP, 1152x864 pixels",
+            "Secondary": "No",
+            "Video": "CIF"
+        },
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second external 256 colors OLED display (96 x 64 pixels)\n- Dual rotation display\n- Video wallpapers\n- Downloadable logos",
+            "Resolution": "176 x 220 pixels",
+            "Size": "",
+            "Type": "TFD, 256K colors"
+        },
+        "Features": {
+            "": "- MP3 player\n- Predictive text input\n- Organizer",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "3 - BubbleSmile, Fun2Link, Mobile Chess + 3D games",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2004, March",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- Up to 100 min video recording",
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "RS-MMC",
+            "Internal": "64 MB",
+            "Phonebook": "2000 entries, Photo call"
+        },
+        "Misc": {
+            "Colors": "2 - Light Silver, Gray Violet",
+            "SAR EU": "0.31 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 8",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "canonical_name": "- Samsung 735 - T-Mobile version \n- Samsung 738 - Chinese version",
+        "device_name": "Samsung P730",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_p730-pictures-707.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/ssp730.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_p730-707.php"
+    }
+}

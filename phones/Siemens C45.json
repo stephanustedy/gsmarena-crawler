@@ -1,0 +1,90 @@
+{
+    "data": {
+        "Battery": {
+            "": "NiMH battery",
+            "Stand-by": "up to 200 h",
+            "Talk time": "up to 5 h"
+        },
+        "Body": {
+            "Dimensions": "109 x 46 x 23 mm, 82 cc (4.29 x 1.81 x 0.91 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "107 g (3.77 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Softkeys\n- Downloadable logos and screensaver",
+            "Resolution": "101 x 64 pixels, 5 lines",
+            "Size": "",
+            "Type": "Monochrome graphic"
+        },
+        "Features": {
+            "": "- Predictive text input\n- Organizer\n- Exchangeable Clip-it covers",
+            "Alarm": "Yes",
+            "Browser": "WAP 1.2",
+            "Clock": "Yes",
+            "Games": "3 - Stack Attack, Balloon Shooter, BattleMail",
+            "Java": "No",
+            "Languages": "20",
+            "Messaging": "SMS"
+        },
+        "Launch": {
+            "Announced": "4Q 2001",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "10 dialed, 10 received, 10 missed calls",
+            "Card slot": "No",
+            "Phonebook": "50"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable monophonic ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Siemens C45",
+        "index": 1,
+        "url": "http://www.gsmarena.com/siemens_c45-278.php"
+    }
+}

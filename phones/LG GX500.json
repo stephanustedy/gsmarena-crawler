@@ -1,0 +1,75 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 1500 mAh battery",
+            "Stand-by": "Up to 400 h",
+            "Talk time": "Up to 9 h 30 min"
+        },
+        "Body": {
+            "Dimensions": "108.9 x 53.4 x 13 mm (4.29 x 2.10 x 0.51 in)",
+            "SIM": "Dual SIM, dual call (Mini-SIM, dual stand-by)",
+            "Weight": "118 g (4.16 oz)"
+        },
+        "Camera": {
+            "Primary": "3.15 MP, 2048 x 1536 pixels, autofocus",
+            "Secondary": "No",
+            "Video": "320p@15fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "No",
+            "Radio": "Stereo FM radio with RDS, FM recording",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11b/g"
+        },
+        "Display": {
+            "Resolution": "240 x 400 pixels (~155 ppi pixel density)",
+            "Size": "3.0 inches (~44.1% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/WAV/eAAC+ player\n- MP4/H.263 player\n- Organizer\n- Document viewer\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2010, April",
+            "Status": "Available. Released 2010, April"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 16 GB",
+            "Internal": "40 MB",
+            "Phonebook": "1000 contacts, Photocall"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "3/10 (About 110 EUR)",
+            "SAR US": "1.28 W/kg (head) \u00a0 \u00a0 0.35 W/kg (body)"
+        },
+        "Network": {
+            "": "GSM 900 / 1800 / 1900 - SIM 2",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "LG GX500",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_gx500-pictures-3245.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-gx500-new1.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_gx500-3245.php"
+    }
+}

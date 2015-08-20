@@ -1,0 +1,88 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 3100 mAh battery",
+            "Stand-by": "Up to 370 h",
+            "Talk time": "Up to 26 h"
+        },
+        "Body": {
+            "": "- IP68 certified - dust and water proof (up to 1.5m for 30 min)\n- MIL-STD-810G certified - salt, dust, humidity, rain, vibration, solar radiation, transport and thermal shock resistant\n- Flashlight",
+            "Dimensions": "136.4 x 68.3 x 13.2 mm (5.37 x 2.69 x 0.52 in)",
+            "SIM": "Nano-SIM",
+            "Weight": "187.1 g (6.60 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face detection, panorama",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash",
+            "Secondary": "2 MP",
+            "Video": "1080p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, EDR, LE",
+            "GPS": "Yes, with A-GPS",
+            "NFC": "Yes",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, Wi-Fi Direct, DLNA, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Sapphire crystal glass",
+            "Resolution": "720 x 1280 pixels (~326 ppi pixel density)",
+            "Size": "4.5 inches (~59.9% screen-to-body ratio)",
+            "Type": "Capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Wireless Charging (Qi-enabled)\n- MP4/H.264 player\n- MP3/WAV/eAAC+ player\n- Photo/video editor\n- Document viewer\n- Voice memo/dial",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass, barometer"
+        },
+        "Launch": {
+            "Announced": "2014, July",
+            "Status": "Available. Released 2014, July"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "16 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "7/10 (About 300 EUR)",
+            "SAR US": "0.79 W/kg (head) \u00a0 \u00a0 0.72 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 900 / 1900 / 2100",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "CDMA2000 1xEV-DO",
+            "4G bands": "LTE band 4(1700/2100), 13(700)",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA, LTE, EV-DO Rev.A 3.1 Mbps",
+            "Technology": "GSM / HSPA / EVDO / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.4 GHz Cortex-A7",
+            "Chipset": "Qualcomm Snapdragon 400",
+            "GPU": "Adreno 305",
+            "OS": "Android OS, v4.4.2 (KitKat)"
+        },
+        "Sound": {
+            "": "- Smart Sonic Receiver",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, dual speakers"
+        }
+    },
+    "main": {
+        "canonical_name": "For Verizon",
+        "device_name": "Kyocera Brigadier",
+        "image": {
+            "href": "http://www.gsmarena.com/kyocera_brigadier-pictures-6602.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/Kyocera-Brigadier.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/kyocera_brigadier-6602.php"
+    }
+}

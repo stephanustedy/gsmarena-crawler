@@ -1,0 +1,71 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1100 mAh battery",
+            "Stand-by": "Up to 150 h",
+            "Talk time": "Up to 3 h 20 min"
+        },
+        "Body": {
+            "": "- Flashlight",
+            "Dimensions": "-",
+            "SIM": "Dual SIM (Mini-SIM)",
+            "Weight": "-"
+        },
+        "Camera": {
+            "Primary": "Yes",
+            "Secondary": "No",
+            "Video": "No"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "No",
+            "Radio": "FM radio",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "176 x 220 pixels (~157 ppi pixel density)",
+            "Size": "1.8 inches",
+            "Type": "TFT"
+        },
+        "Features": {
+            "": "- Auto call record\n- reject by SMS\n- audio/video player",
+            "Browser": "No",
+            "Games": "Yes",
+            "Java": "No",
+            "Messaging": "SMS"
+        },
+        "Launch": {
+            "Announced": "2013, February",
+            "Status": "Available. Released 2013, February"
+        },
+        "Memory": {
+            "Call records": "20 entries",
+            "Card slot": "microSD, up to 8 GB",
+            "Phonebook": "300 contacts"
+        },
+        "Misc": {
+            "Colors": "Black/Red, Black/Yellow, White",
+            "Price group": "1/10 (About 10 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "Alert types": "Vibration, Polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Celkon C356",
+        "image": {
+            "href": "http://www.gsmarena.com/celkon_c356-pictures-5289.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/celkon-c356.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/celkon_c356-5289.php"
+    }
+}

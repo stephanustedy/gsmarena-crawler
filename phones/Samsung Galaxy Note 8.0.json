@@ -1,0 +1,90 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 4600 mAh battery",
+            "Music play": "Up to 120 h",
+            "Stand-by": "Up to 710 h (2G) / Up to 480 h (3G)",
+            "Talk time": "Up to 28 h (2G) / Up to 24 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "210.8 x 135.9 x 8 mm (8.30 x 5.35 x 0.31 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "338 g (3G) / 340 g (LTE) (11.99 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus",
+            "Secondary": "1.3 MP",
+            "Video": "720p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "microUSB v2.0 (MHL TV-out), USB Host",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, hotspot, DLNA"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "800 x 1280 pixels (~189 ppi pixel density)",
+            "Size": "8.0 inches (~64.8% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/DivX/Xvid/FLV/MKV/H.264 player\n- MP3/WAV/eAAC+/Flac player\n- Photo/video editor\n- Document editor/viewer",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2013, February",
+            "Status": "Available. Released 2013, April"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "16/32 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White/Silver, brown",
+            "Price group": "7/10 (About 320 EUR)",
+            "SAR EU": "0.74 W/kg (head) \u00a0 \u00a0 0.76 W/kg (body)"
+        },
+        "Network": {
+            "": "LTE band 2(1900), 4(1700/2100), 5(850), 17(700) - SGH-I467 (AT&T)",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - N5100, N5120",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100 - N5100",
+            "4G bands": "LTE band 3(1800), 7(2600), 8(900), 20(800) - N5120",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 42.2(LTE)/21.1(3G)/5.76 Mbps, LTE Cat3 100/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.6 GHz Cortex-A9",
+            "Chipset": "Exynos 4412 Quad",
+            "GPU": "Mali-400MP4",
+            "OS": "Android OS, v4.1.2 (Jelly Bean), upgradable to v4.4 (KitKat)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        },
+        "Tests": {
+            "Audio quality": "Noise -85.2dB / Crosstalk -83.3dB",
+            "Loudspeaker": "Voice 66dB / Noise 64dB / Ring 74dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Tablet with support for GSM voice communication, SMS, and MMS\nAlso known as Samsung Galaxy Note 510, Samsung Galaxy Note 8 3G & WiFi, Samsung Galaxy Note 8.0 LTE",
+        "device_name": "Samsung Galaxy Note 8.0",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_galaxy_note_8_0-pictures-5252.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-note-80-n5100.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_galaxy_note_8_0-5252.php"
+    }
+}

@@ -1,0 +1,90 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 2390 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "129.9 x 66.8 x 12.3 mm (5.11 x 2.63 x 0.48 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "145 g (5.11 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, panorama, HDR",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, check quality",
+            "Secondary": "VGA",
+            "Video": "720p@30fps, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, LE",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "Radio": "FM radio with RDS",
+            "USB": "microUSB v2.0, USB Host",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 3, oleophobic coating",
+            "Resolution": "540 x 960 pixels (~245 ppi pixel density)",
+            "Size": "4.5 inches (~64.3% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP3/eAAC+/WAV/Flac player\n- DivX/WMV/MP4/H.264 player\n- Photo/video editor\n- Document viewer",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2015, February",
+            "Status": "Available. Released 2015, February"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "8 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "3/10 (About 130 EUR)"
+        },
+        "Network": {
+            "": "LTE band 1(2100), 3(1800), 7(2600), 20(800) - XT1524",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - all versions",
+            "3G bands": "HSDPA 850 / 1700(AWS) / 1900 - XT1527, XT1511",
+            "4G bands": "LTE band 2(1900), 4(1700/2100), 5(850), 7(2600), 12(700), 17(700) - XT1527",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA, LTE",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.2 GHz Cortex-A7 - 3G model\nQuad-core 1.2 GHz Cortex-A53 - LTE model",
+            "Chipset": "Qualcomm Snapdragon 200 - 3G model\nQualcomm Snapdragon 410 - LTE model",
+            "GPU": "Adreno 302 - 3G model\nAdreno 306 - LTE model",
+            "OS": "Android OS, v5.0 (Lollipop), upgradable to v5.1 (Lollipop) - only XT1527"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Battery life": "Endurance rating 82h",
+            "Camera": "Photo / Video",
+            "Loudspeaker": "Voice 72dB / Noise 68dB / Ring 75dB",
+            "Performance": "Basemark OS II: 565 / Basemark OS II 2.0: 546\nBasemark X: 1851"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Motorola Moto E (2nd Gen.), Motorola Moto E2, Motorola Moto E+1\nMoto E XT1527, XT1511 - for USA\nMoto E XT1505, XT1524 - Global models",
+        "device_name": "Motorola Moto E (2nd gen)",
+        "image": {
+            "href": "http://www.gsmarena.com/motorola_moto_e_(2nd_gen)-pictures-6986.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/motorola-moto-e-2015.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/motorola_moto_e_(2nd_gen)-6986.php"
+    }
+}

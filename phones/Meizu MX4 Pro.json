@@ -1,0 +1,94 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable 3350 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "": "- Fingerprint sensor",
+            "Dimensions": "150.1 x 77 x 9 mm (5.91 x 3.03 x 0.35 in)",
+            "SIM": "Yes",
+            "Weight": "158 g (5.57 oz)"
+        },
+        "Camera": {
+            "Features": "1/2.3'' sensor size, geo-tagging, touch focus, face detection, HDR, panorama",
+            "Primary": "20.7 MP, 5248 \u0445 3936 pixels, autofocus, dual-LED (dual tone) flash, check quality",
+            "Secondary": "5 MP, 1080p@30fps",
+            "Video": "2160p@30fps, 1080p@30fps, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, LE",
+            "GPS": "Yes, with A-GPS, GLONASS, Beidou, QZSS",
+            "NFC": "Yes",
+            "Radio": "No",
+            "USB": "microUSB v2.0, USB On-The-Go",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot"
+        },
+        "Display": {
+            "": "- Flyme 4.0",
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 3",
+            "Resolution": "1536 x 2560 pixels (~546 ppi pixel density)",
+            "Size": "5.5 inches (~73.7% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP3/WAV/eAAC+/FLAC player\n- MP4/H.264 player\n- Document editor\n- Photo/ video editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2014, October",
+            "Status": "Available. Released 2014, December"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "16/32/64 GB, 3 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Gray, Gold, White",
+            "Price group": "7/10 (About 400 EUR)"
+        },
+        "Network": {
+            "": "LTE band 38(2600), 39(1900), 40(2300), 41(2500) - China Mobile",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+            "4G bands": "LTE band 1(2100), 3(1800), 7(2600)",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA, LTE Cat4 150/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 2 GHz Cortex-A15 & quad-core 1.5 GHz Cortex-A7",
+            "Chipset": "Exynos 5 Octa 5430",
+            "GPU": "Mali-T628",
+            "OS": "Android OS, v4.4.4 (KitKat)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -92.4dB / Crosstalk -93.5dB",
+            "Battery life": "Endurance rating 67h",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 1127 (nominal), 2.765 (sunlight)",
+            "Loudspeaker": "Voice 76dB / Noise 73dB / Ring 82dB",
+            "Performance": "Basemark OS II: 922 / Basemark OS II 2.0: 863\nBasemark X: 9111"
+        }
+    },
+    "main": {
+        "device_name": "Meizu MX4 Pro",
+        "image": {
+            "href": "http://www.gsmarena.com/meizu_mx4_pro-pictures-6815.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/meizu-mx4-pro1.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/meizu_mx4_pro-6815.php"
+    }
+}

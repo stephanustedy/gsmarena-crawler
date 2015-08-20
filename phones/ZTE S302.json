@@ -1,0 +1,67 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1000 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "103 x 49 x 14.8 mm (4.06 x 1.93 x 0.58 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "79 g (2.79 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "FM radio",
+            "USB": "No",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "128 x 48 pixels",
+            "Size": "",
+            "Type": "Monochrome graphic"
+        },
+        "Features": {
+            "": "- Calculator",
+            "Browser": "No",
+            "Games": "No",
+            "Java": "No",
+            "Messaging": "SMS"
+        },
+        "Launch": {
+            "Announced": "2009. Released 2009",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "No",
+            "Phonebook": "Yes"
+        },
+        "Misc": {
+            "Colors": "Black, White on Orange",
+            "SAR EU": "0.77 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Yes",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "ZTE S302",
+        "image": {
+            "href": "http://www.gsmarena.com/zte_s302-pictures-3222.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/zte-s302.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/zte_s302-3222.php"
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 4000 mAh battery",
+            "Stand-by": "Up to 552 h (3G)",
+            "Talk time": "Up to 10 h (multimedia) (3G)"
+        },
+        "Body": {
+            "Dimensions": "189.2 x 113.8 x 10.2 mm (7.45 x 4.48 x 0.40 in)",
+            "SIM": "Yes",
+            "Weight": "294.8 g (10.41 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "5 MP, 2592 x 1936 pixels",
+            "Secondary": "Yes",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0",
+            "GPS": "Yes, with A-GPS",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "800 x 1280 pixels (~216 ppi pixel density)",
+            "Size": "7.0 inches (~66.0% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/H.264 player\n- MP3/WAV/eAAC+ player\n- Photo/video viewer/editor\n- Voice memo",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "Email, Push Mail, IM",
+            "Sensors": "Accelerometer, compass"
+        },
+        "Launch": {
+            "Announced": "2014, August",
+            "Status": "Available. Released 2014, August"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "16 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "4/10 (About 190 EUR)"
+        },
+        "Network": {
+            "2G bands": "N/A",
+            "3G bands": "HSDPA 850 / 1900 / 2100",
+            "4G bands": "LTE band 2(1900), 4(1700/2100), 5(850), 17(700)",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Speed": "HSPA, LTE",
+            "Technology": "HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.2 GHz Cortex-A7",
+            "Chipset": "Qualcomm Snapdragon 400",
+            "GPU": "Adreno 305",
+            "OS": "Android OS, v4.4.2 (KitKat), upgradable to v5.0 (Lollipop)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "For AT&T",
+        "device_name": "LG G Pad 7.0 LTE",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_g_pad_7_0_lte-pictures-6554.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-gpad-7-lte.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_g_pad_7_0_lte-6554.php"
+    }
+}

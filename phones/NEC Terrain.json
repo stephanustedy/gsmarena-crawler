@@ -1,0 +1,85 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1900 mAh battery",
+            "Stand-by": "Up to 348 h",
+            "Talk time": "Up to 10 h"
+        },
+        "Body": {
+            "": "- MIL-STD-810G certified - salt, dust, humidity, rain, vibration, solar radiation, transport and thermal shock resistant.\n- IP67 certified - dust tight and water proof (up to 1m for 30 mins)",
+            "Dimensions": "127.5 x 64.5 x 14.5 mm (5.02 x 2.54 x 0.57 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Yes",
+            "Weight": "171.8 g (6.07 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, LED flash",
+            "Secondary": "VGA",
+            "Video": "720p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "NFC": "Yes",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Protection": "Corning Gorilla Glass 2",
+            "Resolution": "640 x 480 pixels (~258 ppi pixel density)",
+            "Size": "3.1 inches (~36.2% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/H.264 player\n- MP3/WAV/eAAC+ player\n- Photo/video editor\n- Document viewer\n- Voice memo/dial",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2013, June",
+            "Status": "Available. Released 2013, June"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "8 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "7/10 (About 330 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 1900 / 2100",
+            "4G bands": "LTE band 4(1700/2100), 17(700)",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA, LTE",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.5 GHz Krait",
+            "Chipset": "Qualcomm MSM8960 Snapdragon S4 Plus",
+            "GPU": "Adreno 225",
+            "OS": "Android OS, v4.0 (Ice Cream Sandwich)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "canonical_name": "For AT&T",
+        "device_name": "NEC Terrain",
+        "image": {
+            "href": "http://www.gsmarena.com/nec_terrain-pictures-5553.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nec-terrain.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nec_terrain-5553.php"
+    }
+}

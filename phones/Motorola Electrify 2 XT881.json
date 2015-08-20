@@ -1,0 +1,85 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 1780 mAh battery",
+            "Stand-by": "Up to 264 h (3G)",
+            "Talk time": "Up to 11 h (3G)"
+        },
+        "Body": {
+            "": "- Splash resistant",
+            "Dimensions": "128.5 x 65.8 x 8.4 mm (5.06 x 2.59 x 0.33 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "130 g (4.59 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face detection",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash",
+            "Secondary": "VGA",
+            "Video": "1080p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, EDR, LE",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- ColorBoost technology",
+            "Multitouch": "Yes",
+            "Resolution": "540 x 960 pixels (~256 ppi pixel density)",
+            "Size": "4.3 inches (~60.3% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP3/WAV/WMA/AAC+ player\n- MP4/WMV/H.264 player\n- Document viewer\n- Photo viewer/editor\n- Organizer\n- Voice memo/dial\n- Predictive text input",
+            "Browser": "HTML, Adobe Flash",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2012, July",
+            "Status": "Available. Released 2012, July"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "8 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "6/10 (About 260 EUR)",
+            "SAR US": "0.83 W/kg (head) \u00a0 \u00a0 0.65 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 900 / 2100",
+            "2G bands": "CDMA 800 / 1900",
+            "3G bands": "CDMA2000 1xEV-DO",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "EV-DO Rev.A 3.1 Mbps, HSPA",
+            "Technology": "GSM / CDMA / HSPA / EVDO"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.2 GHz",
+            "Chipset": "TI OMAP 4430",
+            "GPU": "PowerVR SGX540",
+            "OS": "Android OS, v4.0.4 (Ice Cream Sandwich)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "For US Cellular",
+        "device_name": "Motorola Electrify 2 XT881",
+        "image": {
+            "href": "http://www.gsmarena.com/motorola_electrify_2_xt881-pictures-4891.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/motorola-electrify-2.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/motorola_electrify_2_xt881-4891.php"
+    }
+}

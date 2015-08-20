@@ -1,0 +1,76 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 420 mAh battery",
+            "Stand-by": "Up to 50 h (3G)",
+            "Talk time": "Up to 3 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "53.7 x 41.7 x 13.6 mm (2.11 x 1.64 x 0.54 in)",
+            "SIM": "Dual SIM (Mini-SIM/ Micro-SIM)",
+            "Weight": "52.5 g (1.83 oz)"
+        },
+        "Camera": {
+            "Features": "Yes",
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "144p@7fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "FM radio",
+            "USB": "No",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Multitouch": "No",
+            "Resolution": "240 x 320 pixels (~250 ppi pixel density)",
+            "Size": "1.6 inches (~35.4% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- MP3 player",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS",
+            "Sensors": "No"
+        },
+        "Launch": {
+            "Announced": "2014, July",
+            "Status": "Available. Released 2014, July"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 8 GB",
+            "Internal": "64 MB + 64 MB"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "SAR EU": "0.54 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Technology": "GSM"
+        },
+        "Platform": {
+            "Chipset": "Mediatek MT6260",
+            "OS": "Wearable platform"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Spice Smart Pulse (M-9010)",
+        "image": {
+            "href": "http://www.gsmarena.com/spice_smart_pulse_(m_9010)-pictures-7005.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/spice-9010.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/spice_smart_pulse_(m_9010)-7005.php"
+    }
+}

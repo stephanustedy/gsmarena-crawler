@@ -1,0 +1,88 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1400 mAh battery",
+            "Stand-by": "Up to 400 h (3G)",
+            "Talk time": "Up to 5 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "119.5 x 63 x 11.2 mm (4.70 x 2.48 x 0.44 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "140 g (4.94 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "5 MP, 2560 x 1920 pixels, autofocus, check quality",
+            "Secondary": "No",
+            "Video": "720p@24fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, DLNA & UPnP technology"
+        },
+        "Display": {
+            "": "- Acer Touch 3D UI v4.0",
+            "Multitouch": "Yes",
+            "Resolution": "480 x 800 pixels (~252 ppi pixel density)",
+            "Size": "3.7 inches (~51.8% screen-to-body ratio)",
+            "Type": "AMOLED capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Micro HDMI port\n- Dedicated search key\n- MP3/WAV/WMA/eAAC+ player\n- MP4/Xvid/WMV/H.264 player\n- Document viewer \n- Voice memo\n- Predictive text input",
+            "Browser": "HTML",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS (threaded view), MMS, Email, IM, Push Email",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2010, May",
+            "Status": "Available. Released 2010, August"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB, 8 GB included",
+            "Internal": "2 GB, 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "3/10 (About 130 EUR)"
+        },
+        "Network": {
+            "": "HSDPA 900 / 1900 / 2100",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 1900 / 2100",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Speed": "HSPA 7.2/2 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "1 GHz Scorpion",
+            "Chipset": "Qualcomm QSD8250 Snapdragon S1",
+            "GPU": "Adreno 200",
+            "OS": "Android OS, v2.1 (Eclair)"
+        },
+        "Sound": {
+            "": "- Dedicated music keys\n- Dolby Mobile",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Camera": "Photo",
+            "Loudspeaker": "Voice 63dB / Noise 65dB / Ring 75dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Acer Liquid Stream",
+        "device_name": "Acer Stream",
+        "image": {
+            "href": "http://www.gsmarena.com/acer_stream-pictures-3358.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/acer-liquid-stream-ofic.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/acer_stream-3358.php"
+    }
+}

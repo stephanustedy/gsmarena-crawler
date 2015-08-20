@@ -1,0 +1,94 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 3100 mAh battery",
+            "Stand-by": "Up to 980 h (2G) / Up to 890 h (3G)",
+            "Talk time": "Up to 35 h (2G) / Up to 16 h (3G)"
+        },
+        "Body": {
+            "": "- S Pen stylus",
+            "Dimensions": "151.1 x 80.5 x 9.4 mm (5.95 x 3.17 x 0.37 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "183 g (6.46 oz)"
+        },
+        "Camera": {
+            "Features": "Simultaneous HD video and image recording, geo-tagging, touch focus, face/smile detection",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash, check quality",
+            "Secondary": "1.9 MP",
+            "Video": "1080p@30fps, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, EDR, LE",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "NFC": "Yes",
+            "Radio": "Stereo FM radio with RDS (N7100 only)",
+            "USB": "microUSB v2.0 (MHL TV-out), USB Host",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- TouchWiz UI",
+            "Multitouch": "Yes",
+            "Resolution": "720 x 1280 pixels (~267 ppi pixel density)",
+            "Size": "5.5 inches (~68.6% screen-to-body ratio)",
+            "Type": "Super AMOLED capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- ANT+ support\n- S-Voice natural language commands and dictation\n- Smart Stay and Smart Rotate eye tracking\n- Active noise cancellation with dedicated mic\n- Dropbox (50 GB cloud storage)\n- MP4/DivX/XviD/WMV/H.264 player\n- MP3/WAV/eAAC+/AC3/FLAC player\n- Photo/video editor\n- Document editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass, barometer"
+        },
+        "Launch": {
+            "Announced": "2012, August",
+            "Status": "Available. Released 2012, September"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "16/32/64 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Titanium Gray, Marble White, Amber Brown, Ruby Wine, Pink, Blue",
+            "Price group": "6/10 (About 300 EUR)",
+            "SAR EU": "0.17 W/kg (head)",
+            "SAR US": "0.23 W/kg (head) \u00a0 \u00a0 0.95 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 900 / 2100 - N7105",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+            "4G bands": "LTE band 3(1800), 7(2600), 8(900), 20(800) - N7105",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 42.2(LTE)/21.1(3G)/5.76 Mbps, LTE Cat3 100/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.6 GHz Cortex-A9",
+            "Chipset": "Exynos 4412 Quad",
+            "GPU": "Mali-400MP4",
+            "OS": "Android OS, v4.1.1 (Jelly Bean), upgradable to v4.4.2 (KitKat)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -90.2dB / Crosstalk -90.7dB",
+            "Battery life": "Endurance rating 69h",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 402 (nominal) / 2.307:1 (sunlight)",
+            "Loudspeaker": "Voice 70dB / Noise 66dB / Ring 80dB"
+        }
+    },
+    "main": {
+        "device_name": "Samsung Galaxy Note II N7100",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_galaxy_note_ii_n7100-pictures-4854.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-note-ii-n7100-new.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_galaxy_note_ii_n7100-4854.php"
+    }
+}

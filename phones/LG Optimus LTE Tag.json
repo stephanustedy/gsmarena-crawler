@@ -1,0 +1,83 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1700 mAh battery",
+            "Stand-by": "Up to 300 h",
+            "Talk time": "Up to 5 h"
+        },
+        "Body": {
+            "Dimensions": "126.5 x 67.9 x 9.5 mm (4.98 x 2.67 x 0.37 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "141.7 (4.97 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face detection",
+            "Primary": "5 MP, 3264 x 2448 pixels, autofocus, LED flash",
+            "Secondary": "1.3 MP",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "NFC": "Yes",
+            "Radio": "No",
+            "USB": "microUSB v2.0 (MHL TV-out)",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, DLNA, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "480 x 800 pixels (~217 ppi pixel density)",
+            "Size": "4.3 inches (~61.3% screen-to-body ratio)",
+            "Type": "HD-IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP4/H.264/WMV/DviX player\n- MP3/WMA/WAV/FLAC/eAAC+ player\n- True HD movie editor\n- Document viewer/editor\n- Organizer\n- Voice memo/dial/commands\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML, Adobe Flash",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2012, February",
+            "Status": "Available. Released 2012, Q3"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "16 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "3/10 (About 130 EUR)"
+        },
+        "Network": {
+            "": "HSDPA 2100",
+            "2G bands": "CDMA 800 / 1900",
+            "3G bands": "CDMA2000 1xEV-DO",
+            "4G bands": "LTE 800",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Speed": "HSPA, LTE, EV-DO Rev. A 3.1 Mbps",
+            "Technology": "CDMA / HSPA / EVDO / LTE"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.2 GHz",
+            "OS": "Android OS, v2.3 (Gingerbread), upgradeable to 4.0 (Ice Cream Sandwich)"
+        },
+        "Sound": {
+            "": "- Dolby mobile",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "For South Korea\nAlso known as LG F120L, F120S, F120K",
+        "device_name": "LG Optimus LTE Tag",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_optimus_lte_tag-pictures-4555.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-optimus-lte-tag.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_optimus_lte_tag-4555.php"
+    }
+}

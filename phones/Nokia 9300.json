@@ -1,0 +1,75 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 970 mAh battery (BP-6M)",
+            "Stand-by": "Up to 200 h",
+            "Talk time": "Up to 4 h"
+        },
+        "Body": {
+            "Dimensions": "132 x 51 x 21 mm, 126 cc (5.20 x 2.01 x 0.83 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "167 g (5.89 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "v1.1",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "Pop-Port",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second LCD (128 x 128 pixels) with 65K color\n- 5-way navigation key",
+            "Resolution": "640 x 200 pixels (~168 ppi pixel density)",
+            "Size": "4.0 inches, 98 x 30 mm (~43.7% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- Music player - MP3, MP4(AAC), RA, MIDI\n- Document viewer (Word, Excel, PowerPoint, PDF)\n- Organizer",
+            "Browser": "WAP/xHTML, Opera HTML browser",
+            "Java": "Yes",
+            "Messaging": "SMS, MMS, Email, Fax"
+        },
+        "Launch": {
+            "Announced": "3Q, 2004",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "MMC",
+            "Internal": "80 MB"
+        },
+        "Misc": {
+            "Colors": "",
+            "SAR EU": "0.24 W/kg (head)",
+            "SAR US": "0.21 W/kg (head) \u00a0 \u00a0 0.52 W/kg (body)"
+        },
+        "Network": {
+            "": "GSM 850 / 1800 / 1900 - US version",
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Platform": {
+            "CPU": "150 MHz ARM925T",
+            "Chipset": "TI OMAP 1510",
+            "OS": "Symbian OS v7.0s, Series 80 v2.0 UI"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 9300",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_9300-pictures-881.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/no9300.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_9300-881.php"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 780 mAh battery (BLD-3)",
+            "Stand-by": "Up to 180 h - 230 h",
+            "Talk time": "Up to 2 h - 3 h 30 m"
+        },
+        "Body": {
+            "Dimensions": "114 x 63 x 20 mm, 115 cc (4.49 x 2.48 x 0.79 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "125 g (4.41 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "Stereo FM radio",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Four-way scroll key",
+            "Resolution": "128 x 128 pixels, 5 lines (~106 ppi pixel density)",
+            "Size": "1.7 inches, 31 x 31 mm (~13.0% screen-to-body ratio)",
+            "Type": "CSTN, 4096 colors"
+        },
+        "Features": {
+            "": "- MP3 and AAC player\n- Sound recorder\n- Predictive text input\n- SyncML\n- Voice dial\n- Organizer\n- Xpress-on covers",
+            "Alarm": "Yes",
+            "Browser": "WAP, xHTML, iMode",
+            "Clock": "Yes",
+            "Games": "Yes + Java downloadable",
+            "Java": "Yes",
+            "Languages": "34",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "June, 2003",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "",
+            "Card slot": "MMC, 64 MB included",
+            "Internal": "4.5 MB",
+            "Phonebook": "250"
+        },
+        "Misc": {
+            "Colors": "Orange and Black Blue",
+            "SAR EU": "0.43 W/kg (head)",
+            "SAR US": "0.62 W/kg (head) \u00a0 \u00a0 0.87 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "Class 6",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "": "- Stereo line-in\n- MP3, AAC, Midi, WAV ringing tones\n- Hi-fi",
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones, composer",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 3300",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_3300-pictures-408.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/no3300.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_3300-408.php"
+    }
+}

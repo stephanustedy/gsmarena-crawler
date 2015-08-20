@@ -1,0 +1,83 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1400 mAh battery",
+            "Stand-by": "Up to 400 h",
+            "Talk time": "Up to 7 h"
+        },
+        "Body": {
+            "Dimensions": "122 x 63.5 x 15.2 mm (4.80 x 2.5 x 0.60 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "192.8 g (6.77 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, LED flash",
+            "Secondary": "No",
+            "Video": "720p"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "480 x 800 pixels (~228 ppi pixel density)",
+            "Size": "4.1 inches (~61.8% screen-to-body ratio)",
+            "Type": "AMOLED capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Document viewer/editor\n- Active noise cancellation with dedicated mic\n- MP4/H.264/WMV player\n- MP3/WAV/WMA/eAAC+ player\n- Organizer\n- Voice memo\n- Predictive text input",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2010, October",
+            "Status": "Available. Released 2010, November"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB (not user accessible)",
+            "Internal": "8/16 GB, 512 MB RAM, 1 GB ROM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "5/10 (About 220 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 1700 / 2100",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Speed": "HSPA 7.2/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "1 GHz Scorpion",
+            "Chipset": "Qualcomm QSD8250 Snapdragon S1",
+            "GPU": "Adreno 200",
+            "OS": "Microsoft Windows Phone 7"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Previously rumored as Dell Lightning",
+        "device_name": "Dell Venue Pro",
+        "image": {
+            "href": "http://www.gsmarena.com/dell_venue_pro-pictures-3280.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/dell-venue-pro.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/dell_venue_pro-3280.php"
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1000 mAh battery",
+            "Stand-by": "Up to 400 h",
+            "Talk time": "Up to 5 h"
+        },
+        "Body": {
+            "Dimensions": "101.6 x 57 x 14.5 mm (4.0 x 2.24 x 0.57 in)",
+            "SIM": "Dual SIM (Mini-SIM)",
+            "Weight": "89 g (3.14 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "No",
+            "Radio": "Stereo FM radio",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~143 ppi pixel density)",
+            "Size": "2.8 inches (~41.9% screen-to-body ratio)",
+            "Type": "TFT touchscreen"
+        },
+        "Features": {
+            "Browser": "Yes",
+            "Games": "Yes",
+            "Java": "No",
+            "Messaging": "SMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2011",
+            "Status": "Available"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 8 GB",
+            "Phonebook": "500 entries"
+        },
+        "Misc": {
+            "Colors": "Black/Red",
+            "Price group": "1/10 (About 40 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "EDGE": "No",
+            "GPRS": "Yes",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, Polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Celkon C5050",
+        "image": {
+            "href": "http://www.gsmarena.com/celkon_c5050-pictures-4481.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/celkon-c5050.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/celkon_c5050-4481.php"
+    }
+}

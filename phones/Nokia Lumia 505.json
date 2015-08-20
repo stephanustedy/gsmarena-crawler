@@ -1,0 +1,83 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1300 mAh battery (BP-3L)",
+            "Music play": "Up to 36 h",
+            "Stand-by": "Up to 670 h (2G) / Up to 600 h (3G)",
+            "Talk time": "Up to 7 h 30 min (2G) / Up to 7 h 15 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "118.1 x 61.2 x 11.3 mm, 76 cc (4.65 x 2.41 x 0.44 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "131 g (4.62 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "8 MP, 3264 x 2448 pixels",
+            "Secondary": "No",
+            "Video": "480p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, EDR",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "480 x 800 pixels (~252 ppi pixel density)",
+            "Size": "3.7 inches (~53.9% screen-to-body ratio)",
+            "Type": "AMOLED capacitive touchscreen, 65K colors"
+        },
+        "Features": {
+            "": "- SkyDrive (7 GB cloud storage)\n- MP3/WAV/eAAC+/WMA player\n- MP4/H.264/WMV player\n- Document viewer\n- Video/photo editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2012, December",
+            "Status": "Available. Released 2013, January"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "4 GB, 256 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White, Red, Pink",
+            "Price group": "3/10 (About 140 EUR)",
+            "SAR EU": "0.89 W/kg (head)",
+            "SAR US": "0.91 W/kg (head) \u00a0 \u00a0 0.79 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 1900",
+            "EDGE": "Up to 236.8 kbps",
+            "GPRS": "Up to 85.6 kbps",
+            "Speed": "HSPA 7.2/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "800 MHz",
+            "OS": "Microsoft Windows Phone 7.8"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Nokia RM-923",
+        "device_name": "Nokia Lumia 505",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_lumia_505-pictures-5150.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-lumia-505.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_lumia_505-5150.php"
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 830 mAh battery",
+            "Stand-by": "Up to 400 h",
+            "Talk time": "Up to 4 h"
+        },
+        "Body": {
+            "Dimensions": "99.5 x 45 x 12.9 mm (3.92 x 1.77 x 0.51 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "65 g (2.29 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "FM radio",
+            "USB": "No",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "128 x 160 pixels (~121 ppi pixel density)",
+            "Size": "1.7 inches (~20.3% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- Organizer",
+            "Browser": "No",
+            "Games": "Yes",
+            "Java": "Yes",
+            "Messaging": "SMS"
+        },
+        "Launch": {
+            "Announced": "2007",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "10 dialed, 10 received, 10 missed calls",
+            "Card slot": "No",
+            "Internal": "1 MB",
+            "Phonebook": "300 entries"
+        },
+        "Misc": {
+            "Colors": "Black, Red",
+            "Price group": "1/10 (About 40 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "LG KG288",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_kg288-pictures-2465.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-kg288.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_kg288-2465.php"
+    }
+}

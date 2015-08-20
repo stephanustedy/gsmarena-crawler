@@ -1,0 +1,93 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 2300 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "": "Water resistant",
+            "Dimensions": "140.8 x 72.4 x 10 mm (5.54 x 2.85 x 0.39 in)",
+            "SIM": "Nano-SIM",
+            "Weight": "144 g (5.08 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection, panorama, HDR",
+            "Primary": "13 MP, 4128 x 3096 pixels, autofocus, dual-LED flash, check quality",
+            "Secondary": "2 MP, 1080p",
+            "Video": "2160p@30fps, HDR, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, EDR, LE",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "NFC": "Yes",
+            "Radio": "No",
+            "USB": "microUSB v2.0, USB Host",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, DLNA, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 3",
+            "Resolution": "1080 x 1920 pixels (~424 ppi pixel density)",
+            "Size": "5.2 inches (~73.1% screen-to-body ratio)",
+            "Type": "AMOLED capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Fast battery charging: 60% in 30 min (Quick Charge 2.0)\n- Active noise cancellation with dedicated mic\n- MP3/AAC+/WAV/WMA player\n- MP4/H.264/WMV player\n- Photo viewer/editor\n- Document viewer\n- Voice memo/dial",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass, barometer, temperature"
+        },
+        "Launch": {
+            "Announced": "2014, September",
+            "Status": "Available. Released 2014, September"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "16/32 GB, 2 GB RAM/ 64 GB (AT&T, T-Mobile)"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "7/10 (About 390 EUR)"
+        },
+        "Network": {
+            "": "LTE band 1(2100), 3(1800), 7(2600), 20(800) - India",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - all versions",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100 - EU, AT&T, Verizon",
+            "4G bands": "LTE band 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 17(700) - XT1097 AT&T, XT1095 T-Mobile",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
+            "Technology": "GSM / CDMA / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 2.5 GHz Krait 400",
+            "Chipset": "Qualcomm MSM8974AC Snapdragon 801",
+            "GPU": "Adreno 330",
+            "OS": "Android OS, v4.4.4 (KitKat), upgradable to v5.1 (Lollipop)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -93.5dB / Crosstalk -93.8dB",
+            "Battery life": "Endurance rating 48h",
+            "Camera": "Photo / Video",
+            "Loudspeaker": "Voice 66dB / Noise 66dB / Ring 72dB",
+            "Performance": "Basemark OS II: 1176 / Basemark OS II 2.0: 1176\nBasemark X: 11855"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Motorola Moto X (2014), Motorola Moto X2, Motorola Moto X+1",
+        "device_name": "Motorola Moto X (2nd Gen)",
+        "image": {
+            "href": "http://www.gsmarena.com/motorola_moto_x_(2nd_gen)-pictures-6649.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/motorola-moto-x-2014.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/motorola_moto_x_(2nd_gen)-6649.php"
+    }
+}

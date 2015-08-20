@@ -1,0 +1,69 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1000 mAh battery",
+            "Stand-by": "Up to 340 h",
+            "Talk time": "Up to 4 h"
+        },
+        "Body": {
+            "Dimensions": "111.7 x 55 x 12.9 mm (4.40 x 2.17 x 0.51 in)",
+            "SIM": "Dual SIM (Mini-SIM)",
+            "Weight": "80 g (2.82 oz)"
+        },
+        "Camera": {
+            "Primary": "3.15 MP, 2048 x 1536 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "No",
+            "Radio": "FM radio, FM recording",
+            "USB": "Yes",
+            "WLAN": "Yes"
+        },
+        "Display": {
+            "Resolution": "240 x 400 pixels (~146 ppi pixel density)",
+            "Size": "3.2 inches (~47.4% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 256K colors"
+        },
+        "Features": {
+            "Browser": "Yes",
+            "Games": "Downloadable",
+            "Java": "Yes",
+            "Messaging": "Yes"
+        },
+        "Launch": {
+            "Announced": "2012, June",
+            "Status": "Available. Released 2012, June"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 8 GB",
+            "Phonebook": "Yes"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "1/10 (About 50 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Spice M-6688 Flo Magic",
+        "image": {
+            "href": "http://www.gsmarena.com/spice_m_6688_flo_magic-pictures-5040.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/spice-flo-magic.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/spice_m_6688_flo_magic-5040.php"
+    }
+}

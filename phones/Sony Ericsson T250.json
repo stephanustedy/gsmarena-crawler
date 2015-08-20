@@ -1,0 +1,77 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion battery",
+            "Stand-by": "Up to 300 h",
+            "Talk time": "Up to 7 h"
+        },
+        "Body": {
+            "Dimensions": "100 x 45 x 13 mm (3.94 x 1.77 x 0.51 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "82 g (2.89 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "No"
+        },
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "No",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Wallpapers, screensavers",
+            "Resolution": "128 x 160 pixels (~121 ppi pixel density)",
+            "Size": "1.7 inches (~20.2% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- Slide show\n- Full screen viewer\n- Predictive text input\n- Stopwatch\n- Timer",
+            "Browser": "WAP 1.2.1",
+            "Games": "Yes",
+            "Java": "No",
+            "Messaging": "SMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2007, May",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "20 received, dialed and missed calls",
+            "Card slot": "No",
+            "Internal": "2 MB",
+            "Phonebook": "300 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Aluminium Silver, Aluminium Black",
+            "Price group": "1/10 (About 50 EUR)",
+            "SAR EU": "0.83 W/kg (head)"
+        },
+        "Network": {
+            "": "GSM 850 / 1900 - T250a",
+            "2G bands": "GSM 900 / 1800 - T250i",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "- T250i 900/1800 MHz for Europe, Middle East\n- T250c 900/1800 MHz for China Mainland\n- T250a 850/1900 MHz for North America",
+        "device_name": "Sony Ericsson T250",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_ericsson_t250-pictures-1985.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/sonyericsson-t250.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_ericsson_t250-1985.php"
+    }
+}

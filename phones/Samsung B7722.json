@@ -1,0 +1,81 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1200 mAh battery",
+            "Stand-by": "Up to 420 h (2G) / Up to 330 h (3G)",
+            "Talk time": "Up to 12 h 50 min (2G) / Up to 5 h 40 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "113.5 x 55.5 x 14.3 mm (4.47 x 2.19 x 0.56 in)",
+            "SIM": "Dual SIM, dual call (Mini-SIM, dual stand-by)",
+            "Weight": "112 g (3.95 oz)"
+        },
+        "Camera": {
+            "Primary": "5 MP, 2560 x 1920 pixels, autofocus, LED flash",
+            "Secondary": "Yes",
+            "Video": "320p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "No",
+            "Radio": "Stereo FM radio with RDS, FM recording",
+            "USB": "v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g"
+        },
+        "Display": {
+            "Resolution": "240 x 400 pixels (~146 ppi pixel density)",
+            "Size": "3.2 inches (~46.3% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/WAV/WMA/eAAC+ player\n- MP4/H.264 player\n- Organizer\n- Document viewer\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS, MMS, Email, Push Email, IM, RSS"
+        },
+        "Launch": {
+            "Announced": "2010, June",
+            "Status": "Available. Released 2010, June"
+        },
+        "Memory": {
+            "Call records": "30 dialed, 30 received, 30 missed calls",
+            "Card slot": "microSD, up to 16 GB",
+            "Internal": "270 MB",
+            "Phonebook": "2000 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "4/10 (About 150 EUR)",
+            "SAR EU": "0.69 W/kg (head) \u00a0 \u00a0 0.70 W/kg (body)"
+        },
+        "Network": {
+            "": "GSM 900 / 1800 - SIM 2",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1",
+            "3G bands": "HSDPA 2100 - SIM 1 only",
+            "EDGE": "Class 12 (SIM 1)",
+            "GPRS": "Class 12 (SIM 1), Class 10 (SIM 2)",
+            "Speed": "HSPA 3.6/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; MP3 ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -83.9dB / Crosstalk -82.9dB",
+            "Loudspeaker": "Voice 74dB / Noise 67dB / Ring 76dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Samsung Dual SIM Star Duos in India",
+        "device_name": "Samsung B7722",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_b7722-pictures-3362.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/Samsung-B7722-3G-dual-SIM.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_b7722-3362.php"
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1200 mAh battery (BL-4J)",
+            "Music play": "Up to 60 h",
+            "Stand-by": "Up to 540 h (2G) / Up to 600 h (3G)",
+            "Talk time": "Up to 15 h (2G) / Up to 6 h 30 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "111 x 53 x 13 mm, 72 cc (4.37 x 2.09 x 0.51 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "100 g (3.53 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, fixed focus, LED flash",
+            "Secondary": "No",
+            "Video": "720p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "NFC": "Yes",
+            "Radio": "Stereo FM radio with RDS, FM transmitter, internal FM radio antenna",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "360 x 640 pixels (~229 ppi pixel density)",
+            "Size": "3.2 inches (~48.0% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- SNS integration\n- MP4/H.264 player\n- MP3/WAV/\u0435AAC+/WMA player\n- Photo editor\n- Organizer\n- Voice command/dial\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML, Adobe Flash Lite",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2011, August",
+            "Status": "Cancelled"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB, 2 GB included",
+            "Internal": "2 GB"
+        },
+        "Misc": {
+            "Colors": "Black, White, Pink and Lime",
+            "Price group": "5/10 (About 240 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 1700 / 1900 / 2100",
+            "EDGE": "Class 33",
+            "GPRS": "Class 33",
+            "Speed": "HSPA 14.4/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "1 GHz",
+            "OS": "Symbian Belle OS"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 600",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_600-pictures-4118.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-600.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_600-4118.php"
+    }
+}

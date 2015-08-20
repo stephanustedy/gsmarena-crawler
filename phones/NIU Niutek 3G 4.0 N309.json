@@ -1,0 +1,80 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1650 mAh battery",
+            "Stand-by": "Up to 713 h (2G) / Up to 428 h (3G)",
+            "Talk time": "Up to 16 h (2G) / Up to 7 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "123.5 x 65 x 10.5 mm (4.86 x 2.56 x 0.41 in)",
+            "SIM": "Dual SIM (Mini-SIM)",
+            "Weight": "71 g without battery (2.50 oz)"
+        },
+        "Camera": {
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, LED flash",
+            "Secondary": "VGA",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1",
+            "GPS": "Yes",
+            "Radio": "Stereo FM radio",
+            "USB": "microUSB",
+            "WLAN": "Wi-Fi 802.11 b/g, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "480 x 800 pixels (~233 ppi pixel density)",
+            "Size": "4.0 inches (~56.7% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/WMV/H.264 player\n- MP3/WAV/eAAC+ player\n- Organizer\n- Photo/video editor\n- Document viewer\n- Voice memo/dial\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS(threaded view), MMS, Email, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2012, June",
+            "Status": "Available. Released 2012, August"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "512 MB, 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "3/10 (About 150 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 850 / 1900 - SIM 1 only",
+            "EDGE": "Up to 60 kbps",
+            "GPRS": "Yes",
+            "Speed": "HSPA 14.4/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "1 GHz Cortex-A9",
+            "Chipset": "Mediatek MT6575",
+            "GPU": "PowerVR SGX531",
+            "OS": "Android OS, v2.3 (Gingerbread)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "- Single SIM: N319\n- Dual SIM: N309",
+        "device_name": "NIU Niutek 3G 4.0 N309",
+        "image": {
+            "href": "http://www.gsmarena.com/niu_niutek_3g_4_0_n309-pictures-4927.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/niu-niutek-3g-4.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/niu_niutek_3g_4_0_n309-4927.php"
+    }
+}

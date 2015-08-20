@@ -1,0 +1,93 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 650 mAh battery",
+            "Stand-by": "Up to 250 h",
+            "Talk time": "Up to 7 h"
+        },
+        "Body": {
+            "Dimensions": "97 x 45 x 17.3 mm (3.82 x 1.77 x 0.68 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "80 g (2.82 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Embedded images and animations",
+            "Resolution": "128 x 128 pixels",
+            "Size": "",
+            "Type": "CSTN, 65K colors"
+        },
+        "Features": {
+            "": "- MP3 player\n- Predictive text input\n- Calculator",
+            "Browser": "No",
+            "Games": "2 embedded",
+            "Java": "No",
+            "Messaging": "SMS"
+        },
+        "Launch": {
+            "Announced": "2007, February",
+            "Status": "Cancelled"
+        },
+        "Memory": {
+            "": "- 250 SMS messages",
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "microSD",
+            "Phonebook": "250 entries"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "": "GSM 850 / 1900 - US version",
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Polyphonic(64), MP3 ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Alcatel OT-E805",
+        "image": {
+            "href": "http://www.gsmarena.com/alcatel_ot_e805-pictures-1889.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/alcatel-e805.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/alcatel_ot_e805-1889.php"
+    }
+}

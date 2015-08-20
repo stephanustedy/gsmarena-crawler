@@ -1,0 +1,97 @@
+{
+    "data": {
+        "Battery": {
+            "": "NiMH battery",
+            "Stand-by": "120 h",
+            "Talk time": "3 h"
+        },
+        "Body": {
+            "Dimensions": "104 x 53 x 22 mm (4.09 x 2.09 x 0.87 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "75 g (2.65 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Picture menu\n- Softkey",
+            "Resolution": "5 x 13 to 25 chars",
+            "Size": "",
+            "Type": "Monochrome graphic"
+        },
+        "Features": {
+            "": "- Voice dial\n- Voice memo\n- Business card exchange via IrDA\n- Predictive text input\n- Organizer\n- Scratchpad\n- Active flip",
+            "Alarm": "Yes",
+            "Browser": "WAP 1.1",
+            "Clock": "Yes",
+            "Games": "2",
+            "Java": "No",
+            "Languages": "8",
+            "Messaging": "SMS"
+        },
+        "Launch": {
+            "Announced": "Mid 2001",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- 20 voice dial slots\n- 20 sec voice memo\n- Detailed call duration reports",
+            "Call records": "10 dialed, 10 received, 10 missed calls",
+            "Card slot": "No",
+            "Phonebook": "250 x 5 fields"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "Class 2",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "": "- Ascending ring tone",
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Monophonic ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Mitsubishi Trium Sirius",
+        "image": {
+            "href": "http://www.gsmarena.com/mitsubishi_trium_sirius-pictures-254.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/misiri.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/mitsubishi_trium_sirius-254.php"
+    }
+}

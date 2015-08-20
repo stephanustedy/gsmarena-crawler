@@ -1,0 +1,91 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 500 mAh battery",
+            "Stand-by": "Up to 400 h",
+            "Talk time": "Up to 8 h"
+        },
+        "Body": {
+            "Dimensions": "105.5 x 45 x 12.7 mm (4.15 x 1.77 x 0.5 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "-"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "FM radio",
+            "USB": "miniUSB (charging only)",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "96 x 64 pixels (~88 ppi pixel density)",
+            "Size": "1.31 inches (~10.8% screen-to-body ratio)",
+            "Type": "Monochrome graphic"
+        },
+        "Features": {
+            "Browser": "No",
+            "Games": "Downloadable",
+            "Java": "No",
+            "Messaging": "SMS"
+        },
+        "Launch": {
+            "Announced": "2011, February. Released 2011, Q2",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 4 GB",
+            "Internal": "16 MB",
+            "Phonebook": "SIM card only"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "": "GSM 900 / 1800",
+            "2G bands": "GSM 850 / 1900",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration, Polyphonic",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "BLU Ultra",
+        "image": {
+            "href": "http://www.gsmarena.com/blu_ultra-pictures-3859.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/blu-ultra-100.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/blu_ultra-3859.php"
+    }
+}

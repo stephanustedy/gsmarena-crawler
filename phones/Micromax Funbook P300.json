@@ -1,0 +1,77 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 2800 mAh battery",
+            "Stand-by": "",
+            "Talk time": "Up to 5 h (multimedia)"
+        },
+        "Body": {
+            "Dimensions": "192 x 122 x -",
+            "SIM": "No",
+            "Weight": "-"
+        },
+        "Camera": {
+            "Primary": "No",
+            "Secondary": "VGA",
+            "Video": ""
+        },
+        "Comms": {
+            "Bluetooth": "",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "miniUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "480 x 800 pixels (~133 ppi pixel density)",
+            "Size": "7.0 inches (~59.5% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen"
+        },
+        "Features": {
+            "": "- HDMI port\n- MP3/WAV/WMA/AAC player\n- MP4/H.263 player\n- Organizer\n- Photo editor\n- Document viewer\n- Voice memo/dial\n- Predictive text input",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "Email, IM",
+            "Sensors": "Accelerometer, gyro"
+        },
+        "Launch": {
+            "Announced": "2012, April",
+            "Status": "Available. Released 2012, April"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "4 GB, 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Suave silver, Brilliant black",
+            "Price group": "2/10 (About 100 EUR)"
+        },
+        "Network": {
+            "2G bands": "N/A",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "No cellular connectivity"
+        },
+        "Platform": {
+            "CPU": "1.22 GHz Cortex-A8",
+            "GPU": "Mali-400",
+            "OS": "Android OS, v4.0.3 (Ice Cream Sandwich)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Tablet with no support for GSM voice communication",
+        "device_name": "Micromax Funbook P300",
+        "image": {
+            "href": "http://www.gsmarena.com/micromax_funbook_p300-pictures-4701.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/micromax-funbook-p300.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/micromax_funbook_p300-4701.php"
+    }
+}

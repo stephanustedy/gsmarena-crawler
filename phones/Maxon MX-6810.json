@@ -1,0 +1,89 @@
+{
+    "data": {
+        "Battery": {
+            "": "NiMH 550 mAh battery",
+            "Stand-by": "100 h",
+            "Talk time": "5 h"
+        },
+        "Body": {
+            "Dimensions": "110 x 46 x 20 mm (4.33 x 1.81 x 0.79 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "96 g (3.39 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Fixed icons",
+            "Resolution": "4 x 12 chars",
+            "Size": "",
+            "Type": "Monochrome graphic"
+        },
+        "Features": {
+            "": "- Predictive text input",
+            "Alarm": "Yes",
+            "Browser": "",
+            "Clock": "Yes",
+            "Games": "",
+            "Java": "No",
+            "Messaging": "SMS"
+        },
+        "Launch": {
+            "Announced": "1999",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "20 dialed calls",
+            "Card slot": "No",
+            "Phonebook": ""
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Monophonic ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Maxon MX-6810",
+        "index": 1,
+        "url": "http://www.gsmarena.com/maxon_mx_6810-173.php"
+    }
+}

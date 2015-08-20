@@ -1,0 +1,89 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1520 mAh battery",
+            "Stand-by": "Up to 450 h",
+            "Talk time": "Up to 8 h"
+        },
+        "Body": {
+            "Dimensions": "126.8 x 67.4 x 9.6 mm (4.99 x 2.65 x 0.38 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "148 g (5.22 oz)"
+        },
+        "Camera": {
+            "Features": "Stereoscopic photos & videos, geo-tagging",
+            "Primary": "Dual 5 MP, 2592\u04451944 pixels, autofocus, LED flash, check quality",
+            "Secondary": "VGA",
+            "Video": "1080p@30fps (2D), 720p@30fps (3D), check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "NFC": "Yes",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0 (MHL TV-out)",
+            "WLAN": "Wi-Fi 802.11 b/g/n, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- LG 3D UI",
+            "Protection": "Corning Gorilla Glass 2",
+            "Resolution": "480 x 800 pixels (~217 ppi pixel density)",
+            "Size": "4.3 inches (~61.6% screen-to-body ratio)",
+            "Type": "3D LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/DivX/XviD/H.264/WMV player\n- MP3/WAV/WMA/eAAC+ player\n- 3D/2D image/video editor\n- HD Converter (games, apps)\n- 2D to 3D apps converter\n- Document viewer/editor\n- Organizer\n- Voice memo/dial/commands\n- Predictive text input",
+            "Browser": "HTML5, Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2012, February",
+            "Status": "Available. Released 2012, May"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "8 GB (5.3 GB user available), 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "5/10 (About 230 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 1900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 21.1/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.2 GHz Cortex-A9",
+            "Chipset": "TI OMAP 4430",
+            "GPU": "PowerVR SGX540",
+            "OS": "Android OS, v2.3 (Gingerbread), planned upgrade to v4.0 (Ice Cream Sandwich)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -89.1dB / Crosstalk -83.2dB",
+            "Battery life": "Endurance rating 34h",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 1002:1 (nominal) / 1.658:1 (sunlight)",
+            "Loudspeaker": "Voice 69dB / Noise 66dB / Ring 81dB"
+        }
+    },
+    "main": {
+        "device_name": "LG Optimus 3D Max P720",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_optimus_3d_max_p720-pictures-4562.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-optimus-3d-max.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_optimus_3d_max_p720-4562.php"
+    }
+}

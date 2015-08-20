@@ -1,0 +1,78 @@
+{
+    "data": {
+        "Battery": {
+            "": "",
+            "Stand-by": "",
+            "Talk time": "Up to 6 h (multimedia)"
+        },
+        "Body": {
+            "Dimensions": "8.9 mm thickness",
+            "SIM": "Yes",
+            "Weight": "298 g (10.51 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels",
+            "Secondary": "Yes",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "Yes",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "600 x 1024 pixels (~170 ppi pixel density)",
+            "Size": "7.0 inches (~64.5% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen"
+        },
+        "Features": {
+            "": "- MP3/WAV/eAAC+ player\n- MP4/H.263 player\n- Photo viewer/editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2014, April",
+            "Status": "Available. Released 2014, August"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "16 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "3/10 (About 110 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 N/A",
+            "3G bands": "HSDPA",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Quad-core",
+            "OS": "Android OS, v4.2.2 (Jelly Bean), planned upgrade to v4.4.2 (KitKat)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Tablet with support for GSM voice communication, SMS, and MMS",
+        "device_name": "Acer Iconia Tab 7 A1-713",
+        "image": {
+            "href": "http://www.gsmarena.com/acer_iconia_tab_7_a1_713-pictures-6343.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/acer-iconia-tab-7.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/acer_iconia_tab_7_a1_713-6343.php"
+    }
+}

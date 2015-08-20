@@ -1,0 +1,82 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1000 mAh battery",
+            "Stand-by": "Up to 250 h",
+            "Talk time": "Up to 3 h"
+        },
+        "Body": {
+            "Dimensions": "101 x 61 x 15 mm (3.98 x 2.40 x 0.59 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "127 g (4.48 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "2 MP, 1600 x 1200 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~143 ppi pixel density)",
+            "Size": "2.8 inches (~39.4% screen-to-body ratio)",
+            "Type": "TFT touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/WAV/WMA player\n- MP4/H.263 player\n- Organizer\n- Voice memo/dial\n- Predictive text input",
+            "Browser": "HTML",
+            "Games": "Yes",
+            "Java": "No",
+            "Messaging": "SMS, MMS, Email, IM"
+        },
+        "Launch": {
+            "Announced": "2011, July",
+            "Status": "Available. Released 2011, July"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "217 MB",
+            "Phonebook": "Yes, Photocall"
+        },
+        "Misc": {
+            "Colors": "Pink, green, black",
+            "Price group": "4/10 (About 200 EUR)",
+            "SAR US": "0.49 W/kg (head) \u00a0 \u00a0 0.59 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 1900",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Speed": "HSPA 3.6/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "230 MHz",
+            "Chipset": "Qualcomm QSC6270"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Polyphonic(64), MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "For AT&T\nAlso known as Pantech P6010",
+        "device_name": "Pantech Pursuit II",
+        "image": {
+            "href": "http://www.gsmarena.com/pantech_pursuit_ii-pictures-4038.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-pantech-pursuit-ii.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/pantech_pursuit_ii-4038.php"
+    }
+}

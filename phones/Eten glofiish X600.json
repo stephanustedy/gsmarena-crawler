@@ -1,0 +1,74 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1530 mAh battery",
+            "Stand-by": "Up to 200 h",
+            "Talk time": "Up to 7 h"
+        },
+        "Body": {
+            "Dimensions": "107 x 58 x 14.7 mm (4.21 x 2.28 x 0.58 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "136 g (4.80 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0",
+            "GPS": "Yes, SiRF Star III chipset",
+            "Radio": "FM radio",
+            "USB": "miniUSB",
+            "WLAN": "Wi-Fi 802.11 b/g"
+        },
+        "Display": {
+            "": "- Handwriting recognition",
+            "Resolution": "320 x 240 pixels (~143 ppi pixel density)",
+            "Size": "2.8 inches (~39.1% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 65K colors"
+        },
+        "Features": {
+            "": "- Pocket Office \n- eBook reader\n- Windows MPlayer 10\n- Direct push technology\n- Organizer\n- Voice memo",
+            "Browser": "HTML (PocketIE)",
+            "Java": "No",
+            "Messaging": "SMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2007, October. Released 2008, January",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "microSD",
+            "Internal": "64 MB RAM, 128 MB ROM"
+        },
+        "Misc": {
+            "Colors": "Black, Red",
+            "Price group": "4/10 (About 170 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Platform": {
+            "CPU": "Samsung S3C2442 400 MHz",
+            "OS": "Microsoft Windows Mobile 6.0 Professional"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Eten glofiish X600",
+        "image": {
+            "href": "http://www.gsmarena.com/eten_glofiish_x600-pictures-2162.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/eten-x600.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/eten_glofiish_x600-2162.php"
+    }
+}

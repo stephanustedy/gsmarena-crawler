@@ -1,0 +1,95 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion battery",
+            "Stand-by": "Up to 100 h",
+            "Talk time": "Up to 3 h"
+        },
+        "Body": {
+            "Dimensions": "87 x 43 x 21 mm (3.43 x 1.69 x 0.83 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "80 g (2.82 oz)"
+        },
+        "Camera": {
+            "Primary": "CIF, 352 x 288 pixels",
+            "Secondary": "No",
+            "Video": "No"
+        },
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second external STN mono display (96 x 64 pixels)\n- Wallpaper\n- Screensaver",
+            "Resolution": "128 x 160 pixels",
+            "Size": "",
+            "Type": "STN, 65K colors"
+        },
+        "Features": {
+            "": "- Voice memo\n- Predictive text input\n- World Time\n- Calculator",
+            "Browser": "WAP 1.2",
+            "Games": "Yes",
+            "Java": "No",
+            "Messaging": "SMS, EMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2005, 2Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "",
+            "Card slot": "No",
+            "Phonebook": "200 entries"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Bird V79",
+        "image": {
+            "href": "http://www.gsmarena.com/bird_v79-pictures-1281.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/bird-v79.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/bird_v79-1281.php"
+    }
+}

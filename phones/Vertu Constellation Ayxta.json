@@ -1,0 +1,76 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1000 mAh battery (BL-4UV)",
+            "Stand-by": "Up to 300 h",
+            "Talk time": "Up to 5 h 30 min"
+        },
+        "Body": {
+            "Dimensions": "100 x 48 x 18 mm, 74 cc (3.94 x 1.89 x 0.71 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "175 g (6.17 oz)"
+        },
+        "Camera": {
+            "Primary": "3.15 MP, 2048 x 1536 pixels, autofocus, LED flash",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0",
+            "GPS": "Yes, with A-GPS; Google maps",
+            "Radio": "No",
+            "USB": "v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- External monochrome display, 128 x 160 pixels",
+            "Protection": "Scratch-resistant glass",
+            "Resolution": "240 x 400 pixels (~194 ppi pixel density)",
+            "Size": "2.4 inches (~34.2% screen-to-body ratio)",
+            "Type": "TFT, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/H.264/WMV player\n- MP3/eAAC+/WMA player\n- Organizer\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0 / xHTML",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.0",
+            "Languages": "Yes",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2009, September",
+            "Status": "Available. Released 2009, October"
+        },
+        "Memory": {
+            "": "- 1500 calendar notes\n- 1000 SMS",
+            "Call records": "30 received, dialed and missed calls",
+            "Card slot": "microSD, up to 8 GB",
+            "Internal": "100 MB",
+            "Phonebook": "2000 contacts, Photocall"
+        },
+        "Misc": {
+            "Colors": "Black, Dark Brown",
+            "Price group": "10/10 (About 5020 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Vertu Constellation Ayxta",
+        "image": {
+            "href": "http://www.gsmarena.com/vertu_constellation_ayxta-pictures-2990.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/vertu-constellation-ayxta.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/vertu_constellation_ayxta-2990.php"
+    }
+}

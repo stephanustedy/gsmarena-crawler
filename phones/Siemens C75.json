@@ -1,0 +1,98 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 750 mAh battery",
+            "Stand-by": "Up to 300 h",
+            "Talk time": "Up to 5 h 30 min"
+        },
+        "Body": {
+            "Dimensions": "103 x 44 x 17 mm (4.06 x 1.73 x 0.67 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "85 g (3.00 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- 5-way joystick\n- Download assistant for logos",
+            "Resolution": "132 x 176 pixels, 9 lines",
+            "Size": "",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- Predictive text input\n- Stopwatch\n- Organizer\n- Voice memo\n- Clip-it covers\n- User profiles\n- SyncML",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes",
+            "Java": "Yes",
+            "Messaging": "SMS, EMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2005, May",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- 100 short messages",
+            "Call records": "100 received, 100 dialed and 100 missed calls",
+            "Card slot": "No",
+            "Internal": "10 MB",
+            "Phonebook": "1000 x 20 fields, Photo call"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Siemens C75",
+        "image": {
+            "href": "http://www.gsmarena.com/siemens_c75-pictures-1186.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/siemens-c75.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/siemens_c75-1186.php"
+    }
+}

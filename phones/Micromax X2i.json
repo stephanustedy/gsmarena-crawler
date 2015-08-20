@@ -1,0 +1,68 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1800 mAh battery",
+            "Stand-by": "Up to 480 h",
+            "Talk time": "Up to 14 h"
+        },
+        "Body": {
+            "Dimensions": "105.3 x 45.4 x 16.3 mm (4.15 x 1.79 x 0.64 in)",
+            "SIM": "Dual SIM (Mini-SIM, dual stand-by)",
+            "Weight": "87 g (3.07 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "Stereo FM radio",
+            "USB": "No",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "128 x 128 pixels (~126 ppi pixel density)",
+            "Size": "1.44 inches (~14.0% screen-to-body ratio)",
+            "Type": "CSTN, 65K colors"
+        },
+        "Features": {
+            "": "- Organizer \n- MP3/AAC+ player\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2010",
+            "Status": "Available. Released 2010"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 4 GB",
+            "Phonebook": "500 entries"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "1/10 (About 30 EUR)"
+        },
+        "Network": {
+            "": "GSM 900 / 1800 - SIM 2",
+            "2G bands": "GSM 900 / 1800 - SIM 1",
+            "EDGE": "No",
+            "GPRS": "Class 12",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration, Polyphonic",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Micromax X2i",
+        "image": {
+            "href": "http://www.gsmarena.com/micromax_x2i-pictures-3507.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/micromax-x2i.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/micromax_x2i-3507.php"
+    }
+}

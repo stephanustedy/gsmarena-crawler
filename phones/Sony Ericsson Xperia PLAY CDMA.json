@@ -1,0 +1,83 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1500 mAh battery",
+            "Stand-by": "Up to 405 h",
+            "Talk time": "Up to 7 h 40 min"
+        },
+        "Body": {
+            "Dimensions": "119 x 62 x 16 mm (4.69 x 2.44 x 0.63 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "175 g (6.17 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, LED flash",
+            "Secondary": "Yes",
+            "Video": "720p"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- Touch-sensitive gaming controls\n- PSP like gaming buttons\n- Timescape UI",
+            "Multitouch": "Yes",
+            "Resolution": "480 x 854 pixels (~245 ppi pixel density)",
+            "Size": "4.0 inches (~59.8% screen-to-body ratio)",
+            "Type": "LED-backlit LCD, capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Dedicated game store\n- Active noise cancellation with dedicated mic\n- MP4/H.264/WMV player\n- MP3/eAAC+/WMA/WAV player\n- Track ID\n- Organizer\n- Document viewer/editor\n- Voice memo/dial/commands\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML, Adobe Flash Lite",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2011, February",
+            "Status": "Available. Released 2011, May"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB, 8 GB included",
+            "Internal": "400 MB, 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "2/10 (About 70 EUR)",
+            "SAR EU": "0.36 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "CDMA 800 / 1900",
+            "3G bands": "CDMA2000 1xEV-DO",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Speed": "EV-DO Rev.A 3.1 Mbps",
+            "Technology": "CDMA / EVDO"
+        },
+        "Platform": {
+            "CPU": "1 GHz Scorpion",
+            "Chipset": "Qualcomm MSM8255 Snapdragon S2",
+            "GPU": "Adreno 205",
+            "OS": "Android OS, v2.3.4 (Gingerbread)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "canonical_name": "For Verizon",
+        "device_name": "Sony Ericsson Xperia PLAY CDMA",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_ericsson_xperia_play_cdma-pictures-3780.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/sony-ericsson-xperia-play-cdma.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_ericsson_xperia_play_cdma-3780.php"
+    }
+}

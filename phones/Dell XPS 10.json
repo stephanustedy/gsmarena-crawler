@@ -1,0 +1,80 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion battery (28 Wh)",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "": "- Optional mobile dock with standard QWERTY keyboard and trackpad",
+            "Dimensions": "274.7 x 177.3 x 9.2 mm (10.81 x 6.98 x 0.36 in)",
+            "SIM": "Micro-SIM (optional)",
+            "Weight": "635 g (1.40 lb)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus",
+            "Secondary": "2 MP, 720p@30fps",
+            "Video": "720p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0",
+            "GPS": "Yes, with A-GPS (with LTE/HSPA+ configs)",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "1366 x 768 pixels (~155 ppi pixel density)",
+            "Size": "10.1 inches (~57.7% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/H.264 player\n- MP3/WAV/eAAC+ player\n- Photo viewer/editor\n- Document editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "Email, Push Email, IM",
+            "Sensors": "Accelerometer, gyro, compass"
+        },
+        "Launch": {
+            "Announced": "2012, Q4",
+            "Status": "Available. Released 2012, December"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "32/64 GB"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "7/10 (About 380 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 (optional)",
+            "3G bands": "HSDPA (optional)",
+            "4G bands": "LTE (optional)",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Speed": "HSPA/LTE (optional)",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.5 GHz",
+            "OS": "Microsoft Windows RT"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "device_name": "Dell XPS 10",
+        "image": {
+            "href": "http://www.gsmarena.com/dell_xps_10-pictures-5160.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/dell-xps-10.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/dell_xps_10-5160.php"
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1800 mAh battery",
+            "Stand-by": "Up to 312 h",
+            "Talk time": "Up to 10 h"
+        },
+        "Body": {
+            "Dimensions": "130 x 65.6 x 9 mm (5.12 x 2.58 x 0.35 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "137.5 g (4.83 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection, HDR, panorama",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash, check quality",
+            "Secondary": "2 MP, 720p@30fps",
+            "Video": "1080p@30fps, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, LE",
+            "GPS": "Yes, with A-GPS",
+            "NFC": "Yes",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, DLNA, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "768 x 1280 pixels (~355 ppi pixel density)",
+            "Size": "4.2 inches (~58.9% screen-to-body ratio)",
+            "Type": "Capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- HDMI port\n- BlackBerry maps\n- Organizer\n- Document viewer\n- Photo viewer/editor\n- Video editor\n- MP3/WMA/WAV/eAAC+/FlAC player\n- DivX/XviD/MP4/WMV/H.264 player\n- Voice memo/dial\n- Predictive text input",
+            "Browser": "HTML5",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS, MMS, Email, Push Email, IM, BBM 6",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2013, January",
+            "Status": "Available. Released 2013, January"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "16 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "6/10 (About 280 EUR)",
+            "SAR EU": "0.87 W/kg (head) \u00a0 \u00a0 0.99 W/kg (body)",
+            "SAR US": "1.07 W/kg (head) \u00a0 \u00a0 1.07 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 900 / 2100 - STL100-2",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - all versions",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100 - STL100-1",
+            "4G bands": "LTE band 3(1800), 7(2600), 8(900), 20(800) - STL100-2",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 21.1/5.76 Mbps, LTE, EV-DO Rev.A 3.1 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.5 GHz Krait",
+            "Chipset": "Qualcomm MSM8960 Snapdragon S4 Plus",
+            "GPU": "Adreno 225",
+            "OS": "BlackBerry OS 10, upgradable to v10.3.1"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -82.8dB / Crosstalk -80.5dB",
+            "Battery life": "Endurance rating 46h",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 1532 (nominal) / 2.051:1 (sunlight)",
+            "Loudspeaker": "Voice 70dB / Noise 67dB / Ring 73dB"
+        }
+    },
+    "main": {
+        "canonical_name": "- STL100-3 RFK121LW model:\nHSDPA 800 / 850 / 1700 / 1900 / 2100, LTE 700 / 850 / 1700 / 1900\n- STL100-3 RFF91LW model:\nHSDPA 800 / 850 / 1900 / 2100, LTE 700 / 850 / 1700 / 1900\n- STL100-4 model:\nCDMA 800 / 1900, HSDPA 900 / 2100, LTE 700 MHz Class 13",
+        "device_name": "BlackBerry Z10",
+        "image": {
+            "href": "http://www.gsmarena.com/blackberry_z10-pictures-5251.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/blackberry-z10-ofic.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/blackberry_z10-5251.php"
+    }
+}

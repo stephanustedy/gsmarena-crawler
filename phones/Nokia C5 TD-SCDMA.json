@@ -1,0 +1,76 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 950 mAh battery (BL-5F)",
+            "Stand-by": "Up to 190 h (2G) / Up to 165 h (3G)",
+            "Talk time": "Up to 4h 40 min (2G) / Up to 7 h 40 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "112 x 48 x 14.6 mm, 56 cc (4.41 x 1.89 x 0.57 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "122 g (4.30 oz)"
+        },
+        "Camera": {
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus",
+            "Secondary": "VGA videocall camera",
+            "Video": "480p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "Yes, with A-GPS; Ovi Maps 3.0",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~167 ppi pixel density)",
+            "Size": "2.4 inches (~33.2% screen-to-body ratio)",
+            "Type": "TFT, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/H.264 player\n- MP3/WAV/eAAC+/WMA player\n- Document viewer (Word, Excel, PowerPoint, PDF)\n- Video/Photo editor\n- Organizer\n- Facebook, YouTube, Flickr, MySpace apps\n- Voice memo/dial\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML, Adobe Flash Lite",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email, Push Email, IM"
+        },
+        "Launch": {
+            "Announced": "2010, April",
+            "Status": "Available. Released 2010, Q3"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 8 GB",
+            "Internal": "256 MB"
+        },
+        "Misc": {
+            "Colors": "White, Black",
+            "SAR EU": "1.34 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "TD-SCDMA",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "TD-SCDMA",
+            "Technology": "GSM"
+        },
+        "Platform": {
+            "CPU": "600 MHz ARM 11",
+            "OS": "Symbian OS v9.3, Series 60 rel. 3.2"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, MP3",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "canonical_name": "For China Mobile",
+        "device_name": "Nokia C5 TD-SCDMA",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_c5_td_scdma-pictures-3285.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-c5-china.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_c5_td_scdma-3285.php"
+    }
+}

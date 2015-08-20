@@ -1,0 +1,75 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 950 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "102 x 52.6 x 18.9 mm (4.02 x 2.07 x 0.74 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "116 g (4.09 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 1024 pixels, LED flash",
+            "Secondary": "VGA videocall camera",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v1.1, A2DP",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "v1.1",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Rotate 360 deg display",
+            "Resolution": "240 x 320 pixels (~167 ppi pixel density)",
+            "Size": "2.4 inches (~33.2% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- DVB-H TV broadcast receiver\n- MP3/AAC++/3GP/MP4 player\n- Predictive text input\n- Organizer\n- Voice memo\n- Document viewer (Word, Excel, PowerPoint, PDF)",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes + download",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2007, February",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "50 dialed, 50 received, 50 missed calls",
+            "Card slot": "microSD",
+            "Internal": "50 MB",
+            "Phonebook": "500 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Silver",
+            "Price group": "2/10 (About 90 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "3G bands": "HSDPA 2100",
+            "EDGE": "No",
+            "GPRS": "Yes",
+            "Speed": "HSPA 1.8 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "device_name": "LG KU950",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_ku950-pictures-1914.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-ku950.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_ku950-1914.php"
+    }
+}

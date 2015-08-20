@@ -1,0 +1,70 @@
+{
+    "data": {
+        "Battery": {
+            "": "Solar Panel (10 min charging)",
+            "Stand-by": "Up to 30 min",
+            "Talk time": "Up to 1 min 40 sec"
+        },
+        "Body": {
+            "": "- Flashlight",
+            "Dimensions": "105.2 x 44.2 x 16.4 mm (4.14 x 1.74 x 0.65 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "77 g (2.72 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "FM radio",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "128 x 128 pixels (~119 ppi pixel density)",
+            "Size": "1.52 inches (~16.0% screen-to-body ratio)",
+            "Type": "CSTN, 65K colors"
+        },
+        "Features": {
+            "": "- Solar panel for battery charging\n- Organizer\n- Voice memo\n- Mobile Tracker\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS"
+        },
+        "Launch": {
+            "Announced": "2009, June",
+            "Status": "Available. Released 2009, July"
+        },
+        "Memory": {
+            "Call records": "30 dialed, 30 received, 30 missed calls",
+            "Card slot": "No",
+            "Phonebook": "Yes, up to 500 entries"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "1/10 (About 50 EUR)",
+            "SAR EU": "0.56 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Samsung Solar Guru",
+        "device_name": "Samsung E1107 Crest Solar",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_e1107_crest_solar-pictures-2829.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-e1107.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_e1107_crest_solar-2829.php"
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 2000 mAh battery",
+            "Stand-by": "Up to 345 h (3G)",
+            "Talk time": "Up to 8 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "5.1 mm thickness",
+            "SIM": "Nano-SIM",
+            "Weight": "97 g (3.42 oz)"
+        },
+        "Camera": {
+            "Features": "Yes",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash",
+            "Secondary": "5 MP",
+            "Video": "1080p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 3",
+            "Resolution": "720 x 1280 pixels (~306 ppi pixel density)",
+            "Size": "4.8 inches",
+            "Type": "AMOLED capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/H.264 player\n- MP3/eAAC+/WAV/Flac player\n- Document viewer\n- Photo/video editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2015, June",
+            "Status": "Available. Released 2015, July"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "16 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "White",
+            "Price group": "5/10 (About 250 EUR)",
+            "SAR EU": "0.31 W/kg (head) \u00a0 \u00a0 1.07 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "4G bands": "LTE 800 / 1800 / 2600 TD-LTE 2300",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 21.1/5.76 Mbps, LTE Cat4 150/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.2 GHz Cortex-A53",
+            "Chipset": "Qualcomm MSM8916 Snapdragon 410",
+            "GPU": "Adreno 306",
+            "OS": "Android OS, v5.0.2 (Lollipop)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Micromax Canvas Sliver 5",
+        "image": {
+            "href": "http://www.gsmarena.com/micromax_canvas_sliver_5-pictures-7306.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/micromax-canvas-sliver-5--1.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/micromax_canvas_sliver_5-7306.php"
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1800 mAh battery",
+            "Stand-by": "Up to 400 h",
+            "Talk time": "Up to 6 h"
+        },
+        "Body": {
+            "": "- Flashlight",
+            "Dimensions": "120.5 x 52 x 14.3 mm (4.74 x 2.05 x 0.56 in)",
+            "SIM": "Dual SIM",
+            "Weight": "-"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "No",
+            "Radio": "FM radio",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~174 ppi pixel density)",
+            "Size": "2.3 inches (~26.1% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- Audio/video player",
+            "Browser": "Yes",
+            "Games": "Downloadable",
+            "Java": "No",
+            "Messaging": "SMS"
+        },
+        "Launch": {
+            "Announced": "2013",
+            "Status": "Available. Released 2013"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 8 GB",
+            "Phonebook": "Yes"
+        },
+        "Misc": {
+            "Colors": "Silver, Black",
+            "Price group": "1/10 (About 20 EUR)",
+            "SAR US": "1.15 W/kg (head) \u00a0 \u00a0 0.91 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+            "EDGE": "No",
+            "GPRS": "Yes",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, Polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Micromax X267",
+        "image": {
+            "href": "http://www.gsmarena.com/micromax_x267-pictures-6071.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/micromax-x267.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/micromax_x267-6071.php"
+    }
+}

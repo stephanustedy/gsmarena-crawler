@@ -1,0 +1,77 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 860 mAh battery (BL-4S)",
+            "Music play": "Up to 11 h",
+            "Stand-by": "Up to 300 h",
+            "Talk time": "Up to 3 h 30 min"
+        },
+        "Body": {
+            "Dimensions": "109.8 x 49.3 x 13.3-14.7 mm",
+            "SIM": "Mini-SIM",
+            "Weight": "120.1 g (4.23 oz)"
+        },
+        "Camera": {
+            "Primary": "3.15 MP, 2048 x 1536 pixels, LED flash",
+            "Secondary": "No",
+            "Video": "480p@15fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Handwriting recognition",
+            "Resolution": "240 x 320 pixels (~167 ppi pixel density)",
+            "Size": "2.4 inches (~33.0% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP3/AAC/eAAC player\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, Adobe Flash Lite",
+            "Games": "3 + Downloadable",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS, MMS, Email, IM"
+        },
+        "Launch": {
+            "Announced": "2008, December. Released 2009, March",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "microSD, up to 8 GB, 1 GB included",
+            "Internal": "13 MB",
+            "Phonebook": "1000 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Titanium Gray",
+            "Price group": "4/10 (About 150 EUR)",
+            "SAR EU": "0.84 W/kg (head)",
+            "SAR US": "0.76 W/kg (head) \u00a0 \u00a0 0.16 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "Class 32",
+            "GPRS": "Class 32",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "For China",
+        "device_name": "Nokia 6208c",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_6208c-pictures-2621.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-6208c.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_6208c-2621.php"
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 690 mAh battery",
+            "Stand-by": "Up to 185 h",
+            "Talk time": "Up to 2 h 30 min"
+        },
+        "Body": {
+            "Dimensions": "105.5 x 50 x 5.9 mm (4.15 x 1.97 x 0.23 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "57 g (2.01 oz)"
+        },
+        "Camera": {
+            "Primary": "3.15 MP, 2048 x 1536 pixels",
+            "Secondary": "No",
+            "Video": "CIF"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "220 x 176 pixels (~146 ppi pixel density)",
+            "Size": "1.93 inches (~22.2% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/ACC/eAAC+/WMA player\n- MP4/H.263 player\n- Predictive text input\n- Document viewer (Word, Excel, PowerPoint, PDF)\n- Bluetooth printing\n- TV-out\n- Organizer",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2007, February",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "30 dialed, 30 received, 30 missed calls",
+            "Card slot": "No",
+            "Internal": "70 MB",
+            "Phonebook": "1000 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Blue/Violet, Gray/Black, Gold",
+            "Price group": "2/10 (About 80 EUR)",
+            "SAR EU": "0.33 W/kg (head)",
+            "SAR US": "0.77 W/kg (head) \u00a0 \u00a0 0.59 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Ultra Edition II - Ultra Edition 5.9",
+        "device_name": "Samsung U100",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_u100-pictures-1854.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-u100.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_u100-1854.php"
+    }
+}

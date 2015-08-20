@@ -1,0 +1,74 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 850 mAh battery (BL-5C)",
+            "Stand-by": "Up to 170 h - 410 h",
+            "Talk time": "Up to 3 h - 7 h"
+        },
+        "Body": {
+            "Dimensions": "106 x 46.4 x 22.8 mm, 82 cc (4.17 x 1.83 x 0.90 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "98 g (3.46 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Touchpad under the keyboard\n- Stylus\n- Adjustable display brightness\n- Four-way scroll\n- Dynamic font size",
+            "Resolution": "128 x 128 pixels, 8 lines",
+            "Size": "",
+            "Type": "CSTN, 4096 colors"
+        },
+        "Features": {
+            "": "- Handwriting recognition\n- English \n- Chinese dictionary (100,000 words)\n- Predictive text input\n- Organizer\n- Xpress-on covers\n- Profiles",
+            "Alarm": "Yes",
+            "Browser": "WAP, xHTML",
+            "Clock": "Yes",
+            "Games": "Sky Diver, Triple Pop, Bounce + Java downloadable",
+            "Java": "Yes",
+            "Languages": "Major European and Asian languages",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "3Q, 2003",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "In shared memory:\n- Phonebook\n- Calendar",
+            "Call records": "10 dialed, 10 received, 10 missed calls",
+            "Card slot": "No",
+            "Phonebook": "300 names x3 numbers"
+        },
+        "Misc": {
+            "Colors": "3 - Silver Blue, Silver Yellow and Silver Rose",
+            "SAR EU": "0.60 W/kg (head)",
+            "SAR US": "0.55 W/kg (head) \u00a0 \u00a0 0.80 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Yes",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 6108",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_6108-pictures-443.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/no6108.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_6108-443.php"
+    }
+}

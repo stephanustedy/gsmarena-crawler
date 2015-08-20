@@ -1,0 +1,90 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1300 mAh battery",
+            "Stand-by": "Up to 440 h (2G) / Up to 560 h (3G)",
+            "Talk time": "Up to 7 h (2G) / Up to 6 h 10 min (3G)"
+        },
+        "Body": {
+            "": "- Optical trackpad",
+            "Dimensions": "112 x 56.3 x 11.5 mm (4.41 x 2.22 x 0.45 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "126 g (4.44 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "5 MP, 2592 x 1944 pixels, autofocus, LED flash, check quality",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g"
+        },
+        "Display": {
+            "": "- HTC Sense UI",
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "320 x 480 pixels (~180 ppi pixel density)",
+            "Size": "3.2 inches (~48.4% screen-to-body ratio)",
+            "Type": "AMOLED capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP3/eAAC+/WAV player\n- MP4/H.264 player\n- Document viewer\n- Photo viewer/editor\n- Organizer\n- Voice memo\n- Predictive text input",
+            "Browser": "HTML",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2010, February",
+            "Status": "Available. Released 2010, March"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "384 MB RAM, 512 MB"
+        },
+        "Misc": {
+            "Colors": "Gray, Black",
+            "Price group": "3/10 (About 120 EUR)",
+            "SAR US": "0.45 W/kg (head) \u00a0 \u00a0 0.34 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 1900 - American version",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Speed": "HSPA 7.2/2 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "600 MHz ARM 11",
+            "Chipset": "Qualcomm MSM7227 Snapdragon S1",
+            "GPU": "Adreno 200",
+            "OS": "Android OS, v2.1 (Eclair)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -83.4dB / Crosstalk -83.5dB",
+            "Camera": "Photo",
+            "Loudspeaker": "Voice 78dB / Noise 74dB / Ring 79dB"
+        }
+    },
+    "main": {
+        "device_name": "HTC Legend",
+        "image": {
+            "href": "http://www.gsmarena.com/htc_legend-pictures-3141.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/htc-legend.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/htc_legend-3141.php"
+    }
+}

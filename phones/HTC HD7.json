@@ -1,0 +1,89 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1230 mAh battery",
+            "Stand-by": "Up to 310 h (2G) / Up to 320 h (3G)",
+            "Talk time": "Up to 6 h 20 min (2G) / Up to 5 h 20 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "122 x 68 x 11.2 mm (4.80 x 2.68 x 0.44 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "162 g (5.71 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, dual-LED flash, check quality",
+            "Secondary": "No",
+            "Video": "720p, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "Yes, with A-GPS; Bing Maps",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n"
+        },
+        "Display": {
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "480 x 800 pixels (~217 ppi pixel density)",
+            "Size": "4.3 inches (~63.4% screen-to-body ratio)",
+            "Type": "LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP3/WAV/WMA/eAAC+ player\n- MP4/WMV/H.264 player\n- Facebook and Twitter integration\n- YouTube client\n- Document viewer/editor\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2010, October",
+            "Status": "Available. Released 2010, October"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "8 GB (Europe) / 16 GB (Asia), 512 MB ROM, 576 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "3/10 (About 120 EUR)",
+            "SAR US": "1.15 W/kg (head) \u00a0 \u00a0 0.82 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 2100",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Class 32",
+            "GPRS": "Class 32",
+            "Speed": "HSPA 14.4/5.76 Mbps or HSPA 7.2/2 Mbps (carrier dependent)",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "1 GHz Scorpion",
+            "Chipset": "Qualcomm QSD8250 Snapdragon S1",
+            "GPU": "Adreno 200",
+            "OS": "Microsoft Windows Phone 7"
+        },
+        "Sound": {
+            "": "- Dolby Mobile, SRS sound",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -89.3dB / Crosstalk -88.9dB",
+            "Camera": "Photo / Video",
+            "Loudspeaker": "Voice 66dB / Noise 64dB / Ring 77dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as HTC HD3, HTC Gold, HTC Diamond3, HTC Mondrian",
+        "device_name": "HTC HD7",
+        "image": {
+            "href": "http://www.gsmarena.com/htc_hd7-pictures-3338.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/htc-hd7-ofic.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/htc_hd7-3338.php"
+    }
+}

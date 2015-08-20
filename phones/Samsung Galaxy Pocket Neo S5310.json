@@ -1,0 +1,81 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1200 mAh battery",
+            "Stand-by": "Up to 300 h",
+            "Talk time": "Up to 6 h"
+        },
+        "Body": {
+            "Dimensions": "105 x 57.8 x 11.8 mm (4.13 x 2.28 x 0.46 in)",
+            "SIM": "Optional Dual SIM (Micro-SIM, dual stand-by)",
+            "Weight": "100.5 g (3.53 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels",
+            "Secondary": "No",
+            "Video": "320p@15fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "Radio": "Stereo FM radio with RDS, FM recording",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "240 x 320 pixels (~133 ppi pixel density)",
+            "Size": "3.0 inches (~45.9% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- MP4/WMV/H.264 player\n- MP3/WAV/eAAC+/Flac player\n- Photo/video editor\n- Document viewer",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, compass"
+        },
+        "Launch": {
+            "Announced": "2013, April",
+            "Status": "Available. Released 2013, June"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "4 GB, 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Gray, White, Gray",
+            "Price group": "2/10 (About 90 EUR)",
+            "SAR EU": "0.85 W/kg (head) \u00a0 \u00a0 0.39 W/kg (body)",
+            "SAR US": "1.18 W/kg (head) \u00a0 \u00a0 0.60 W/kg (body)"
+        },
+        "Network": {
+            "": "GSM 850 / 900 / 1800 / 1900 - GT-S5312 (SIM 1 & SIM 2)",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 GT-S5310",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 7.2/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "850 MHz",
+            "OS": "Android OS, v4.1.2 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Available as:\nSamsung Pocket Neo GT-S5312 or Samsung Galaxy Pocket Y Neo GT-S5312 with dual SIM card slot",
+        "device_name": "Samsung Galaxy Pocket Neo S5310",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_galaxy_pocket_neo_s5310-pictures-5391.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-pocket-neo.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_galaxy_pocket_neo_s5310-5391.php"
+    }
+}

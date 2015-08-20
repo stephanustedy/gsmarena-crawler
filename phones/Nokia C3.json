@@ -1,0 +1,79 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1320 mAh battery (BL-5J)",
+            "Stand-by": "Up to 800 h",
+            "Talk time": "Up to 7 h"
+        },
+        "Body": {
+            "Dimensions": "115.5 x 58.1 x 13.6 mm, 63.2 cc (4.55 x 2.29 x 0.54 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "114 g (4.02 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels",
+            "Secondary": "No",
+            "Video": "QCIF@15fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP, EDR",
+            "GPS": "No",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g"
+        },
+        "Display": {
+            "Resolution": "320 x 240 pixels (~167 ppi pixel density)",
+            "Size": "2.4 inches (~26.6% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- Social network integration\n- MP4/AVI/H.264/WMV player\n- MP3/WAV/WMA/eAAC+ player\n- Voice command/dial\n- Organizer\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML, Adobe Flash Lite",
+            "Games": "Downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email, Push Email, IM"
+        },
+        "Launch": {
+            "Announced": "2010, April",
+            "Status": "Available. Released 2010, June"
+        },
+        "Memory": {
+            "Call records": "Detailed, max 30 days",
+            "Card slot": "microSD, up to 8 GB, 2 GB included",
+            "Internal": "55 MB, 64 MB RAM, 128 MB ROM",
+            "Phonebook": "1000 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Slate Grey, Golden White, Hot Pink, Black",
+            "Price group": "2/10 (About 90 EUR)",
+            "SAR EU": "1.09 W/kg (head)",
+            "SAR US": "1.11 W/kg (head) \u00a0 \u00a0 0.87 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "Class 32",
+            "GPRS": "Class 32",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -89.2dB / Crosstalk -70.3dB",
+            "Loudspeaker": "Voice 75dB / Noise 66dB / Ring 77dB"
+        }
+    },
+    "main": {
+        "device_name": "Nokia C3",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_c3-pictures-3269.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-c3-ofic.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_c3-3269.php"
+    }
+}

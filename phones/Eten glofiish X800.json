@@ -1,0 +1,76 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po, 1530 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "113.5 x 60.5 x 15.8 mm (4.47 x 2.38 x 0.62 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "146 g (5.15 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels, autofocus",
+            "Secondary": "VGA videocall camera",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0",
+            "GPS": "Yes, SiRF Star III chipset",
+            "Radio": "FM radio",
+            "USB": "Yes",
+            "WLAN": "Wi-Fi 802.11 b/g"
+        },
+        "Display": {
+            "": "- Handwriting recognition",
+            "Resolution": "480 x 640 pixels (~286 ppi pixel density)",
+            "Size": "2.8 inches (~35.4% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 65K colors"
+        },
+        "Features": {
+            "": "- Pocket Office \n- eBook reader\n- Windows MPlayer 10\n- Organizer\n- Voice memo",
+            "Browser": "HTML (PocketIE)",
+            "Java": "No",
+            "Messaging": "SMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2007, March. Released 2007, November",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "microSD",
+            "Internal": "64 MB RAM, 256 MB ROM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "4/10 (About 180 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 1900 / 2100",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Speed": "HSPA 1.8 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Samsung SC3 2440 500 MHz",
+            "OS": "Microsoft Windows Mobile 6.0 Professional"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Eten glofiish X800",
+        "image": {
+            "href": "http://www.gsmarena.com/eten_glofiish_x800-pictures-1926.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/eten-x800.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/eten_glofiish_x800-1926.php"
+    }
+}

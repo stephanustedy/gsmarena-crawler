@@ -1,0 +1,75 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 850 mAh battery (BL-5C)",
+            "Stand-by": "Up to 240 h",
+            "Talk time": "Up to 5 h"
+        },
+        "Body": {
+            "Dimensions": "92 x 46 x 23 mm, 84 cc (3.62 x 1.81 x 0.91 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "84 g (2.96 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "SQCIF"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0",
+            "GPS": "No",
+            "Radio": "FM radio; Visual radio",
+            "USB": "Pop-Port v1.1",
+            "WLAN": "Wi-Fi 802.11 b/g, UMA"
+        },
+        "Display": {
+            "": "- Second external mono display (96 x 68 pixels)\n- Themes and wallpapers",
+            "Resolution": "128 x 160 pixels (~114 ppi pixel density)",
+            "Size": "1.8 inches, 28 x 35 mm (~24.1% screen-to-body ratio)",
+            "Type": "CSTN, 256K colors"
+        },
+        "Features": {
+            "": "- Push to talk\n- MP3/MP4/AAC/AAC+/eAAC+/WMA player\n- Predictive text input\n- Organizer\n- Presence enhanced contacts\n- Voice dial/memo",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2006, November",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "microSD",
+            "Internal": "5 MB",
+            "Phonebook": "500 x 10 fields, Picture call"
+        },
+        "Misc": {
+            "Colors": "Pearl Grey, Warm Grey",
+            "Price group": "3/10 (About 130 EUR)",
+            "SAR EU": "1.15 W/kg (head)",
+            "SAR US": "1.00 W/kg (head) \u00a0 \u00a0 0.59 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3, AAC ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 6086",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_6086-pictures-1798.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-6086.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_6086-1798.php"
+    }
+}

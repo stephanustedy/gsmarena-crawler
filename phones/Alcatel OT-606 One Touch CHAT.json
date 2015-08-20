@@ -1,0 +1,74 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 670 mAh battery",
+            "Music play": "Up to 20 h 30 min",
+            "Stand-by": "Up to 530 h",
+            "Talk time": "Up to 11 h 10 min"
+        },
+        "Body": {
+            "Dimensions": "109 x 51 x 16.5 mm (4.29 x 2.01 x 0.65 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "109.2 g (3.84 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~182 ppi pixel density)",
+            "Size": "2.2 inches (~27.0% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- SNS integration\n- MP3/WMA/eAAC+ player\n- MP4/H.264 player\n- Organizer\n- Voice memo",
+            "Browser": "WAP 2.0/xHTML, HTML (Opera mini 5)",
+            "Games": "2",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email, IM"
+        },
+        "Launch": {
+            "Announced": "2010, February",
+            "Status": "Available. Released 2010, June"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 8 GB",
+            "Internal": "4 MB",
+            "Phonebook": "500 contacts, Photo call"
+        },
+        "Misc": {
+            "Colors": "Cherry Red, Dazzle Pink, Acid Green, Black, Silver, White and Lilac",
+            "Price group": "1/10 (About 40 EUR)"
+        },
+        "Network": {
+            "": "GSM 850 / 1900",
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "Class 12",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Alcatel OT-606 One Touch CHAT",
+        "image": {
+            "href": "http://www.gsmarena.com/alcatel_ot_606_one_touch_chat-pictures-3184.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/alcatel-ot-606.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/alcatel_ot_606_one_touch_chat-3184.php"
+    }
+}

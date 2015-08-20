@@ -1,0 +1,71 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 700 mAh battery (BL-4B)",
+            "Stand-by": "Up to 310 h",
+            "Talk time": "Up to 7 h"
+        },
+        "Body": {
+            "Dimensions": "87 x 44.8 x 20.7 mm (3.43 x 1.76 x 0.81 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "79 g (2.79 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "v2.0",
+            "GPS": "No",
+            "Radio": "FM radio",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second external mono display (96 x 68 pixels)\n- Screensavers, themes and wallpapers",
+            "Resolution": "128 x 160 pixels (~111 ppi pixel density)",
+            "Size": "1.85 inches (~27.6% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- 3GPP player\n- Predictive text input\n- Organizer",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2007, May",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "No",
+            "Internal": "2 MB",
+            "Phonebook": "Yes"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "1/10 (About 40 EUR)",
+            "SAR EU": "0.70 W/kg (head)",
+            "SAR US": "1.01 W/kg (head) \u00a0 \u00a0 1.01 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 2660",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_2660-pictures-1974.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-2660.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_2660-1974.php"
+    }
+}

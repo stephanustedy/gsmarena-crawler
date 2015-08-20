@@ -1,0 +1,76 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 860 mAh battery (BL-4S)",
+            "Stand-by": "Up to 420 h",
+            "Talk time": "Up to 3 h 30 min"
+        },
+        "Body": {
+            "Dimensions": "99 x 47 x 15 mm, 61.7 cc (3.90 x 1.85 x 0.59 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "97 g (3.42 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "128x96@7fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP, EDR",
+            "GPS": "No",
+            "Radio": "FM radio; FM recording",
+            "USB": "No",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "128 x 160 pixels (~114 ppi pixel density)",
+            "Size": "1.8 inches (~21.9% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- MP3 player \n- Nokia Xpress Audio Messaging\n- Advanced calculator\n- Organizer\n- DARP (for improved network usage efficiency)",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2008, April. Released 2008, September",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "No",
+            "Internal": "12 MB, 4 MB RAM, 32 MB ROM",
+            "Phonebook": "Yes, 1000 entries"
+        },
+        "Misc": {
+            "Colors": "Slate Gray, Night Blue, Orange, Violet",
+            "Price group": "2/10 (About 70 EUR)",
+            "SAR EU": "0.64 W/kg (head)",
+            "SAR US": "1.28 W/kg (head) \u00a0 \u00a0 0.47 W/kg (body)"
+        },
+        "Network": {
+            "": "GSM 850 / 1900 - American version",
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "Class 6",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "": "- 2.5 mm audio jack",
+            "3.5mm jack": "No",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 2680 slide",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_2680_slide-pictures-2337.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-2680-slide.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_2680_slide-2337.php"
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po 3100 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "": "- Fingerprint sensor",
+            "Dimensions": "143.2 x 71.9 x 8.5 mm (5.64 x 2.83 x 0.33 in)",
+            "SIM": "Optional Dual SIM (Nano-SIM, dual stand-by)",
+            "Weight": "157 g (5.54 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection, HDR, panorama",
+            "Primary": "20 MP, 5152 x 3888 pixels, phase detection autofocus, dual-LED (dual tone) flash, check quality",
+            "Secondary": "8 MP, LED flash, panorama",
+            "Video": "1080p@30fps, HDR, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, EDR, LE",
+            "GPS": "Yes, with A-GPS, GLONASS/ Beidou (market dependant)",
+            "NFC": "Yes",
+            "Radio": "Stereo FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, WiFi Direct, hotspot"
+        },
+        "Display": {
+            "": "- Emotion UI 3.1",
+            "Multitouch": "Yes",
+            "Resolution": "1080 x 1920 pixels (~424 ppi pixel density)",
+            "Size": "5.2 inches (~72.4% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP3/WAV/eAAC+/Flac player\n- MP4/H.265 player\n- Photo/video editor\n- Document viewer",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2015, June",
+            "Status": "Available. Released 2015, July"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 128 GB (uses SIM 2 slot)",
+            "Internal": "16/64 GB, 3 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White, Gold",
+            "Price group": "6/10 (About 290 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2 (optional)",
+            "3G bands": "HSDPA",
+            "4G bands": "LTE band 1(2100), 3(1800)",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat6 300/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 2.2 GHz Cortex-A53 & quad-core 1.5 GHz Cortex-A53",
+            "Chipset": "HiSilicon Kirin 935",
+            "GPU": "Mali-T628 MP4",
+            "OS": "Android OS, v5.0 (Lollipop)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Battery life": "Endurance rating 64h",
+            "Camera": "Photo / Video"
+        }
+    },
+    "main": {
+        "device_name": "Huawei Honor 7",
+        "image": {
+            "href": "http://www.gsmarena.com/huawei_honor_7-pictures-7269.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/huawei-honor-7r.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/huawei_honor_7-7269.php"
+    }
+}

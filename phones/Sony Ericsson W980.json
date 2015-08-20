@@ -1,0 +1,81 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 930 mAh battery (BST-38)",
+            "Stand-by": "Up to 370 h (2G) / Up to 360 h (3G)",
+            "Talk time": "Up to 9 h (2G) / Up to 4 h 30 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "92 x 46 x 16.9 mm (3.62 x 1.81 x 0.67 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "100 g (3.53 oz)"
+        },
+        "Camera": {
+            "Primary": "3.15 MP, 2048 x 1536 pixels",
+            "Secondary": "Videocall camera",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "Stereo FM radio with RDS; FM transmitter",
+            "USB": "v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second external TFT display, 256K colors (176 x 176 pixels)",
+            "Resolution": "240 x 320 pixels (~182 ppi pixel density)",
+            "Size": "2.2 inches (~35.4% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- Walkman player \n- TrackID music recognition\n- Shake control\n- Predictive text input\n- Photo editor\n- Organizer\n- Voice memo",
+            "Browser": "WAP 2.0/xHTML, HTML (NetFront), RSS reader",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS, Email, Instant Messaging",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2008, February. Released 2008, July",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "30 received, dialed and missed calls",
+            "Card slot": "No",
+            "Internal": "8 GB",
+            "Phonebook": "1000 x 20 fields, Photo call"
+        },
+        "Misc": {
+            "Colors": "Piano Black, Opera Brown, Violin Red",
+            "Price group": "3/10 (About 150 EUR)",
+            "SAR EU": "0.67 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 2100",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Speed": "HSPA 3.6/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3, AAC ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        },
+        "Tests": {
+            "Audio quality": "Noise -86.0dB / Crosstalk -86.3dB",
+            "Loudspeaker": "Voice 70dB / Noise 75dB / Ring 75dB"
+        }
+    },
+    "main": {
+        "device_name": "Sony Ericsson W980",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_ericsson_w980-pictures-2249.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/se-w980.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_ericsson_w980-2249.php"
+    }
+}

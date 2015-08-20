@@ -1,0 +1,77 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1000 mAh battery",
+            "Stand-by": "Up to 260 h (2G) / Up to 420 h (3G)",
+            "Talk time": "Up to 7 h (2G) / Up to 7 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "107 x 54.5 x 11.8 mm (4.21 x 2.15 x 0.46 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "98 g (3.46 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "5 MP, 2592 x 1944 pixels, autofocus, LED flash",
+            "Secondary": "Videocall camera",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "Yes, with A-GPS; WisePilot",
+            "Radio": "Stereo FM radio",
+            "USB": "v2.0",
+            "WLAN": "Wi-Fi 802.11b/g"
+        },
+        "Display": {
+            "Resolution": "240 x 400 pixels (~155 ppi pixel density)",
+            "Size": "3.0 inches (~43.9% screen-to-body ratio)",
+            "Type": "TFT touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/MP4 player\n- Organizer\n- Document viewer (Word, Excel, PowerPoint, PDF)\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email, Push Email",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2009, June",
+            "Status": "Available. Released 2009, August"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 8 GB",
+            "Internal": "60 MB",
+            "Phonebook": "Yes, Photocall"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "2/10 (About 100 EUR)",
+            "SAR US": "0.56 W/kg (head) \u00a0 \u00a0 0.31 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 1900 / 2100",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Speed": "HSPA 3.6/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones, composer",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "LG GT505",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_gt505-pictures-2815.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-gt505.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_gt505-2815.php"
+    }
+}

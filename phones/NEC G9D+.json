@@ -1,0 +1,88 @@
+{
+    "data": {
+        "Battery": {
+            "": "Hi-capacity NiMH",
+            "Stand-by": "56 h",
+            "Talk time": "210 min"
+        },
+        "Body": {
+            "Dimensions": "145 x 49 x 22.5 mm (5.71 x 1.93 x 0.89 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "200 g (7.05 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Fixed icons",
+            "Resolution": "4 x 12 chars",
+            "Size": "",
+            "Type": "Alphanumeric"
+        },
+        "Features": {
+            "Alarm": "No",
+            "Browser": "",
+            "Clock": "No",
+            "Games": "No",
+            "Java": "No",
+            "Messaging": "SMS"
+        },
+        "Launch": {
+            "Announced": "1997",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "",
+            "Card slot": "No",
+            "Phonebook": ""
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Monophonic ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "NEC G9D+",
+        "index": 1,
+        "url": "http://www.gsmarena.com/nec_g9d+-154.php"
+    }
+}

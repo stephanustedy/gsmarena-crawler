@@ -1,0 +1,80 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1500 mAh battery",
+            "Stand-by": "Up to 400 h (2G) / Up to 400 h (3G)",
+            "Talk time": "Up to 7 h 30 min (2G) / Up to 5 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "122 x 60 x 10.9 mm (4.80 x 2.36 x 0.43 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "120 g (4.23 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash",
+            "Secondary": "VGA",
+            "Video": "720p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "microUSB v2.0 (MHL TV-out)",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "": "- Lenovo Magic UI v3.0",
+            "Multitouch": "Yes",
+            "Resolution": "480 x 800 pixels (~246 ppi pixel density)",
+            "Size": "3.8 inches (~56.1% screen-to-body ratio)",
+            "Type": "LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Mobile TV\n- Active noise cancellation with dedicated mic\n- MP4/WMV/H.264 player\n- MP3/WAV/WMA/eAAC+ player\n- Organizer\n- Photo/video editor\n- Document viewer\n- Voice memo/dial\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML, Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2012, January",
+            "Status": "Available. Released 2012, March"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "8/16 GB, 512/1024 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "7/10 (About 370 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 1900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.4 GHz Cortex-A9",
+            "OS": "Android OS, v2.3.4 (Gingerbread)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "For China Unicom",
+        "device_name": "Lenovo LePhone S2",
+        "image": {
+            "href": "http://www.gsmarena.com/lenovo_lephone_s2-pictures-4424.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/Lenovo-LePhone-S2.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lenovo_lephone_s2-4424.php"
+    }
+}

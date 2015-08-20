@@ -1,0 +1,81 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1000 mAh battery",
+            "Stand-by": "Up to 800 h (2G) / Up to 500 h (3G)",
+            "Talk time": "Up to 10 h (2G) / Up to 5 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "96.3 x 53.8 x 13 mm (3.79 x 2.12 x 0.51 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "80 g (2.82 oz)"
+        },
+        "Camera": {
+            "Features": "Video-calling",
+            "Primary": "2 MP, 1600 x 1200 pixels",
+            "Secondary": "Yes (market dependant)",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "No",
+            "Radio": "Stereo FM radio with RDS, FM recording",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n"
+        },
+        "Display": {
+            "": "- TouchWiz Lite UI",
+            "Multitouch": "Yes",
+            "Resolution": "240 x 320 pixels (~143 ppi pixel density)",
+            "Size": "2.8 inches (~46.9% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- SNS integration\n- MP4/H.264 player\n- MP3/WMA/WAV/eAAC+ player\n- Find Music recognition service\n- Organizer\n- Document viewer\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS, MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2011, August",
+            "Status": "Available. Released 2011, September"
+        },
+        "Memory": {
+            "Call records": "30 dialed, 30 received, 30 missed calls",
+            "Card slot": "microSD, up to 16 GB",
+            "Internal": "100 MB",
+            "Phonebook": "1000 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "2/10 (About 100 EUR)",
+            "SAR EU": "0.82 W/kg (head)",
+            "SAR US": "1.16 W/kg (head) \u00a0 \u00a0 0.32 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 7.2/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Samsung Champ 3.5G",
+        "device_name": "Samsung S3770",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_s3770-pictures-4100.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-s3770.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_s3770-4100.php"
+    }
+}

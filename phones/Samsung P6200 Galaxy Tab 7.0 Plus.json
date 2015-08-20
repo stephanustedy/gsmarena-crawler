@@ -1,0 +1,91 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 4000 mAh battery",
+            "Stand-by": "Up to 1000 h (2G) / Up to 1000 h (3G)",
+            "Talk time": "Up to 40 h (2G) / Up to 20 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "193.7 x 122.4 x 9.9 mm (7.63 x 4.82 x 0.39 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "345 g (12.17 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, smile detection",
+            "Primary": "3.15 MP, 2048 x 1536 pixels, autofocus, LED flash, check quality",
+            "Secondary": "2 MP",
+            "Video": "720p@30fps, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "v2.0 (TV-out), USB Host",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- TouchWiz UX UI",
+            "Multitouch": "Yes",
+            "Resolution": "600 x 1024 pixels (~170 ppi pixel density)",
+            "Size": "7.0 inches (~58.2% screen-to-body ratio)",
+            "Type": "PLS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/DivX/Xvid/H.264/WMV player\n- MP3/WAV/eAAC+/WMA/Flac player\n- Photo/video editor\n- Quickoffice HD editor/viewer",
+            "Browser": "HTML, Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2011, September",
+            "Status": "Available. Released 2011, October"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "16/32 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "6/10 (About 260 EUR)",
+            "SAR EU": "0.71 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 1900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 21.1/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.2 GHz",
+            "Chipset": "Exynos 4210",
+            "GPU": "Mali-400",
+            "OS": "Android OS, v3.2 (Honeycomb), upgradable to v4.1 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        },
+        "Tests": {
+            "Audio quality": "Noise -89.5dB / Crosstalk -83.1dB",
+            "Battery life": "Endurance rating 63h",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 1236:1 (nominal)",
+            "Loudspeaker": "Voice 66dB / Noise 65dB / Ring 65dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as:\nSamsung Galaxy Tab 7.0N Plus\nSamsung Galaxy Tab 7.0 Plus N in Germany\nTablet with support for GSM voice communication, SMS, and MMS",
+        "device_name": "Samsung P6200 Galaxy Tab 7.0 Plus",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_p6200_galaxy_tab_7_0_plus-pictures-4208.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-tab-plus-p6200.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_p6200_galaxy_tab_7_0_plus-4208.php"
+    }
+}

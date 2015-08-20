@@ -1,0 +1,76 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1100 mAh battery",
+            "Stand-by": "Up to 350 h",
+            "Talk time": "Up to 6 h"
+        },
+        "Body": {
+            "Dimensions": "115 x 59 x 13.8 mm (4.53 x 2.32 x 0.54 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "148 g (5.22 oz)"
+        },
+        "Camera": {
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus",
+            "Secondary": "Yes",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "v2.0",
+            "WLAN": "Wi-Fi 802.11b/g"
+        },
+        "Display": {
+            "Resolution": "480 x 800 pixels (~267 ppi pixel density)",
+            "Size": "3.5 inches (~51.4% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 65K colors"
+        },
+        "Features": {
+            "": "- Pocket Office \n- Organizer\n- MP3/MP4 player",
+            "Browser": "WAP 2.0/xHTML, HTML (IE), RSS reader",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS (threaded view), EMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2009, March. Released 2009, May",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 16 GB",
+            "Internal": "4 GB, 288 MB RAM, 256 MB ROM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "7/10 (About 400 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 1900 / 2100",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 7.2/2 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "528 MHz ARM 11",
+            "Chipset": "Qualcomm MSM7201A",
+            "OS": "Microsoft Windows Mobile 6.1 Professional"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Asus P835",
+        "image": {
+            "href": "http://www.gsmarena.com/asus_p835-pictures-2727.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/asus-p835.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/asus_p835-2727.php"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1200 mAh battery",
+            "Stand-by": "Up to 223 h",
+            "Talk time": "Up to 4 h"
+        },
+        "Body": {
+            "Dimensions": "112 x 62 x 14.3 mm (4.41 x 2.44 x 0.56 in)",
+            "SIM": "Dual SIM (Mini-SIM)",
+            "Weight": "-"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0",
+            "GPS": "No",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "240 x 320 pixels (~114 ppi pixel density)",
+            "Size": "3.5 inches (~54.6% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 65K colors"
+        },
+        "Features": {
+            "": "- MP3/WAV/AAC+ player\n- MP4/H.263 player\n- Photo viewer\n- Organizer\n- Predictive text input",
+            "Browser": "Yes",
+            "Java": "No",
+            "Messaging": "SMS, MMS, Email, IM",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2012, August",
+            "Status": "Available. Released 2012, August"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "White",
+            "Price group": "2/10 (About 60 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+            "EDGE": "No",
+            "GPRS": "Yes",
+            "Technology": "GSM"
+        },
+        "Platform": {
+            "CPU": "800 MHz Cortex-A9",
+            "Chipset": "Mediatek MT6513",
+            "GPU": "PowerVR SGX531",
+            "OS": "Android OS, v2.3.6 (Gingerbread)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Micromax Superfone Punk A44",
+        "image": {
+            "href": "http://www.gsmarena.com/micromax_superfone_punk_a44-pictures-4903.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/micromax-superfone-punk-a44.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/micromax_superfone_punk_a44-4903.php"
+    }
+}

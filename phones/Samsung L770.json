@@ -1,0 +1,76 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 880 mAh battery",
+            "Stand-by": "Up to 200 h",
+            "Talk time": "Up to 5 h"
+        },
+        "Body": {
+            "Dimensions": "102 x 48 x 14.2 mm (4.02 x 1.89 x 0.56 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "84 g (2.96 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels, LED flash",
+            "Secondary": "Videocall camera",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~190 ppi pixel density)",
+            "Size": "2.1 inches (~27.9% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/AAC/eACC/WMA player\n- Blog function\n- Document viewer (Word, Excel, PowerPoint, PDF)\n- Predictive text input\n- Photo editor\n- Organizer",
+            "Browser": "WAP 2.0/xHTML, RSS reader",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2008, February. Released 2008, July",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "30 dialed, 30 received, 30 missed calls",
+            "Card slot": "microSD",
+            "Internal": "30 MB",
+            "Phonebook": "1000 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Silver",
+            "Price group": "2/10 (About 100 EUR)",
+            "SAR EU": "0.63 W/kg (head)",
+            "SAR US": "0.55 W/kg (head) \u00a0 \u00a0 1.21 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "3G bands": "HSDPA 2100",
+            "EDGE": "Class 11, 236.8 kbps",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 3.6/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Samsung L770",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_l770-pictures-2264.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-l770.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_l770-2264.php"
+    }
+}

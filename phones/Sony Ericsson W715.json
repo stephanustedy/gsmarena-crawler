@@ -1,0 +1,79 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1000 mAh battery",
+            "Stand-by": "Up to 400 h (2G) / Up to 350 h (3G)",
+            "Talk time": "Up to 10 h (2G) / Up to 4 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "95 x 47.5 x 14.3 mm (3.74 x 1.87 x 0.56 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "98 g (3.46 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "3.15 MP, 2048 x 1536 pixels, LED flash",
+            "Secondary": "Videocall camera",
+            "Video": "320p@15fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g, DLNA"
+        },
+        "Display": {
+            "": "",
+            "Resolution": "240 x 320 pixels (~167 ppi pixel density)",
+            "Size": "2.4 inches (~39.5% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- Vodafone Find&Go\n- TrackID music recognition\n- MP3/AAC/MP4 player\n- Walkman 3.0 player\n- Shake control\n- SensMe\n- TrackID music recognition\n- YouTube service in Media Center\n- Organizer\n- Voice memo\n- Motion gaming",
+            "Browser": "WAP 2.0/HTML, RSS",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2009, January",
+            "Status": "Available. Released 2009, June"
+        },
+        "Memory": {
+            "Call records": "30 received, dialed and missed calls",
+            "Card slot": "Memory Stick Micro (M2), up to 8 GB",
+            "Internal": "120 MB",
+            "Phonebook": "Yes, up to 2000 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Galactic Black, Luxury Silver",
+            "Price group": "3/10 (About 120 EUR)",
+            "SAR EU": "0.93 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 1900 / 2100 / 1700",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Speed": "HSPA 7.2/2 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration, MP3, AAC ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "For Vodafone",
+        "device_name": "Sony Ericsson W715",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_ericsson_w715-pictures-2642.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/se-w715.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_ericsson_w715-2642.php"
+    }
+}

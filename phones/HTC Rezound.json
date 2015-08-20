@@ -1,0 +1,147 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1620 mAh battery",
+            "Stand-by": "Up to 261 h",
+            "Talk time": "Up to 6 h 24 min"
+        },
+        "Body": {
+            "Dimensions": "129 x 65.5 x 13.7 mm (5.08 x 2.58 x 0.54 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "170.1 g (6.00 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, dual-LED flash",
+            "Secondary": "2 MP",
+            "Video": "1080p@30fps, stereo sound rec."
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "microUSB v2.0 (MHL TV-out)",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- HTC Sense UI 3.0",
+            "Multitouch": "Yes",
+            "Resolution": "720 x 1280 pixels (~342 ppi pixel density)",
+            "Size": "4.3 inches (~60.3% screen-to-body ratio)",
+            "Type": "S-LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP3/AAC+/WAV/WMA player\n- XviD/MP4/H.264/WMV player\n- Organizer\n- Document viewer\n- Voice memo/dial/commands\n- Predictive text input",
+            "Browser": "HTML, Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2011, November",
+            "Status": "Available. Released 2011, November"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB, 16 GB included",
+            "Internal": "16 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "4/10 (About 160 EUR)",
+            "SAR EU": "1.40 W/kg (head)",
+            "SAR US": "1.25 W/kg (head) \u00a0 \u00a0 1.12 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "CDMA 800 / 1900",
+            "3G bands": "CDMA2000 1xEV-DO",
+            "4G bands": "LTE band 13(700) - Verizon",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Speed": "EV-DO Rev.A 3.1 Mbps, LTE Class 13",
+            "Technology": "CDMA / EVDO / LTE"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.5 GHz Scorpion",
+            "Chipset": "Qualcomm MSM8660 Snapdragon S3",
+            "GPU": "Adreno 220",
+            "OS": "Android OS, v2.3.4 (Gingerbread), upgradable to v4.0 (Ice Cream Sandwich)"
+        },
+        "Sound": {
+            "": "- SRS WOW HD",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "0": "B",
+            "1": "a",
+            "10": "f",
+            "11": "e",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "t",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "g",
+            "25": "s",
+            "26": "m",
+            "27": "a",
+            "28": "r",
+            "29": "e",
+            "3": "t",
+            "30": "n",
+            "31": "a",
+            "32": "_",
+            "33": "l",
+            "34": "a",
+            "35": "b",
+            "36": "_",
+            "37": "t",
+            "38": "e",
+            "39": "s",
+            "4": "e",
+            "40": "t",
+            "41": "s",
+            "42": "-",
+            "43": "r",
+            "44": "e",
+            "45": "v",
+            "46": "i",
+            "47": "e",
+            "48": "w",
+            "49": "-",
+            "5": "r",
+            "50": "7",
+            "51": "5",
+            "52": "1",
+            "53": "p",
+            "54": "6",
+            "55": ".",
+            "56": "p",
+            "57": "h",
+            "58": "p",
+            "6": "y",
+            "7": " ",
+            "8": "l",
+            "9": "i"
+        }
+    },
+    "main": {
+        "canonical_name": "For Verizon\nAlso known as HTC Vigor, HTC ThunderBolt 2, HTC Droid Incredible HD, HTC ADR6425",
+        "device_name": "HTC Rezound",
+        "image": {
+            "href": "http://www.gsmarena.com/htc_rezound-pictures-4099.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/htc-rezound-new.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/htc_rezound-4099.php"
+    }
+}

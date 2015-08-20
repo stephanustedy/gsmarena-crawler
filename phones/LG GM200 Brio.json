@@ -1,0 +1,74 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 1100 mAh battery",
+            "Stand-by": "Up to 450 h",
+            "Talk time": "8 h 24 min"
+        },
+        "Body": {
+            "Dimensions": "106 x 48 x 14.4 mm (4.17 x 1.89 x 0.57 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "85 g (3.00 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels",
+            "Secondary": "No",
+            "Video": "QCIF@15fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "FM radio with RDS, built-in antenna",
+            "USB": "v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "176 x 220 pixels (~141 ppi pixel density)",
+            "Size": "2.0 inches (~24.7% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- MP4/H.263 player\n- MP3/AAC/AAC+/AAC++/WMA/AMR/MIDI player\n- Organizer\n- Smart Profiling through noise sensor\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Sudoku Puzzle, ZooZooClub",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2009, March",
+            "Status": "Available. Released 2009, June"
+        },
+        "Memory": {
+            "Call records": "50 dialed, 50 received, 50 missed calls",
+            "Card slot": "microSD, up to 2 GB",
+            "Internal": "14 MB",
+            "Phonebook": "1000 entries , Photocall"
+        },
+        "Misc": {
+            "Colors": "Black, Silver, Gold (GM200); Black, Red (GM205)",
+            "Price group": "2/10 (About 50 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "": "- Dolby Surround Sound Technology\n- 3 speakers (two stereo speakers + one woofer)",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as LG GM205",
+        "device_name": "LG GM200 Brio",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_gm200_brio-pictures-2756.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-gm200.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_gm200_brio-2756.php"
+    }
+}

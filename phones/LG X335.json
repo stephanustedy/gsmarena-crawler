@@ -1,0 +1,78 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 900 mAh battery",
+            "Stand-by": "Up to 975 h",
+            "Talk time": "Up to 13 h 30 min"
+        },
+        "Body": {
+            "Dimensions": "109 x 61 x 13.8 mm (4.29 x 2.40 x 0.54 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Dual SIM (Mini-SIM, dual stand-by)",
+            "Weight": "77.5 g (2.72 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 1024 pixels",
+            "Secondary": "No",
+            "Video": "176x144"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "No",
+            "Radio": "FM radio, FM recording",
+            "USB": "microUSB v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "320 x 240 pixels (~174 ppi pixel density)",
+            "Size": "2.3 inches (~24.6% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- MP3/eAAC+/WAV player\n- MP4/H.264 player\n- Organizer\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email, IM",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2011. Released 2011",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 8 GB",
+            "Internal": "80 MB",
+            "Phonebook": "1000 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "2/10 (About 80 EUR)",
+            "SAR EU": "0.80 W/kg (head) \u00a0 \u00a0 0.36 W/kg (body)",
+            "SAR US": "0.80 W/kg (head) \u00a0 \u00a0 0.36 W/kg (body)"
+        },
+        "Network": {
+            "": "GSM 850 / 900 / 1800 / 1900 - SIM 2",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as LG X330",
+        "device_name": "LG X335",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_x335-pictures-3852.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-neosmart-x335.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_x335-3852.php"
+    }
+}

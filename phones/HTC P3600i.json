@@ -1,0 +1,83 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "108 x 58.2 x 18.4 mm (4.25 x 2.29 x 0.72 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "150 g (5.29 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels",
+            "Secondary": "VGA videocall camera",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "Yes",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "USB host",
+            "WLAN": "Wi-Fi 802.11b/g"
+        },
+        "Display": {
+            "": "- Handwriting recognition",
+            "Resolution": "240 x 320 pixels (~143 ppi pixel density)",
+            "Size": "2.8 inches (~38.6% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 65K colors"
+        },
+        "Features": {
+            "": "- Qualcomm MSM 6275\n- Pocket Office \n- Voice memo\n- MP3/AAC player",
+            "Browser": "WAP 2.0/xHTML, HTML (PocketIE)",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2007, August",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "miniSD",
+            "Internal": "64 MB RAM, 256 MB ROM"
+        },
+        "Misc": {
+            "Colors": "Silver, Black",
+            "Price group": "5/10 (About 230 EUR)",
+            "SAR US": "0.98 W/kg (head) \u00a0 \u00a0 0.80 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 1900 - American version",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 2100",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Speed": "HSPA 3.6/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "500 MHz Samsung",
+            "OS": "Microsoft Windows Mobile 6.0 Professional"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": {
+            "href": "http://www.gsmarena.com/htc_pocketpc_smartphone.php3",
+            "text": "HTC Trinity platform. Full HTC platforms guide"
+        },
+        "device_name": "HTC P3600i",
+        "image": {
+            "href": "http://www.gsmarena.com/htc_p3600i-pictures-2126.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/htc-p3600i.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/htc_p3600i-2126.php"
+    }
+}

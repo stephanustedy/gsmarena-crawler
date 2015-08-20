@@ -1,0 +1,83 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 2060 mAh battery",
+            "Stand-by": "Up to 360 h (3G)",
+            "Talk time": "Up to 15 h 40 min (3G)"
+        },
+        "Body": {
+            "": "- Padfone Station with 7 inches IPS+ display, 800 x 1280 pixels, 2200 mAh battery, 1 MP front camera. 203.7 x 119.4 x 11.2-21.1 mm, 249.8 grams",
+            "Dimensions": "132.1 x 66.3 x 12.7 mm (5.20 x 2.61 x 0.5 in)",
+            "SIM": "Yes",
+            "Weight": "148.8 g (5.22 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, LED flash",
+            "Secondary": "2 MP",
+            "Video": "1080p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "480 x 854 pixels (~218 ppi pixel density)",
+            "Size": "4.5 inches (~63.7% screen-to-body ratio)",
+            "Type": "IPS+ LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- ASUS WebStorage (50 GB storage)\n- MP3/WAV/eAAC+ player\n- MP4/H.264 player\n- Document viewer\n- Photo/video editor\n- Voice memo/dial",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2014, October",
+            "Status": "Available. Released 2014, October"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "8 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "4/10 (About 160 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 1900 / 2100",
+            "4G bands": "LTE band 2(1900), 4(1700/2100), 5(850), 17(700)",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 21.1/5.76 Mbps, LTE Cat3 100/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.6 GHz",
+            "Chipset": "Intel Atom Z2560",
+            "GPU": "PowerVR SGX544MP2",
+            "OS": "Android OS, v4.4.2 (KitKat)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "For AT&T",
+        "device_name": "Asus PadFone X mini",
+        "image": {
+            "href": "http://www.gsmarena.com/asus_padfone_x_mini-pictures-6737.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/asus-padfone-x-mini.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/asus_padfone_x_mini-6737.php"
+    }
+}

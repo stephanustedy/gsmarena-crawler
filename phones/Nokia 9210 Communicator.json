@@ -1,0 +1,74 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1300 mAh battery (BLL-3)",
+            "Stand-by": "Up to 230 h",
+            "Talk time": "Up to 4 - 10 h"
+        },
+        "Body": {
+            "Dimensions": "158 x 56 x 27 mm (6.22 x 2.20 x 1.06 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "244 g (8.61 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second display (80x48 pixels)",
+            "Resolution": "640 x 200 pixels (~149 ppi pixel density)",
+            "Size": "4.5 inches, 110 x 35 mm (~42.0% screen-to-body ratio)",
+            "Type": "TFT, 4096 colors"
+        },
+        "Features": {
+            "": "- Attachment viewers\n- Video player\n- Document viewer (Word, Excel, PowerPoint, PDF)\n- All PDA functions\n- Imaging (Digital camera connectivity)",
+            "Alarm": "Yes",
+            "Browser": "WAP, HTML",
+            "Clock": "Yes",
+            "Java": "Yes",
+            "Messaging": "SMS, Email, Fax"
+        },
+        "Launch": {
+            "Announced": "2000",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- 14 MB application memory\n- 2 MB + card capacity user memory\n- Processor: 32-bit ARM9-based RISC CPU at 52 MHz",
+            "Card slot": "MMC, 16 MB included"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "SAR EU": "0.34 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "GSM"
+        },
+        "Platform": {
+            "CPU": "52 MHz ARM 9",
+            "OS": "Open Symbian, based on Symbian v6.0, Series 80 UI"
+        },
+        "Sound": {
+            "": "- Audio Speaker\n- Ringtone formats: RNG, WAV, AU, WVE",
+            "3.5mm jack": "No",
+            "Alert types": "Downloadable monophonic, WAV ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 9210 Communicator",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_9210_communicator-pictures-210.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/no9210.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_9210_communicator-210.php"
+    }
+}

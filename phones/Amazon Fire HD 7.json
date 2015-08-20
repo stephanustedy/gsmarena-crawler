@@ -1,0 +1,79 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion battery",
+            "Stand-by": "",
+            "Talk time": "Up to 8 h"
+        },
+        "Body": {
+            "Dimensions": "191 x 128 x 10.6 mm (7.52 x 5.04 x 0.42 in)",
+            "SIM": "No",
+            "Weight": "337 g (11.89 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels",
+            "Secondary": "VGA",
+            "Video": "1080p"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "microUSB v2.0 (SlimPort)",
+            "WLAN": "Wi-Fi 802.11 b/g/n"
+        },
+        "Display": {
+            "": "- Fire OS 4 Sangria UI",
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "800 x 1280 pixels (~216 ppi pixel density)",
+            "Size": "7.0 inches (~58.1% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/H.264 player\n- MP3/WAV/eAAC+/E-AC-3 player\n- Document viewer\n- Photo/video editor\n- Free cloud storage for all Amazon content\n- Text-to-Speech English-language content reader",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "Email, Push Email, IM",
+            "Sensors": "Accelerometer, gyro"
+        },
+        "Launch": {
+            "Announced": "2014, September",
+            "Status": "Available. Released 2014, October"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "8/16 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White, Cobalt, Magenta, Citron",
+            "Price group": "3/10 (About 120 EUR)"
+        },
+        "Network": {
+            "2G bands": "N/A",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "No cellular connectivity"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.5 GHz & dual-core 1.2 GHz",
+            "OS": "Android OS, v4.4 (KitKat - customized)"
+        },
+        "Sound": {
+            "": "- Dolby Digital Plus",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "canonical_name": "Tablet with no support for GSM voice communication, SMS, and MMS",
+        "device_name": "Amazon Fire HD 7",
+        "image": {
+            "href": "http://www.gsmarena.com/amazon_fire_hd_7-pictures-6689.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/amazon-fire-hd7.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/amazon_fire_hd_7-6689.php"
+    }
+}

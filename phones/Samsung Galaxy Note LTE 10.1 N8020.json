@@ -1,0 +1,88 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 7000 mAh battery",
+            "Stand-by": "Up to 2158 h (2G) / Up to 1850 h (3G)",
+            "Talk time": "Up to 64 h (2G) / Up to 43 h (3G)"
+        },
+        "Body": {
+            "": "- S Pen stylus",
+            "Dimensions": "262 x 180 x 8.9 mm (10.31 x 7.09 x 0.35 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "600 g (1.32 lb)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "5 MP, 2560 x 1920 pixels, autofocus, LED flash",
+            "Secondary": "1.9 MP",
+            "Video": "720p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "microUSB v2.0 (MHL TV-out), USB Host",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, hotspot"
+        },
+        "Display": {
+            "": "- Samsung TouchWiz UI",
+            "Multitouch": "Yes",
+            "Resolution": "800 x 1280 pixels (~149 ppi pixel density)",
+            "Size": "10.1 inches (~62.7% screen-to-body ratio)",
+            "Type": "Capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/DivX/Xvid/FLV/MKV/H.264 player\n- MP3/WAV/eAAC+/Flac player\n- Photo/video editor\n- Adobe Photoshop Touch app\n- Document editor/viewer",
+            "Browser": "HTML5, Adobe Flash",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, gyro, compass"
+        },
+        "Launch": {
+            "Announced": "2012, December",
+            "Status": "Available. Released 2012, December"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "16/32/64 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Gray, white",
+            "Price group": "7/10 (About 390 EUR)",
+            "SAR EU": "0.93 W/kg (body)",
+            "SAR US": "1.53 W/kg (body)"
+        },
+        "Network": {
+            "": "LTE band 3(1800), 7(2600), 8(900), 20(800)",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 2100",
+            "4G bands": "LTE band 3(1800), 7(2600)",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat3 100/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.4 GHz Cortex-A9",
+            "Chipset": "Exynos 4412 Quad",
+            "GPU": "Mali-400MP4",
+            "OS": "Android OS, v4.1 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "canonical_name": "Tablet with support for GSM voice communication, SMS, and MMS",
+        "device_name": "Samsung Galaxy Note LTE 10.1 N8020",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_galaxy_note_lte_10_1_n8020-pictures-5151.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-note-101-lte-n8020.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_galaxy_note_lte_10_1_n8020-5151.php"
+    }
+}

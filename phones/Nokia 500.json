@@ -1,0 +1,85 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1110 mAh battery (BL-4U)",
+            "Music play": "Up to 35 h",
+            "Stand-by": "Up to 500 h (2G) / Up to 455 h (3G)",
+            "Talk time": "Up to 7 h (2G) / Up to 5 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "111.3 x 53.8 x 14.1 mm, 73 cc (4.38 x 2.12 x 0.56 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "93 g (3.28 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, check quality",
+            "Secondary": "No",
+            "Video": "480p@15fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g"
+        },
+        "Display": {
+            "Resolution": "360 x 640 pixels (~229 ppi pixel density)",
+            "Size": "3.2 inches (~47.1% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Exchangeable battery covers with multiple home screens (2 included in the retail box)\n- MP4/H.264 player\n- MP3/WAV/\u0435AAC+/WMA player\n- Photo editor\n- Organizer\n- Voice command/dial\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML, Adobe Flash Lite",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2011, August",
+            "Status": "Available. Released 2011, September"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "2 GB, 256 MB RAM, 512 MB ROM"
+        },
+        "Misc": {
+            "Colors": "Black/White with covers in Black, Azure Blue, Coral Red, Purple, Khaki, Orange, Green, Pink, Silver",
+            "Price group": "3/10 (About 110 EUR)",
+            "SAR EU": "1.18 W/kg (head)",
+            "SAR US": "1.47 W/kg (head) \u00a0 \u00a0 1.38 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 1700 / 1900 / 2100",
+            "EDGE": "Class 33",
+            "GPRS": "Class 33",
+            "Speed": "HSPA 14.4/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "1 GHz ARM 11",
+            "OS": "Symbian Anna OS, upgradeable to Nokia Belle OS"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -90.1dB / Crosstalk -91.2dB",
+            "Camera": "Photo",
+            "Loudspeaker": "Voice 73dB / Noise 65dB / Ring 75dB"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 500",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_500-pictures-4085.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-500.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_500-4085.php"
+    }
+}

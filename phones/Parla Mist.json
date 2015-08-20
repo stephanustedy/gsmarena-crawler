@@ -1,0 +1,99 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 700 mAh battery",
+            "Stand-by": "Up to 260 h",
+            "Talk time": "Up to 6 h"
+        },
+        "Body": {
+            "": "- Flashlight",
+            "Dimensions": "104.6 x 57 x 12.9 mm (4.12 x 2.24 x 0.51 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Triple SIM (Mini-SIM)",
+            "Weight": "90 g without battery (3.17 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels, LED flash",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "No",
+            "Radio": "Stereo FM radio; built-in antenna",
+            "USB": "microUSB",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "160 x 128 pixels (~114 ppi pixel density)",
+            "Size": "1.8 inches (~17.1% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- Music player\n- Video player\n- Organizer\n- Voice memo",
+            "Browser": "WAP",
+            "Games": "Yes",
+            "Java": "No",
+            "Messaging": "SMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2012, June",
+            "Status": "Available. Released 2012, Q4"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "32 Mbit + 32 Mbit",
+            "Phonebook": "Yes"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "": "GSM 850 / 900 / 1800 / 1900 - SIM 2 & SIM 3 (P330 only)",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 12",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "P310 - Single SIM\nP330 - Triple SIM",
+        "device_name": "Parla Mist",
+        "image": {
+            "href": "http://www.gsmarena.com/parla_mist-pictures-5012.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/parla-mist-p330.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/parla_mist-5012.php"
+    }
+}

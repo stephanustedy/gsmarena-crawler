@@ -1,0 +1,82 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1810 mAh battery",
+            "Stand-by": "Up to 362 h (2G) / Up to 301 h (3G)",
+            "Talk time": "Up to 15 h (2G) / Up to 14 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "128.7 x 66 x 9.8 mm (5.07 x 2.60 x 0.39 in)",
+            "SIM": "Yes",
+            "Weight": "140 g (4.94 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face detection, panorama, HDR",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, dual-LED flash",
+            "Secondary": "1 MP, 720p",
+            "Video": "1080p"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes, up to 5 fingers",
+            "Resolution": "720 x 1280 pixels (~342 ppi pixel density)",
+            "Size": "4.3 inches (~60.0% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen"
+        },
+        "Features": {
+            "": "- MP4/DivX/H.264 player\n- MP3/WAV/AAC+ player\n- Document viewer\n- Photo/video editor\n- Voice memo",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2013, October",
+            "Status": "Available. Released 2013, October"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "8 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "4/10 (About 190 EUR)",
+            "SAR EU": "0.60 W/kg (head) \u00a0 \u00a0 0.53 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 2100",
+            "4G bands": "LTE band 40(2300)",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "LTE",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.5 GHz Krait",
+            "Chipset": "Qualcomm MSM8960 Snapdragon S4 Plus",
+            "GPU": "Adreno 225",
+            "OS": "Android OS, v4.2 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "XOLO LT900",
+        "image": {
+            "href": "http://www.gsmarena.com/xolo_lt900-pictures-5923.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/xolo-lt900.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/xolo_lt900-5923.php"
+    }
+}

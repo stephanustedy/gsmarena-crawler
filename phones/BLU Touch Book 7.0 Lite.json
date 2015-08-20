@@ -1,0 +1,78 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 3000 mAh battery",
+            "Stand-by": "Up to 200 h",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "194 x 120 x 10 mm (7.64 x 4.72 x 0.39 in)",
+            "SIM": "No",
+            "Weight": "340 g (11.99 oz)"
+        },
+        "Camera": {
+            "Features": "touch focus, face/smile detection",
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "Yes",
+            "Radio": "Stereo FM radio",
+            "USB": "miniUSB",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "480 x 800 pixels (~133 ppi pixel density)",
+            "Size": "7.0 inches (~59.9% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP3/AAC/WMA/WAV player\n- MP4/DivX/XviD/WMV/H.264 player\n- Document editor",
+            "Browser": "HTML, Adobe Flash",
+            "Java": "No",
+            "Messaging": "Email, Push Email, IM",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2012, September",
+            "Status": "Available. Released 2012, November"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "4 GB, 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "2/10 (About 70 EUR)"
+        },
+        "Network": {
+            "2G bands": "N/A",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "No cellular connectivity"
+        },
+        "Platform": {
+            "CPU": "1.2 GHz Cortex-A8",
+            "GPU": "Mali-400",
+            "OS": "Android OS, v4.0 (Ice Cream Sandwich)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Tablet with no support for GSM voice communication, SMS, and MMS",
+        "device_name": "BLU Touch Book 7.0 Lite",
+        "image": {
+            "href": "http://www.gsmarena.com/blu_touch_book_7_0_lite-pictures-5201.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/blu-tb-7-lite.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/blu_touch_book_7_0_lite-5201.php"
+    }
+}

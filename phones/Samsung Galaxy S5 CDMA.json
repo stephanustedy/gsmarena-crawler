@@ -1,0 +1,91 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 2800 mAh battery",
+            "Music play": "Up to 77 h",
+            "Stand-by": "Up to 480 h",
+            "Talk time": "Up to 27 h"
+        },
+        "Body": {
+            "": "- Fingerprint sensor\n- IP67 certified - dust and water resistant\n- Water resistant up to 1 meter and 30 minutes",
+            "Dimensions": "142 x 72.4 x 7.9 mm (5.59 x 2.85 x 0.31 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "144.9 g (5.11 oz)"
+        },
+        "Camera": {
+            "Features": "1/2.6'' sensor size, 1.12 \u00b5m pixel size, Dual Shot, Simultaneous HD video and image recording, geo-tagging, touch focus, face/smile detection, HDR",
+            "Primary": "16 MP, 5312 x 2988 pixels, phase detection autofocus, LED flash",
+            "Secondary": "2 MP, 1080p@30fps, dual video call",
+            "Video": "2160p@30fps, 1080p@60fps, HDR, dual-video rec."
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, EDR, LE, apt-X",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "Infrared port": "Yes",
+            "NFC": "Yes",
+            "Radio": "No",
+            "USB": "microUSB v3.0 (MHL 2.1 TV-out), USB Host",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot"
+        },
+        "Display": {
+            "": "- TouchWiz UI",
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 3",
+            "Resolution": "1080 x 1920 pixels (~432 ppi pixel density)",
+            "Size": "5.1 inches (~69.7% screen-to-body ratio)",
+            "Type": "Super AMOLED capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Wireless charging (Qi-enabled) - market dependent\n- ANT+ support\n- S-Voice natural language commands and dictation\n- Smart stay, Smart pause, Smart scroll\n- Air gestures\n- Dropbox (50 GB cloud storage)\n- Active noise cancellation with dedicated mic\n- MP4/DivX/XviD/WMV/H.264 player\n- MP3/WAV/WMA/eAAC+/FLAC player\n- Photo/video editor\n- Document viewer",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass, barometer, gesture, heart rate"
+        },
+        "Launch": {
+            "Announced": "2014, February",
+            "Status": "Available. Released 2014, April"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 128 GB",
+            "Internal": "16 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Charcoal Black, Shimmery White",
+            "Price group": "8/10 (About 480 EUR)",
+            "SAR EU": "0.50 W/kg (head) \u00a0 \u00a0 0.47 W/kg (body)",
+            "SAR US": "1.07 W/kg (head) \u00a0 \u00a0 1.47 W/kg (body)"
+        },
+        "Network": {
+            "": "LTE band 25(1900), 26(850), 41(2500) - SM-G900P",
+            "2G bands": "CDMA 800 / 1900 - all versions",
+            "3G bands": "CDMA2000 1xEV-DO - all versions",
+            "4G bands": "LTE band 4(1700/2100), 13(700) - SM-G900V",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "EV-DO Rev.A 3.1 Mbps, LTE Cat4 150/50 Mbps, HSPA",
+            "Technology": "GSM / CDMA / HSPA / EVDO / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 2.5 GHz Krait 400",
+            "Chipset": "Qualcomm MSM8974AC Snapdragon 801",
+            "GPU": "Adreno 330",
+            "OS": "Android OS, v4.4.2 (KitKat), upgradable to v5.0.1 (Lollipop)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Available as:\nSamsung SM-G900V - Verizon\nSamsung SM-G900R4 - US Cellular\nSamsung SM-G900P - Sprint",
+        "device_name": "Samsung Galaxy S5 CDMA",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_galaxy_s5_cdma-pictures-6338.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s5-cdma1.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_galaxy_s5_cdma-6338.php"
+    }
+}

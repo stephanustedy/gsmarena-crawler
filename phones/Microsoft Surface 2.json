@@ -1,0 +1,80 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "": "- Built-in 2-stage kickstand",
+            "Dimensions": "274.6 x 172.5 x 8.9 mm (10.81 x 6.79 x 0.35 in)",
+            "SIM": "No",
+            "Weight": "675.9 g (1.49 lb)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "5 MP, 2592 x 1936 pixels, autofocus, LED flash",
+            "Secondary": "3.5 MP, 1080p@30fps",
+            "Video": "1080p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "USB v3.0, USB Host support",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct"
+        },
+        "Display": {
+            "": "- ClearType technology",
+            "Multitouch": "Yes, up to 5 fingers",
+            "Resolution": "1920 x 1080 pixels (~208 ppi pixel density)",
+            "Size": "10.6 inches (~65.4% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- TV-out via HDMI port\n- Active noise cancellation with dedicated mic\n- MP4/DivX/XviD/WMV/H.264 player\n- MP3/WAV/eAAC+/FLAC player\n- Photo viewer/editor\n- Microsoft Office 2013 RT \n- SkyDrive (200 GB cloud storage)\n- Skype free international calls and Wi-Fi for 1 year",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "Email, Push Email, IM",
+            "Sensors": "Accelerometer, gyro, compass"
+        },
+        "Launch": {
+            "Announced": "2013, September",
+            "Status": "Available. Released 2013, October"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "32/64 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Dark Titanium",
+            "Price group": "7/10 (About 330 EUR)"
+        },
+        "Network": {
+            "2G bands": "N/A",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "No cellular connectivity"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.7 GHz Cortex-A15",
+            "Chipset": "Nvidia Tegra 4 T40",
+            "GPU": "ULP GeForce (72 cores)",
+            "OS": "Microsoft Windows RT"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "device_name": "Microsoft Surface 2",
+        "image": {
+            "href": "http://www.gsmarena.com/microsoft_surface_2-pictures-5725.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/microsoft-surface-2.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/microsoft_surface_2-5725.php"
+    }
+}

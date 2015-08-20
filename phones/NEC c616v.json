@@ -1,0 +1,98 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 780 mAh battery",
+            "Stand-by": "Up to 120 h",
+            "Talk time": "Up to 1h 50 min"
+        },
+        "Body": {
+            "Dimensions": "103 x 53 x 26 mm, 120 cc (4.06 x 2.09 x 1.02 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "130 g (4.59 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "Yes",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v1.1",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second external monochrome display (120 x 30 pixels)\n- Wallpapers\n- Downloadable pictures",
+            "Resolution": "176 x 240 pixels (~135 ppi pixel density)",
+            "Size": "2.2 inches, 35 x 43 mm (~27.3% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- Predictive text input\n- MP3 player\n- H.263 player\n- Organizer\n- Voice recorder",
+            "Browser": "",
+            "Games": "Yes + downloadable",
+            "Java": "Yes",
+            "Messaging": "SMS, EMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2003, 4Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "Memory Stick Duo",
+            "Internal": "19 MB",
+            "Phonebook": "500"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "3G bands": "UMTS 2100",
+            "EDGE": "No",
+            "GPRS": "Class 8",
+            "Speed": "Yes, 384 kbps",
+            "Technology": "GSM / UMTS"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "NEC c616v",
+        "image": {
+            "href": "http://www.gsmarena.com/nec_c616v-pictures-783.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nec616v.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nec_c616v-783.php"
+    }
+}

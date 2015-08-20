@@ -1,0 +1,74 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 800 mAh battery",
+            "Stand-by": "Up to 200 h",
+            "Talk time": "Up to 3 h"
+        },
+        "Body": {
+            "Dimensions": "89 x 45 x 24 mm (3.50 x 1.77 x 0.94 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "85 g (3.00 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels, LED flash",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second external display TFT, 65K colors (96 x 96 pixels)",
+            "Resolution": "176 x 220 pixels",
+            "Size": "",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- Predictive text input\n- Organizer\n- Voice memo",
+            "Browser": "WAP 2.0/xHTML, i-mode",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, DoJa 1.5",
+            "Messaging": "SMS, MMS, EMail"
+        },
+        "Launch": {
+            "Announced": "2005, 1Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- 1.5 MB for pictures\n- 1.5 MB for video\n- 2 MB for MMS\n- 2 MB for ringtones\n- 2 MB for Java",
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "No",
+            "Phonebook": "1000 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Silver",
+            "SAR EU": "1.00 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 8",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Samsung S342i",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_s342i-pictures-1148.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-s342i.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_s342i-1148.php"
+    }
+}

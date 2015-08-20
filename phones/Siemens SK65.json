@@ -1,0 +1,95 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 750 mAh battery (EBA-660)",
+            "Stand-by": "Up to 250 h",
+            "Talk time": "Up to 5 h"
+        },
+        "Body": {
+            "Dimensions": "120 x 47 x 22 mm, 115 cc (4.72 x 1.85 x 0.87 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "144 g (5.08 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "v1.2",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Downloadable pictures",
+            "Resolution": "132 x 176 pixels",
+            "Size": "",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- Push to talk (VoIP service)\n- E-mail push based on BlackBerry Built-In technology from RIM\n- Predictive text input\n- SyncML\n- Organizer",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "3 - Chess master, Golf and Sea Battle + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2004, 3Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- 30 MB available to user",
+            "Call records": "100 dialed, 100 received, 100 missed calls",
+            "Card slot": "No",
+            "Internal": "64 MB",
+            "Phonebook": "2000"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Siemens SK65",
+        "image": {
+            "href": "http://www.gsmarena.com/siemens_sk65-pictures-861.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/sisk65.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/siemens_sk65-861.php"
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1500 mAh battery",
+            "Stand-by": "Up to 590 h",
+            "Talk time": "Up to 11h 30 min"
+        },
+        "Body": {
+            "Dimensions": "118.5 x 58.3 x 16.4 mm (4.67 x 2.30 x 0.65 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "164 g (5.78 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face/smile detection, WDR, panorama",
+            "Primary": "5 MP, 2592 x 1944 pixels, autofocus, LED flash",
+            "Secondary": "Yes",
+            "Video": "480p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "Yes, with A-GPS; Route 66",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g, DLNA"
+        },
+        "Display": {
+            "": "- Advanced R tilting touchscreen display",
+            "Resolution": "800 x 480 pixels (~267 ppi pixel density)",
+            "Size": "3.5 inches (~50.5% screen-to-body ratio)",
+            "Type": "AMOLED resistive touchscreen, 16M colors (65K effective)"
+        },
+        "Features": {
+            "": "- Giorgio Armani fashion applications\n- Business card scanner\n- Work & Life mode\n- MP3/WAV/e-AAC+/WMA/AMR player\n- DivX/XviD/MP4/3gp/H.264 player\n- Photo/video editor\n- Pocket Office \n- Voice memo/dial\n- TV-out\n- Mobile tracker",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email, Push Email, RSS, IM",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2009, October",
+            "Status": "Available. Released 2009, October"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "8 GB, 256 MB RAM, 512 MB ROM"
+        },
+        "Misc": {
+            "Colors": "Black and Bronze",
+            "Price group": "6/10 (About 280 EUR)",
+            "SAR EU": "0.27 W/kg (head)",
+            "SAR US": "0.45 W/kg (head) \u00a0 \u00a0 0.53 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 1900 / 2100",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Speed": "HSPA 7.2/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Samsung S3C6410 800MHz, dedicated graphics accelerator",
+            "OS": "Microsoft Windows Mobile 6.1 Professional, upgradeable to Windows Mobile 6.5"
+        },
+        "Sound": {
+            "": "- DNSe (Digital Natural Sound Engine)",
+            "3.5mm jack": "No",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Samsung B7620 Giorgio Armani",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_b7620_giorgio_armani-pictures-2966.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-b7620-new.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_b7620_giorgio_armani-2966.php"
+    }
+}

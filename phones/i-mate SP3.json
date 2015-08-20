@@ -1,0 +1,104 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1050 mAh battery",
+            "Stand-by": "Up to 140 h",
+            "Talk time": "Up to 3 h 30 min"
+        },
+        "Body": {
+            "Dimensions": "107.5 x 46.2 x 17 mm (4.23 x 1.82 x 0.67 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "106.3 g (3.74 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v1.1",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- 5-way navigation button\n- 3-color LED indicator\n- Downloadable logos",
+            "Resolution": "176 x 220 pixels, 2.2 inches (~128 ppi pixel density)",
+            "Size": "2.2 inches, 35 x 44 mm (~30.7% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- Microsoft ActiveSync\n- MP3/AAC player\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML (PocketIE)",
+            "Java": "No",
+            "Languages": "8",
+            "Messaging": "SMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2004, 2Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "MiniSD",
+            "Internal": "32 MB RAM, 64 MB ROM"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Platform": {
+            "CPU": "200 MHz ARM926EJ-S",
+            "Chipset": "TI OMAP 730",
+            "OS": "Microsoft Windows Mobile 2003 SE Smartphone"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": {
+            "href": "http://www.gsmarena.com/htc_pocketpc_smartphone.php3",
+            "text": "Produced by HTC. Functionally identical to Qtek 8010 and Orange SPV C500."
+        },
+        "device_name": "i-mate SP3",
+        "image": {
+            "href": "http://www.gsmarena.com/i_mate_sp3-pictures-960.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/imsp3.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/i_mate_sp3-960.php"
+    }
+}

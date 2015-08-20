@@ -1,0 +1,150 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po 6000 mAh battery",
+            "Music play": "Up to 188 h",
+            "Stand-by": "Up to 1240 h (2G) / Up to 1200 h (3G)",
+            "Talk time": "Up to 13 h (multimedia)"
+        },
+        "Body": {
+            "": "- IP58 certified - dust proof and water resistant over 1.5 meter and 30 minutes",
+            "Dimensions": "266 x 172 x 6.4 mm (10.47 x 6.77 x 0.25 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "439 g (15.49 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face/smile detection, HDR, panorama",
+            "Primary": "8.1 MP, 3264 x 2448 pixels, autofocus, check quality",
+            "Secondary": "2.2 MP, 1080p@30fps",
+            "Video": "1080p@30fps, 720p@30fps (HDR), stereo sound rec., check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, apt-X",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "Infrared port": "Yes",
+            "NFC": "Yes",
+            "Radio": "FM radio with RDS",
+            "USB": "microUSB v2.0 (MHL 3 TV-out)",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- Triluminos display\n- X-Reality Engine",
+            "Multitouch": "Yes, up to 10 fingers",
+            "Protection": "Shatter proof glass",
+            "Resolution": "1200 x 1920 pixels (~224 ppi pixel density)",
+            "Size": "10.1 inches (~64.7% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Fast battery charging: 60% in 30 min (Quick Charge 2.0)\n- Active noise cancellation with dedicated mic\n- ANT+ support\n- Xvid/DivX/MKV/WMV/MP4/H.264 player\n- MP3/WAV/eAAC+/FLAC player\n- Document viewer\n- Photo viewer/editor\n- Voice memo",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS, MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, gyro, compass"
+        },
+        "Launch": {
+            "Announced": "2014, February",
+            "Status": "Available. Released 2014, March"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "16 GB, 3 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White (SGP521) / Black (SGP541, SGP551)",
+            "Price group": "8/10 (About 440 EUR)"
+        },
+        "Network": {
+            "": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900) - SGP551",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - all models",
+            "3G bands": "HSDPA 850 / 900 / 1700 / 1900 / 2100 - SGP541, SGP521, SGP551",
+            "4G bands": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 13(700), 17(700), 20(800) - SGP521",
+            "EDGE": "Up to 296 kbps",
+            "GPRS": "Up to 107 kbps",
+            "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat3 100/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 2.3 GHz Krait 400",
+            "Chipset": "Qualcomm MSM8974AB Snapdragon 801",
+            "GPU": "Adreno 330",
+            "OS": "Android OS, v4.4.2 (KitKat), v5.0.2 (Lollipop), planned upgrade to v5.1 (Lollipop)"
+        },
+        "Sound": {
+            "": "- 3D surround sound",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        },
+        "Tests": {
+            "0": "C",
+            "1": "a",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "m",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "g",
+            "25": "s",
+            "26": "m",
+            "27": "a",
+            "28": "r",
+            "29": "e",
+            "3": "e",
+            "30": "n",
+            "31": "a",
+            "32": "_",
+            "33": "l",
+            "34": "a",
+            "35": "b",
+            "36": "_",
+            "37": "t",
+            "38": "e",
+            "39": "s",
+            "4": "r",
+            "40": "t",
+            "41": "s",
+            "42": "-",
+            "43": "r",
+            "44": "e",
+            "45": "v",
+            "46": "i",
+            "47": "e",
+            "48": "w",
+            "49": "-",
+            "5": "a",
+            "50": "7",
+            "51": "5",
+            "52": "1",
+            "53": "p",
+            "54": "5",
+            "55": ".",
+            "56": "p",
+            "57": "h",
+            "58": "p",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        }
+    },
+    "main": {
+        "device_name": "Sony Xperia Z2 Tablet LTE",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_xperia_z2_tablet_lte-pictures-6145.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/sony-xperia-z2-tablet.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_xperia_z2_tablet_lte-6145.php"
+    }
+}

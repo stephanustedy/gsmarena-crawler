@@ -1,0 +1,92 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1730 mAh battery",
+            "Stand-by": "Up to 310 h (2G) / Up to 540 h (3G)",
+            "Talk time": "Up to 9 h 16 min (2G) / Up to 7 h 20 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "126.1 x 65.4 x 11.3 mm (4.96 x 2.57 x 0.44 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "151 g (5.33 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, dual-LED flash, check quality",
+            "Secondary": "VGA",
+            "Video": "1080p@30fps, stereo sound rec., check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0 (MHL TV-out)",
+            "WLAN": "Wi-Fi 802.11 b/g/n, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- HTC Sense UI",
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "540 x 960 pixels (~256 ppi pixel density)",
+            "Size": "4.3 inches (~61.8% screen-to-body ratio)",
+            "Type": "S-LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP3/AAC+/WAV/WMA player\n- XviD/MP4/H.264/WMV player\n- Organizer\n- Document viewer/editor\n- Voice memo/dial/commands\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML, Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2011, September",
+            "Status": "Available. Released 2011, October"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "4 GB (1 GB user available), 768 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "3/10 (About 140 EUR)",
+            "SAR EU": "0.36 W/kg (head)"
+        },
+        "Network": {
+            "": "HSDPA 900 / 1700 / 2100",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Up to 236.8 kbps",
+            "GPRS": "Up to 80 kbps",
+            "Speed": "HSPA 14.4/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.5 GHz Scorpion",
+            "Chipset": "Qualcomm MSM8260 Snapdragon S3",
+            "GPU": "Adreno 220",
+            "OS": "Android OS, v2.3.4 (Gingerbread), upgradable to v4.0 (Ice Cream Sandwich)"
+        },
+        "Sound": {
+            "": "- Beats Audio\n- Beats headset",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -91.7dB / Crosstalk -90.7dB",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 752:1 (nominal)",
+            "Loudspeaker": "Voice 65dB / Noise 65dB / Ring 76dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as HTC Sensation XE with Beats Audio",
+        "device_name": "HTC Sensation XE",
+        "image": {
+            "href": "http://www.gsmarena.com/htc_sensation_xe-pictures-4164.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/htc-sensation-xe.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/htc_sensation_xe-4164.php"
+    }
+}

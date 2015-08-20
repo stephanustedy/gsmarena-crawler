@@ -1,0 +1,88 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 1200 mAh battery",
+            "Stand-by": "Up to 430 h (2G) / Up to 440 h (3G)",
+            "Talk time": "Up to 12 h 30 min (2G) / Up to 5 h 10 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "109 x 52 x 15 mm (4.29 x 2.05 x 0.59 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "117 g (4.13 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face/smile detection, video-calling",
+            "Primary": "5 MP, 2560 x 1920 pixels, autofocus, LED flash, check quality",
+            "Secondary": "No",
+            "Video": "720p@24fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "Yes, with A-GPS; Wisepilot navigation",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g, DLNA"
+        },
+        "Display": {
+            "": "- Handwriting recognition",
+            "Protection": "Scratch-resistant glass",
+            "Resolution": "360 x 640 pixels (~229 ppi pixel density)",
+            "Size": "3.2 inches (~49.8% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Facebook and Twitter apps\n- WMV/RV/MP4/3GP player\n- MP3/WMA/WAV/RA/AAC/M4A player\n- TrackID music recognition\n- TV out (VGA resolution)\n- Organizer\n- Document viewer\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML (NetFront)",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS (threaded view), MMS, Email, IM, Push Email",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2010, February",
+            "Status": "Available. Released 2010, May"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 16 GB, 8 GB included",
+            "Internal": "75 MB"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "4/10 (About 150 EUR)",
+            "SAR EU": "1.03 W/kg (head)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 1900 / 2100",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Speed": "HSPA 10.2/2 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "720 MHz, PowerVR SGX GPU",
+            "OS": "Symbian Series 60, 5th edition"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -88.0dB / Crosstalk -88.7dB",
+            "Camera": "Photo",
+            "Loudspeaker": "Voice 69dB / Noise 65dB / Ring 72dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Sony Ericsson Kanna",
+        "device_name": "Sony Ericsson Vivaz pro",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_ericsson_vivaz_pro-pictures-3075.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/se-vivaz-pro.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_ericsson_vivaz_pro-3075.php"
+    }
+}

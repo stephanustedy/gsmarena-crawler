@@ -1,0 +1,83 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po 3300 mAh battery (12 Wh)",
+            "Stand-by": "Up to 398 h (3G)",
+            "Talk time": "Up to 28 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "166.9 x 84.3 x 9.9 mm (6.57 x 3.32 x 0.39 in)",
+            "SIM": "Dual SIM (Micro-SIM, dual stand-by)",
+            "Weight": "196 g (6.91 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection, panorama",
+            "Primary": "13 MP, 4128 x 3096 pixels, autofocus, LED flash",
+            "Secondary": "2 MP",
+            "Video": "1080p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 3",
+            "Resolution": "720 x 1280 pixels (~245 ppi pixel density)",
+            "Size": "6.0 inches (~70.5% screen-to-body ratio)",
+            "Type": "IPS capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP3/WAV/eAAC+ player\n- MP4/H.264 player\n- Document viewer\n- Photo viewer/editor\n- Voice memo/dial",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2014, January",
+            "Status": "Available. Released 2014, May"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "16/32 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Charcoal Black, Pearl White, Cherry Red, Champagne Gold",
+            "Price group": "6/10 (About 250 EUR)",
+            "SAR EU": "0.53 W/kg (head)",
+            "SAR US": "1.18 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 42.2/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Dual-core 2 GHz",
+            "Chipset": "Intel Atom Z2580",
+            "GPU": "PowerVR SGX544MP2",
+            "OS": "Android OS, v4.3 (Jelly Bean), upgradable to v5.0.2 (Lollipop)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Asus Zenfone 6 A600CG",
+        "image": {
+            "href": "http://www.gsmarena.com/asus_zenfone_6_a600cg-pictures-5953.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/asus-zenfone-6.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/asus_zenfone_6_a600cg-5953.php"
+    }
+}

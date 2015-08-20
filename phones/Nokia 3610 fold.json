@@ -1,0 +1,76 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1020 mAh battery (BL-5C)",
+            "Stand-by": "Up to 457 h",
+            "Talk time": "Up to 4 h 38 min"
+        },
+        "Body": {
+            "Dimensions": "99.6 x 44.3 x 19.6 mm, 67 cc (3.92 x 1.74 x 0.77 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "97 g (3.42 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 1024 pixels",
+            "Secondary": "No",
+            "Video": "QCIF"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second external TFT display (128 x 160 pixels), 1.36 inches, 256K colors",
+            "Resolution": "240 x 320 pixels (~200 ppi pixel density)",
+            "Size": "2.0 inches (~28.1% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- MP4/H.264 player\n- MP3/eAAC+/WMV/WMA player\n- Organizer\n- Push to talk\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML, Adobe Flash Lite",
+            "Games": "4 + downloadable",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS, MMS, Email, IM"
+        },
+        "Launch": {
+            "Announced": "2008, August. Released 2008, November",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "30 received, dialed and missed calls",
+            "Card slot": "microSD, up to 4 GB",
+            "Internal": "30 MB",
+            "Phonebook": "1000 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Blue, Red, Green, Rose",
+            "Price group": "3/10 (About 100 EUR)",
+            "SAR EU": "0.95 W/kg (head)",
+            "SAR US": "0.83 W/kg (head) \u00a0 \u00a0 0.83 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "Class 32",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "": "- 2.5 mm audio jack",
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 3610 fold",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_3610_fold-pictures-2482.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-3610fold.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_3610_fold-2482.php"
+    }
+}

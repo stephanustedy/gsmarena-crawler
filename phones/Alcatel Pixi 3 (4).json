@@ -1,0 +1,104 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1650 mAh battery (4G model)",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "121.3 x 64.2 x 11.6 mm (4.78 x 2.53 x 0.46 in)",
+            "SIM": "Optional Dual SIM\nMini Sim (3G model), Micro SIM (4G model)",
+            "Weight": "110 g (3.88 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, panorana. HDR",
+            "Primary": "2 MP / 5 MP, LED flash",
+            "Secondary": "VGA",
+            "Video": "720p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes, up to 2 fingers",
+            "Resolution": "480 x 800 pixels (~233 ppi pixel density)",
+            "Size": "4.0 inches (~58.5% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP3/AAC+/WAV player\n- MP4/H.264 player\n- Document viewer\n- Photo editor",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, IM",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2015, January",
+            "Status": "Available. Released 2015, March"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "4 GB, 512 MB RAM"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "": "LTE band 1(2100), 2(1900), 4(1700/2100), 7(2600), 28(700) - LATAM",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2 (optional)",
+            "3G bands": "HSDPA 900 / 2100 - EMEA",
+            "4G bands": "LTE band 1(2100), 3(1800), 7(2600), 8(900), 20(800) - EMEA",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 21.1/5.76 Mbps, LTE Cat4 150/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1 GHz Cortex-A7 (3G model)\nQuad-core 1.1 GHz (4G model)",
+            "Chipset": "Mediatek MT6572M (3G model)\nQualcomm MSM8909 (4G model)",
+            "OS": "Android OS, v4.4.2 (KitKat)/ Planned upgrade to v5.0 (Lollipop) - EMEA model"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Alcatel Pixi 3 (4)",
+        "image": {
+            "href": "http://www.gsmarena.com/alcatel_pixi_3_(4)-pictures-6933.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/alcatel-pixi-3-4.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/alcatel_pixi_3_(4)-6933.php"
+    }
+}

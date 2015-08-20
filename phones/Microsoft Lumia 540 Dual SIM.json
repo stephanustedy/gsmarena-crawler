@@ -1,0 +1,82 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 2200 mAh battery",
+            "Music play": "Up to 81 h",
+            "Stand-by": "Up to 576 h (2G) / Up to 576 h (3G)",
+            "Talk time": "Up to 26 h (2G) / Up to 15 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "144 x 73.7 x 8.6 mm (5.67 x 2.90 x 0.34 in)",
+            "SIM": "Dual SIM (Micro-SIM, dual stand-by)",
+            "Weight": "152 g (5.36 oz)"
+        },
+        "Camera": {
+            "Features": "1/4'' sensor size, geo-tagging",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash",
+            "Secondary": "5 MP, 480p",
+            "Video": "480p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- ClearBlack display",
+            "Multitouch": "Yes",
+            "Resolution": "720 x 1280 pixels (~294 ppi pixel density)",
+            "Size": "5.0 inches (~64.9% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP3/WAV/eAAC+ player\n- MP4/H.264 player\n- OneDrive (15 GB cloud storage)\n- Document viewer\n- Video/photo editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2015, April",
+            "Status": "Available. Released 2015, May"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 128 GB",
+            "Internal": "8 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Orange, white, black, gray, blue",
+            "Price group": "4/10 (About 160 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Up to 236 kbps",
+            "GPRS": "Yes",
+            "Speed": "HSPA 42.2/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.2 GHz Cortex-A7",
+            "Chipset": "Qualcomm Snapdragon 200",
+            "GPU": "Adreno 302",
+            "OS": "Microsoft Windows Phone 8.1 with Lumia Denim"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Microsoft Lumia 540 Dual SIM",
+        "image": {
+            "href": "http://www.gsmarena.com/microsoft_lumia_540_dual_sim-pictures-7196.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/microsoft-lumia-540-ds1.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/microsoft_lumia_540_dual_sim-7196.php"
+    }
+}

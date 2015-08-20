@@ -1,0 +1,69 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 750 mAh battery",
+            "Stand-by": "Up to 325 h",
+            "Talk time": "Up to 10 h"
+        },
+        "Body": {
+            "Dimensions": "87.5 x 45 x 21.5 mm (3.44 x 1.77 x 0.85 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "70 g (2.47 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "miniUSB",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Dark chrome mirror effect\n- Embedded images and animations",
+            "Resolution": "128 x 128 pixels (~121 ppi pixel density)",
+            "Size": "1.5 inches (~18.4% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- Predictive text input\n- Organizer",
+            "Browser": "No",
+            "Games": "2",
+            "Java": "No",
+            "Messaging": "SMS"
+        },
+        "Launch": {
+            "Announced": "2008, January. Released 2008, February",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "No",
+            "Phonebook": "250 entries"
+        },
+        "Misc": {
+            "Colors": "",
+            "SAR EU": "1.00 W/kg (head)",
+            "SAR US": "0.89 W/kg (head) \u00a0 \u00a0 0.66 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Polyphonic(16) ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Alcatel OT-V270",
+        "image": {
+            "href": "http://www.gsmarena.com/alcatel_ot_v270-pictures-2235.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/alcatel-v270.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/alcatel_ot_v270-2235.php"
+    }
+}

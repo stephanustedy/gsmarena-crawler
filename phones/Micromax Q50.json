@@ -1,0 +1,74 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1000 mAh battery",
+            "Stand-by": "Up to 192 h",
+            "Talk time": "Up to 3 h"
+        },
+        "Body": {
+            "Dimensions": "114 x 60 x 10.4 mm (4.49 x 2.36 x 0.41 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Dual SIM (Mini-SIM)",
+            "Weight": "96 g (3.39 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "No",
+            "Radio": "Stereo FM radio; FM recording",
+            "USB": "v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "320 x 240 pixels (~182 ppi pixel density)",
+            "Size": "2.2 inches (~21.9% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- Snaptu, Nimbuzz\n- MP3 player\n- H.263 player\n- Organizer\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML (Opera Mini)",
+            "Games": "Downloadable",
+            "Java": "Yes",
+            "Messaging": "SMS, MMS, Email, IM"
+        },
+        "Launch": {
+            "Announced": "2010. Released 2010",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 16 GB",
+            "Phonebook": "1000 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "1/10 (About 40 EUR)"
+        },
+        "Network": {
+            "": "GSM 900 / 1800 - SIM 2",
+            "2G bands": "GSM 900 / 1800 - SIM 1",
+            "EDGE": "Yes",
+            "GPRS": "Class 12",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "": "- SRS audio",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, Polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Micromax Q50",
+        "image": {
+            "href": "http://www.gsmarena.com/micromax_q50-pictures-3865.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/micromax-Q50.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/micromax_q50-3865.php"
+    }
+}

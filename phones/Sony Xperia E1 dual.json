@@ -1,0 +1,85 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1750 mAh battery",
+            "Stand-by": "Up to 366 h (2G) / Up to 441 h (3G)",
+            "Talk time": "Up to 8 h 13 min (2G) / Up to 8 h 41 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "118 x 62.4 x 12 mm (4.65 x 2.46 x 0.47 in)",
+            "SIM": "Dual SIM (Mini-SIM, dual stand-by, dual call)",
+            "Weight": "122 g (4.30 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face/smile detection, HDR, panorama",
+            "Primary": "3.15 MP, 2048 x 1536 pixels",
+            "Secondary": "No",
+            "Video": "SVGA@20fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "Radio": "FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot"
+        },
+        "Display": {
+            "": "- Timescape UI",
+            "Multitouch": "Yes, up to 2 fingers",
+            "Protection": "Scratch-resistant glass",
+            "Resolution": "480 x 800 pixels (~233 ppi pixel density)",
+            "Size": "4.0 inches (~61.8% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- Box (50 GB lifetime cloud storage)\n- XviD/MP4/H.264 player\n- MP3/eAAC+/WMA/WAV player\n- Document viewer\n- Photo viewer/editor\n- Voice memo/dial",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, IM, Push Email",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2014, January",
+            "Status": "Available. Released 2014, March"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "4 GB, 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, Purple, White",
+            "Price group": "3/10 (About 120 EUR)",
+            "SAR EU": "0.63 W/kg (head) \u00a0 \u00a0 0.65 W/kg (body)",
+            "SAR US": "0.72 W/kg (head) \u00a0 \u00a0 1.35 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 900 / 2100 - D2105",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - all versions",
+            "3G bands": "HSDPA 850 / 1900 / 2100 - D2104/D2114",
+            "EDGE": "Up to 237 kbps",
+            "GPRS": "Up to 86 kbps",
+            "Speed": "HSPA 21.1/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.2 GHz Cortex-A7",
+            "Chipset": "Qualcomm MSM8210 Snapdragon 200",
+            "GPU": "Adreno 302",
+            "OS": "Android OS, v4.3 (Jelly Bean), planned upgrade to v4.4.2 (KitKat)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Sony Xperia E1 dual",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_xperia_e1_dual-pictures-5967.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/sony-xperia-e1.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_xperia_e1_dual-5967.php"
+    }
+}

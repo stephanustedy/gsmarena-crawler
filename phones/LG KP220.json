@@ -1,0 +1,73 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 750 mAh battery",
+            "Stand-by": "Up to 300 h",
+            "Talk time": "Up to 3 h"
+        },
+        "Body": {
+            "Dimensions": "103 x 46 x 12 mm (4.06 x 1.81 x 0.47 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "72 g (2.54 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 1024 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "FM radio",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "120 x 160 pixels (~118 ppi pixel density)",
+            "Size": "1.7 inches (~18.9% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- Music dedicated key\n- MP3/MP4 player\n- Predictive text input\n- Organizer\n- Voice memo",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2008, May. Released 2008",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "10 dialed, 10 received, 10 missed calls",
+            "Card slot": "microSD",
+            "Internal": "60 MB",
+            "Phonebook": "Yes, Photocall"
+        },
+        "Misc": {
+            "Colors": "Silver",
+            "Price group": "2/10 (About 50 EUR)",
+            "SAR US": "0.91 W/kg (head) \u00a0 \u00a0 0.79 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "Yes",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "LG KP220",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_kp220-pictures-2366.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-kp220.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_kp220-2366.php"
+    }
+}

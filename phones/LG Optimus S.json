@@ -1,0 +1,135 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1500 mAh battery",
+            "Stand-by": "Up to 200 h",
+            "Talk time": "Up to 5 h"
+        },
+        "Body": {
+            "Dimensions": "114 x 59 x 13 mm (4.49 x 2.32 x 0.51 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "130 g (4.59 oz)"
+        },
+        "Camera": {
+            "Primary": "3.15 MP, 2048 x 1536 pixels, autofocus",
+            "Secondary": "No",
+            "Video": "480p"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "USB": "microUSB",
+            "WLAN": "Wi-Fi 802.11 b/g, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "320 x 480 pixels (~180 ppi pixel density)",
+            "Size": "3.2 inches (~45.3% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- DivX/Xvid/MP4/H.264/WMV player\n- MP3/WAV/WMA/eAAC+ player\n- Document viewer\n- Organizer\n- Voice memo/dial/commands\n- Predictive text input",
+            "Browser": "HTML",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2010, October",
+            "Status": "Available. Released 2010, December"
+        },
+        "Memory": {
+            "0": "C",
+            "1": "a",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "r",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "g",
+            "25": "l",
+            "26": "o",
+            "27": "s",
+            "28": "s",
+            "29": "a",
+            "3": "d",
+            "30": "r",
+            "31": "y",
+            "32": ".",
+            "33": "p",
+            "34": "h",
+            "35": "p",
+            "36": "3",
+            "37": "?",
+            "38": "t",
+            "39": "e",
+            "4": " ",
+            "40": "r",
+            "41": "m",
+            "42": "=",
+            "43": "m",
+            "44": "e",
+            "45": "m",
+            "46": "o",
+            "47": "r",
+            "48": "y",
+            "49": "-",
+            "5": "s",
+            "50": "c",
+            "51": "a",
+            "52": "r",
+            "53": "d",
+            "54": "-",
+            "55": "s",
+            "56": "l",
+            "57": "o",
+            "58": "t",
+            "6": "l",
+            "7": "o",
+            "8": "t",
+            "9": "w"
+        },
+        "Misc": {
+            "Colors": "Gray",
+            "Price group": "1/10 (About 50 EUR)",
+            "SAR US": "1.26 W/kg (head) \u00a0 \u00a0 0.48 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "CDMA 800 / 1900",
+            "3G bands": "CDMA2000 1xEV-DO",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Speed": "EV-DO Rev.0, 153.2 Kbps",
+            "Technology": "CDMA / EVDO"
+        },
+        "Platform": {
+            "CPU": "600 MHz",
+            "OS": "Android OS, v2.2 (Froyo)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "LG Optimus S for Sprint\nLG Optimus U for US Cellular\nLG Optimus V VM670 for Virgin Mobile",
+        "device_name": "LG Optimus S",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_optimus_s-pictures-3583.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-optimus-s.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_optimus_s-3583.php"
+    }
+}

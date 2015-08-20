@@ -1,0 +1,72 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1000 mAh battery",
+            "Stand-by": "Up to 250 h",
+            "Talk time": "Up to 4 h"
+        },
+        "Body": {
+            "Dimensions": "107.8 x 53.6 x 12.5 mm (4.24 x 2.11 x 0.49 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "91 g (3.21 oz)"
+        },
+        "Camera": {
+            "Primary": "3.15 MP, 2048 x 1536 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "No",
+            "Radio": "FM radio, FM recording",
+            "USB": "v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g"
+        },
+        "Display": {
+            "Resolution": "240 x 400 pixels (~149 ppi pixel density)",
+            "Size": "3.14 inches (~48.6% screen-to-body ratio)",
+            "Type": "TFT touchscreen"
+        },
+        "Features": {
+            "": "- SNS integration\n- MP4/H.263 player\n- MP3/AAC+ player\n- Organizer\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Downloadable",
+            "Java": "Yes",
+            "Messaging": "SMS(threaded view), MMS, Email, IM"
+        },
+        "Launch": {
+            "Announced": "2011, May",
+            "Status": "Available. Released 2011, May"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 8 GB",
+            "Internal": "44 MB",
+            "Phonebook": "1000 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Turquoise Blue, Jet Black, Spice Yellow",
+            "Price group": "1/10 (About 40 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Spice M-6800 FLO",
+        "image": {
+            "href": "http://www.gsmarena.com/spice_m_6800_flo-pictures-4110.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/Spice-Mobile-M-6800-FLO.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/spice_m_6800_flo-4110.php"
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 850 mAh battery (BL-5C)",
+            "Stand-by": "Up to 400 h",
+            "Talk time": "Up to 4 h 30 min"
+        },
+        "Body": {
+            "": "- Flashlight",
+            "Dimensions": "106 x 46 x 20 mm, 79 cc (4.17 x 1.81 x 0.79 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "86 g (3.03 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- 2-way scroll key \n- Full display screensaver\n- Dynamic font size\n- Softkeys",
+            "Resolution": "96 x 65 pixels, 4 lines",
+            "Size": "",
+            "Type": "Monochrome graphic"
+        },
+        "Features": {
+            "": "- Predictive text input\n- SMS to many\n- Calculator\n- Stopwatch\n- Xpress-on front and back covers\n- Picture messaging",
+            "Browser": "",
+            "Games": "2 - Snake II and Space Impact+",
+            "Java": "No",
+            "Languages": "Most major European and Asian",
+            "Messaging": "SMS"
+        },
+        "Launch": {
+            "Announced": "3Q, 2003",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- Dynamic phonebook memory\n- Editable message templates",
+            "Call records": "10 dialed, 10 received, 10 missed calls",
+            "Card slot": "No",
+            "Phonebook": "50"
+        },
+        "Misc": {
+            "Colors": "Xpress-on covers",
+            "SAR EU": "0.73 W/kg (head)",
+            "SAR US": "0.97 W/kg (head) \u00a0 \u00a0 0.64 W/kg (body)"
+        },
+        "Network": {
+            "": "GSM 850 / 1900 - Nokia 1100B for US",
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable monophonic ringtones, composer",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 1100",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_1100-pictures-512.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/no1100.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_1100-512.php"
+    }
+}

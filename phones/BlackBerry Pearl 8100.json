@@ -1,0 +1,75 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 900 mAh battery",
+            "Stand-by": "Up to 360 h",
+            "Talk time": "Up to 3 h 30 min"
+        },
+        "Body": {
+            "Dimensions": "107 x 50 x 14.5 mm (4.21 x 1.97 x 0.57 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "89.5 g (3.14 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 1024 pixels, LED flash",
+            "Secondary": "No",
+            "Video": "No"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Wallpapers",
+            "Resolution": "240 x 260 pixels (~161 ppi pixel density)",
+            "Size": "2.2 inches (~29.1% screen-to-body ratio)",
+            "Type": "65K colors"
+        },
+        "Features": {
+            "": "- Document viewer (Word, Excel, PowerPoint, PDF)\n- Media player\n- SureType keyboard software\n- Organizer",
+            "Browser": "HTML",
+            "Java": "Yes",
+            "Messaging": "SMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2006, September",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "microSD",
+            "Internal": "64 MB"
+        },
+        "Misc": {
+            "Colors": "Black, White, Red",
+            "Price group": "4/10 (About 200 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Technology": "GSM"
+        },
+        "Platform": {
+            "CPU": "32-bit Intel XScale PXA272 312 MHz",
+            "OS": "BlackBerry OS"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "BlackBerry Pearl 8100",
+        "image": {
+            "href": "http://www.gsmarena.com/blackberry_pearl_8100-pictures-1701.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/blackberry-8100.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/blackberry_pearl_8100-1701.php"
+    }
+}

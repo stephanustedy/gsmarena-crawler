@@ -1,0 +1,78 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1020 mAh battery (BL-5C)",
+            "Stand-by": "Up to 460 h",
+            "Talk time": "Up to 5 h 40 min"
+        },
+        "Body": {
+            "Dimensions": "108 x 45 x 14.7 mm, 67.9 cc (4.25 x 1.77 x 0.58 in)",
+            "SIM": "Dual SIM (Mini-SIM, dual stand-by)",
+            "Weight": "74.1 g (2.61 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "QCIF@10fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, EDR",
+            "GPS": "No",
+            "Radio": "Stereo FM radio; FM recording (selected markets)",
+            "USB": "microUSB",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "128 x 160 pixels (~114 ppi pixel density)",
+            "Size": "1.8 inches (~21.0% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- MP3/MP4/WMA/WAV/AAC+ player\n- Organizer\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email, IM"
+        },
+        "Launch": {
+            "Announced": "2010, June",
+            "Status": "Available. Released 2011, July"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "64 MB ROM, 16 MB RAM",
+            "Phonebook": "1000 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Dynamic Gray, Jet Black, Magenta, Dark Blue, Snow White",
+            "Price group": "1/10 (About 50 EUR)",
+            "SAR EU": "0.63 W/kg (head)"
+        },
+        "Network": {
+            "": "GSM 900 / 1800 - SIM 2",
+            "2G bands": "GSM 900 / 1800 - SIM 1",
+            "EDGE": "Class 6 (Up to 177.6 kbps)",
+            "GPRS": "Class 12",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3 ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -83.2dB / Crosstalk -81.3dB",
+            "Loudspeaker": "Voice 73dB / Noise 68dB / Ring 73dB"
+        }
+    },
+    "main": {
+        "device_name": "Nokia C2-00",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_c2_00-pictures-3367.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-c2-00.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_c2_00-3367.php"
+    }
+}

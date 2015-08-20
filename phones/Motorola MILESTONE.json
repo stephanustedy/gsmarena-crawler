@@ -1,0 +1,89 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1400 mAh battery (BP6X)",
+            "Stand-by": "Up to 350 h",
+            "Talk time": "Up to 6 h 30 min"
+        },
+        "Body": {
+            "Dimensions": "115.8 x 60 x 13.7 mm (4.56 x 2.36 x 0.54 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "165 g (5.82 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "5 MP, 2592 x 1944 pixels, autofocus, dual-LED flash",
+            "Secondary": "No",
+            "Video": "480p@24fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "Yes, with A-GPS, Motonav software",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g, hotspot (Android 2.2)"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "480 x 854 pixels (~265 ppi pixel density)",
+            "Size": "3.7 inches (~54.3% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP3/eAAC+/WAV/WMA9 player\n- MP4/H.264/WMV9 player\n- Document viewer\n- Photo viewer/editor\n- Organizer\n- Voice memo/dial\n- Predictive text input",
+            "Browser": "HTML, Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS (threaded view), MMS, Email, IM, Push Email",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2009, November",
+            "Status": "Available. Released 2009, November"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB, 8 GB included",
+            "Internal": "133 MB, 256 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "3/10 (About 130 EUR)",
+            "SAR EU": "0.64 W/kg (head)",
+            "SAR US": "1.49 W/kg (head) \u00a0 \u00a0 1.50 W/kg (body)"
+        },
+        "Network": {
+            "": "UMTS 850 / 1900 - American version",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 10.2/5.76 Mbps",
+            "Technology": "GSM / UMTS / HSPA"
+        },
+        "Platform": {
+            "CPU": "600 MHz Cortex-A8",
+            "GPU": "PowerVR SGX530",
+            "OS": "Android OS, v2.1 (Eclair), upgradable to v2.2 (Froyo)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        },
+        "Tests": {
+            "Audio quality": "Noise -74.1dB / Crosstalk -73.1dB",
+            "Loudspeaker": "Voice 69dB / Noise 78dB / Ring 66dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Distributed as Motorola DROID in the USA",
+        "device_name": "Motorola MILESTONE",
+        "image": {
+            "href": "http://www.gsmarena.com/motorola_milestone-pictures-3001.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/motorola-milestone.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/motorola_milestone-3001.php"
+    }
+}

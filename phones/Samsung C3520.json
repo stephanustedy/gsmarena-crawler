@@ -1,0 +1,76 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 800 mAh battery",
+            "Stand-by": "Up to 610 h",
+            "Talk time": "Up to 9 h 10 min"
+        },
+        "Body": {
+            "Dimensions": "102 x 52 x 16.8 mm (4.02 x 2.05 x 0.66 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "97.3 g (3.42 oz)"
+        },
+        "Camera": {
+            "Features": "Smile dectecion",
+            "Primary": "1.3 MP, 1280 x 1024 pixels, autofocus",
+            "Secondary": "No",
+            "Video": "320p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "No",
+            "Radio": "Stereo FM radio with RDS, FM recording",
+            "USB": "microUSB v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~167 ppi pixel density)",
+            "Size": "2.4 inches (~33.6% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- SNS applications\n- Organizer\n- MP3/AAC player\n- MP4/H.263 player\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email, Push Email, IM"
+        },
+        "Launch": {
+            "Announced": "2011, October",
+            "Status": "Available. Released 2011, October"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 16 GB",
+            "Internal": "28 MB",
+            "Phonebook": "Yes, Photocall"
+        },
+        "Misc": {
+            "Colors": "Metallic Silver, Charcoal Gray, Coral Pink, La Fleur",
+            "Price group": "2/10 (About 50 EUR)",
+            "SAR EU": "0.35 W/kg (head)",
+            "SAR US": "0.35 W/kg (head) \u00a0 \u00a0 1.08 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Samsung C3520 La Fleur",
+        "device_name": "Samsung C3520",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_c3520-pictures-4218.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-c3520.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_c3520-4218.php"
+    }
+}

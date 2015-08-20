@@ -1,0 +1,79 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 800 mAh battery (BL-5BT)",
+            "Stand-by": "Up to 200 h (2G) / 192 h (3G)",
+            "Talk time": "Up to 4 h (2G) / 2 h 12 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "95 x 52 x 20 mm, 93 cc (3.74 x 2.05 x 0.79 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "123.5 g (4.34 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels, LED flash",
+            "Secondary": "No",
+            "Video": "CIF"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "Stereo FM radio",
+            "USB": "Pop-Port v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second external 256K colors display (160 x 128 pixels)\n- Downloadable themes",
+            "Resolution": "240 x 320 pixels (~167 ppi pixel density)",
+            "Size": "2.4 inches (~36.1% screen-to-body ratio)",
+            "Type": "TFT, 16M colors"
+        },
+        "Features": {
+            "": "- WMV/RV/MP4/3GP player\n- MP3/WMA/WAV/RA/AAC/M4A player\n- Predictive text input\n- Voice command/dial\n- Organizer\n- Printing\n- Document viewer (Word, Excel, PowerPoint, PDF)\n- Photo/video editor",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2006, September",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "microSD",
+            "Internal": "40 MB, 64 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Chocolate Black",
+            "Price group": "6/10 (About 260 EUR)",
+            "SAR EU": "0.68 W/kg (head)",
+            "SAR US": "0.43 W/kg (head) \u00a0 \u00a0 0.78 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "UMTS 850 / 1900",
+            "EDGE": "Class 11",
+            "GPRS": "Class 11",
+            "Speed": "Yes, 384 kbps",
+            "Technology": "GSM / UMTS"
+        },
+        "Platform": {
+            "CPU": "220 MHz Dual ARM 9",
+            "OS": "Symbian OS 9.1, S60 rel. 3.0u"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "device_name": "Nokia N75",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_n75-pictures-1715.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-n75.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_n75-1715.php"
+    }
+}

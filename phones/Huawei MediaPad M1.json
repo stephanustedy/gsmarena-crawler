@@ -1,0 +1,84 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po 4800 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "214.4 x 120.7 x 7.9 mm (8.44 x 4.75 x 0.31 in)",
+            "SIM": "Yes",
+            "Weight": "329 g (11.61 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus",
+            "Secondary": "1 MP",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, EDR",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "To be confirmed",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot (3G)\nWi-Fi 802.11 a/b/g/n, dual-band, hotspot (LTE)"
+        },
+        "Display": {
+            "": "- Emotion UI 2.0",
+            "Multitouch": "Yes",
+            "Resolution": "800 x 1280 pixels (~189 ppi pixel density)",
+            "Size": "8.0 inches (~71.7% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP3/WAV/WMA/Flac player\n- MP4/H.264/WMV player\n- Document viewer\n- Photo viewer/editor\n- Voice memo/dial",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "Email, Push Mail, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2014, February",
+            "Status": "Available. Released 2014, May"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "8 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "White, Tulip, Carnation, Lily/Lotus, Titanium Gray",
+            "Price group": "6/10 (About 300 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+            "4G bands": "LTE band 1(2100), 3(1800), 7(2600), 20(800), 38(2600), 40(2300)",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.6 GHz",
+            "Chipset": "Hisilicon Kirin 910",
+            "GPU": "Mali-450MP4",
+            "OS": "Android OS, v4.2.2 (Jelly Bean)"
+        },
+        "Sound": {
+            "": "- DTS sound",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Huawei MediaPad M1 8.0",
+        "device_name": "Huawei MediaPad M1",
+        "image": {
+            "href": "http://www.gsmarena.com/huawei_mediapad_m1-pictures-6137.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/huawei-mediapad-m1.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/huawei_mediapad_m1-6137.php"
+    }
+}

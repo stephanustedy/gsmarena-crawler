@@ -1,0 +1,68 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "104.5 x 45 x 12.8 mm (4.11 x 1.77 x 0.50 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "59.7 g (2.08 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "No",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- 4-way navigation key",
+            "Resolution": "96 x 64 pixels (~92 ppi pixel density)",
+            "Size": "1.25 inches (~9.9% screen-to-body ratio)",
+            "Type": "CSTN, Monochrome"
+        },
+        "Features": {
+            "": "- Organizer",
+            "Browser": "No",
+            "Games": "No",
+            "Java": "No",
+            "Messaging": "SMS"
+        },
+        "Launch": {
+            "Announced": "2008, May. Released 2008, May",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "30 received, dialed and missed calls",
+            "Card slot": "No",
+            "Phonebook": "Yes"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "1/10 (About 30 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Polyphonic(16) ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Philips 191",
+        "image": {
+            "href": "http://www.gsmarena.com/philips_191-pictures-2386.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/philips-191.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/philips_191-2386.php"
+    }
+}

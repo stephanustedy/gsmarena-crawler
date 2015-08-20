@@ -1,0 +1,84 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po 6100 mAh battery",
+            "Stand-by": "Up to 500 h",
+            "Talk time": "Up to 7 h"
+        },
+        "Body": {
+            "Dimensions": "230.9 x 157.8 x 8.6 mm (9.09 x 6.21 x 0.34 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "458 g (1.01 lb)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "3.15 MP, 2048 x 1536 pixels, autofocus",
+            "Secondary": "2 MP",
+            "Video": "720p"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "v2.0",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, hotspot"
+        },
+        "Display": {
+            "": "- TouchWiz UX UI",
+            "Multitouch": "Yes",
+            "Resolution": "800 x 1280 pixels (~170 ppi pixel density)",
+            "Size": "8.9 inches (~63.0% screen-to-body ratio)",
+            "Type": "PLS TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- TV-out\n- MP4/DivX/Xvid/H.264 player\n- MP3/WAV/eAAC+/OGG player\n- Photo/video editor\n- Quickoffice HD editor/viewer",
+            "Browser": "HTML, Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, gyro, compass"
+        },
+        "Launch": {
+            "Announced": "2012, Q1",
+            "Status": "Available. Released 2012, Q1"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "16/32 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "5/10 (About 220 EUR)",
+            "SAR US": "1.75 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 2100",
+            "4G bands": "LTE band 3(1800), 7(2600), 20(800)",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 42.2/11.5 Mbps, LTE Cat3 100/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.5 GHz Cortex-A9",
+            "Chipset": "Nvidia Tegra 2 T20",
+            "GPU": "ULP GeForce",
+            "OS": "Android OS, v3.2 (Honeycomb)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "canonical_name": "Tablet with support for GSM voice communication, SMS, and MMS\nFor Telstra in Australia",
+        "device_name": "Samsung Galaxy Tab 8.9 4G P7320T",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_galaxy_tab_8_9_4g_p7320t-pictures-4769.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/Samsung-GALAXY-Tab-8.9-4g.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_galaxy_tab_8_9_4g_p7320t-4769.php"
+    }
+}

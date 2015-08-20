@@ -1,0 +1,72 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion battery",
+            "Stand-by": "Up to 300 h",
+            "Talk time": "Up to 4 h"
+        },
+        "Body": {
+            "": "- Flashlight",
+            "Dimensions": "112.9 x 48.2 x 13.2 mm (4.44 x 1.90 x 0.52 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "95 g (3.35 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels, LED flash",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "FM radio, FM recording",
+            "USB": "microUSB",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "180 x 240 pixels (~136 ppi pixel density)",
+            "Size": "2.2 inches (~27.5% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- Facebook, Yahoo, Nimbuzz\n- Modem\n- Webcam",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes",
+            "Java": "No",
+            "Messaging": "SMS, MMS, IM"
+        },
+        "Launch": {
+            "Announced": "2010, September",
+            "Status": "Cancelled"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "microSD, up to 8 GB",
+            "Phonebook": "500 entries"
+        },
+        "Misc": {
+            "Colors": "Dark grey",
+            "Price group": "1/10 (About 50 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "Class 12",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Spice KT-5353",
+        "image": {
+            "href": "http://www.gsmarena.com/spice_kt_5353-pictures-3640.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/spice-kt-5353.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/spice_kt_5353-3640.php"
+    }
+}

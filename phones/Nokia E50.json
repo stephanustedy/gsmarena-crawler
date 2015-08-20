@@ -1,0 +1,77 @@
+{
+    "data": {
+        "Battery": {
+            "": "Extended battery, Li-Ion 1150 mAh (BL-6C)",
+            "Stand-by": "Up to 240 h",
+            "Talk time": "Up to 8 h"
+        },
+        "Body": {
+            "Dimensions": "113 x 43.5 x 15.5 mm, 70 cc (4.45 x 1.71 x 0.61 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "104 g (3.67 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 960 pixels, also available without camera",
+            "Secondary": "No",
+            "Video": "QCIF"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "Pop-Port v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- 5-way joystick navigation\n- Downloadable themes",
+            "Resolution": "240 x 320 pixels (~190 ppi pixel density)",
+            "Size": "2.1 inches, 31 x 42 mm (~27.8% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- Push to talk\n- WMV/RV/MP4/3GP player\n- MP3/WMA/WAV/RA/AAC/M4A player\n- Document viewer (Word, Excel, PowerPoint, PDF)\n- Blackberry connectivity\n- Predictive text input\n- Voice command/memo\n- Organizer",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2006, May",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 2 GB",
+            "Internal": "70 MB, 32 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Silver, Black",
+            "Price group": "4/10 (About 150 EUR)",
+            "SAR EU": "0.97 W/kg (head)",
+            "SAR US": "0.96 W/kg (head) \u00a0 \u00a0 1.33 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Platform": {
+            "CPU": "235 MHz ARM 9",
+            "OS": "Symbian OS 9.1, S60 3rd edition"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, monophonic, MP3, ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Nokia E50",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_e50-pictures-1566.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-e50.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_e50-1566.php"
+    }
+}

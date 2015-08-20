@@ -1,0 +1,91 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 650 mAh battery",
+            "Stand-by": "Up to 240 h",
+            "Talk time": "Up to 3 h"
+        },
+        "Body": {
+            "Dimensions": "77 x 41 x 22 mm, 70 cc (3.03 x 1.61 x 0.87 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "75 g (2.65 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second external display (96 x 64 pixels)\n- Downloadable wallpapers",
+            "Resolution": "128 x 128 pixels, 6 lines",
+            "Size": "",
+            "Type": "CSTN, 65K colors"
+        },
+        "Features": {
+            "": "- Predictive text input\n- Organizer",
+            "Browser": "WAP 1.2",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.0 (MY C3-2j only)",
+            "Messaging": "SMS, EMS, MMS"
+        },
+        "Launch": {
+            "Announced": "1Q, 2005",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "20 received, dialed and missed calls",
+            "Card slot": "No",
+            "Phonebook": "Yes"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "Yes",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Sagem MY C3-2",
+        "image": {
+            "href": "http://www.gsmarena.com/sagem_my_c3_2-pictures-1076.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samyc3-2.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sagem_my_c3_2-1076.php"
+    }
+}

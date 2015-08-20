@@ -1,0 +1,76 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 780 mAh battery (BST-27)",
+            "Stand-by": "Up to 200 h",
+            "Talk time": "Up to 6 h"
+        },
+        "Body": {
+            "Dimensions": "90 x 48 x 28 mm (3.54 x 1.89 x 1.10 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "110 g (3.88 oz)"
+        },
+        "Camera": {
+            "Primary": "CIF, 352 x 288 pixels",
+            "Secondary": "No",
+            "Video": "No"
+        },
+        "Comms": {
+            "Bluetooth": "v1.0b",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second external display\n- Wallpapers, screensavers",
+            "Resolution": "128 x 160 pixels",
+            "Size": "",
+            "Type": "TFD, 65K colors"
+        },
+        "Features": {
+            "": "- Predictive text input\n- Sync ML\n- Organizer\n- Voice memo\n- Exchangeable front and back covers",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "AlienScum, HoneyCave2, Minigolf, V-Rally2 + Mophun",
+            "Java": "Yes",
+            "Messaging": "SMS, EMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2003, 3Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "No",
+            "Internal": "1.5 MB",
+            "Phonebook": "500 x 8 fields, Photo call"
+        },
+        "Misc": {
+            "Colors": "",
+            "SAR EU": "0.16 W/kg (head)",
+            "SAR US": "0.39 W/kg (head) \u00a0 \u00a0 0.84 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Yes",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "": "- Ringtones can be assigned to phonebook entries",
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic ringtones, composer",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Sony Ericsson Z600",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_ericsson_z600-pictures-524.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/snz600.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_ericsson_z600-524.php"
+    }
+}

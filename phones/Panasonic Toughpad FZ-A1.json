@@ -1,0 +1,78 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 4590 mAh battery (33.9Wh)",
+            "Stand-by": "",
+            "Talk time": "Up to 10 h"
+        },
+        "Body": {
+            "Dimensions": "266.7 x 213.4 x 17.8 mm (10.5 x 8.40 x 0.70 in)",
+            "SIM": "No",
+            "Weight": "952.5 g (2.10 lb)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, LED flash",
+            "Secondary": "2 MP",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP, EDR",
+            "GPS": "Yes",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 \u0430/b/g/n, hotspot"
+        },
+        "Display": {
+            "": "- Anti-reflective and anti-glare display",
+            "Multitouch": "Yes",
+            "Resolution": "768 x 1024 pixels (~127 ppi pixel density)",
+            "Size": "10.1 inches (~55.5% screen-to-body ratio)",
+            "Type": "LCD capacitive touchscreen"
+        },
+        "Features": {
+            "": "- MIL-STD-810G and IP65 certified sealed all-weather design\n- Magnesium alloy chassis encased with ABS and elastomer\n- FIPS 140-2 (HIPPA compliance)\n- micro HDMI port\n- MP3/WAV/WMA/AAC player\n- MP4/H.264 player\n- Organizer\n- Predictive text input",
+            "Browser": "HTML, Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "Email, Push Email, IM",
+            "Sensors": "Accelerometer, compass"
+        },
+        "Launch": {
+            "Announced": "2011, October",
+            "Status": "Available. Released 2012, Q4"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "16 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "White",
+            "Price group": "9/10 (About 900 EUR)"
+        },
+        "Network": {
+            "2G bands": "N/A",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "No cellular connectivity"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.2 GHz Marvell",
+            "OS": "Android OS, v3.2 (Honeycomb)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Tablet with no support for GSM voice communication, SMS, and MMS\nOptional LTE, Wi-Max or EV-DO Rev. A, HSPA connectivity",
+        "device_name": "Panasonic Toughpad FZ-A1",
+        "image": {
+            "href": "http://www.gsmarena.com/panasonic_toughpad_fz_a1-pictures-4323.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/panasonic-toughpad-fz-a1.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/panasonic_toughpad_fz_a1-4323.php"
+    }
+}

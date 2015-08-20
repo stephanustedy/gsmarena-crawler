@@ -1,0 +1,70 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 900 mAh battery",
+            "Stand-by": "Up to 400 h",
+            "Talk time": "Up to 4 h"
+        },
+        "Body": {
+            "Dimensions": "103.1 x 46 x 13.4 mm (4.06 x 1.81 x 0.53 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "65 g (2.29 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "FM radio",
+            "USB": "v1.1",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "128 x 128 pixels (~121 ppi pixel density)",
+            "Size": "1.5 inches (~15.3% screen-to-body ratio)",
+            "Type": "CSTN, 65K colors"
+        },
+        "Features": {
+            "": "- Mobile Tracker\n- MP3 player\n- Organizer\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes + downloadable",
+            "Java": "Yes",
+            "Messaging": "SMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2008, April. Released 2008, May",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "10 dialed, 10 received, 10 missed calls",
+            "Card slot": "microSD, up to 2 GB",
+            "Internal": "1 MB",
+            "Phonebook": "Yes"
+        },
+        "Misc": {
+            "Colors": "Black, Cherry, Silver, White",
+            "Price group": "1/10 (About 40 EUR)",
+            "SAR US": "1.00 W/kg (head) \u00a0 \u00a0 0.83 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as KP115 for Movistar",
+        "device_name": "LG KP110",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_kp110-pictures-2391.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-kp110.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_kp110-2391.php"
+    }
+}

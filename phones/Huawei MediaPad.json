@@ -1,0 +1,89 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po 4100 mAh battery",
+            "Stand-by": "Up to 200 h",
+            "Talk time": "Up to 6 h"
+        },
+        "Body": {
+            "Dimensions": "190 x 124 x 10.5 mm (7.48 x 4.88 x 0.41 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "390 g (13.76 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, check quality",
+            "Secondary": "1.3 MP, 720p@30fps",
+            "Video": "720p@30fps, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "microUSB v2.0, USB Host",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "800 x 1280 pixels (~216 ppi pixel density)",
+            "Size": "7.0 inches (~60.3% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- HDMI port\n- MP3/WAV/WMA/eAAC+/FLAC player\n- MP4/WMV/H.264 player\n- Organizer\n- Voice memo\n- Predictive text input",
+            "Browser": "HTML5, Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, gyro, compass"
+        },
+        "Launch": {
+            "Announced": "2011, Q3",
+            "Status": "Available"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "8 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "shadow black, classic brown, passion pink",
+            "Price group": "3/10 (About 150 EUR)"
+        },
+        "Network": {
+            "": "HSDPA 900 / 1700 / 1900 / 2100 - S7-303u",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100 - S7-301u",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 14.4/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.2 GHz Scorpion",
+            "Chipset": "Qualcomm MSM8260 Snapdragon S3",
+            "GPU": "Adreno 220",
+            "OS": "Android OS, v3.2 (Honeycomb), upgradable to v4.0 (Ice Cream Sandwich)"
+        },
+        "Sound": {
+            "": "- SRS audio",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        },
+        "Tests": {
+            "Audio quality": "Noise -87.0dB / Crosstalk -87.6dB",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 1117:1 (nominal)",
+            "Loudspeaker": "Voice 75dB / Noise 67dB / Ring 65dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Tablet with support for GSM voice communication, SMS, and MMS",
+        "device_name": "Huawei MediaPad",
+        "image": {
+            "href": "http://www.gsmarena.com/huawei_mediapad-pictures-4264.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/Huawei-MediaPad.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/huawei_mediapad-4264.php"
+    }
+}

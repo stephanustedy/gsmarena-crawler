@@ -1,0 +1,71 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1000 mAh battery",
+            "Stand-by": "Up to 300 h",
+            "Talk time": "Up to 3 h 30 min"
+        },
+        "Body": {
+            "Dimensions": "104.8 x 56 x 13.2 mm (4.13 x 2.20 x 0.52 in)",
+            "SIM": "Dual SIM (Mini-SIM)",
+            "Weight": "60 g (2.12 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "FM radio; FM recording",
+            "USB": "No",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~169 ppi pixel density)",
+            "Size": "2.36 inches (~29.4% screen-to-body ratio)",
+            "Type": "TFT"
+        },
+        "Features": {
+            "": "- MP3/MP4/H.263 player",
+            "Browser": "No",
+            "Games": "Downloadable",
+            "Java": "No",
+            "Messaging": "SMS(threaded view)"
+        },
+        "Launch": {
+            "Announced": "2011",
+            "Status": "Available"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 8 GB",
+            "Phonebook": "500 entries"
+        },
+        "Misc": {
+            "Colors": "Gray, Red",
+            "Price group": "1/10 (About 30 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Spice M-5350 Elite",
+        "device_name": "Spice M-5350",
+        "image": {
+            "href": "http://www.gsmarena.com/spice_m_5350-pictures-4249.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/spice-m-5350.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/spice_m_5350-4249.php"
+    }
+}

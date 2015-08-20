@@ -1,0 +1,81 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1950 mAh battery",
+            "Stand-by": "Up to 460 h (2G) / Up to 470 h (3G)",
+            "Talk time": "Up to 8 h (2G) / Up to 10 h 30 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "124.5 x 63.7 x 10.5 mm (4.90 x 2.51 x 0.41 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "130 g (4.59 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, LED flash",
+            "Secondary": "VGA",
+            "Video": "720p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP, EDR",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n"
+        },
+        "Display": {
+            "Multitouch": "Yes, up to 4 fingers",
+            "Resolution": "480 x 800 pixels (~233 ppi pixel density)",
+            "Size": "4.0 inches (~57.4% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- OneDrive (15 GB cloud storage)\n- MP3/WAV/WMA/eAAC+ player\n- MP4/WMV/H.264 player\n- Document viewer\n- Photo viewer",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2013, January",
+            "Status": "Available. Released 2013, January"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "4 GB, 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Blue, red, black, white",
+            "Price group": "4/10 (About 160 EUR)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 1700 / 1900 / 2100",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 21.1/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.2 GHz Krait",
+            "Chipset": "Qualcomm MSM8230 Snapdragon 400",
+            "GPU": "Adreno 305",
+            "OS": "Microsoft Windows Phone 8"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Huawei Ascend W1",
+        "image": {
+            "href": "http://www.gsmarena.com/huawei_ascend_w1-pictures-5065.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/huawei-ascend-w1.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/huawei_ascend_w1-5065.php"
+    }
+}

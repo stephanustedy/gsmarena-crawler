@@ -1,0 +1,74 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 850 mAh battery",
+            "Stand-by": "Up to 300 h",
+            "Talk time": "Up to 7 h"
+        },
+        "Body": {
+            "Dimensions": "109 x 45 x 15 mm (4.29 x 1.77 x 0.59 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "78 g (2.75 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "No"
+        },
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "Stereo FM radio",
+            "USB": "No",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "128 x 128 pixels (~113 ppi pixel density)",
+            "Size": "1.6 inches (~16.8% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- Predictive text input\n- Calculator \n- Stopwatch",
+            "Browser": "No",
+            "Games": "Yes",
+            "Java": "No",
+            "Messaging": "SMS"
+        },
+        "Launch": {
+            "Announced": "2007, March",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- 750 SMS messages",
+            "Call records": "10 dialed, 10 received, 10 missed calls",
+            "Card slot": "No",
+            "Internal": "500 KB",
+            "Phonebook": "500 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "",
+            "Price group": "1/10 (About 30 EUR)",
+            "SAR US": "1.00 W/kg (head) \u00a0 \u00a0 0.64 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Polyphonic ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Motorola W218",
+        "image": {
+            "href": "http://www.gsmarena.com/motorola_w218-pictures-1932.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/motorola-w218.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/motorola_w218-1932.php"
+    }
+}

@@ -1,0 +1,143 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1830 mAh battery",
+            "Stand-by": "Up to 252 h (3G)",
+            "Talk time": "Up to 3 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "133.9 x 67.8 x 10.4 mm (5.27 x 2.67 x 0.41 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "127 g (4.48 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face/smile detection",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash",
+            "Secondary": "Yes",
+            "Video": "1080p"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, DLNA, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "720 x 1280 pixels (~326 ppi pixel density)",
+            "Size": "4.5 inches (~61.5% screen-to-body ratio)",
+            "Type": "AH-IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/H.264/WMV player\n- MP3/WAV/WMA/eAAC+ player\n- Document viewer/editor\n- Organizer\n- Voice memo/dial/commands\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML, Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2011, November",
+            "Status": "Available. Released 2011, December"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB, 16 GB included",
+            "Internal": "4 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "4/10 (About 170 EUR)",
+            "SAR US": "0.67 W/kg (head) \u00a0 \u00a0 1.12 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 1900 / 2100",
+            "4G bands": "LTE band 17(700)",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 21.1/5.76 Mbps, LTE",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.5 GHz Scorpion",
+            "GPU": "Adreno 220",
+            "OS": "Android OS, v2.3.5 (Gingerbread), planned upgrade to v4.0 (Ice Cream Sandwich)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "0": "B",
+            "1": "a",
+            "10": "f",
+            "11": "e",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "t",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "g",
+            "25": "s",
+            "26": "m",
+            "27": "a",
+            "28": "r",
+            "29": "e",
+            "3": "t",
+            "30": "n",
+            "31": "a",
+            "32": "_",
+            "33": "l",
+            "34": "a",
+            "35": "b",
+            "36": "_",
+            "37": "t",
+            "38": "e",
+            "39": "s",
+            "4": "e",
+            "40": "t",
+            "41": "s",
+            "42": "-",
+            "43": "r",
+            "44": "e",
+            "45": "v",
+            "46": "i",
+            "47": "e",
+            "48": "w",
+            "49": "-",
+            "5": "r",
+            "50": "7",
+            "51": "5",
+            "52": "1",
+            "53": "p",
+            "54": "6",
+            "55": ".",
+            "56": "p",
+            "57": "h",
+            "58": "p",
+            "6": "y",
+            "7": " ",
+            "8": "l",
+            "9": "i"
+        }
+    },
+    "main": {
+        "canonical_name": "For AT&T\nAlso known as LG P930",
+        "device_name": "LG Nitro HD",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_nitro_hd-pictures-4329.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-nitro-hd-ofic.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_nitro_hd-4329.php"
+    }
+}

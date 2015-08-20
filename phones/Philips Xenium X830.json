@@ -1,0 +1,75 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1530 mAh battery",
+            "Music play": "Up to 70 h",
+            "Stand-by": "Up to 1080 h",
+            "Talk time": "Up to 10 h"
+        },
+        "Body": {
+            "Dimensions": "105 x 53 x 15.5 mm (4.13 x 2.09 x 0.61 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "120 g (4.23 oz)"
+        },
+        "Camera": {
+            "Primary": "5 MP, 2560 x 1920 pixels, autofocus, LED flash",
+            "Secondary": "No",
+            "Video": "480p@15fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "FM radio with RDS",
+            "USB": "miniUSB v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Handwriting recognition",
+            "Resolution": "240 x 400 pixels (Wide QVGA) (~155 ppi pixel density)",
+            "Size": "3.0 inches (~46.0% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/MP4/WAV/AAC player\n- Document viewer (Word, Excel, PowerPoint, PDF)\n- Organizer\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS (threaded view), MMS, Email",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2009, July. Released 2009",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "30 received, dialed and missed calls",
+            "Card slot": "miniSD up to 8 GB",
+            "Internal": "47 MB",
+            "Phonebook": "Yes, Photocall"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "6/10 (About 250 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "Class 10",
+            "GPRS": "Class 12",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Philips Xenium X830",
+        "image": {
+            "href": "http://www.gsmarena.com/philips_xenium_x830-pictures-2892.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/philips-xenium-x830.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/philips_xenium_x830-2892.php"
+    }
+}

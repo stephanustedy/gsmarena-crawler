@@ -1,0 +1,83 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 970 mAh battery (BL-6Q)",
+            "Music play": "Up to 20 h",
+            "Stand-by": "Up to 300 h (2G) / Up to 300 h (3G)",
+            "Talk time": "Up to 5 h (2G) / Up to 4 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "109.8 x 45 x 11.2 mm, 46.5 cc (4.32 x 1.77 x 0.44 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "116.5 g (4.09 oz)"
+        },
+        "Camera": {
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, LED flash, check quality",
+            "Secondary": "No",
+            "Video": "480p@15fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "Yes, with A-GPS; Nokia Maps",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~182 ppi pixel density)",
+            "Size": "2.2 inches (~30.3% screen-to-body ratio)",
+            "Type": "TFT, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/H.263 player\n- MP3/WAV/eAAC+/WMA player\n- Organizer\n- Voice command/dial\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML, Adobe Flash Lite",
+            "Games": "3 + Downloadable",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS, MMS, Email, IM",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2009, January",
+            "Status": "Available. Released 2009, May"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "microSD, up to 16 GB, 1 GB included",
+            "Internal": "170 MB",
+            "Phonebook": "2000 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Gold, White Gold, Illuvial, Silver metallic, Matte metallic, Black metallic",
+            "Price group": "3/10 (About 110 EUR)",
+            "SAR EU": "0.41 W/kg (head)",
+            "SAR US": "0.79 W/kg (head) \u00a0 \u00a0 0.87 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 1900 / 2100",
+            "EDGE": "Class 32",
+            "GPRS": "Class 32",
+            "Speed": "HSPA 10.2/2 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Camera": "Photo",
+            "Loudspeaker": "Voice 75dB / Noise 66dB / Ring 75dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Also available as Nokia 6700 classic Gold Edition with 18K gold-plated body",
+        "device_name": "Nokia 6700 classic",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_6700_classic-pictures-2659.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-6700-classic.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_6700_classic-2659.php"
+    }
+}

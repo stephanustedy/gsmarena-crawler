@@ -1,0 +1,92 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 720 mAh battery",
+            "Stand-by": "Up to 100 h",
+            "Talk time": "Up to 5 h"
+        },
+        "Body": {
+            "Dimensions": "82 x 43 x 21.5 mm (3.23 x 1.69 x 0.85 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "84 g (2.96 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "FM radio (Optional)",
+            "USB": "No",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second external FSTN display, 96 x 64 pixels, 1.0 inches",
+            "Resolution": "128 x 160pixels (~114 ppi pixel density)",
+            "Size": "1.8 inches (~28.9% screen-to-body ratio)",
+            "Type": "CSTN, 65K colors"
+        },
+        "Features": {
+            "": "- Amoi Smart Dial\n- PC Sync\n- Voice memo\n- Organizer",
+            "Browser": "WAP 2.0",
+            "Games": "Yes",
+            "Java": "No",
+            "Messaging": "SMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2006, 2Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "No",
+            "Internal": "650 KB",
+            "Phonebook": "300 entries"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Amoi A211",
+        "image": {
+            "href": "http://www.gsmarena.com/amoi_a211-pictures-1632.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/amoi-a211.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/amoi_a211-1632.php"
+    }
+}

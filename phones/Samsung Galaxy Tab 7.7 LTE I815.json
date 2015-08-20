@@ -1,0 +1,85 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 5100 mAh battery",
+            "Stand-by": "Up to 392 h (3G)",
+            "Talk time": "Up to 13 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "196.6 x 133.1 x 7.9 mm (7.74 x 5.24 x 0.31 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "340.2 g (11.99 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face/smile detection",
+            "Primary": "3.15 MP, 2048 x 1536 pixels, autofocus, LED flash",
+            "Secondary": "2 MP",
+            "Video": "720p"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "": "- TouchWiz UI",
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "800 x 1280 pixels (~196 ppi pixel density)",
+            "Size": "7.7 inches (~65.7% screen-to-body ratio)",
+            "Type": "Super AMOLED Plus capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- TV-out\n- MP4/DivX/XviD/WMV/H.264 player\n- MP3/WAV/WMA/eAAC+/Flac player\n- Photo/video editor\n- Document editor/viewer",
+            "Browser": "HTML5, Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2012, January",
+            "Status": "Available. Released 2012, Q3"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "16/32 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Metallic Gray and White",
+            "Price group": "6/10 (About 280 EUR)",
+            "SAR US": "1.09 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "CDMA 800 / 1900",
+            "3G bands": "CDMA2000 1xEV-DO",
+            "4G bands": "LTE band 2(1900), 5(850), 13(700)",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Speed": "EV-DO Rev.A 3.1 Mbps, LTE",
+            "Technology": "CDMA / EVDO / LTE"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.4 GHz",
+            "Chipset": "Exynos 4210",
+            "GPU": "Mali-400",
+            "OS": "Android OS, v3.2 (Honeycomb)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "canonical_name": "Tablet with support for CDMA, LTE voice/data communication, SMS, and MMS\nFor Verizon",
+        "device_name": "Samsung Galaxy Tab 7.7 LTE I815",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_galaxy_tab_7_7_lte_i815-pictures-4419.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/Samsung-Galaxy-Tab-7.7-LTE-i815.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_galaxy_tab_7_7_lte_i815-4419.php"
+    }
+}

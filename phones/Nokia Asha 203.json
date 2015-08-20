@@ -1,0 +1,77 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1020 mAh battery (BL-5C)",
+            "Music play": "Up to 25 h",
+            "Stand-by": "Up to 650 h",
+            "Talk time": "Up to 5 h"
+        },
+        "Body": {
+            "Dimensions": "114.8 x 49.8 x 13.9 mm, 91.5 cc (4.52 x 1.96 x 0.55 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "90 g (3.17 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels",
+            "Secondary": "No",
+            "Video": "176x144@15fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP, EDR",
+            "GPS": "No",
+            "Radio": "Stereo FM radio with RDS, FM recording",
+            "USB": "microUSB v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Multitouch": "No",
+            "Resolution": "240 x 320 pixels (~167 ppi pixel density)",
+            "Size": "2.4 inches (~31.2% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen"
+        },
+        "Features": {
+            "": "- SNS integration\n- MP4/H.264/WMV player\n- MP3/WAV/WMA/eAAC+ player\n- Organizer\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML, Adobe Flash Lite",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS, MMS, Email, IM"
+        },
+        "Launch": {
+            "Announced": "2012, February",
+            "Status": "Available. Released 2012, May"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "10 MB, 32 MB ROM, 16 MB RAM",
+            "Phonebook": "1000 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Dark Red, Dark Grey, Silver White",
+            "Price group": "2/10 (About 80 EUR)",
+            "SAR EU": "0.65 W/kg (head)",
+            "SAR US": "1.10 W/kg (head) \u00a0 \u00a0 0.88 W/kg (body)"
+        },
+        "Network": {
+            "": "GSM 850 / 1900 - RM-832",
+            "2G bands": "GSM 900 / 1800 - RM-833",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Nokia Asha 203",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_asha_203-pictures-4579.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-asha-203.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_asha_203-4579.php"
+    }
+}

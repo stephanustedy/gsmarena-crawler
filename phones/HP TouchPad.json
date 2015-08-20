@@ -1,0 +1,79 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 6300 mAh battery",
+            "Stand-by": "Up to 300 h",
+            "Talk time": "Up to 9 h"
+        },
+        "Body": {
+            "Dimensions": "240 x 190 x 13.7 mm (9.45 x 7.48 x 0.54 in)",
+            "SIM": "No",
+            "Weight": "740 g (1.63 lb)"
+        },
+        "Camera": {
+            "Features": "Video-calling",
+            "Primary": "1.3 MP, 1280 x 1024 pixels",
+            "Secondary": "No",
+            "Video": "No"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP, EDR",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "768 x 1024 pixels (~132 ppi pixel density)",
+            "Size": "9.7 inches (~63.9% screen-to-body ratio)",
+            "Type": "LED-backlit LCD, capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Touchstone technology\n- SNS applications\n- MP3/WAV/eAAC+ player\n- MP4/H.264 player\n- Organizer\n- Document viewer/editor\n- Predictive text input",
+            "Browser": "HTML, Adobe Flash",
+            "Java": "Yes",
+            "Messaging": "Email, Push Email, IM",
+            "Sensors": "Accelerometer, gyro"
+        },
+        "Launch": {
+            "Announced": "2011, February. Released 2011, July",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "16/32 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "6/10 (About 280 EUR)"
+        },
+        "Network": {
+            "2G bands": "N/A",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "No cellular connectivity"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.2 GHz Scorpion",
+            "Chipset": "Qualcomm APQ8060 Snapdragon S3",
+            "GPU": "Adreno 220",
+            "OS": "HP webOS 3.0"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "N/A",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "canonical_name": "Tablet with no support for GSM voice communication, SMS, and MMS.",
+        "device_name": "HP TouchPad",
+        "image": {
+            "href": "http://www.gsmarena.com/hp_touchpad-pictures-3839.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/hp-touch-pad-new.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/hp_touchpad-3839.php"
+    }
+}

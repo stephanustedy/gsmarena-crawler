@@ -1,0 +1,100 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po 6350 mAh battery (23.5 Wh)",
+            "Stand-by": "",
+            "Talk time": "Up to 8 h (multimedia)"
+        },
+        "Body": {
+            "Dimensions": "259.1 x 180.3 x 7.6 mm (10.20 x 7.10 x 0.30 in)",
+            "SIM": "No",
+            "Weight": "562.5 g (1.24 lb)"
+        },
+        "Camera": {
+            "Primary": "5 MP, 2592 x 1936 pixels, autofocus",
+            "Secondary": "VGA",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "microUSB v2.0, USB Host",
+            "WLAN": "Wi-Fi 802.11 b/g/n"
+        },
+        "Display": {
+            "Multitouch": "Yes, up to 10 fingers",
+            "Resolution": "1280 x 800 pixels (~149 ppi pixel density)",
+            "Size": "10.1 inches (~63.3% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen"
+        },
+        "Features": {
+            "": "- HDMI port\n- MP3/WAV/WMA/AAC player\n- MP4/H.264 player\n- Document viewer\n- Photo viewer/editor",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "Email, Push Email, IM",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2013, Q1",
+            "Status": "Available. Released 2013, Q2"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "16/32 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "N/A",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "No cellular connectivity"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.2 GHz Cortex-A7",
+            "Chipset": "Mediatek MT8125",
+            "GPU": "PowerVR SGX544MP2",
+            "OS": "Android OS, v4.2.2 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "device_name": "Lenovo IdeaTab S6000",
+        "image": {
+            "href": "http://www.gsmarena.com/lenovo_ideatab_s6000-pictures-6198.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lenovo-ideatab-s6000.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lenovo_ideatab_s6000-6198.php"
+    }
+}

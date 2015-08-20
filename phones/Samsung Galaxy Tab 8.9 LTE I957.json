@@ -1,0 +1,84 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 6100 mAh battery",
+            "Stand-by": "Up to 400 h",
+            "Talk time": "Up to 11 h"
+        },
+        "Body": {
+            "Dimensions": "230.9 x 157.8 x 8.6 mm (9.09 x 6.21 x 0.34 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "455 g (1.00 lb)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "3.15 MP, 2048 x 1536 pixels, autofocus, LED flash",
+            "Secondary": "2 MP",
+            "Video": "720p"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "v2.0",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- Samsung TouchWiz UX",
+            "Multitouch": "Yes",
+            "Resolution": "800 x 1280 pixels (~170 ppi pixel density)",
+            "Size": "8.9 inches (~63.0% screen-to-body ratio)",
+            "Type": "PLS TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- TV-out\n- MP4/DivX/Xvid/H.264 player\n- MP3/WAV/eAAC+/OGG player\n- Photo/video editor\n- Document editor/viewer",
+            "Browser": "HTML, Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, gyro, compass"
+        },
+        "Launch": {
+            "Announced": "2011, August",
+            "Status": "Available. Released 2011, November"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "16/32 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "7/10 (About 330 EUR)",
+            "SAR EU": "0.86 W/kg (head)",
+            "SAR US": "1.04 W/kg (body)"
+        },
+        "Network": {
+            "": "LTE band 3(1800), 7(2600), 20(800)",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 1900 / 2100 - for AT&T",
+            "4G bands": "LTE band 4(1700/2100), 17(700) - AT&T",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 42.2/5.76 Mbps, LTE",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.5 GHz",
+            "OS": "Android OS, v3.2 (Honeycomb)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "canonical_name": "Tablet with support for GSM voice communication, SMS, and MMS\nAlso known as Galaxy Tab 8.9 I957, Samsung Galaxy Tab 8.9 AT&T",
+        "device_name": "Samsung Galaxy Tab 8.9 LTE I957",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_galaxy_tab_8_9_lte_i957-pictures-4125.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-tab-89-lte.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_galaxy_tab_8_9_lte_i957-4125.php"
+    }
+}

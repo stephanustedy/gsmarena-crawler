@@ -1,0 +1,81 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 1500 mAh battery",
+            "Stand-by": "Up to 370 h",
+            "Talk time": "Up to 7 h"
+        },
+        "Body": {
+            "Dimensions": "119.5 x 59.6 x 12.4 mm (4.70 x 2.35 x 0.49 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "131 g (4.62 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face/smile detection",
+            "Primary": "5 MP, 2592 x 1944 pixels, autofocus",
+            "Secondary": "VGA",
+            "Video": "720p"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n"
+        },
+        "Display": {
+            "": "- TouchWiz 3.0 UI",
+            "Multitouch": "Yes",
+            "Resolution": "480 x 800 pixels (~252 ppi pixel density)",
+            "Size": "3.7 inches (~54.7% screen-to-body ratio)",
+            "Type": "Super AMOLED capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- T-DMB TV\n- MP4/DivX/AVI/MKV/WMV/H.264 player\n- MP3/WAV/eAAC+/FLAC player\n- Photo/video editor\n- Document editor",
+            "Browser": "HTML, Adobe Flash Lite",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2010, August",
+            "Status": "Available. Released 2010, Q3"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB, 8 GB included",
+            "Internal": "8 GB"
+        },
+        "Misc": {
+            "Colors": "White, Black",
+            "Price group": "5/10 (About 220 EUR)",
+            "SAR EU": "0.36 W/kg (head)",
+            "SAR US": "0.92 W/kg (head) \u00a0 \u00a0 1.11 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "CDMA 800 / 1900",
+            "3G bands": "CDMA2000 1xEV-DO",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Speed": "EV-DO Rev.A 3.1 Mbps",
+            "Technology": "CDMA / EVDO"
+        },
+        "Platform": {
+            "CPU": "S5PC111 1GHz",
+            "OS": "Android OS, v2.1 (Eclair)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Samsung M130L Galaxy U",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_m130l_galaxy_u-pictures-3490.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-m130l-galaxy-u.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_m130l_galaxy_u-3490.php"
+    }
+}

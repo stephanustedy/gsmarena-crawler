@@ -1,0 +1,82 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 4000 mAh battery",
+            "Stand-by": "Up to 600 h",
+            "Talk time": "Up to 8 h"
+        },
+        "Body": {
+            "Dimensions": "193.7 x 122.4 x 9.9 mm (7.63 x 4.82 x 0.39 in)",
+            "SIM": "No",
+            "Weight": "345 g (12.17 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, smile detection",
+            "Primary": "3.15 MP, 2048 x 1536 pixels, autofocus, LED flash",
+            "Secondary": "2 MP",
+            "Video": "720p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "Yes",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "v2.0 (TV-out)",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- TouchWiz UX UI",
+            "Multitouch": "Yes",
+            "Resolution": "600 x 1024 pixels (~170 ppi pixel density)",
+            "Size": "7.0 inches (~58.2% screen-to-body ratio)",
+            "Type": "PLS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/DivX/Xvid/H.264/WMV player\n- MP3/WAV/eAAC+/WMA/Flac player\n- Photo/video editor\n- Quickoffice HD editor/viewer",
+            "Browser": "HTML, Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "Email, Push Email, IM",
+            "Sensors": "Accelerometer, gyro, compass"
+        },
+        "Launch": {
+            "Announced": "2011",
+            "Status": "Available"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "16/32 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Gray",
+            "Price group": "6/10 (About 260 EUR)",
+            "SAR US": "0.08 W/kg (head) \u00a0 \u00a0 0.78 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "N/A",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "No cellular connectivity"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.2 GHz",
+            "Chipset": "Exynos 4210",
+            "GPU": "Mali-400",
+            "OS": "Android OS, v3.2 (Honeycomb), upgradable to v4.1 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as:\nSamsung Galaxy Tab 7.0N Plus\nSamsung Galaxy Tab 7.0 Plus N in Germany\nTablet with no support for GSM voice communication, SMS, and MMS",
+        "device_name": "Samsung P6210 Galaxy Tab 7.0 Plus",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_p6210_galaxy_tab_7_0_plus-pictures-4667.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-tab-plus-p6210.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_p6210_galaxy_tab_7_0_plus-4667.php"
+    }
+}

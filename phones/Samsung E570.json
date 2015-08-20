@@ -1,0 +1,75 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 750 mAh battery",
+            "Stand-by": "Up to 250 h",
+            "Talk time": "Up to 6 h"
+        },
+        "Body": {
+            "Dimensions": "86 x 45 x 24 mm (3.39 x 1.77 x 0.94 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "81 g (2.86 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 1024 pixels",
+            "Secondary": "No",
+            "Video": "QCIF"
+        },
+        "Comms": {
+            "Bluetooth": "v1.2, A2DP",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "v1.2",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second external OLED mono display (176 x 16 pixels)",
+            "Resolution": "176 x 220 pixels (~157 ppi pixel density)",
+            "Size": "1.8 inches (~26.3% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- MP4 player\n- MP3/AAC/ACC+ player\n- Predictive text input\n- Organizer\n- Pedometer, calories burned\n- Voice memo",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2006, October",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- 20 MB for pictures, video, music, ringtones\n- 3 MB for MMS\n- 2 MB for Java",
+            "Call records": "30 dialed, 30 received, 30 missed calls",
+            "Card slot": "microSD",
+            "Phonebook": "1000 x 12 fields, Photo call"
+        },
+        "Misc": {
+            "Colors": "Sweet Pink, Festival Orange, Metallic Blue, Special Silver, Viola Black.",
+            "Price group": "3/10 (About 120 EUR)",
+            "SAR EU": "0.75 W/kg (head)",
+            "SAR US": "0.63 W/kg (head) \u00a0 \u00a0 0.36 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "Yes",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Samsung E570",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_e570-pictures-1756.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-e570.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_e570-1756.php"
+    }
+}

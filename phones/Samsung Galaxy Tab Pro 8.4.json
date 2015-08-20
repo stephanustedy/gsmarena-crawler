@@ -1,0 +1,89 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 4800 mAh battery",
+            "Music play": "Up to 127 h",
+            "Stand-by": "",
+            "Talk time": "Up to 11 h (multimedia)"
+        },
+        "Body": {
+            "Dimensions": "219 x 128.5 x 7.2 mm (8.62 x 5.06 x 0.28 in)",
+            "SIM": "No",
+            "Weight": "331 g (11.68 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face/smile detection",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash, check quality",
+            "Secondary": "2 MP, 1080p@30fps",
+            "Video": "1080p@30fps, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, LE",
+            "GPS": "Yes, with GLONASS",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "microUSB v2.0 (MHL TV-out), USB Host",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot"
+        },
+        "Display": {
+            "": "- Samsung TouchWiz UI",
+            "Multitouch": "Yes, up to 10 fingers",
+            "Resolution": "1600 x 2560 pixels (~359 ppi pixel density)",
+            "Size": "8.4 inches (~72.7% screen-to-body ratio)",
+            "Type": "Super clear LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP4/DivX/XviD/WMV/H.265 player\n- MP3/WAV/eAAC+/FLAC player\n- Photo/video editor\n- Document viewer",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "Email, Push Mail, IM",
+            "Sensors": "Accelerometer, gyro"
+        },
+        "Launch": {
+            "Announced": "2014, January",
+            "Status": "Available. Released 2014, February"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "16/32 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "6/10 (About 290 EUR)",
+            "SAR US": "1.04 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "N/A",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "No cellular connectivity"
+        },
+        "Platform": {
+            "CPU": "Quad-core 2.3 GHz Krait 400",
+            "Chipset": "Qualcomm Snapdragon 800",
+            "GPU": "Adreno 330",
+            "OS": "Android OS, v4.4 (KitKat)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        },
+        "Tests": {
+            "Audio quality": "Noise -93.3dB / Crosstalk -89.2dB",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 822:1 (nominal)",
+            "Loudspeaker": "Voice 75dB / Noise 66dB / Ring 76dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Samsung SM-T320",
+        "device_name": "Samsung Galaxy Tab Pro 8.4",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_galaxy_tab_pro_8_4-pictures-5946.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-tab-pro-84.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_galaxy_tab_pro_8_4-5946.php"
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 780 mAh battery (BLD-3)",
+            "Stand-by": "up to 10 days",
+            "Talk time": "up to 4 h"
+        },
+        "Body": {
+            "Dimensions": "106 x 45 x 17.5 mm, 83 cc (4.17 x 1.77 x 0.69 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "83 g (2.93 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "Stereo FM radio",
+            "USB": "Pop-Port",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Dynamic font size\n- Softkey",
+            "Resolution": "128 x 128 pixels (~121 ppi pixel density)",
+            "Size": "1.5 inches (~15.2% screen-to-body ratio)",
+            "Type": "CSTN, 4096 colors"
+        },
+        "Features": {
+            "": "- Predictive text input\n- Organizer\n- Infrared transfer of data between compatible phones\n- Xpress-on covers\n- Profiles",
+            "Alarm": "Yes",
+            "Browser": "WAP 1.2.1",
+            "Clock": "Yes",
+            "Games": "2 preinstalled, More via WAP",
+            "Java": "Yes",
+            "Languages": "Country dependant",
+            "Messaging": "SMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2002",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- 3 phone numbers per name\n- 150 text messages\n- 100-250 calendar notes",
+            "Call records": "10 dialed, 10 received, 10 missed calls",
+            "Card slot": "No",
+            "Phonebook": "500 names x3 numbers"
+        },
+        "Misc": {
+            "Colors": "3 - Turquoise, Orange, and Brown",
+            "SAR EU": "1.29 W/kg (head)",
+            "SAR US": "1.00 W/kg (head) \u00a0 \u00a0 0.87 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 6",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "": "- Ascending ringing tones\n- Personal alert tones",
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, monophonic ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 7210",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_7210-pictures-318.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/no7210.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_7210-318.php"
+    }
+}

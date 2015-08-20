@@ -1,0 +1,72 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1200 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "": "- Flashlight",
+            "Dimensions": "118.5 x 52.5 x 15.2 mm (4.67 x 2.07 x 0.60 in)",
+            "SIM": "Dual SIM (Mini-SIM, dual stand-by)",
+            "Weight": ""
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "No",
+            "Radio": "FM radio",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~154 ppi pixel density)",
+            "Size": "2.6 inches (~33.6% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- Audio/video player\n- Photo viewer\n- Organizer",
+            "Browser": "WAP",
+            "Games": "Downloadable",
+            "Java": "Yes",
+            "Messaging": "SMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2011",
+            "Status": "Available"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 4 GB",
+            "Phonebook": "1000 entries"
+        },
+        "Misc": {
+            "Colors": "Black, Gray",
+            "Price group": "1/10 (About 30 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration, Polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Micromax X256",
+        "image": {
+            "href": "http://www.gsmarena.com/micromax_x256-pictures-4358.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/micromax-x256.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/micromax_x256-4358.php"
+    }
+}

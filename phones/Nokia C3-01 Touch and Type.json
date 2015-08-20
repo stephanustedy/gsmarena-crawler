@@ -1,0 +1,131 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1050 mAh battery (BL-5CT)",
+            "Music play": "Up to 20 h",
+            "Stand-by": "Up to 405 h (2G) / Up to 440 h (3G)",
+            "Talk time": "Up to 5 h 30 min (2G) / Up to 4 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "111 x 47.5 x 11 mm, 51.4 cc (4.37 x 1.87 x 0.43 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "100 g (3.53 oz)"
+        },
+        "Camera": {
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, LED flash, check quality",
+            "Secondary": "No",
+            "Video": "480p@15fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "No",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~167 ppi pixel density)",
+            "Size": "2.4 inches (~33.8% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- Facebook, Twitter\n- MP4/H.264/WMV player\n- MP3/WAV/WMA/eAAC+ player\n- Organizer\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML, Adobe Flash Lite",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS, MMS, Email, IM"
+        },
+        "Launch": {
+            "Announced": "2010, September",
+            "Status": "Available. Released 2010, October"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "30 MB, 64 MB RAM, 128 MB ROM",
+            "Phonebook": "Yes, Photocall"
+        },
+        "Misc": {
+            "Colors": "Silver, Warm grey, Golden khaki",
+            "Price group": "2/10 (About 70 EUR)",
+            "SAR EU": "0.99 W/kg (head)",
+            "SAR US": "0.87 W/kg (head) \u00a0 \u00a0 0.58 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+            "EDGE": "Class 32",
+            "GPRS": "Class 32",
+            "Speed": "HSPA 10.2/2 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "0": "C",
+            "1": "P",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "U",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "g",
+            "25": "l",
+            "26": "o",
+            "27": "s",
+            "28": "s",
+            "29": "a",
+            "3": "p",
+            "30": "r",
+            "31": "y",
+            "32": ".",
+            "33": "p",
+            "34": "h",
+            "35": "p",
+            "36": "3",
+            "37": "?",
+            "38": "t",
+            "39": "e",
+            "4": ":",
+            "40": "r",
+            "41": "m",
+            "42": "=",
+            "43": "c",
+            "44": "p",
+            "45": "u",
+            "5": "/",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -88.4dB / Crosstalk -88.1dB",
+            "Camera": "Photo",
+            "Loudspeaker": "Voice 73dB / Noise 66dB / Ring 77dB"
+        }
+    },
+    "main": {
+        "canonical_name": "RM-776: 1 GHz processor, 256 MB ROM, 128 MB RAM\nRM-640: 680 MHz processor, 128 MB ROM, 64 MB RAM",
+        "device_name": "Nokia C3-01 Touch and Type",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_c3_01_touch_and_type-pictures-3525.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/Nokia-C3-Touch-and-Type.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_c3_01_touch_and_type-3525.php"
+    }
+}

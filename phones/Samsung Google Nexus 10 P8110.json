@@ -1,0 +1,88 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po 9000 mAh battery",
+            "Stand-by": "Up to 500 h",
+            "Talk time": "Up to 9 h (multimedia)"
+        },
+        "Body": {
+            "Dimensions": "263.9 x 177.6 x 8.9 mm (10.39 x 6.99 x 0.35 in)",
+            "SIM": "No",
+            "Weight": "603 g (1.33 lb)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection",
+            "Primary": "5 MP, 2592 x 1936 pixels, autofocus, LED flash, check quality",
+            "Secondary": "1.9 MP",
+            "Video": "1080p@30fps, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "Yes, with GLONASS",
+            "NFC": "Yes, dual side",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, DLNA"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 2",
+            "Resolution": "2560 x 1600 pixels (~299 ppi pixel density)",
+            "Size": "10.1 inches (~63.1% screen-to-body ratio)",
+            "Type": "Super PLS TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- HDMI port\n- MP4/H.264/DivX/WMV player\n- MP3/WAV/eAAC+/WMA/Flac player\n- Photo/video editor\n- Document viewer",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "Email, Push Email, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass, barometer"
+        },
+        "Launch": {
+            "Announced": "2012, October",
+            "Status": "Available. Released 2012, November"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "16/32 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "6/10 (About 260 EUR)",
+            "SAR EU": "0.21 W/kg (body)",
+            "SAR US": "1.38 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "N/A",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "No cellular connectivity"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.7 GHz Cortex-A15",
+            "Chipset": "Exynos 5250",
+            "GPU": "Mali-T604",
+            "OS": "Android OS, v4.2 (Jelly Bean), upgradable to v5.1 (Lollipop)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        },
+        "Tests": {
+            "Audio quality": "Noise -82.3dB / Crosstalk -81.4dB",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 878 (nominal)",
+            "Loudspeaker": "Voice 68dB / Noise 66dB / Ring 67dB"
+        }
+    },
+    "main": {
+        "device_name": "Samsung Google Nexus 10 P8110",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_google_nexus_10_p8110-pictures-5084.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-google-nexus-10-new.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_google_nexus_10_p8110-5084.php"
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 1320 mAh battery",
+            "Music play": "Up to 40 h",
+            "Stand-by": "Up to 470 h (2G) / Up to 475 h (3G)",
+            "Talk time": "Up to 6 h (2G) / Up to 5 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "116 x 59 x 9.9 mm (4.57 x 2.32 x 0.39 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "107 g (3.77 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face/smile detection, panorama",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, LED flash, check quality",
+            "Secondary": "No",
+            "Video": "720p@30fps, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "NFC": "Yes",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0, USB Host",
+            "WLAN": "Wi-Fi 802.11 b/g/n, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- Floating touch display\n- Sony Mobile BRAVIA Engine",
+            "Multitouch": "Yes, up to 4 fingers",
+            "Protection": "Scratch-resistant glass",
+            "Resolution": "480 x 854 pixels (~265 ppi pixel density)",
+            "Size": "3.7 inches (~55.1% screen-to-body ratio)",
+            "Type": "LED-backlit LCD, capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP4/H.264/WMV player\n- MP3/eAAC+/WMA/WAV player\n- Document viewer\n- Voice memo/dial/commands\n- Predictive text input",
+            "Browser": "HTML5, Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS (threaded view), MMS, Email, IM, Push Email",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2012, March",
+            "Status": "Available. Released 2012, May"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "8 GB (5 GB user available), 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White, Red",
+            "Price group": "3/10 (About 120 EUR)",
+            "SAR EU": "1.25 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+            "EDGE": "Up to 296 kbps",
+            "GPRS": "Up to 100 kbps",
+            "Speed": "HSPA 14.4/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1 GHz Cortex-A9",
+            "Chipset": "NovaThor U8500",
+            "GPU": "Mali-400",
+            "OS": "Android OS, v2.3 (Gingerbread), upgradable to v4.0 (Ice Cream Sandwich)"
+        },
+        "Sound": {
+            "": "- 3D surround sound",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -81.6dB / Crosstalk -83.5dB",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 1002:1 (nominal)",
+            "Loudspeaker": "Voice 60dB / Noise 59dB / Ring 61dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Previously rumored as MT27i Pepper",
+        "device_name": "Sony Xperia sola",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_xperia_sola-pictures-4408.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/sony-xperia-sola.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_xperia_sola-4408.php"
+    }
+}

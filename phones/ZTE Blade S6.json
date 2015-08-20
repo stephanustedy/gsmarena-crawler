@@ -1,0 +1,91 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 2400 mAh battery",
+            "Stand-by": "Up to 180 h",
+            "Talk time": "Up to 9 h"
+        },
+        "Body": {
+            "Dimensions": "144 x 70.7 x 7.7 mm (5.67 x 2.78 x 0.30 in)",
+            "SIM": "Dual SIM (Nano-SIM, dual stand-by)",
+            "Weight": "154 g (5.43 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection",
+            "Primary": "13 MP, 4128 x 3096 pixels, autofocus, LED flash, check quality",
+            "Secondary": "5 MP, 1080p",
+            "Video": "1080p@30fps, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, LE",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, WiFi Direct, hotspot"
+        },
+        "Display": {
+            "": "- MiFavor 3.0 UI",
+            "Multitouch": "Yes",
+            "Resolution": "720 x 1280 pixels (~294 ppi pixel density)",
+            "Size": "5.0 inches (~67.7% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP4/H.265 player\n- MP3/WAV/eAAC+ player\n- Document viewer\n- Photo/video editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2015, January",
+            "Status": "Available. Released 2015, February"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "16 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "White, Aurora purple, Tahiti brown, Venice gold, Baroque red",
+            "Price group": "5/10 (About 220 EUR)",
+            "SAR EU": "0.78 W/kg (head) \u00a0 \u00a0 0.67 W/kg (body)"
+        },
+        "Network": {
+            "": "LTE band 3(1800), 7(2600), 28(700) - AU",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 900 / 2100",
+            "4G bands": "LTE band 1(2100), 3(1800), 7(2600), 8(900), 20(800)",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 42.2/11.5 Mbps, LTE Cat4 150/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.5 GHz Cortex-A53 & quad-core 1.0 GHz Cortex-A53",
+            "Chipset": "Qualcomm MSM8939 Snapdragon 615",
+            "GPU": "Adreno 405",
+            "OS": "Android OS, v5.0.1 (Lollipop)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Battery life": "Endurance rating 51h",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 986 (nominal), 1.927 (sunlight)",
+            "Loudspeaker": "Voice 66dB / Noise 65dB / Ring 76dB",
+            "Performance": "Basemark OS II: 741 / Basemark OS II 2.0: 751\nBasemark X: 5039"
+        }
+    },
+    "main": {
+        "device_name": "ZTE Blade S6",
+        "image": {
+            "href": "http://www.gsmarena.com/zte_blade_s6-pictures-6954.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/zte-blade-s6.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/zte_blade_s6-6954.php"
+    }
+}

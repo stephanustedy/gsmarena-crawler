@@ -1,0 +1,133 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 930 mAh battery (BST-38)",
+            "Music play": "Up to 20 h",
+            "Stand-by": "Up to 370 h (2G) / Up to 360 h (3G)",
+            "Talk time": "Up to 9 h (2G) / Up to 4 h (3G)"
+        },
+        "Body": {
+            "": "- Built-in kickstand",
+            "Dimensions": "97 x 49 x 15 mm (3.82 x 1.93 x 0.59 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "113 g (3.99 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face detection",
+            "Primary": "8.1 MP, 3264 x 2448 pixels, autofocus, LED flash",
+            "Secondary": "Videocall camera",
+            "Video": "320p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "Yes, with A-GPS; Wayfinder navigator",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g, DLNA"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~154 ppi pixel density)",
+            "Size": "2.6 inches (~44.0% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/AAC/MP4 player\n- TrackID music recognition\n- Photo editor \n- Organizer\n- Voice memo/dial\n- Walkman 4.0 player\n- Shake control\n- SensMe",
+            "Browser": "WAP 2.0/HTML (NetFront), RSS reader",
+            "Games": "Yes, incl. motion-based + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email, IM",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2009, February",
+            "Status": "Available. Released 2009, May"
+        },
+        "Memory": {
+            "Call records": "30 received, dialed and missed calls",
+            "Card slot": "Memory Stick Micro (M2), up to 16 GB, 8 GB included",
+            "Internal": "118 MB",
+            "Phonebook": "1000 x 20 fields, Photo call"
+        },
+        "Misc": {
+            "Colors": "Progressive Black, Cosmic Silver, Energetic Red",
+            "Price group": "2/10 (About 100 EUR)",
+            "SAR EU": "1.18 W/kg (head)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 1900 - W995a",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Speed": "HSPA 7.2/2 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "0": "C",
+            "1": "P",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "U",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "g",
+            "25": "l",
+            "26": "o",
+            "27": "s",
+            "28": "s",
+            "29": "a",
+            "3": "p",
+            "30": "r",
+            "31": "y",
+            "32": ".",
+            "33": "p",
+            "34": "h",
+            "35": "p",
+            "36": "3",
+            "37": "?",
+            "38": "t",
+            "39": "e",
+            "4": ":",
+            "40": "r",
+            "41": "m",
+            "42": "=",
+            "43": "c",
+            "44": "p",
+            "45": "u",
+            "5": "/",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3, AAC ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        },
+        "Tests": {
+            "Audio quality": "Noise -89.1dB / Crosstalk -88.7dB",
+            "Loudspeaker": "Voice 66dB / Noise 66dB / Ring 75dB"
+        }
+    },
+    "main": {
+        "canonical_name": "- W995 HSDPA/850/900/1800/1900/2100 MHz \n- W995a HSDPA/850/900/1800/1900 MHz for America",
+        "device_name": "Sony Ericsson W995",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_ericsson_w995-pictures-2682.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/se-w995.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_ericsson_w995-2682.php"
+    }
+}

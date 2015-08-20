@@ -1,0 +1,102 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1300 mAh battery",
+            "Stand-by": "Up to 168 h",
+            "Talk time": "Up to 4 h"
+        },
+        "Body": {
+            "Dimensions": "130 x 70 x 18 mm, 105 cc (5.12 x 2.76 x 0.71 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "190 g (6.70 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 960 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "Yes",
+            "WLAN": "Wi-Fi 802.11b"
+        },
+        "Display": {
+            "": "- 5-way navigation button\n- Downloadable logos",
+            "Resolution": "240 x 320 pixels (~114 ppi pixel density)",
+            "Size": "3.5 inches, 53 x 71 mm (~41.7% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 65K colors"
+        },
+        "Features": {
+            "": "- Microsoft ActiveSync\n- MP3 player\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML (PocketIE)",
+            "Java": "No",
+            "Messaging": "SMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2004, 2Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "SDIO/MMC",
+            "Internal": "128 MB RAM, 128 MB ROM"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Platform": {
+            "CPU": "Intel Bulverde 520 MHz",
+            "OS": "Microsoft Windows Mobile 2003 SE PocketPC"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": {
+            "href": "http://www.gsmarena.com/htc_pocketpc_smartphone.php3",
+            "text": "Produced by HTC. Functionally identical to O2 XDA IIi."
+        },
+        "device_name": "Qtek 2020i",
+        "image": {
+            "href": "http://www.gsmarena.com/qtek_2020i-pictures-1168.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/qtek-2020i.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/qtek_2020i-1168.php"
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1500 mAh battery",
+            "Stand-by": "Up to 750 h (2G) / Up to 576 h (3G)",
+            "Talk time": "Up to 13 h 30 min (2G) / Up to 6 h 30 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "122.4 x 64.2 x 9.9 mm (4.82 x 2.53 x 0.39 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "118 g (4.16 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face/smile detection",
+            "Primary": "5 MP, 2592 x 1944 pixels, autofocus",
+            "Secondary": "No",
+            "Video": "720p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n; DLNA"
+        },
+        "Display": {
+            "": "- TouchWiz 3.0 UI",
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "480 x 800 pixels (~233 ppi pixel density)",
+            "Size": "4.0 inches (~58.0% screen-to-body ratio)",
+            "Type": "Super AMOLED capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/DivX/WMV/H.264 player\n- MP3/WAV/eAAC+/FLAC player\n- Organizer\n- Photo/video editor\n- Voice memo/dial/commands\n- Predictive text input (Swype)",
+            "Browser": "HTML, Adobe Flash Lite",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2010, June",
+            "Status": "Available. Released 2010, July"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "16 GB, 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black and Grey",
+            "Price group": "4/10 (About 170 EUR)",
+            "SAR EU": "0.37 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 1900 / 2100",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 7.2/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "1 GHz Cortex-A8",
+            "Chipset": "Hummingbird",
+            "GPU": "PowerVR SGX540",
+            "OS": "Android OS, v2.1 (Eclair), upgradable to v2.3 (Gingerbread)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": {
+            "href": "http://www.gsmarena.com/samsung_i9000_galaxy_s-3115.php",
+            "text": "AT&T version of Samsung Galaxy S"
+        },
+        "device_name": "Samsung i897 Captivate",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_i897_captivate-pictures-3408.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-captivate.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_i897_captivate-3408.php"
+    }
+}

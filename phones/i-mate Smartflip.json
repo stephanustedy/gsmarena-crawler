@@ -1,0 +1,79 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 750 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "98.5 x 51.4 x 15.8 mm (3.88 x 2.02 x 0.62 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "99 g (3.49 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 1024 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v1.2",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "v1.1",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second external 1.2-inch TFT display, 65K colors (128 x 128 pixels)",
+            "Resolution": "240 x 320 pixels, 2.2 inches (~182 ppi pixel density)",
+            "Size": "2.2 inches, 34 x 45 mm (~29.6% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- Pocket Office \n- Voice memo/dial\n- MP3/AAC player \n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML (PocketIE)",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2006, February",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "microSD",
+            "Internal": "64 MB RAM, 64 MB ROM"
+        },
+        "Misc": {
+            "Colors": "Stylish black",
+            "Price group": "3/10 (About 110 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Platform": {
+            "CPU": "200 MHz ARM926EJ-S",
+            "Chipset": "TI OMAP 850",
+            "OS": "Microsoft Windows Mobile 5.0 Smartphone"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": {
+            "href": "http://www.gsmarena.com/htc_pocketpc_smartphone.php3",
+            "text": "Produced by HTC."
+        },
+        "device_name": "i-mate Smartflip",
+        "image": {
+            "href": "http://www.gsmarena.com/i_mate_smartflip-pictures-1482.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/imate-smartflip.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/i_mate_smartflip-1482.php"
+    }
+}

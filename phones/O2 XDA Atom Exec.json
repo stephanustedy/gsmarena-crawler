@@ -1,0 +1,79 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 1530 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "102 x 58 x 18.5 mm (4.02 x 2.28 x 0.73 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "140 g (4.94 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels, LED flash",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v1.2",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "FM radio",
+            "USB": "miniUSB",
+            "WLAN": "Wi-Fi 802.11b"
+        },
+        "Display": {
+            "": "- Handwriting recognition",
+            "Resolution": "240 x 320 pixels (~148 ppi pixel density)",
+            "Size": "2.7 inches (~38.2% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 256K colors (65K effective)"
+        },
+        "Features": {
+            "": "- Pocket Office \n- MP3/AAC/AAC+/WMA/OGG/AMR player\n- WMV/MP4 player",
+            "Browser": "WAP 2.0/xHTML, HTML (PocketIE)",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2006, June",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "miniSD",
+            "Internal": "64 MB RAM, 192 MB ROM"
+        },
+        "Misc": {
+            "Colors": "Silver",
+            "Price group": "7/10 (About 310 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Platform": {
+            "CPU": "Intel XScale PXA 27x 520MHz",
+            "OS": "Microsoft Windows Mobile 5.0 PocketPC"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3, AAC ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "canonical_name": {
+            "href": "http://www.gsmarena.com/htc_pocketpc_smartphone.php3",
+            "text": "Full HTC platforms guide"
+        },
+        "device_name": "O2 XDA Atom Exec",
+        "image": {
+            "href": "http://www.gsmarena.com/o2_xda_atom_exec-pictures-1625.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/o2-xda-atom-exec.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/o2_xda_atom_exec-1625.php"
+    }
+}

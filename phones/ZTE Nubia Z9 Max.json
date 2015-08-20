@@ -1,0 +1,85 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 2900 mAh battery",
+            "Stand-by": "Up to 666 h (3G)",
+            "Talk time": "Up to 40 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "154.8 x 76.6 x 7.9 mm (6.09 x 3.02 x 0.31 in)",
+            "SIM": "Dual SIM (Nano-SIM, dual stand-by)",
+            "Weight": "165 g (5.82 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection, panorama, HDR",
+            "Primary": "16 MP, 5312 x 2988 pixels, autofocus, LED flash",
+            "Secondary": "8 MP, 1080p",
+            "Video": "2160p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.1, A2DP",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "NFC": "Yes",
+            "Radio": "To be confirmed",
+            "USB": "microUSB v2.0, USB Host",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- Nubia UI 2.8",
+            "Multitouch": "Yes",
+            "Resolution": "1080 x 1920 pixels (~401 ppi pixel density)",
+            "Size": "5.5 inches (~70.3% screen-to-body ratio)",
+            "Type": "Capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP4/H.264 player\n- MP3/WAV/FLAC/eAAC+ player\n- Photo/video editor\n- Document viewer",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2015, March",
+            "Status": "Available. Released 2015, April"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 128 GB",
+            "Internal": "16 GB, 3 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "8/10 (About 460 EUR)"
+        },
+        "Network": {
+            "": "TD-SCDMA 1900 / 2000",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+            "4G bands": "LTE band 1(2100), 3(1800), 7(2600), 38(2600), 39(1900), 40(2300), 41(2500)",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA, LTE Cat4 150/50 Mbps",
+            "Technology": "GSM / CDMA / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.5 GHz Cortex-A53 & Quad-core 2 GHz Cortex-A57",
+            "Chipset": "Qualcomm MSM8994 Snapdragon 810",
+            "GPU": "Adreno 430",
+            "OS": "Android OS, v5.0.2 (Lollipop)"
+        },
+        "Sound": {
+            "": "- DTS sound",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "ZTE Nubia Z9 Max",
+        "image": {
+            "href": "http://www.gsmarena.com/zte_nubia_z9_max-pictures-7116.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/zte-nubia-z9-max.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/zte_nubia_z9_max-7116.php"
+    }
+}

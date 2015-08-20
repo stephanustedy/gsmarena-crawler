@@ -1,0 +1,90 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 3610 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "": "- Touch-sensitive panel (back)",
+            "Dimensions": "170.7 x 82.6 x 9 mm (6.72 x 3.25 x 0.35 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "213 g (7.51 oz)"
+        },
+        "Camera": {
+            "Features": "Rotating lens, geo-tagging, touch focus, face detection, panorama, HDR",
+            "Primary": "13 MP, 4128 x 3096 pixels, autofocus, dual-LED flash, check quality",
+            "Secondary": "13 MP, autofocus, LED flash",
+            "Video": "1080p@30fps, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0",
+            "GPS": "Yes, with A-GPS",
+            "NFC": "Yes",
+            "Radio": "No",
+            "USB": "microUSB v2.0, USB Host",
+            "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- Color OS",
+            "Multitouch": "Yes",
+            "Resolution": "1080 x 1920 pixels (~373 ppi pixel density)",
+            "Size": "5.9 inches (~68.1% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- O-Click bluetooth remote control\n- MP4/DivX/XviD/WMV/H.264 player\n- MP3/WAV/eAAC+/FLAC player\n- Document viewer\n- Photo viewer/editor\n- Voice memo/dial/commands",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2013, September",
+            "Status": "Available. Released 2013, October"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "16/32 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "White, dark blue",
+            "Price group": "8/10 (About 430 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 1700 / 1900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.7 GHz Krait 300",
+            "Chipset": "Qualcomm Snapdragon 600",
+            "GPU": "Adreno 320",
+            "OS": "Android OS, v4.2 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -93.7dB / Crosstalk -83.7dB",
+            "Battery life": "Endurance rating 79h",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 1164:1 (nominal) / 1.470:1 (sunlight)",
+            "Loudspeaker": "Voice 73dB / Noise 67dB / Ring 78dB"
+        }
+    },
+    "main": {
+        "device_name": "Oppo N1",
+        "image": {
+            "href": "http://www.gsmarena.com/oppo_n1-pictures-5724.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/oppo-n1.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/oppo_n1-5724.php"
+    }
+}

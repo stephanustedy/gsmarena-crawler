@@ -1,0 +1,89 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1200 mAh battery",
+            "Music play": "Up to 17 h 30 min",
+            "Stand-by": "Up to 350 h (2G) / Up to 400 h (3G)",
+            "Talk time": "Up to 14 h 15 min (2G) / Up to 6 h 42 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "106 x 56.5 x 14.2 mm (4.17 x 2.22 x 0.56 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "115 g (4.06 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face/smile detection",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, LED flash, check quality",
+            "Secondary": "VGA",
+            "Video": "720p, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0, USB Host",
+            "WLAN": "Wi-Fi 802.11 b/g/n, DLNA, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes, up to 4 fingers",
+            "Protection": "Scratch-resistant glass",
+            "Resolution": "320 x 480 pixels (~180 ppi pixel density)",
+            "Size": "3.2 inches (~50.9% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- ANT+ support\n- MP4/H.264/WMV player\n- MP3/eAAC+/WMA/WAV player\n- TrackID music recognition\n- Document editor\n- Voice memo\n- Predictive text input",
+            "Browser": "HTML5, Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS (threaded view), MMS, Email, Push email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2011, August",
+            "Status": "Available. Released 2011, October"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB, 2 GB included",
+            "Internal": "320 MB, 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "3/10 (About 120 EUR)",
+            "SAR EU": "1.00 W/kg (head)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 1900 / 2100 - WT19a",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100 - WT19i",
+            "EDGE": "Up to 237 kbps",
+            "GPRS": "Up to 80 kbps",
+            "Speed": "HSPA 7.2/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "1 GHz Scorpion",
+            "Chipset": "Qualcomm MSM8255 Snapdragon S2",
+            "GPU": "Adreno 205",
+            "OS": "Android OS, v2.3 (Gingerbread), upgradable to v4.0 (Ice Cream Sandwich)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        },
+        "Tests": {
+            "Audio quality": "Noise -88.1dB / Crosstalk -87.9dB",
+            "Camera": "Photo / Video",
+            "Loudspeaker": "Voice 75dB / Noise 68dB / Ring 78dB"
+        }
+    },
+    "main": {
+        "device_name": "Sony Ericsson Live with Walkman",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_ericsson_live_with_walkman-pictures-4111.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/sony-ericsson-live-with-walkman.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_ericsson_live_with_walkman-4111.php"
+    }
+}

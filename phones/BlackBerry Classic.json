@@ -1,0 +1,88 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 2515 mAh battery",
+            "Music play": "Up to 70 h",
+            "Stand-by": "Up to 348 h (2G) / Up to 365 h (3G)",
+            "Talk time": "Up to 11 h 40 min (2G) / Up to 17 h 10 min (3G)"
+        },
+        "Body": {
+            "": "- Optical trackpad",
+            "Dimensions": "131 x 72.4 x 10.2 mm (5.16 x 2.85 x 0.40 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Nano-SIM",
+            "Weight": "177 g (6.24 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection, HDR, panorama",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash",
+            "Secondary": "2 MP",
+            "Video": "1080p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, EDR, LE",
+            "GPS": "Yes, with A-GPS",
+            "NFC": "Yes",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0 (SlimPort)",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 3",
+            "Resolution": "720 x 720 pixels (~294 ppi pixel density)",
+            "Size": "3.5 inches (~40.8% screen-to-body ratio)",
+            "Type": "Capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP3/WMA/WAV/eAAC+/FlAC player\n- DivX/XviD/MP4/WMV/H.264 player\n- Photo/video editor\n- Document viewer",
+            "Browser": "HTML5",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS, MMS, Email, Push Email, IM, BBM 6",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2014, June",
+            "Status": "Available. Released 2014, December"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 128 GB",
+            "Internal": "16 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White, Blue, Bronze, Cobalt blue",
+            "Price group": "7/10 (About 380 EUR)"
+        },
+        "Network": {
+            "": "LTE band 1(2100), 2(1900), 3(1800), 5(850), 7(2600), 8(900), 20(800)",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 1700 / 1900 / 2100 - USA model",
+            "4G bands": "LTE band 1(2100), 2(1900), 4(1700/2100), 5(850), 7(2600), 13(700), 17(700), 25(1900) - USA model",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.5 GHz Krait",
+            "Chipset": "Qualcomm MSM8960 Snapdragon S4 Plus",
+            "GPU": "Adreno 225",
+            "OS": "BlackBerry OS 10.3.1, upgradable to v10.3.2"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as BlackBerry Q20",
+        "device_name": "BlackBerry Classic",
+        "image": {
+            "href": "http://www.gsmarena.com/blackberry_classic-pictures-6458.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/BlackBerry-Classic.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/blackberry_classic-6458.php"
+    }
+}

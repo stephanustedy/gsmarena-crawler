@@ -1,0 +1,91 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1130 mAh battery",
+            "Stand-by": "Up to 365 h (2G) / Up to 380 h (3G)",
+            "Talk time": "Up to 6 h (2G) / Up to 4 h 30 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "67 x 67 x 17 mm, 76 cc (2.64 x 2.64 x 0.67 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "120 g (4.23 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "3.15 MP, 2048 x 1536 pixels, check quality",
+            "Secondary": "No",
+            "Video": "CIF@26-30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n"
+        },
+        "Display": {
+            "": "- MOTOBLUR UI v1.5 with Live Widgets",
+            "Multitouch": "Yes",
+            "Resolution": "320 x 240 pixels (~143 ppi pixel density)",
+            "Size": "2.8 inches (~54.1% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/eAAC+/WAV player\n- MP4/WMV/H.264/XviD player\n- Organizer\n- Document viewer \n- Voice memo/dial\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS, AMS, MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2010, June",
+            "Status": "Available. Released 2010, June"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB, 2 GB included",
+            "Internal": "512 MB, 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "White, Fairway Green, Poppy Red, Raspberry Crush, Brilliant Blue, Licorice, Saffron",
+            "Price group": "2/10 (About 90 EUR)",
+            "SAR EU": "0.62 W/kg (head)",
+            "SAR US": "1.16 W/kg (head) \u00a0 \u00a0 1.09 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 1900",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 7.2/2 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "600 MHz Cortex-A8",
+            "Chipset": "TI OMAP 3410",
+            "GPU": "PowerVR SGX530",
+            "OS": "Android OS, v2.1 (Eclair)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -89.0dB / Crosstalk -89.9dB",
+            "Camera": "Photo",
+            "Loudspeaker": "Voice 69dB / Noise 64dB / Ring 69dB"
+        }
+    },
+    "main": {
+        "canonical_name": "For China\nAlso known as Motorola FlipOut MB511, Motorola FlipOut ME511",
+        "device_name": "Motorola FlipOut",
+        "image": {
+            "href": "http://www.gsmarena.com/motorola_flipout-pictures-3271.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/moto-flipout.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/motorola_flipout-3271.php"
+    }
+}

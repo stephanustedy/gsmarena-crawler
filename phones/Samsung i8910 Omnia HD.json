@@ -1,0 +1,89 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1500 mAh battery",
+            "Stand-by": "Up to 600 h (2G) / Up to 450 h (3G)",
+            "Talk time": "Up to13 h 30 min (2G) / Up to 6 h 30 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "123 x 58 x 12.9 mm (4.84 x 2.28 x 0.51 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "148 g (5.22 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face, smile and blink detection, WDR",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash, check quality",
+            "Secondary": "CIF videocall camera",
+            "Video": "720p@24fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g, DLNA"
+        },
+        "Display": {
+            "": "- TouchWiz UI 2.0",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "360 x 640 pixels (~198 ppi pixel density)",
+            "Size": "3.7 inches (~52.9% screen-to-body ratio)",
+            "Type": "AMOLED capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- AVI(DiVX/XviD)/WMV/RV/MP4/3GP player\n- MP3/WMA/WAV/RA/AAC/M4A player\n- Organizer\n- TV-out (for SD content only)\n- Document viewer (Word, Excel, PowerPoint, PDF)\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML, Opera 9.5, RSS reader",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2009, February",
+            "Status": "Available. Released 2009, May"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "8/16 GB, 256 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, Champagne Gold, Luxury Brown",
+            "Price group": "3/10 (About 150 EUR)",
+            "SAR EU": "0.43 W/kg (head)",
+            "SAR US": "1.07 W/kg (head) \u00a0 \u00a0 0.65 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 1900 / 2100",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 7.2/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "600 MHz Cortex-A8",
+            "GPU": "PowerVR SGX",
+            "OS": "Symbian OS v9.4 Series 60 rel. 5"
+        },
+        "Sound": {
+            "": "- DNSe 2.0 (Digital Natural Sound Engine)\n- Virtual 5.1 channel Dolby surround",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        },
+        "Tests": {
+            "Audio quality": "Noise -87.6dB / Crosstalk -85.2dB",
+            "Camera": "Photo",
+            "Loudspeaker": "Voice 74dB / Noise 74dB / Ring 78dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Also available as Samsung I8910 HD Gold Edition with 24K gold-plated body",
+        "device_name": "Samsung i8910 Omnia HD",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_i8910_omnia_hd-pictures-2691.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-omniahd.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_i8910_omnia_hd-2691.php"
+    }
+}

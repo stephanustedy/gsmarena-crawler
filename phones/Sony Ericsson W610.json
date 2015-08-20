@@ -1,0 +1,77 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 950 mAh battery (BST-33)",
+            "Stand-by": "Up to 350 h",
+            "Talk time": "Up to 7 h"
+        },
+        "Body": {
+            "Dimensions": "102 x 46 x 14 mm (4.02 x 1.81 x 0.55 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "95 g (3.35 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels, autofocus, LED flash",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Wallpapers, screensavers",
+            "Resolution": "176 x 220 pixels (~144 ppi pixel density)",
+            "Size": "1.96 inches (~25.8% screen-to-body ratio)",
+            "Type": "TFD, 256K colors"
+        },
+        "Features": {
+            "": "- Walkman player 2.0\n- TrackID music recognition\n- Predictive text input\n- Photo editor\n- Organizer\n- Voice memo/dial",
+            "Browser": "WAP 2.0/HTML (NetFront), RSS reader",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2007, February",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "30 received, dialed and missed calls",
+            "Card slot": "Memory Stick Micro (M2), up to 2 GB, 512 MB included",
+            "Internal": "64 MB",
+            "Phonebook": "1000 x 20 fields, Photo call"
+        },
+        "Misc": {
+            "Colors": "Plush Orange, Satin Black",
+            "Price group": "2/10 (About 100 EUR)",
+            "SAR EU": "1.31 W/kg (head)",
+            "SAR US": "1.38 W/kg (head) \u00a0 \u00a0 0.77 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "Yes",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3, AAC ringtones, composer",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "- W610i 850/900/1800/1900 MHz\n- W610c 850/900/1800/1900 MHz for China Mainland",
+        "device_name": "Sony Ericsson W610",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_ericsson_w610-pictures-1845.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/sonyericsson-w610.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_ericsson_w610-1845.php"
+    }
+}

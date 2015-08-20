@@ -1,0 +1,77 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1150 mAh battery",
+            "Stand-by": "-",
+            "Talk time": "-"
+        },
+        "Body": {
+            "Dimensions": "114.5 x 61 x 12.8 mm (4.51 x 2.40 x 0.50 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "122 g (4.30 oz)"
+        },
+        "Camera": {
+            "Features": "Video-calling",
+            "Primary": "3.15 MP, 2048 x 1536 pixels, autofocus",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "Yes",
+            "Radio": "No",
+            "USB": "miniUSB v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Home screen widgets",
+            "Resolution": "320 x 240 pixels",
+            "Size": ", -",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- Facebook, Windows Live, Skype, Twitter applications and integration\n- MP3/WAV/eAAC+ player\n- MP4/H.263/H.264 player\n- Organizer\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP2.0 / xHTML",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email, IM, Push GMail"
+        },
+        "Launch": {
+            "Announced": "2009, October. Released 2009, December",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "30 received, dialed and missed calls",
+            "Card slot": "microSD, up to 4 GB",
+            "Internal": "100 MB",
+            "Phonebook": "1000 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Various",
+            "Price group": "3/10 (About 110 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "3G bands": "HSDPA 2100",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Speed": "HSPA 3.6/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "iNQ Chat 3G",
+        "image": {
+            "href": "http://www.gsmarena.com/inq_chat_3g-pictures-3000.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/inq-chat-3g.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/inq_chat_3g-3000.php"
+    }
+}

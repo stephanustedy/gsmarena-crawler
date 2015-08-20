@@ -1,0 +1,84 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1905 mAh battery (BL-L4A)",
+            "Music play": "Up to 78 h",
+            "Stand-by": "Up to 552 h",
+            "Talk time": "Up to 11 h (2G) / Up to 13 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "140.2 x 72.4 x 8.8 mm (5.52 x 2.85 x 0.35 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "146 g (5.15 oz)"
+        },
+        "Camera": {
+            "Features": "1/4'' sensor size, geo-tagging",
+            "Primary": "5 MP, 2592 x 1936 pixels, autofocus, LED flash",
+            "Secondary": "5 MP",
+            "Video": "480p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, LE, apt-X",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, DLNA, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 3",
+            "Resolution": "540 x 960 pixels (~220 ppi pixel density)",
+            "Size": "5.0 inches (~67.9% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP3/WAV/eAAC+/WMA player\n- MP4/H.264 player\n- OneDrive (15 GB cloud storage)\n- Document viewer\n- Video/photo editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2014, November",
+            "Status": "Available. Released 2014, December"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 128 GB",
+            "Internal": "8 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Orange, green, white, black, gray, blue",
+            "Price group": "3/10 (About 140 EUR)",
+            "SAR EU": "0.62 W/kg (head) \u00a0 \u00a0 0.57 W/kg (body)",
+            "SAR US": "0.46 W/kg (head) \u00a0 \u00a0 0.38 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Up to 236.8 kbps",
+            "GPRS": "Yes",
+            "Speed": "HSPA 42.2/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.2 GHz Cortex-A7",
+            "Chipset": "Qualcomm Snapdragon 200",
+            "GPU": "Adreno 302",
+            "OS": "Microsoft Windows Phone 8.1"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Microsoft Lumia 535",
+        "image": {
+            "href": "http://www.gsmarena.com/microsoft_lumia_535-pictures-6791.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-lumia-535.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/microsoft_lumia_535-6791.php"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po 2800 mAh battery",
+            "Stand-by": "",
+            "Talk time": "Up to 5 h 30 min (multimedia)"
+        },
+        "Body": {
+            "Dimensions": "192.5 x 121.9 x 8.1 mm (7.58 x 4.80 x 0.32 in)",
+            "SIM": "No",
+            "Weight": "294.8 g (10.37 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels",
+            "Secondary": "VGA",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "600 x 1024 pixels (~170 ppi pixel density)",
+            "Size": "7.0 inches (~58.8% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Box (25 GB lifetime cloud storage)\n- MP4/H.264 player\n- MP3/WAV/eAAC+ player\n- Photo/video editor\n- Voice memo",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "Email, Push Email, IM",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2014, May",
+            "Status": "Available. Released 2014, May"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "8 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Silver",
+            "Price group": "2/10 (About 70 EUR)"
+        },
+        "Network": {
+            "2G bands": "N/A",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "No cellular connectivity"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1 GHz Cortex-A7",
+            "Chipset": "Allwinner A31",
+            "OS": "Android OS, v4.2.2 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Tablet with no support for GSM voice communication, SMS, and MMS",
+        "device_name": "HP 7 Plus",
+        "image": {
+            "href": "http://www.gsmarena.com/hp_7_plus-pictures-6377.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/hp-7-plus.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/hp_7_plus-6377.php"
+    }
+}

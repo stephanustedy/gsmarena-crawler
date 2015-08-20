@@ -1,0 +1,75 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 860 mAh battery (BL-4C)",
+            "Stand-by": "Up to 480 h",
+            "Talk time": "Up to 5 h 20 min"
+        },
+        "Body": {
+            "Dimensions": "97.4 x 47 x 15.9 mm, 75 cc (3.83 x 1.85 x 0.63 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "93.5 g (3.28 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "SQCIF@10fps"
+        },
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "Stereo FM radio, FM recording",
+            "USB": "No",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "128 x 160 pixels (~114 ppi pixel density)",
+            "Size": "1.8 inches (~22.3% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- MP4/H.263 player\n- MP3/AAC player\n- Nokia XpressAudio messaging\n- Organizer\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2009, November",
+            "Status": "Available. Released 2010, February"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "No",
+            "Internal": "32 MB",
+            "Phonebook": "1000 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Hot Pink, Graphite, Turquoise, Warm Silver, Purple, Blue",
+            "Price group": "1/10 (About 50 EUR)",
+            "SAR EU": "0.39 W/kg (head)",
+            "SAR US": "0.61 W/kg (head) \u00a0 \u00a0 0.46 W/kg (body)"
+        },
+        "Network": {
+            "": "GSM 850 / 1900 - American version",
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 2220 slide",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_2220_slide-pictures-3005.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-2220.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_2220_slide-3005.php"
+    }
+}

@@ -1,0 +1,95 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 720 mAh battery",
+            "Stand-by": "Up to 210 h",
+            "Talk time": "Up to 2 h 10 min"
+        },
+        "Body": {
+            "Dimensions": "89.8 x 43.5 x 18.6 mm (3.54 x 1.71 x 0.73 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "83.4 g (2.93 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "No"
+        },
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "No",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "128 x 128 pixels (~121 ppi pixel density)",
+            "Size": "1.5 inches (~18.6% screen-to-body ratio)",
+            "Type": "STN, 65K colors"
+        },
+        "Features": {
+            "": "- Video player \n- Motion JPEG recorder\n- Organizer\n- PC Sync",
+            "Browser": "WAP 2.0",
+            "Games": "No",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2006, June",
+            "Status": "Cancelled"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "No",
+            "Internal": "128 MB, 32 MB RAM",
+            "Phonebook": "Yes"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Pantech PG-1600",
+        "image": {
+            "href": "http://www.gsmarena.com/pantech_pg_1600-pictures-1590.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/pantech-pg1600.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/pantech_pg_1600-1590.php"
+    }
+}

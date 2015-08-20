@@ -1,0 +1,91 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 2300 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "146 x 71.7 x 6.9 mm (5.75 x 2.82 x 0.27 in)",
+            "SIM": "Dual SIM (Micro-SIM, dual stand-by)",
+            "Weight": "129 g (4.55 oz)"
+        },
+        "Camera": {
+            "Features": "1/3.2'' sensor size, 1.4\u00b5m pixel size, geo-tagging, touch focus, face detection, HDR",
+            "Primary": "13 MP, 4208 x 3120 pixels, autofocus, LED flash, check quality",
+            "Secondary": "8 MP, autofocus, LED flash",
+            "Video": "1080p@30fps, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "Yes, with A-GPS",
+            "NFC": "Yes",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "720 x 1280 pixels (~294 ppi pixel density)",
+            "Size": "5.0 inches (~65.8% screen-to-body ratio)",
+            "Type": "Super AMOLED capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP4/WMV/H.264 player\n- MP3/WAV/WMA/eAAC+ player\n- Photo/video editor\n- Document viewer",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2014, November",
+            "Status": "Available. Released 2014, November"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "16/32 GB, 1/2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "White/silver, gray, pink, soft orange, blue",
+            "Price group": "6/10 (About 260 EUR)"
+        },
+        "Network": {
+            "": "LTE - S90-a",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 900 / 2100 - S90-a",
+            "4G bands": "LTE band 1(2100), 3(1800), 41(2500) - S90-u",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA, LTE",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.2 GHz Cortex-A53",
+            "Chipset": "Qualcomm MSM8916 Snapdragon 410",
+            "GPU": "Adreno 306",
+            "OS": "Android OS, v4.4.4 (KitKat)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Battery life": "Endurance rating 54h",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: Infinite (nominal) / 2.892 (sunlight)",
+            "Loudspeaker": "Voice 66dB / Noise 65dB / Ring 75dB",
+            "Performance": "Basemark OS II: 1377 / Basemark OS II 2.0: 513\nBasemark X: 1909"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Lenovo S90t Sisley for China",
+        "device_name": "Lenovo S90 Sisley",
+        "image": {
+            "href": "http://www.gsmarena.com/lenovo_s90_sisley-pictures-6739.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lenovo-sisley-s90.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lenovo_s90_sisley-6739.php"
+    }
+}

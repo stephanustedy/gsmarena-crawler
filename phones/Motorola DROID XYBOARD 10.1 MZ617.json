@@ -1,0 +1,87 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 7000 mAh battery",
+            "Stand-by": "",
+            "Talk time": "Up to 10 h"
+        },
+        "Body": {
+            "": "- Splash resistant",
+            "Dimensions": "259.9 x 173.6 x 8.8 mm (10.23 x 6.83 x 0.35 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "599 g (1.32 lb)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, LED flash",
+            "Secondary": "1.3 MP",
+            "Video": "720p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "800 x 1280 pixels (~149 ppi pixel density)",
+            "Size": "10.1 inches (~65.6% screen-to-body ratio)",
+            "Type": "HD-IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- HDMI port\n- MP3/WAV/WMA/AAC+ player\n- MP4/WMV/H.264 player\n- Document viewer\n- Photo viewer/editor\n- Organizer\n- Voice memo\n- Predictive text input",
+            "Browser": "HTML, Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "Email, Push Email, IM",
+            "Sensors": "Accelerometer, gyro, compass, barometer"
+        },
+        "Launch": {
+            "Announced": "2011, December",
+            "Status": "Available. Released 2011, December"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "16/32/64 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "6/10 (About 260 EUR)"
+        },
+        "Network": {
+            "": "CDMA2000 1xEV-DO",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+            "4G bands": "LTE band 13(700) - Verizon",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 42.2/5.76 Mbps, LTE, EV-DO Rev.B",
+            "Technology": "GSM / CDMA / HSPA / EVDO / LTE"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.2 GHz Cortex-A9",
+            "Chipset": "TI OMAP 4430",
+            "GPU": "PowerVR SGX540",
+            "OS": "Android OS, v3.2 (Honeycomb), upgradable to v4.0 (Ice Cream Sandwich)"
+        },
+        "Sound": {
+            "": "- 3D virtual surround sound",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "canonical_name": "Tablet with no support for GSM voice communication, SMS, and MMS",
+        "device_name": "Motorola DROID XYBOARD 10.1 MZ617",
+        "image": {
+            "href": "http://www.gsmarena.com/motorola_droid_xyboard_10_1_mz617-pictures-4360.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/motorola-droid-xyboard-10.1.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/motorola_droid_xyboard_10_1_mz617-4360.php"
+    }
+}

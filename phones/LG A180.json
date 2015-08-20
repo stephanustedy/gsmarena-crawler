@@ -1,0 +1,71 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 950 mAh battery",
+            "Stand-by": "Up to 950 h",
+            "Talk time": "Up to 9 h"
+        },
+        "Body": {
+            "": "- Flashlight",
+            "Dimensions": "106.3 x 44.9 x 14 mm (4.19 x 1.77 x 0.55 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "66.3 g (2.33 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "FM radio",
+            "USB": "Yes (charging only)",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "128 x 128 pixels (~119 ppi pixel density)",
+            "Size": "1.52 inches (~15.6% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- Mobile tracker\n- MP3/AAC+\n- Organizer\n- Unit converter\n- Voice memo\n- Predictive text input",
+            "Browser": "No",
+            "Games": "Yes",
+            "Java": "No",
+            "Messaging": "SMS"
+        },
+        "Launch": {
+            "Announced": "2011, February",
+            "Status": "Available. Released 2011, Q2"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "No",
+            "Phonebook": "300 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Graphite",
+            "Price group": "2/10 (About 70 EUR)",
+            "SAR EU": "0.97 W/kg (head) \u00a0 \u00a0 0.65 W/kg (body)",
+            "SAR US": "0.77 W/kg (head)"
+        },
+        "Network": {
+            "": "GSM 900 / 1800 - A180b",
+            "2G bands": "GSM 850 / 1900 - A180a",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "LG A180",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_a180-pictures-4210.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-a180.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_a180-4210.php"
+    }
+}

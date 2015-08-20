@@ -1,0 +1,83 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1500 mAh battery",
+            "Stand-by": "Up to 324 h",
+            "Talk time": "Up to 5 h 20 min"
+        },
+        "Body": {
+            "Dimensions": "116 x 59 x 17 mm (4.57 x 2.32 x 0.67 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "180 g (6.35 oz)"
+        },
+        "Camera": {
+            "Primary": "3.15 MP, 2048 x 1536 pixels, autofocus",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "miniUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g"
+        },
+        "Display": {
+            "": "- TouchFLO 3D finger swipe navigation\n- Touch-sensitive zoom bar\n- Handwriting recognition",
+            "Resolution": "480 x 800 pixels (~259 ppi pixel density)",
+            "Size": "3.6 inches (~53.9% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 65K colors"
+        },
+        "Features": {
+            "": "- Noise cancellation with dedicated microphone\n- Pocket Office \n- MP4/AVI/H.264/WMV player\n- MP3/WAV/WMV/AAC+ player\n- TV-out\n- Organizer\n- Voice memo\n- Predictive text input",
+            "Browser": "HTML",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2009, May",
+            "Status": "Available. Released 2009, September"
+        },
+        "Memory": {
+            "Card slot": "microSD",
+            "Internal": "288 MB RAM, 512 MB ROM"
+        },
+        "Misc": {
+            "Colors": "Black/Grey",
+            "Price group": "3/10 (About 120 EUR)",
+            "SAR US": "1.41 W/kg (head) \u00a0 \u00a0 0.58 W/kg (body)"
+        },
+        "Network": {
+            "": "CDMA2000 1xEV-DO",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 2100",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Speed": "HSPA 7.2/2 Mbps, EV-DO Rev.A 3.1 Mbps",
+            "Technology": "GSM / CDMA / HSPA / EVDO"
+        },
+        "Platform": {
+            "CPU": "528 MHz ARM 11",
+            "Chipset": "Qualcomm MSM7200A",
+            "GPU": "Adreno 130",
+            "OS": "Microsoft Windows Mobile 6.1 Professional, upgradeable to Windows Mobile 6.5"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as HTC XV6875, HTC Rhodium",
+        "device_name": "HTC Touch Pro2 CDMA",
+        "image": {
+            "href": "http://www.gsmarena.com/htc_touch_pro2_cdma-pictures-3480.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/htc-touch-pro2-cdma.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/htc_touch_pro2_cdma-3480.php"
+    }
+}

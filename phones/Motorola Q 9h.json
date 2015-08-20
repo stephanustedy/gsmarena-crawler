@@ -1,0 +1,80 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1170 mAh battery",
+            "Stand-by": "Up to 480 h",
+            "Talk time": "Up to 6 h 30 min"
+        },
+        "Body": {
+            "Dimensions": "118 x 67 x 11.8 mm, 85 cc (4.65 x 2.64 x 0.46 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "134 g (4.73 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels, LED flash",
+            "Secondary": "No",
+            "Video": "@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "Yes (Q 9h global only)",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- 5-way navigation button\n- Downloadable wallpaper and screensavers",
+            "Resolution": "320 x 240 pixels (~167 ppi pixel density)",
+            "Size": "2.4 inches (~22.6% screen-to-body ratio)",
+            "Type": "TFT, 65k colors"
+        },
+        "Features": {
+            "": "- MP3/AAC player\n- MP4/MWV/H.264 player\n- Voice memo\n- Voice dial",
+            "Browser": "HTML (Opera)",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2007, February",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 8 GB",
+            "Internal": "96 MB RAM, 256 MB ROM"
+        },
+        "Misc": {
+            "Colors": "Silver, Black",
+            "Price group": "2/10 (About 70 EUR)",
+            "SAR US": "1.29 W/kg (head) \u00a0 \u00a0 1.53 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 1900 - Q 9h global",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 2100 - Q 9h",
+            "EDGE": "Class 12, 296 / 177.6 kbits",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 3.6/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "325 MHz",
+            "OS": "Microsoft Windows Mobile 6.0 Standard"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Motorola Q q9\nAT&T version is called Q 9h global and has GPS and WCDMA 850/1900 support",
+        "device_name": "Motorola Q 9h",
+        "image": {
+            "href": "http://www.gsmarena.com/motorola_q_9h-pictures-1871.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/motorola-q_q9.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/motorola_q_9h-1871.php"
+    }
+}

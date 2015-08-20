@@ -1,0 +1,92 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1500 (3G) / 1800 (LTE) mAh battery",
+            "Stand-by": "Up to 370 h (3G)",
+            "Talk time": "Up to 8 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "121.2 x 62.7 x 9.8 mm (3G) / 121.2 x 62.7 x 10 mm (LTE)",
+            "SIM": "Optional Dual SIM (Micro-SIM)",
+            "Weight": "115 g (3G) / 119.5 g (LTE) (4.06 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face/smile detection, panorama",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, LED flash, check quality",
+            "Secondary": "VGA",
+            "Video": "720p@30fps, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "NFC": "Yes (LTE model only)",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "480 x 800 pixels (~233 ppi pixel density)",
+            "Size": "4.0 inches (~59.9% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- XviD/MP4/H.264 player\n- MP3/WAV/eAAC+/FLAC player\n- Document viewer\n- Photo editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2013, June",
+            "Status": "Available. Released 2013, July"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "4 GB (3G) / 8 GB (LTE), 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White, Dark Red",
+            "Price group": "3/10 (About 130 EUR)",
+            "SAR EU": "0.47 W/kg (head) \u00a0 \u00a0 0.35 W/kg (body)",
+            "SAR US": "0.67 W/kg (head) \u00a0 \u00a0 0.45 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 900 / 2100 - GT-S7275",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - all versions",
+            "3G bands": "HSDPA 900 / 2100 - GT-S7270, GT-S7272",
+            "4G bands": "LTE band 3(1800), 7(2600), 8(900), 20(800) - GT-S7275",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 42.2(14.4 - 3G)/5.76 Mbps, LTE Cat4 150/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1 GHz Cortex-A9 (3G) / Dual-core 1.2 GHz Krait (LTE)",
+            "Chipset": "Broadcom BCM21664 (3G) / Qualcomm MSM8930 Snapdragon 400 (LTE)",
+            "GPU": "Broadcom VideoCore IV (3G) / Adreno 305 (LTE)",
+            "OS": "Android OS, v4.2 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Battery life": "Endurance rating 34h",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 879:1 (nominal) / 1.622:1 (sunlight)",
+            "Loudspeaker": "Voice 66dB / Noise 62dB / Ring 66dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as:\nSamsung Galaxy Ace 3 3G GT-S7270\nSamsung Galaxy Ace 3 LTE GT-S7275\nSamsung Galaxy Ace 3 GT-S7272 with dual sim card support",
+        "device_name": "Samsung Galaxy Ace 3",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_galaxy_ace_3-pictures-5479.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-ace-3.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_galaxy_ace_3-5479.php"
+    }
+}

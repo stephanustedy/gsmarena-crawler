@@ -1,0 +1,86 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1830 mAh battery (BL-5H)",
+            "Music play": "Up to 58 h",
+            "Stand-by": "Up to 648 h",
+            "Talk time": "Up to 16 h 20 min (2G) / Up to 13 h 10 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "129.5 x 66.7 x 9.2 mm, 78.5 cc (5.10 x 2.63 x 0.36 in)",
+            "SIM": "Dual SIM (Micro-SIM, dual stand-by)",
+            "Weight": "134 g (4.73 oz)"
+        },
+        "Camera": {
+            "Features": "1/4'' sensor size, geo-tagging, panorama",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus",
+            "Secondary": "No",
+            "Video": "720p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, LE/ apt-X after WP8 Denim update",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- ClearBlack display",
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 3",
+            "Resolution": "480 x 854 pixels (~221 ppi pixel density)",
+            "Size": "4.5 inches (~62.9% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP3/WAV/eAAC+/WMA player\n- MP4/H.264/WMV player\n- OneDrive (15 GB cloud storage)\n- Document viewer/editor\n- Video/photo editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, sensor core"
+        },
+        "Launch": {
+            "Announced": "2014, April",
+            "Status": "Available. Released 2014, May"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 128 GB",
+            "Internal": "8 GB, 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Bright Orange, bright green, bright yellow, white, black",
+            "Price group": "3/10 (About 140 EUR)",
+            "SAR EU": "1.51 W/kg (head) \u00a0 \u00a0 1.52 W/kg (body)",
+            "SAR US": "1.23 W/kg (head) \u00a0 \u00a0 1.13 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 21.1/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.2 GHz Cortex-A7",
+            "Chipset": "Qualcomm Snapdragon 400",
+            "GPU": "Adreno 305",
+            "OS": "Microsoft Windows Phone 8.1"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Nokia Lumia 630 DS, Nokia Lumia 630 Dual SIM RM-978",
+        "device_name": "Nokia Lumia 630 Dual SIM",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_lumia_630_dual_sim-pictures-6255.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-lumia-630-new.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_lumia_630_dual_sim-6255.php"
+    }
+}

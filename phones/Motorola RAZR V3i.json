@@ -1,0 +1,73 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 710 mAh battery",
+            "Stand-by": "Up to 200 h",
+            "Talk time": "Up to 3 h 30 min"
+        },
+        "Body": {
+            "Dimensions": "98 x 53 x 13.9 mm, 65 cc (3.86 x 2.09 x 0.55 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "100 g (3.53 oz)"
+        },
+        "Camera": {
+            "Primary": "1.23 MP, 1280 x 960 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v1.2",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "miniUSB",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second CSTN display (96 x 80 pixels), 65K colors\n- Anodized aluminum case\n- Downloadable logos",
+            "Resolution": "176 x 220 pixels, 9 lines (~128 ppi pixel density)",
+            "Size": "2.2 inches, 35 x 44 mm (~29.3% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- Apple iTunes compatible\n- MP3/MP4 player\n- Predictive text input\n- Organizer\n- Speaker independent voice dial\n- Voice dial/memo",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2005, November",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "10 dialed, 10 received, 10 missed calls",
+            "Card slot": "microSD , up to 512 MB",
+            "Internal": "10 MB",
+            "Phonebook": "1000 entries, Photo call"
+        },
+        "Misc": {
+            "Colors": "Silver Quartz",
+            "Price group": "2/10 (About 100 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones, composer",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Motorola RAZR V3i",
+        "image": {
+            "href": "http://www.gsmarena.com/motorola_razr_v3i-pictures-1352.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/motorola-v3i.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/motorola_razr_v3i-1352.php"
+    }
+}

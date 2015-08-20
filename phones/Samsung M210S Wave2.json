@@ -1,0 +1,86 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1500 mAh battery",
+            "Stand-by": "Up to 710 h (2G) / Up to 710 h (3G)",
+            "Talk time": "Up to 15 h 20 min (2G) / Up to 7 h 10 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "123.9 x 59.8 x 11.8 mm (4.88 x 2.35 x 0.46 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "137 g (4.83 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face, smile and blink detection, image stablilization, touch focus",
+            "Primary": "5 MP, 2592 x 1944 pixels, autofocus, LED flash",
+            "Secondary": "Yes",
+            "Video": "720p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "Yes, with A-GPS, Samsung Mobile Navigator",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "": "- TouchWiz UI 3.0\n- Handwriting recognition",
+            "Multitouch": "Yes",
+            "Protection": "Scratch-resistant glass, oleophobic coating",
+            "Resolution": "480 x 800 pixels (~252 ppi pixel density)",
+            "Size": "3.7 inches (~52.6% screen-to-body ratio)",
+            "Type": "Super Clear LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- TDMB Mobile TV\n- TV-Out\n- MP3/WAV/WMA/eAAC+ player\n- MP4/MKV/H.264/WMV/Xvid/DivX player\n- Organizer\n- Music recognition\n- Document viewer\n- Photo editor\n- Voice memo\n- Predictive text input (T9 Trace)",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email, Push Email, Palringo IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2010, November",
+            "Status": "Available. Released 2011, February"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB, 2 GB included",
+            "Internal": "1.7 GB"
+        },
+        "Misc": {
+            "Colors": "Ebony Gray, Platinum Silver, Elegant Pink",
+            "Price group": "2/10 (About 80 EUR)",
+            "SAR EU": "0.55 W/kg (head)",
+            "SAR US": "0.27 W/kg (head) \u00a0 \u00a0 0.47 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 3.6/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "1.2 GHz Cortex-A8",
+            "Chipset": "Hummingbird",
+            "GPU": "PowerVR SGX540",
+            "OS": "bada OS"
+        },
+        "Sound": {
+            "": "- DNSe (Digital Natural Sound Engine)",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "For South Korea",
+        "device_name": "Samsung M210S Wave2",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_m210s_wave2-pictures-3768.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-shw-m210s-wave-ii.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_m210s_wave2-3768.php"
+    }
+}

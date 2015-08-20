@@ -1,0 +1,90 @@
+{
+    "data": {
+        "Battery": {
+            "": "NiMH 650 mAh battery",
+            "Stand-by": "160 h",
+            "Talk time": "300 min"
+        },
+        "Body": {
+            "Dimensions": "117 x 47 x 27 mm, 120 cc (4.61 x 1.85 x 1.06 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "135 g (4.76 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Fixed icons\n- Softkey",
+            "Resolution": "3 x 12 chars",
+            "Size": "",
+            "Type": "Alphanumeric"
+        },
+        "Features": {
+            "Alarm": "No",
+            "Browser": "",
+            "Clock": "No",
+            "Games": "No",
+            "Java": "No",
+            "Languages": "20",
+            "Messaging": "SMS"
+        },
+        "Launch": {
+            "Announced": "1999",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "10 dialed, 10 received, 10 missed calls",
+            "Card slot": "No",
+            "Phonebook": "8"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "": "- DJ sounds\n- 1 self-composable ringer tone",
+            "3.5mm jack": "No",
+            "Alert types": "Monophonic ringtones, composer",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Siemens C25",
+        "index": 1,
+        "url": "http://www.gsmarena.com/siemens_c25-91.php"
+    }
+}

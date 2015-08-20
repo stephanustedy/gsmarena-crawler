@@ -1,0 +1,82 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1000 mAh battery",
+            "Stand-by": "Up to 300 h",
+            "Talk time": "Up to 3 h"
+        },
+        "Body": {
+            "Dimensions": "102.8 x 54.8 x 12.9 mm (4.05 x 2.16 x 0.51 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "96 g (3.39 oz)"
+        },
+        "Camera": {
+            "Features": "Smile detection",
+            "Primary": "3.15 MP, 2048 x 1536 pixels, LED flash",
+            "Secondary": "Videocall camera",
+            "Video": "320p@15fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "Yes (market dependant)",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Gesture lock",
+            "Resolution": "240 x 320 pixels (~143 ppi pixel density)",
+            "Size": "2.8 inches (~43.1% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP3/WMA/AAC player\n- H.264/WMV/MP4 player\n- Organizer\n- Shazam Find Music service\n- Turn-to-mute\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS, MMS, Email",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2009, March",
+            "Status": "Available. Released 2009, June"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 16 GB",
+            "Internal": "80 MB",
+            "Phonebook": "2000 contacts, Photo Contact"
+        },
+        "Misc": {
+            "Colors": "Absolute Black, Pearl White, Lilac Violet",
+            "Price group": "2/10 (About 90 EUR)",
+            "SAR EU": "0.96 W/kg (head)",
+            "SAR US": "0.56 W/kg (head) \u00a0 \u00a0 0.66 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 1900 - American version",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 7.2/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Sound": {
+            "": "- DNSe (Digital Natural Sound Engine)",
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Samsung Halley, Samsung Player, Samsung S5603, Samsung Star 3G, Samsung Player Star, Samsung S5600L and Samsung Cara",
+        "device_name": "Samsung S5600 Preston",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_s5600_preston-pictures-2738.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-s5600.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_s5600_preston-2738.php"
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 700 mAh battery (EBA-510)",
+            "Stand-by": "Up to 260 h",
+            "Talk time": "Up to 2 h"
+        },
+        "Body": {
+            "Dimensions": "101 x 45 x 19 mm, 72 cc (3.98 x 1.77 x 0.75 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "75 g (2.65 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Download assistant for logos",
+            "Resolution": "101 x 80 pixels",
+            "Size": "",
+            "Type": "CSTN, 4096 colors"
+        },
+        "Features": {
+            "": "- Predictive text input\n- Currency converter\n- Calculator\n- Stopwatch\n- Reminder list\n- Optional digital camera",
+            "Browser": "WAP 1.2.1",
+            "Games": "Stack Attack Jr, Wappo, Magic Picture + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2004, July",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "10 dialed, 10 received, 10 missed calls",
+            "Card slot": "No",
+            "Internal": "1.5 MB",
+            "Phonebook": "50 entries"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 8",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Siemens A65",
+        "image": {
+            "href": "http://www.gsmarena.com/siemens_a65-pictures-849.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/sia65.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/siemens_a65-849.php"
+    }
+}

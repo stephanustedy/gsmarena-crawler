@@ -1,0 +1,82 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1000 mAh battery",
+            "Stand-by": "Up to 900 h",
+            "Talk time": "Up to 8 h 20 min"
+        },
+        "Body": {
+            "Dimensions": "107.5 x 54 x 12.4 mm (4.23 x 2.13 x 0.49 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "94 g (3.32 oz)"
+        },
+        "Camera": {
+            "Primary": "3.15 MP, 2048 x 1536 pixels, check quality",
+            "Secondary": "No",
+            "Video": "320p@15fps"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "No",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n"
+        },
+        "Display": {
+            "": "- TouchWiz UI 3.0",
+            "Resolution": "240 x 400 pixels (~155 ppi pixel density)",
+            "Size": "3.0 inches (~44.1% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- Facebook, Twitter\n- Gtalk, AIM, Facebook chat, Yahoo IM\n- MP3/WAV/WMA/AAC+ player\n- H.264/MP4 player\n- Organizer\n- Document viewer (Word, Excel, PowerPoint, PDF)\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email, IM",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2011, January",
+            "Status": "Available. Released 2011, February"
+        },
+        "Memory": {
+            "Call records": "30 dialed, 30 received, 30 missed calls",
+            "Card slot": "microSD, up to 16 GB",
+            "Internal": "30 MB",
+            "Phonebook": "Yes, Photocall"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "2/10 (About 70 EUR)",
+            "SAR EU": "0.96 W/kg (head)",
+            "SAR US": "0.68 W/kg (head) \u00a0 \u00a0 0.63 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "Yes",
+            "GPRS": "Class 12",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -85.6dB / Crosstalk -61.2dB",
+            "Camera": "Photo",
+            "Loudspeaker": "Voice 68dB / Noise 66dB / Ring 70dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Samsung Tocco Icon",
+        "device_name": "Samsung S5260 Star II",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_s5260_star_ii-pictures-3718.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-s5260-star-ii-ofic.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_s5260_star_ii-3718.php"
+    }
+}

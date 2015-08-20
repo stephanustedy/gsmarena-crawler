@@ -1,0 +1,94 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 1800 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "132.4 x 66.2 x 10.1 mm (5.21 x 2.61 x 0.40 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "130 g (4.59 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash, check quality",
+            "Secondary": "2.1 MP, 1080p",
+            "Video": "1080p@30fps, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v3.1, A2DP, EDR/ v4.0, LE after Amber update",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "NFC": "Yes",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 2",
+            "Resolution": "720 x 1280 pixels (~342 ppi pixel density)",
+            "Size": "4.3 inches (~58.2% screen-to-body ratio)",
+            "Type": "S-LCD2 capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- OneDrive (15 GB cloud storage)\n- Active noise cancellation with dedicated mic\n- MP3/WAV/eAAC+/WMA player\n- MP4/H.264/WMV player\n- Document viewer/editor\n- Video/photo editor\n- Voice memo/command/dial\n- Predictive text input",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, IM, Push Email",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2012, September",
+            "Status": "Available. Released 2012, November"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "16 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "California Blue, Graphite Black, Flame Red, Limelight Yellow",
+            "Price group": "4/10 (About 170 EUR)",
+            "SAR US": "0.59 W/kg (head) \u00a0 \u00a0 0.32 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 1900 / 2100 - AT&T",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+            "4G bands": "LTE band 2(1900), 4(1700/2100), 5(850), 17(700) - AT&T",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA, LTE Cat3 100/50 Mbps, EV-DO Rev.A 3.1 Mbps (LTE for AT&T version)",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.5 GHz Krait",
+            "Chipset": "Qualcomm MSM8960 Snapdragon S4 Plus",
+            "GPU": "Adreno 225",
+            "OS": "Microsoft Windows Phone 8, upgradeable to v8.1.1"
+        },
+        "Sound": {
+            "": "- Beats Audio",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -83.2dB / Crosstalk -74.8dB",
+            "Battery life": "Endurance rating 31h",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 1020:1 (nominal) / 1.873:1 (sunlight)",
+            "Loudspeaker": "Voice 66dB / Noise 66dB / Ring 75dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Previously known as HTC Accord",
+        "device_name": "HTC Windows Phone 8X",
+        "image": {
+            "href": "http://www.gsmarena.com/htc_windows_phone_8x-pictures-4975.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/htc-8x.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/htc_windows_phone_8x-4975.php"
+    }
+}

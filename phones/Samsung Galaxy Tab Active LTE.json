@@ -1,0 +1,86 @@
+{
+    "data": {
+        "Battery": {
+            "": "Removable Li-Ion 4450 mAh battery",
+            "Music play": "Up to 128 h",
+            "Stand-by": "",
+            "Talk time": "Up to 11 h (multimedia) (2G) / Up to 31 h (3G)"
+        },
+        "Body": {
+            "": "- IP67 certified - dust and water resistant up to 1 meter and 30 minutes\n- Shock protection up to 1.2 meters drop (via protective cover included with tablet)\n- C-Pen stylus",
+            "Dimensions": "213.1 x 126.2 x 9.7 mm (8.39 x 4.97 x 0.38 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "393 g (13.86 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "3.15 MP, 2048 x 1536 pixels, autofocus, LED flash",
+            "Secondary": "1.2 MP",
+            "Video": "720p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, LE",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "NFC": "Yes",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, hotspot"
+        },
+        "Display": {
+            "": "- Samsung TouchWiz UI",
+            "Multitouch": "Yes",
+            "Resolution": "800 x 1280 pixels (~189 ppi pixel density)",
+            "Size": "8.0 inches (~69.0% screen-to-body ratio)",
+            "Type": "LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- ANT+ support\n- Dropbox (50 GB cloud storage)\n- MP4/H.264/WMV player\n- MP3/WAV/eAAC+/WMA/Flac player\n- Photo/video editor\n- Document editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "Email, Push Email, IM",
+            "Sensors": "Accelerometer, gyro, compass"
+        },
+        "Launch": {
+            "Announced": "2014, September",
+            "Status": "Available. Released 2014, December"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "16 GB, 1.5 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Titanium Green",
+            "Price group": "9/10 (About 600 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+            "4G bands": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 20(800)",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 42.2/11.5 Mbps, LTE Cat4 150/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.2 GHz Cortex-A7",
+            "Chipset": "Qualcomm Snapdragon 400",
+            "GPU": "Adreno 305",
+            "OS": "Android OS, v4.4.2 (KitKat)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "canonical_name": "Tablet with support for GSM voice communication, SMS, and MMS\nAlso known as Samsung SM-T365",
+        "device_name": "Samsung Galaxy Tab Active LTE",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_galaxy_tab_active_lte-pictures-6658.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-tab-active.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_galaxy_tab_active_lte-6658.php"
+    }
+}

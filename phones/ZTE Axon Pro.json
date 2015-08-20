@@ -1,0 +1,84 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 3000 mAh battery",
+            "Stand-by": "Up to 240 h (3G)",
+            "Talk time": "Up to 12 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "153.9 x 73.7 x 9.4 mm (6.06 x 2.90 x 0.37 in)",
+            "SIM": "Yes",
+            "Weight": "172.9 g (6.35 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection, panorama, HDR",
+            "Primary": "13 MP + 2MP (Dual camera), 4128 x 3096 pixels, autofocus, dual-LED flash",
+            "Secondary": "8 MP",
+            "Video": "2160p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Yes"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 3",
+            "Resolution": "1440 x 2560 pixels (~534 ppi pixel density)",
+            "Size": "5.5 inches (~73.5% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Fast battery charging: 60% in 30 min (Quick Charge 2.0)\n- Active noise cancellation with dedicated mic\n- MP4/H.264 player\n- MP3/WAV/FLAC/eAAC+ player\n- Photo/video editor\n- Document viewer",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2015, July",
+            "Status": "Available. Released 2015, August"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "32 GB, 4 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Ion Gold, Chromium Silver, Phthalo Blue",
+            "Price group": "8/10 (About 410 EUR)"
+        },
+        "Network": {
+            "": "LTE band 1(2100), 3(1800), 7(2600), 13(700)",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 1700(AWS) / 1900 / 2100",
+            "4G bands": "LTE band 2(1900), 4(1700/2100), 5(850), 12(700), 17(700), 29(700), 30(2300)",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA, LTE",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.5 GHz Cortex-A53 & Quad-core 2 GHz Cortex-A57",
+            "Chipset": "Qualcomm MSM8994 Snapdragon 810",
+            "GPU": "Adreno 430",
+            "OS": "Android OS, v5.1.1 (Lollipop)"
+        },
+        "Sound": {
+            "": "- Hi-Fi audio",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "ZTE Axon Pro",
+        "image": {
+            "href": "http://www.gsmarena.com/zte_axon_pro-pictures-7422.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/zte-axon-pro-r.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/zte_axon_pro-7422.php"
+    }
+}

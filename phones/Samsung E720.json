@@ -1,0 +1,73 @@
+{
+    "data": {
+        "Battery": {
+            "": "Extended battery, Li-Ion 1000 mAh",
+            "Stand-by": "Up to 260 h",
+            "Talk time": "Up to 7 h"
+        },
+        "Body": {
+            "Dimensions": "90 x 45 x 23.3 mm (3.54 x 1.77 x 0.92 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "80 g (2.82 oz)"
+        },
+        "Camera": {
+            "Primary": "1 MP, 1152 x 864 pixels, LED flash",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v1.1",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second external display OLED, 65K colors (96 x 96 pixels)",
+            "Resolution": "176 x 220 pixels, 9 lines",
+            "Size": "",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/AAC/MP4 player\n- Predictive text input\n- Organizer\n- Voice memo",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "4 - Bobby Carrot, Airship Racing, Arch Angel, Freekick + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2005, 1Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "30 dialed, 30 received, 30 missed calls",
+            "Card slot": "No",
+            "Internal": "90 MB",
+            "Phonebook": "1000 x 12 fields, Photo call"
+        },
+        "Misc": {
+            "Colors": "Bronze",
+            "SAR EU": "0.66 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Samsung E720",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_e720-pictures-1021.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/sse720.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_e720-1021.php"
+    }
+}

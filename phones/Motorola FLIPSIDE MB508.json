@@ -1,0 +1,84 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1170 mAh battery",
+            "Stand-by": "Up to 288 h (2G) / Up to 288 h (3G)",
+            "Talk time": "Up to 7 h 20 min (2G) / Up to 5 h 20 min (3G)"
+        },
+        "Body": {
+            "": "- Touch-sensitive trackpad",
+            "Dimensions": "109.5 x 57.5 x 15 mm (4.31 x 2.26 x 0.59 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "145 g (5.11 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "3.15 MP, 2048 x 1536 pixels",
+            "Secondary": "No",
+            "Video": "CIF@25fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n"
+        },
+        "Display": {
+            "": "- MOTOBLUR UI with Live Widgets",
+            "Multitouch": "Yes",
+            "Resolution": "320 x 480 pixels (~186 ppi pixel density)",
+            "Size": "3.1 inches (~45.4% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen"
+        },
+        "Features": {
+            "": "- MP3/WAV/WMA/AAC+ player\n- MP4/WMV/H.264 player\n- Document viewer\n- Photo viewer/editor\n- Organizer\n- Voice memo/dial/commands\n- Predictive text input (Swype)",
+            "Browser": "HTML, Adobe Flash Lite",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS (threaded view), MMS, Email, IM, Push Email",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2010, October",
+            "Status": "Available. Released 2010, November"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB, 2 GB included",
+            "Internal": "512 MB, 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "4/10 (About 170 EUR)",
+            "SAR US": "0.50 W/kg (head) \u00a0 \u00a0 0.76 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 1900",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 7.2/2 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "720 MHz Cortex-A8",
+            "Chipset": "TI OMAP 3410",
+            "GPU": "PowerVR SGX530",
+            "OS": "Android OS, v2.2 (Froyo)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Motorola FLIPSIDE MB508",
+        "image": {
+            "href": "http://www.gsmarena.com/motorola_flipside_mb508-pictures-3539.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/motorola-flipside.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/motorola_flipside_mb508-3539.php"
+    }
+}

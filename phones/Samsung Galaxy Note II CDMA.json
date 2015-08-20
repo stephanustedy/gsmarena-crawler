@@ -1,0 +1,87 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 3100 mAh battery",
+            "Music play": "Up to 40 h",
+            "Stand-by": "Up to 250 h (2G) / Up to 300 h (3G)",
+            "Talk time": "Up to 15 h"
+        },
+        "Body": {
+            "": "- S Pen stylus",
+            "Dimensions": "151.1 x 80.5 x 9.4 mm (5.95 x 3.17 x 0.37 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "179.4 g (6.31 oz)"
+        },
+        "Camera": {
+            "Features": "Simultaneous HD video and image recording, geo-tagging, touch focus, face/smile detection",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash",
+            "Secondary": "1.9 MP",
+            "Video": "1080p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, EDR, LE",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "NFC": "Yes",
+            "Radio": "Stereo FM radio with RDS - SCH-I605, SCH-R950",
+            "USB": "microUSB v2.0 (MHL TV-out), USB Host",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- TouchWiz UI",
+            "Multitouch": "Yes",
+            "Resolution": "720 x 1280 pixels (~267 ppi pixel density)",
+            "Size": "5.5 inches (~68.6% screen-to-body ratio)",
+            "Type": "Super AMOLED capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- S-Voice natural language commands and dictation\n- Smart Stay and Smart Rotate eye tracking\n- Active noise cancellation with dedicated mic\n- MP4/DivX/XviD/WMV/H.264 player\n- MP3/WAV/eAAC+/AC3/FLAC player\n- Photo/video editor\n- Document editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass, barometer"
+        },
+        "Launch": {
+            "Announced": "2012, Q3",
+            "Status": "Available. Released 2012, Q4"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "16 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Titanium Gray, Marble White, Amber Brown, Ruby Wine",
+            "Price group": "7/10 (About 350 EUR)"
+        },
+        "Network": {
+            "": "LTE band 2(1900), 4(1700/2100), 5(850), 12(700) - SCH-R950",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SCH-I605, SPH-L900",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100 - SCH-I605, SPH-L900",
+            "4G bands": "LTE band 13(700) - SCH-I605",
+            "EDGE": "Yes - SCH-I605, SPH-L900",
+            "GPRS": "Yes - SCH-I605, SPH-L900",
+            "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat3 100/50 Mbps, EV-DO Rev.A 3.1 Mbps",
+            "Technology": "GSM / CDMA / HSPA / EVDO / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.6 GHz Cortex-A9",
+            "Chipset": "Exynos 4412 Quad",
+            "GPU": "Mali-400MP4",
+            "OS": "Android OS, v4.1 (Jelly Bean), upgradable to v4.4.2 (KitKat)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Available as:\nSamsung SCH-I605 for Verizon\nSamsung SCH-R950 for U.S. Cellular\nSamsung SPH-L900 for Sprint",
+        "device_name": "Samsung Galaxy Note II CDMA",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_galaxy_note_ii_cdma-pictures-5152.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-note-ii-cdma.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_galaxy_note_ii_cdma-5152.php"
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 800 mAh battery",
+            "Stand-by": "Up to 300 h",
+            "Talk time": "Up to 4 h 30 min"
+        },
+        "Body": {
+            "Dimensions": "114 x 47 x 9 mm, 48 cc (4.49 x 1.85 x 0.35 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "70 g (2.47 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "No",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Extra large character font size",
+            "Resolution": "2 x 6 chars",
+            "Size": "2.2 inches, 34 x 43 mm",
+            "Type": "Alphanumeric"
+        },
+        "Features": {
+            "": "- Clock\n- Speakerphone",
+            "Browser": "No",
+            "Games": "No",
+            "Java": "No",
+            "Messaging": "SMS"
+        },
+        "Launch": {
+            "Announced": "2006, June",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "20 dialed, received, missed calls",
+            "Card slot": "No",
+            "Phonebook": "SIM only"
+        },
+        "Misc": {
+            "Colors": "Black, Blue, Red",
+            "Price group": "1/10 (About 40 EUR)"
+        },
+        "Network": {
+            "": "GSM 850 / 1900 - US version",
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Polyphonic(8) ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Motorola MOTOFONE F3",
+        "image": {
+            "href": "http://www.gsmarena.com/motorola_motofone_f3-pictures-1794.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/motorola-f3.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/motorola_motofone_f3-1794.php"
+    }
+}

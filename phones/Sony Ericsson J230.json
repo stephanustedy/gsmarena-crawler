@@ -1,0 +1,71 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 900 mAh battery (BST-37)",
+            "Stand-by": "Up to 280 h",
+            "Talk time": "Up to 6 h"
+        },
+        "Body": {
+            "Dimensions": "102 x 44 x 18 mm (4.02 x 1.73 x 0.71 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "84 g (2.96 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "FM radio",
+            "USB": "No",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Wallpapers, themes",
+            "Resolution": "128 x 128 pixels (~117 ppi pixel density)",
+            "Size": "1.55 inches (~17.3% screen-to-body ratio)",
+            "Type": "STN, 65K colors"
+        },
+        "Features": {
+            "": "- Predictive text input\n- External VGA camera",
+            "Browser": "WAP 1.2.1",
+            "Games": "Yes",
+            "Java": "No",
+            "Messaging": "SMS, EMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2005, November",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- 50 short messages",
+            "Call records": "10 dialed, 20 received and missed calls",
+            "Card slot": "No",
+            "Internal": "500 KB",
+            "Phonebook": "200 entries, Picture call"
+        },
+        "Misc": {
+            "Colors": "3 - Cosmo White, Cherry Red, Deep Blue",
+            "Price group": "2/10 (About 50 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "Class 8",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Polyphonic(32) ringtones, composer",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "J230i: Dual band 900/1800 Mhz \nJ230a: Dual band 850/1900 Mhz - For Americas \nJ230c: Dual band 900/1800 Mhz - For mainland China",
+        "device_name": "Sony Ericsson J230",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_ericsson_j230-pictures-1363.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/sonyericsson-j230.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_ericsson_j230-1363.php"
+    }
+}

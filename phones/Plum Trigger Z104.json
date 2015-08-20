@@ -1,0 +1,101 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1350 mAh battery",
+            "Stand-by": "Up to 270 h",
+            "Talk time": "Up to 7 h"
+        },
+        "Body": {
+            "Dimensions": "117 x 61.5 x 11.6 mm (4.61 x 2.42 x 0.46 in)",
+            "SIM": "Dual SIM (Dual stand-by)",
+            "Weight": "92 g (3.25 oz)"
+        },
+        "Camera": {
+            "Primary": "5 MP, 2592 x 1944 pixels",
+            "Secondary": "5 MP",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP",
+            "GPS": "No",
+            "Radio": "Stereo FM radio",
+            "USB": "microUSB",
+            "WLAN": "Wi-Fi 802.11 b/g/n"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "320 x 480 pixels (~165 ppi pixel density)",
+            "Size": "3.5 inches (~50.7% screen-to-body ratio)",
+            "Type": "Capacitive touchscreen"
+        },
+        "Features": {
+            "": "- MP4/DivX/Xvid/H.264 player\n- WAV/MP3/AAC player\n- Voice memo/dial/commands\n- Photo/video editor",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2013",
+            "Status": "Available. Released 2013"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "512 MB, 256 MB RAM"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 850 / 1900",
+            "EDGE": "Yes",
+            "GPRS": "Class 12",
+            "Speed": "Yes, 384 kbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.2 GHz",
+            "OS": "Android OS, v4.0 (Ice Cream Sandwich)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Z105 - Single SIM\nZ104 - Dual SIM",
+        "device_name": "Plum Trigger Z104",
+        "image": {
+            "href": "http://www.gsmarena.com/plum_trigger_z104-pictures-5827.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/plum-trigger-z104.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/plum_trigger_z104-5827.php"
+    }
+}

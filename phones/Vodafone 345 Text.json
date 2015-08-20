@@ -1,0 +1,68 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "-",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "-"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "FM radio",
+            "USB": "No",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "",
+            "Size": "1.8 inches",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- Calculator\n- Fake calls\n- Currency converter\n- Predictive text input",
+            "Browser": "No",
+            "Games": "Yes",
+            "Java": "No",
+            "Messaging": "SMS"
+        },
+        "Launch": {
+            "Announced": "2010, April",
+            "Status": "Available. Released 2010, July"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "No",
+            "Phonebook": "Yes"
+        },
+        "Misc": {
+            "Colors": "Black, White, Pink",
+            "Price group": "1/10 (About 20 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration, Polyphonic(32)",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Vodafone 345 Text",
+        "image": {
+            "href": "http://www.gsmarena.com/vodafone_345_text-pictures-3300.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/vodafone-350-messaging-new.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/vodafone_345_text-3300.php"
+    }
+}

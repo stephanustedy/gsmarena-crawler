@@ -1,0 +1,89 @@
+{
+    "data": {
+        "Battery": {
+            "": "NiMH 700 mAh battery",
+            "Stand-by": "110 h",
+            "Talk time": "230 min"
+        },
+        "Body": {
+            "Dimensions": "140 x 50 x 25 mm, 150 cc (5.51 x 1.97 x 0.98 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "170 g (6.00 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Fixed icons",
+            "Resolution": "96 x 32 pixels, 4 lines",
+            "Size": "",
+            "Type": "Monochrome graphic, Optimax"
+        },
+        "Features": {
+            "Alarm": "No",
+            "Browser": "",
+            "Clock": "No",
+            "Games": "No",
+            "Java": "No",
+            "Languages": "26",
+            "Messaging": "SMS"
+        },
+        "Launch": {
+            "Announced": "1999",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "10 dialed, 5 received, 5 missed calls",
+            "Card slot": "No",
+            "Phonebook": "SIM only"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Monophonic ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Motorola M3688",
+        "index": 1,
+        "url": "http://www.gsmarena.com/motorola_m3688-67.php"
+    }
+}

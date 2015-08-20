@@ -1,0 +1,77 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 930 mAh battery (BST-39)",
+            "Stand-by": "Up to 300 h",
+            "Talk time": "Up to 7 h"
+        },
+        "Body": {
+            "Dimensions": "92 x 49 x 16 mm (3.62 x 1.93 x 0.63 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "100 g (3.53 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 1024 pixels",
+            "Secondary": "No",
+            "Video": "No"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second external OLED mono display (128 x 36 pixels)\n- Easy-touch music controls",
+            "Resolution": "176 x 220 pixels (~148 ppi pixel density)",
+            "Size": "1.9 inches (~25.2% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- Gesture control\n- Walkman player \n- TrackID music recognition\n- Predictive text input\n- Photo editor\n- Organizer\n- Voice memo",
+            "Browser": "WAP 2.0/xHTML, HTML (NetFront), RSS reader",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2007, November. Released 2008, March",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- 512MB M2 card included in the retail package",
+            "Call records": "30 received, dialed and missed calls",
+            "Card slot": "Memory Stick Micro (M2), up to 4 GB",
+            "Internal": "14 MB",
+            "Phonebook": "1000 x 20 fields, Photo call"
+        },
+        "Misc": {
+            "Colors": "Electric Purple, Magnetic Grey, Black Champagne, Black Orange",
+            "Price group": "2/10 (About 80 EUR)",
+            "SAR EU": "0.65 W/kg (head)"
+        },
+        "Network": {
+            "": "GSM 850 / 1800 / 1900 - W350a",
+            "2G bands": "GSM 900 / 1800 / 1900 - W380i",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3, AAC ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "W380i - 900/1800/1900 Mhz\nW380c - 900/1800/1900 MHz for China\nW380a - 850/1800/1900 MHz for America",
+        "device_name": "Sony Ericsson W380",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_ericsson_w380-pictures-2171.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/sonyericsson-w380.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_ericsson_w380-2171.php"
+    }
+}

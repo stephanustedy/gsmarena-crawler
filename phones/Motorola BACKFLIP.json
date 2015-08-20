@@ -1,0 +1,91 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1400 mAh battery",
+            "Stand-by": "Up to 315 h",
+            "Talk time": "Up to 6 h"
+        },
+        "Body": {
+            "": "- BACKTRACK touch panel",
+            "Dimensions": "108 x 53 x 15.3 mm (4.25 x 2.09 x 0.60 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "133 g (4.69 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "5 MP, 2560 x 1920 pixels, autofocus, LED flash, check quality",
+            "Secondary": "No",
+            "Video": "CIF@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g"
+        },
+        "Display": {
+            "": "- MOTOBLUR UI with Live Widgets",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "320 x 480 pixels (~186 ppi pixel density)",
+            "Size": "3.1 inches (~50.0% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 256K colors (65K effective)"
+        },
+        "Features": {
+            "": "- Noise cancellation with dedicated microphone\n- MP3/eAAC+/WAV/WMA9 player\n- MP4/H.264/WMV9 player\n- Organizer\n- Document viewer\n- Voice memo/dial\n- Predictive text input",
+            "Browser": "HTML",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS, MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2010, January",
+            "Status": "Available. Released 2010, March"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB, 2 GB included",
+            "Internal": "512 MB, 256 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Platinum Silver",
+            "Price group": "4/10 (About 150 EUR)",
+            "SAR US": "0.58 W/kg (head) \u00a0 \u00a0 0.60 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 900 / 1700 / 2100",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 7.2/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "528 MHz ARM 11",
+            "Chipset": "Qualcomm MSM7201A",
+            "GPU": "Adreno 130",
+            "OS": "Android OS, v1.5 (Cupcake), upgradable to v2.1 (Eclair) in USA"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        },
+        "Tests": {
+            "Audio quality": "Noise -63.1dB / Crosstalk -59.9dB",
+            "Camera": "Photo",
+            "Loudspeaker": "Voice 71dB / Noise 67dB / Ring 78dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Motorola Enzo, Motorola Motus, Motorola MB300",
+        "device_name": "Motorola BACKFLIP",
+        "image": {
+            "href": "http://www.gsmarena.com/motorola_backflip-pictures-3079.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/motorola-backflip-motus.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/motorola_backflip-3079.php"
+    }
+}

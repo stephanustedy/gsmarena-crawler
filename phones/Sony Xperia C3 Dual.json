@@ -1,0 +1,94 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 2500 mAh battery",
+            "Music play": "Up to 65 h",
+            "Stand-by": "Up to 1040 h (2G) / Up to 960 h (3G)",
+            "Talk time": "Up to 11 h (2G) / Up to 25 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "156.2 x 78.7 x 7.6 mm (6.15 x 3.10 x 0.30 in)",
+            "SIM": "Dual SIM (Micro-SIM, dual stand-by)",
+            "Weight": "149.7 g (5.29 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face/smile detection, panorama, HDR",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash, check quality",
+            "Secondary": "5 MP, 720p, LED flash",
+            "Video": "1080p, HDR, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "NFC": "Yes",
+            "Radio": "FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- Sony Mobile BRAVIA Engine 2\n- Triluminos display",
+            "Multitouch": "Yes, up to 10 fingers",
+            "Resolution": "720 x 1280 pixels (~267 ppi pixel density)",
+            "Size": "5.5 inches (~67.8% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- ANT+ support\n- Xvid/MP4/H.264 player\n- MP3/eAAC+/WAV/WMA/Flac player\n- Document viewer\n- Photo viewer/editor\n- Voice memo/dial",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, IM, Push Email",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2014, July",
+            "Status": "Available. Released 2014, August"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "8 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White, Mint",
+            "Price group": "6/10 (About 280 EUR)",
+            "SAR EU": "0.53 W/kg (head) \u00a0 \u00a0 0.36 W/kg (body)",
+            "SAR US": "0.91 W/kg (head) \u00a0 \u00a0 0.84 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+            "EDGE": "Up to 296 kbps",
+            "GPRS": "Up to 107 kbps",
+            "Speed": "HSPA 42.2/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.2 GHz Cortex-A7",
+            "Chipset": "Qualcomm MSM8926 Snapdragon 400",
+            "GPU": "Adreno 305",
+            "OS": "Android OS, v4.4.2 (KitKat), v5.0.2 (Lollipop), planned upgrade to v5.1 (Lollipop)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -87.0dB / Crosstalk -89.0dB",
+            "Battery life": "Endurance rating 91h",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 1153:1 (nominal), 2.120 (sunlight)",
+            "Loudspeaker": "Voice 66dB / Noise 61dB / Ring 75dB",
+            "Performance": "Basemark OS II: 466 / Basemark OS II 2.0: 175"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Sony Xperia C3 Dual D2502",
+        "device_name": "Sony Xperia C3 Dual",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_xperia_c3_dual-pictures-6489.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/sony-xperia-c3.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_xperia_c3_dual-6489.php"
+    }
+}

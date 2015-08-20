@@ -1,0 +1,78 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1300 mAh battery",
+            "Stand-by": "Up to 400 h",
+            "Talk time": "Up to 4 h"
+        },
+        "Body": {
+            "Dimensions": "114 x 58 x 12 mm (4.49 x 2.28 x 0.47 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "98 g (3.46 oz)"
+        },
+        "Camera": {
+            "Features": "Video-calling",
+            "Primary": "1.3 MP, 1280 x 1024 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Downloadable wallpapers and tones",
+            "Resolution": "320 x 240 pixels (~174 ppi pixel density)",
+            "Size": "2.3 inches (~24.8% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- AT&T Mobile TV\n- MP3 player\n- Video player\n- Organizer\n- Voice memo\n- Memo book\n- Built-in speakerphone\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "5 + Downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2008, April",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "30 dialed, received, missed calls",
+            "Card slot": "microSD, up to 2 GB",
+            "Internal": "100 MB",
+            "Phonebook": "1000 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "2/10 (About 70 EUR)",
+            "SAR US": "0.98 W/kg (head) \u00a0 \u00a0 0.49 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 1900",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Speed": "HSPA 3.6/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "canonical_name": "For AT&T",
+        "device_name": "Samsung A827 Access",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_a827_access-pictures-2408.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-a827.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_a827_access-2408.php"
+    }
+}

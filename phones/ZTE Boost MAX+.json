@@ -1,0 +1,81 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 3400 mAh battery",
+            "Stand-by": "",
+            "Talk time": "Up to 16 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "165.1 x 82.6 x 10.2 mm (6.5 x 3.25 x 0.40 in)",
+            "SIM": "Yes",
+            "Weight": "194.8 g (6.88 oz)"
+        },
+        "Camera": {
+            "Features": "Yes",
+            "Primary": "8 MP, 3264 x 2448 pixels",
+            "Secondary": "1 MP, 720p",
+            "Video": "1080p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "To be confirmed",
+            "USB": "microUSB v2.0",
+            "WLAN": "Yes"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "720 x 1280 pixels (~258 ppi pixel density)",
+            "Size": "5.7 inches (~65.7% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP4/H.264 player\n- MP3/WAV/eAAC+ player\n- Document viewer\n- Photo/video editor",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Yes"
+        },
+        "Launch": {
+            "Announced": "2015, July",
+            "Status": "Available. Released 2015, July"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "16 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Gold",
+            "Price group": "4/10 (About 180 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA",
+            "4G bands": "LTE",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA, LTE",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.2 GHz",
+            "OS": "Android OS, v5.1 (Lollipop)"
+        },
+        "Sound": {
+            "": "- Dolby Digital Plus audio",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "ZTE Boost MAX+",
+        "image": {
+            "href": "http://www.gsmarena.com/zte_boost_max+-pictures-7430.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/zte-boost-max-plus.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/zte_boost_max+-7430.php"
+    }
+}

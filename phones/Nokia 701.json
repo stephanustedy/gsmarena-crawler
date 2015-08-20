@@ -1,0 +1,90 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1300 mAh battery (BL-5K)",
+            "Music play": "Up to 71 h 25 min",
+            "Stand-by": "Up to 504 h (2G) / Up to 551 h (3G)",
+            "Talk time": "Up to 17 h (2G) / Up to 6 h 45 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "117.2 x 56.8 x 11 mm, 64 cc (4.61 x 2.24 x 0.43 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "131 g (4.62 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face detection",
+            "Primary": "8 MP, 3264 x 2448 pixels, fixed focus, dual-LED flash, check quality",
+            "Secondary": "VGA",
+            "Video": "720p@30fps, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "NFC": "Yes",
+            "Radio": "Stereo FM radio with RDS, FM transmitter",
+            "USB": "microUSB v2.0, USB Host",
+            "WLAN": "Wi-Fi 802.11 b/g/n"
+        },
+        "Display": {
+            "": "- Nokia ClearBlack display",
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "360 x 640 pixels (~210 ppi pixel density)",
+            "Size": "3.5 inches (~50.7% screen-to-body ratio)",
+            "Type": "LED-backlit IPS LCD, capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- SNS integration\n- TV-out\n- MP4/H.264 player\n- MP3/WAV/\u0435AAC+/WMA player\n- Dolby Digital Plus (via FP1 update)\n- Photo editor\n- Organizer\n- Voice command/dial\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML, Adobe Flash Lite",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2011, August",
+            "Status": "Available. Released 2011, September"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "8 GB, 512 MB RAM, 1 GB ROM"
+        },
+        "Misc": {
+            "Colors": "Steel dark, silver light, amethyst violet, white",
+            "Price group": "3/10 (About 150 EUR)",
+            "SAR EU": "1.08 W/kg (head)",
+            "SAR US": "1.21 W/kg (head) \u00a0 \u00a0 0.92 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 1700 / 1900 / 2100",
+            "EDGE": "Class 33",
+            "GPRS": "Class 33",
+            "Speed": "HSPA 14.4/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "1 GHz ARM11 (1.3GHz after update)",
+            "OS": "Symbian Belle OS, upgradeable to Belle FP1"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -87.2dB / Crosstalk -85.4dB",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 905:1 (nominal)",
+            "Loudspeaker": "Voice 63dB / Noise 58dB / Ring 66dB"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 701",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_701-pictures-4119.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-701.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_701-4119.php"
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1000 mAh battery",
+            "Stand-by": "Up to 342 h",
+            "Talk time": "Up to 5 h"
+        },
+        "Body": {
+            "Dimensions": "119 x 60 x 9 mm (4.69 x 2.36 x 0.35 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "91 g (3.21 oz)"
+        },
+        "Camera": {
+            "Primary": "3.15 MP, 2048 x 1536 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "Yes, with A-GPS, VZ Navigator",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "240 x 400 pixels (~146 ppi pixel density)",
+            "Size": "3.2 inches (~40.8% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/WAV/WMA/eAAC+ player\n- MP4/H.264 player\n- Organizer\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML, Adobe Flash Lite",
+            "Games": "Yes",
+            "Java": "No",
+            "Messaging": "SMS, MMS, Email, IM",
+            "Sensors": "Proximity"
+        },
+        "Launch": {
+            "Announced": "2011, October",
+            "Status": "Available. Released 2011, October"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 32 GB, 2 GB included",
+            "Phonebook": "1000, Photocall"
+        },
+        "Misc": {
+            "Colors": "Black, Red",
+            "SAR US": "1.32 W/kg (head) \u00a0 \u00a0 0.78 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "CDMA 800 / 1900",
+            "3G bands": "CDMA2000 1x",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Speed": "EV-DO Rev.0, 153.2 Kbps",
+            "Technology": "CDMA / CDMA2000"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; Polyphonic(64), MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "For Verizon",
+        "device_name": "Pantech Hotshot",
+        "image": {
+            "href": "http://www.gsmarena.com/pantech_hotshot-pictures-4293.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/pantech-hotshot.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/pantech_hotshot-4293.php"
+    }
+}

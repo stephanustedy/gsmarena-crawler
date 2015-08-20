@@ -1,0 +1,101 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po 4600 mAh battery",
+            "Stand-by": "Up to 460 h",
+            "Talk time": "Up to 8 h"
+        },
+        "Body": {
+            "Dimensions": "200 x 137 x 7.3 mm (7.87 x 5.39 x 0.29 in)",
+            "SIM": "No",
+            "Weight": "312.5 g (11.01 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "5 MP, 2592 x 1944 pixels, autofocus",
+            "Secondary": "2 MP",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "Yes",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "768 x 1024 pixels (~162 ppi pixel density)",
+            "Size": "7.9 inches (~70.5% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen"
+        },
+        "Features": {
+            "": "- MP3/WAV/WMA/AAC player\n- MP4/WMV/H.264 player\n- Photo editor\n- Document viewer\n- Voice memo",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "Email, Push Email, IM",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2013, November",
+            "Status": "Available. Released 2013, November"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "16 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "N/A",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "No cellular connectivity"
+        },
+        "Platform": {
+            "CPU": "Dual-core 2 GHz",
+            "Chipset": "Intel Atom Z5280",
+            "GPU": "PowerVR SGX544",
+            "OS": "Android OS, v4.2 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "device_name": "Allview Viva i8",
+        "image": {
+            "href": "http://www.gsmarena.com/allview_viva_i8-pictures-6081.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/allview-viva-i8.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/allview_viva_i8-6081.php"
+    }
+}

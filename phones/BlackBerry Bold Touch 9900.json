@@ -1,0 +1,90 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1230 mAh battery",
+            "Music play": "Up to 50 h",
+            "Stand-by": "Up to 307 h (2G) / Up to 307 h (3G)",
+            "Talk time": "Up to 6 h 30 min (2G) / Up to 5 h 50 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "115 x 66 x 10.5 mm (4.53 x 2.60 x 0.41 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "130 g (4.59 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face detection",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, LED flash, check quality",
+            "Secondary": "No",
+            "Video": "720p, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP, EDR",
+            "GPS": "Yes, with A-GPS, BlackBerry Maps",
+            "NFC": "Yes",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n"
+        },
+        "Display": {
+            "Resolution": "640 x 480 pixels (~286 ppi pixel density)",
+            "Size": "2.8 inches (~32.0% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- BlackBerry maps\n- Document viewer\n- MP4/WMV/H.264 player\n- MP3/eAAC+/WMA player\n- Organizer\n- Voice memo/dial\n- Predictive text input",
+            "Browser": "HTML",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS, MMS, Email, Push Email, IM",
+            "Sensors": "Proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2011, May",
+            "Status": "Available. Released 2011, August"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "8 GB, 768 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "3/10 (About 140 EUR)",
+            "SAR EU": "0.76 W/kg (head) \u00a0 \u00a0 0.90 W/kg (body)",
+            "SAR US": "1.19 W/kg (head) \u00a0 \u00a0 1.03 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 900 / 1700 / 2100",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 1900 / 2100 / 800",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 14.4/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "1.2 GHz QC 8655",
+            "OS": "BlackBerry OS 7.0"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -86.3dB / Crosstalk -81.2dB",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 1304:1 (nominal)",
+            "Loudspeaker": "Voice 71dB / Noise 72dB / Ring 76dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as BlackBerry Dakota, BlackBerry Magnum",
+        "device_name": "BlackBerry Bold Touch 9900",
+        "image": {
+            "href": "http://www.gsmarena.com/blackberry_bold_touch_9900-pictures-3116.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/blackberry-bold-touch-9900.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/blackberry_bold_touch_9900-3116.php"
+    }
+}

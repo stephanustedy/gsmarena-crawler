@@ -1,0 +1,92 @@
+{
+    "data": {
+        "Battery": {
+            "": "NiMH battery",
+            "Stand-by": "150 h",
+            "Talk time": "2 h - 5 h"
+        },
+        "Body": {
+            "Dimensions": "92 x 41 x 17.5 mm (3.62 x 1.61 x 0.69 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "59 g (2.08 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "5 lines",
+            "Size": "",
+            "Type": "Monochrome graphic"
+        },
+        "Features": {
+            "": "- SMS chat\n- Predictive text input\n- Organizer\n- Profiles",
+            "Alarm": "Yes",
+            "Browser": "WAP 1.2.1",
+            "Clock": "Yes",
+            "Games": "",
+            "Java": "No",
+            "Messaging": "SMS, EMS"
+        },
+        "Launch": {
+            "Announced": "4Q 2001",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "10 received, dialed and missed calls",
+            "Card slot": "No",
+            "Phonebook": ""
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable monophonic ringtones, composer",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Ericsson T66",
+        "image": {
+            "href": "http://www.gsmarena.com/ericsson_t66-pictures-282.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/ert66.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/ericsson_t66-282.php"
+    }
+}

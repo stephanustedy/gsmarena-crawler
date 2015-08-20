@@ -1,0 +1,80 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 3080 mAh battery",
+            "Music play": "Up to 17 h",
+            "Stand-by": "Up to 120 h",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "180 x 158 x 14 mm (opened), 180 x 79 x 28 mm (closed)",
+            "SIM": "Mini-SIM",
+            "Weight": "372 g (13.12 oz)"
+        },
+        "Camera": {
+            "Features": "Touch focus, geo-tagging, face/smile detection",
+            "Primary": "5 MP, 2560 x 1920 pixels, autofocus",
+            "Secondary": "VGA",
+            "Video": "720p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "Yes",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, DLNA"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "1024 x 480 pixels (~206 ppi pixel density)",
+            "Size": "5.5 inches (~26.4% screen-to-body ratio)",
+            "Type": "Dual TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/H.264 player\n- MP3/WAV/eAAC+/OGG player\n- Organizer\n- Voice memo\n- Predictive text input",
+            "Browser": "HTML, Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "Email, Push Mail, IM",
+            "Sensors": "Accelerometer, gyro, compass"
+        },
+        "Launch": {
+            "Announced": "2012, Q1",
+            "Status": "Available. Released 2012, September"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "4 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Silver/Black",
+            "Price group": "5/10 (About 210 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 N/A",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "GSM"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1 GHz Cortex-A9",
+            "Chipset": "Nvidia Tegra 2 T20",
+            "GPU": "ULP GeForce",
+            "OS": "Android OS, v3.2 (Honeycomb), planned upgrade to v4.0 (Ice Cream Sandwich)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "canonical_name": "Tablet with no support for GSM voice communication, SMS, and MMS\nAlso known as also known as Sony Tablet S2",
+        "device_name": "Sony Tablet P",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_tablet_p-pictures-4648.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/sony-tablet-p.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_tablet_p-4648.php"
+    }
+}

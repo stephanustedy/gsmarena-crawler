@@ -1,0 +1,75 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 900 mAh battery",
+            "Stand-by": "Up to 100 h",
+            "Talk time": "Up to 4 h"
+        },
+        "Body": {
+            "Dimensions": "98 x 48 x 16.9 mm (3.86 x 1.89 x 0.67 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "99 g (3.49 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 960 pixels",
+            "Secondary": "No",
+            "Video": "QCIF@15fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "176 x 220 pixels (~141 ppi pixel density)",
+            "Size": "2.0 inches (~26.8% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- MP4/3gp player \n- MP3/AAC/AAC+/WMA player\n- Voice recorder\n- Organizer\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2008, December. Released 2008",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 2 GB",
+            "Internal": "32 MB",
+            "Phonebook": "1000 entries x 12 fields, Photo call"
+        },
+        "Misc": {
+            "Colors": "Black Rose",
+            "Price group": "4/10 (About 150 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "3G bands": "UMTS 2100",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "Yes, 384 kbps",
+            "Technology": "GSM / UMTS"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "For Vodafone",
+        "device_name": "LG KP270",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_kp270-pictures-2618.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-kp270.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_kp270-2618.php"
+    }
+}

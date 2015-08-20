@@ -1,0 +1,73 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion battery",
+            "Stand-by": "Up to 250 h",
+            "Talk time": "Up to 5 h 30 min"
+        },
+        "Body": {
+            "Dimensions": "85.5 x 45 x 23 mm (3.37 x 1.77 x 0.91 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "91 g (3.21 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "No",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second external monochrome display (64 x 64 pixels)\n- Wallpapers, screensavers",
+            "Resolution": "128 x 128 pixels",
+            "Size": "",
+            "Type": "STN, 65K colors"
+        },
+        "Features": {
+            "": "- Predictive text input\n- Organizer\n- Stopwatch\n- Exchangeable front cover",
+            "Browser": "WAP 1.2.1",
+            "Games": "Yes",
+            "Java": "No",
+            "Messaging": "SMS, EMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2005, November",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "10 dialed, 10 received, 10 missed calls",
+            "Card slot": "No",
+            "Internal": "650 KB",
+            "Phonebook": "300 entries, Photo call"
+        },
+        "Misc": {
+            "Colors": "2 - Granite Grey, Amethyst Purple",
+            "Price group": "2/10 (About 80 EUR)",
+            "SAR EU": "0.75 W/kg (head)",
+            "SAR US": "1.43 W/kg (head) \u00a0 \u00a0 0.74 W/kg (body)"
+        },
+        "Network": {
+            "": "GSM 850 / 1900 - Z300a",
+            "2G bands": "GSM 900 / 1800 - Z300i",
+            "EDGE": "No",
+            "GPRS": "Class 8",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Polyphonic(32) ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "canonical_name": "Z300i: Dual band 900/1800 Mhz \nZ300a: Dual band 850/1900 Mhz - For Americas \nZ300c: Dual band 900/1800 Mhz - For mainland China",
+        "device_name": "Sony Ericsson Z300",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_ericsson_z300-pictures-1361.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/sonyericsson-z300.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_ericsson_z300-1361.php"
+    }
+}

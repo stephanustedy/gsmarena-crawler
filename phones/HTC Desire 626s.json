@@ -1,0 +1,82 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 2000 mAh battery",
+            "Stand-by": "Up to 540 h (3G)",
+            "Talk time": "Up to 15 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "146.8 x 70.9 x 8.1 mm (5.78 x 2.79 x 0.32 in)",
+            "SIM": "Nano-SIM",
+            "Weight": "138.9 g (4.90 oz)"
+        },
+        "Camera": {
+            "Features": "Yes",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash",
+            "Secondary": "2 MP, 720p",
+            "Video": "720p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.1, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "To be confirmed",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "": "- HTC Sense 7 UI",
+            "Multitouch": "Yes",
+            "Resolution": "720 x 1280 pixels (~294 ppi pixel density)",
+            "Size": "5.0 inches (~66.2% screen-to-body ratio)",
+            "Type": "Capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/H.264 player\n- MP3/eAAC+/WAV player\n- Photo/video editor\n- Document viewer",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Yes"
+        },
+        "Launch": {
+            "Announced": "2015, July",
+            "Status": "Available. Released 2015, July"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 200 GB",
+            "Internal": "8 GB, 1 GB RAM\n8 GB, 1.5 GB RAM (T-Mobile only)"
+        },
+        "Misc": {
+            "Colors": "Various",
+            "Price group": "4/10 (About 190 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 1700(AWS) / 1900 / 2100 - T-Mobile",
+            "4G bands": "LTE band 2(1900), 4(1700/2100), 5(850), 12(700) - T-Mobile",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA, LTE Cat4 150/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.1 GHz Cortex-A7",
+            "Chipset": "Qualcomm MSM8909 Snapdragon 210",
+            "GPU": "Adreno 304",
+            "OS": "Android OS, v5.1 (Lollipop)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "HTC Desire 626s",
+        "image": {
+            "href": "http://www.gsmarena.com/htc_desire_626s-pictures-7418.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/htc-desire-626s.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/htc_desire_626s-7418.php"
+    }
+}

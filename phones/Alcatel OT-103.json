@@ -1,0 +1,66 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 650 mAh battery",
+            "Stand-by": "Up to 350 h",
+            "Talk time": "Up to 7 h"
+        },
+        "Body": {
+            "Dimensions": "106 x 46 x 14.5 mm (4.17 x 1.81 x 0.57 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "63 g (2.22 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "microUSB (charging only)",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "96 x 64 pixels (~89 ppi pixel density)",
+            "Size": "1.3 inches (~10.3% screen-to-body ratio)",
+            "Type": "STN, monochrome graphics"
+        },
+        "Features": {
+            "": "- Predictive text input\n- Calculator",
+            "Browser": "No",
+            "Games": "2",
+            "Java": "No",
+            "Messaging": "SMS (250)"
+        },
+        "Launch": {
+            "Announced": "2009, June. Released 2009",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "No",
+            "Phonebook": "255 entries"
+        },
+        "Misc": {
+            "Colors": "Grey, Orange, Red, Green",
+            "Price group": "1/10 (About 20 EUR)",
+            "SAR EU": "1.25 W/kg (head)",
+            "SAR US": "1.31 W/kg (head) \u00a0 \u00a0 0.97 W/kg (body)"
+        },
+        "Network": {
+            "": "GSM 850 / 1900",
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Polyphonic(64) ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Alcatel OT-103",
+        "index": 1,
+        "url": "http://www.gsmarena.com/alcatel_ot_103-2842.php"
+    }
+}

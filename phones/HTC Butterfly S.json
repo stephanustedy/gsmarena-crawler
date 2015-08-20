@@ -1,0 +1,95 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po 3200 mAh battery",
+            "Stand-by": "Up to 544 h (2G) / Up to 659 h (3G)",
+            "Talk time": "Up to 29 h (2G) / Up to 25 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "144.5 x 70.5 x 10.6 mm (5.69 x 2.78 x 0.42 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "160 g (5.64 oz)"
+        },
+        "Camera": {
+            "Features": "1/3'' sensor size, 2\u00b5m pixel size, simultaneous HD video and image recording, geo-tagging, face/smile detection, HDR",
+            "Primary": "4 MP, 2688 x 1520 pixels, autofocus, LED flash, check quality",
+            "Secondary": "2.1 MP, HDR",
+            "Video": "1080p@30fps, HDR, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, apt-X",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "Infrared port": "Yes",
+            "NFC": "Yes",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0 (MHL TV-out)",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- HTC Sense UI 5.0",
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 3",
+            "Resolution": "1080 x 1920 pixels (~441 ppi pixel density)",
+            "Size": "5.0 inches (~67.7% screen-to-body ratio)",
+            "Type": "Super LCD3 capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Dropbox (25 GB cloud storage)\n- Active noise cancellation with dedicated mic\n- DivX/XviD/MP4/H.264/WMV player\n- MP3/eAAC+/WMA/WAV/FLAC player\n- Document viewer/editor\n- Photo viewer/editor\n- Voice memo/dial/commands",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2013, June",
+            "Status": "Available. Released 2013, July"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "16 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White, Red, Gray",
+            "Price group": "8/10 (About 440 EUR)",
+            "SAR US": "0.37 W/kg (head) \u00a0 \u00a0 0.43 W/kg (body)"
+        },
+        "Network": {
+            "": "LTE band 1(2100), 3(1800), 7(2600), 8(900) - Asia version",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - all versions",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100 - Asia version",
+            "4G bands": "LTE band 3(1800), 7(2600), 20(800) - EMEA",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 42.2/5.76 Mbps, LTE",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.9 GHz Krait 300",
+            "Chipset": "Qualcomm APQ8064T Snapdragon 600",
+            "GPU": "Adreno 320",
+            "OS": "Android OS, v4.2.2 (Jelly Bean), upgradable to v4.4.2 (KitKat)"
+        },
+        "Sound": {
+            "": "- Beats Audio",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        },
+        "Tests": {
+            "Audio quality": "Noise -93.7dB / Crosstalk -93.6dB",
+            "Battery life": "Endurance rating 81h",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 1044:1 (nominal) / 1.867:1 (sunlight)",
+            "Loudspeaker": "Voice 66dB / Noise 61dB / Ring 72dB"
+        }
+    },
+    "main": {
+        "device_name": "HTC Butterfly S",
+        "image": {
+            "href": "http://www.gsmarena.com/htc_butterfly_s-pictures-5537.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/htc-butterfly-s.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/htc_butterfly_s-5537.php"
+    }
+}

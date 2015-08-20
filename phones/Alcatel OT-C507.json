@@ -1,0 +1,96 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 750 mAh battery",
+            "Stand-by": "Up to 300 h",
+            "Talk time": "Up to 5 h"
+        },
+        "Body": {
+            "Dimensions": "100 x 45 x 14.5 mm (3.94 x 1.77 x 0.57 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "75g (2.65 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "No"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "v1.1",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Embedded images and animations",
+            "Resolution": "128 x 128 pixels (~121 ppi pixel density)",
+            "Size": "1.5 inches (~16.1% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- Conference call up to 5 persons\n- Synthesized Audio : MIDI, SP-MIDI, AMR\n- ID3 Tag Support\n- Flight Mode\n- Karaoke\n- PC Software Suite\n- Voice memo\n- Predictive text input\n- Organizer",
+            "Browser": "WAP 2.0",
+            "Games": "2",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2007, February",
+            "Status": "Cancelled"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "microSD",
+            "Internal": "1 MB",
+            "Phonebook": "800 entries"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Polyphonic(64), MP3, M4a, AAC, AAC + (Optional) ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Alcatel OT-C507",
+        "image": {
+            "href": "http://www.gsmarena.com/alcatel_ot_c507-pictures-1901.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/alcatel-c507.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/alcatel_ot_c507-1901.php"
+    }
+}

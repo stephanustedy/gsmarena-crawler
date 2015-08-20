@@ -1,0 +1,77 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 4000 mAh battery",
+            "Stand-by": "Up to 1470 h",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "195.4 x 122 x 13.2 mm (7.69 x 4.80 x 0.52 in)",
+            "SIM": "No",
+            "Weight": "420.8 g (14.82 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus",
+            "Secondary": "1.3 MP",
+            "Video": "720p"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, DLNA"
+        },
+        "Display": {
+            "": "- HTC Sense UI\n- Two sets of touch-sensitive controls for landscape and portrait use",
+            "Multitouch": "Yes",
+            "Resolution": "600 x 1024 pixels (~170 ppi pixel density)",
+            "Size": "7.0 inches (~57.8% screen-to-body ratio)",
+            "Type": "LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP3/AAC+/WAV/WMA player\n- DivX/Xvid/MP4/H.264/WMV player\n- Voice memo\n- Predictive text input",
+            "Browser": "HTML, Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "Email, Push Email, IM",
+            "Sensors": "Accelerometer, compass"
+        },
+        "Launch": {
+            "Announced": "2011, February",
+            "Status": "Available. Released 2011, May"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "16/32 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Silver",
+            "Price group": "3/10 (About 110 EUR)"
+        },
+        "Network": {
+            "2G bands": "N/A",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "No cellular connectivity"
+        },
+        "Platform": {
+            "CPU": "1.5 GHz Scropion",
+            "Chipset": "Qualcomm MSM8255T Snapdragon S2",
+            "GPU": "Adreno 205",
+            "OS": "Android OS, v2.3.3 (Gingerbread), upgradable to v3.2 (Honeycomb)"
+        },
+        "Sound": {
+            "": "- Dolby Mobile, SRS sound",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Tablet with no GSM voice communication capabilities",
+        "device_name": "HTC Flyer Wi-Fi",
+        "index": 1,
+        "url": "http://www.gsmarena.com/htc_flyer_wi_fi-3953.php"
+    }
+}

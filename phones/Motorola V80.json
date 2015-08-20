@@ -1,0 +1,96 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 820 mAh battery (BA620)",
+            "Stand-by": "Up to 280 h",
+            "Talk time": "Up to 6 h"
+        },
+        "Body": {
+            "Dimensions": "99 x 45 x 23 mm, 82 cc (3.90 x 1.77 x 0.91 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "108 g (3.81 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "No"
+        },
+        "Comms": {
+            "Bluetooth": "v1.1",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Screensavers and wallpapers\n- Downloadable logos, screensavers",
+            "Resolution": "176 x 220 pixels, 8 lines",
+            "Size": "",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- MP4 player\n- Predictive text input (iTAP)\n- Organizer",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "3 - Hungry Fish, Skipping Stones, SlideShow",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2003, 4Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "10 dialed, 10 received, 10 missed calls",
+            "Card slot": "No",
+            "Internal": "5 MB",
+            "Phonebook": "2000 entries, Photo call"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones, composer",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Motorola V80",
+        "image": {
+            "href": "http://www.gsmarena.com/motorola_v80-pictures-609.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/mov80.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/motorola_v80-609.php"
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po 3500 mAh battery",
+            "Stand-by": "Up to 336 h",
+            "Talk time": "Up to 8 h"
+        },
+        "Body": {
+            "Dimensions": "199 x 121 x 10.7 mm (7.83 x 4.76 x 0.42 in)",
+            "SIM": "No",
+            "Weight": "340 g (11.99 oz)"
+        },
+        "Camera": {
+            "Primary": "No",
+            "Secondary": "VGA",
+            "Video": "No"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0",
+            "GPS": "Yes",
+            "Radio": "No",
+            "USB": "microUSB v2.0, USB Host",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "600 x 1024 pixels (~170 ppi pixel density)",
+            "Size": "7.0 inches (~57.3% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP3/WAV/WMA/AAC player\n- MP4/H.264 player\n- Document viewer\n- Photo viewer/editor",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "Email, Push Email, IM",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2013, January",
+            "Status": "Available. Released 2013, May"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "4/16 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "3/10 (About 150 EUR)"
+        },
+        "Network": {
+            "2G bands": "N/A",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "No cellular connectivity"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.2 GHz Cortex-A9",
+            "Chipset": "Mediatek MT8317",
+            "GPU": "PowerVR SGX531u",
+            "OS": "Android OS, v4.1 (Jelly Bean), upgradable to v4.2 (Jelly Bean)"
+        },
+        "Sound": {
+            "": "- Dolby Digital Plus",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "canonical_name": "Tablet with no support for GSM voice communication, SMS, and MMS",
+        "device_name": "Lenovo IdeaTab A1000",
+        "image": {
+            "href": "http://www.gsmarena.com/lenovo_ideatab_a1000-pictures-5352.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lenovo-ideatab-a1000.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lenovo_ideatab_a1000-5352.php"
+    }
+}

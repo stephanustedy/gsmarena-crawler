@@ -1,0 +1,91 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1520 mAh battery",
+            "Stand-by": "Up to 350 h (2G) / Up to 400 h (3G)",
+            "Talk time": "Up to 8 h 20 min (2G) / Up to 6 h 40 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "126.1 x 65.4 x 11.3 mm (4.96 x 2.57 x 0.44 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "148 g (5.22 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, dual-LED flash, check quality",
+            "Secondary": "VGA",
+            "Video": "1080p@30fps, stereo sound rec., check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0 (MHL TV-out)",
+            "WLAN": "Wi-Fi 802.11 b/g/n, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- HTC Sense UI 3.0",
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "540 x 960 pixels (~256 ppi pixel density)",
+            "Size": "4.3 inches (~61.8% screen-to-body ratio)",
+            "Type": "S-LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP3/AAC+/WAV/WMA player\n- XviD/MP4/H.264/WMV player\n- Organizer\n- Document viewer\n- Voice memo/dial/commands\n- Predictive text input (T9 Trace)",
+            "Browser": "HTML, Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2011, April. Released 2011, May",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB, 8 GB included",
+            "Internal": "1 GB, 768 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, Ice White",
+            "Price group": "3/10 (About 120 EUR)",
+            "SAR US": "0.61 W/kg (head) \u00a0 \u00a0 1.29 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 900 / 1700 / 2100",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Up to 560 kbps",
+            "GPRS": "Up to 114 kbps",
+            "Speed": "HSPA 14.4/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.2 GHz Scorpion",
+            "Chipset": "Qualcomm MSM8260 Snapdragon S3",
+            "GPU": "Adreno 220",
+            "OS": "Android OS, v2.3.4 (Gingerbread), upgradable to v4.0 (Ice Cream Sandwich)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -90.2dB / Crosstalk -91.1dB",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 720:1 (nominal)",
+            "Loudspeaker": "Voice 66dB / Noise 66dB / Ring 78dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Previously rumored as HTC Pyramid",
+        "device_name": "HTC Sensation",
+        "image": {
+            "href": "http://www.gsmarena.com/htc_sensation-pictures-3875.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/htc-sensation-new.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/htc_sensation-3875.php"
+    }
+}

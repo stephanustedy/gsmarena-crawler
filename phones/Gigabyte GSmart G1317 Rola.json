@@ -1,0 +1,79 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1260 mAh battery",
+            "Stand-by": "Up to 115 h",
+            "Talk time": "Up to 6 h 30 min"
+        },
+        "Body": {
+            "Dimensions": "113.5 x 60 x 13.3 mm (4.47 x 2.36 x 0.52 in)",
+            "SIM": "Dual SIM (Mini-SIM, dual stand-by)",
+            "Weight": "116 g (4.09 oz)"
+        },
+        "Camera": {
+            "Primary": "3.15 MP, 2048 x 1536 pixels, LED flash",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g, hotspot"
+        },
+        "Display": {
+            "": "",
+            "Resolution": "240 x 400 pixels (~146 ppi pixel density)",
+            "Size": "3.2 inches (~42.8% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP3/WAV/WMA/eAAC+ player\n- MP4/WMV/H.264 player\n- Organizer\n- Office document viewer\n- Voice memo\n- Predictive text input",
+            "Browser": "HTML",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS (threaded view), MMS, Email, Push email",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2010, November",
+            "Status": "Available. Released 2011, April"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "512 MB, 256 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Glossy Black, Glossy White",
+            "Price group": "3/10 (About 130 EUR)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 2100 - SIM 1 only",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1",
+            "3G bands": "HSDPA 900 / 2100 - SIM 1 only",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "528 MHz ARM 11",
+            "Chipset": "Qualcomm MSM7225 Snapdragon S1",
+            "OS": "Android OS, v2.2 (Froyo)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Gigabyte GSmart G1317 Rola",
+        "image": {
+            "href": "http://www.gsmarena.com/gigabyte_gsmart_g1317_rola-pictures-3694.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/gigabyte-gsmart-rola.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/gigabyte_gsmart_g1317_rola-3694.php"
+    }
+}

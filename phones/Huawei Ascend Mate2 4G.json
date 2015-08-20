@@ -1,0 +1,88 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 4050 mAh battery",
+            "Stand-by": "",
+            "Talk time": "Up to 25 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "161 x 84.7 x 9.5 mm (6.34 x 3.33 x 0.37 in)",
+            "SIM": "Yes",
+            "Weight": "202 g (7.13 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face detection, HDR, panorama",
+            "Primary": "13 MP, 4128 x 3096 pixels, autofocus, LED flash",
+            "Secondary": "5 MP",
+            "Video": "1080p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, EDR, LE",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "Radio": "Stereo FM radio",
+            "USB": "microUSB v2.0, USB Host",
+            "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- Emotion UI 2.0",
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "720 x 1280 pixels (~241 ppi pixel density)",
+            "Size": "6.1 inches (~75.2% screen-to-body ratio)",
+            "Type": "IPS+ LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Reverse charging\n- Active noise cancellation with dedicated mic\n- DivX/XviD/MP4/H.264/WMV player\n- MP3/eAAC+/WMA/WAV/Flac player\n- Document editor\n- Photo viewer/editor\n- Voice memo/dial/commands",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2014, January",
+            "Status": "Available. Released 2014, January"
+        },
+        "Memory": {
+            "Card slot": "Yes, up to 64 GB",
+            "Internal": "16 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Crystal Black, Pure White",
+            "Price group": "7/10 (About 330 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 1700 / 1900 / 2100 - MT2-L03",
+            "4G bands": "LTE band 2(1900), 4(1700/2100), 5(850), 17(700) - MT2-L03",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.6 GHz Cortex-A7",
+            "Chipset": "Qualcomm MSM8928 Snapdragon 400",
+            "GPU": "Adreno 305",
+            "OS": "Android OS, v4.3 (Jelly Bean), upgradable to v5.1 (Lollipop)"
+        },
+        "Sound": {
+            "": "- Dolby mobile",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Battery life": "Endurance rating 106h",
+            "Performance": "Basemark OS II: 542 / Basemark X: 1976"
+        }
+    },
+    "main": {
+        "device_name": "Huawei Ascend Mate2 4G",
+        "image": {
+            "href": "http://www.gsmarena.com/huawei_ascend_mate2_4g-pictures-5949.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/huawei-ascend-mate2.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/huawei_ascend_mate2_4g-5949.php"
+    }
+}

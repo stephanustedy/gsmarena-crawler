@@ -1,0 +1,69 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 750 mAh battery",
+            "Stand-by": "Up to 300 h",
+            "Talk time": "Up to 5 h"
+        },
+        "Body": {
+            "Dimensions": "92 x 46 x 23.5 mm (3.62 x 1.81 x 0.93 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "110 g (3.88 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x1200 pixels, LED flash",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v1.2, A2DP",
+            "GPS": "No",
+            "Radio": "FM radio",
+            "USB": "v1.1",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second external display, 128 x 128 pixels, 1.0 inches",
+            "Resolution": "240 x 320 pixels (~200 ppi pixel density)",
+            "Size": "2.0 inches (~29.3% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- Audio/ Video Player\n- Predictive text input\n- Organizer\n- Stopwatch",
+            "Browser": "WAP 2.0",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS,MMS, Email"
+        },
+        "Launch": {
+            "Announced": "",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "20 received, dialed and missed calls",
+            "Card slot": "microSD",
+            "Internal": "64 MB",
+            "Phonebook": "1000 entries"
+        },
+        "Misc": {
+            "Colors": "Silver",
+            "Price group": "6/10 (About 260 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3, AAC, WAV, AMP ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Asus Z801",
+        "index": 1,
+        "url": "http://www.gsmarena.com/asus_z801-2107.php"
+    }
+}

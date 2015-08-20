@@ -1,0 +1,75 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 950 mAh battery (BST-33)",
+            "Stand-by": "Up to 400 h (2G) / Up to 400 h (3G)",
+            "Talk time": "Up to 7 h (2G) / Up to 2 h 30 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "94.5 x 49 x 20 mm (3.72 x 1.93 x 0.79 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "110 g (3.88 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels",
+            "Secondary": "Videocall camera",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second external OLED display (128 x 36 pixels)\n- Reflective exterior surface \n- Wallpapers, screensavers",
+            "Resolution": "176 x 220 pixels",
+            "Size": "",
+            "Type": "TFD, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/AAC/AAC+/eAAC+ player\n- Predictive text input\n- Photo editor\n- Organizer\n- Voice memo",
+            "Browser": "WAP 2.0/xHTML, HTML(NetFront), RSS feeds",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2006, August",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "30 received, dialed and missed calls",
+            "Card slot": "Memory Stick Micro (M2), up to 2 GB",
+            "Internal": "16 MB",
+            "Phonebook": "1000 x 27 fields, Photo call"
+        },
+        "Misc": {
+            "Colors": "Luster Black, Airy Blue, Rose Pink",
+            "Price group": "3/10 (About 110 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "3G bands": "UMTS 2100",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Speed": "Yes, 384 kbps",
+            "Technology": "GSM / UMTS"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3, AAC ringtones, composer",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Sony Ericsson Z610",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_ericsson_z610-pictures-1665.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/sonyericsson-z610.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_ericsson_z610-1665.php"
+    }
+}

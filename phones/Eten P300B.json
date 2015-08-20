@@ -1,0 +1,92 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 1300 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "117 x 67 x 23 mm (4.61 x 2.64 x 0.91 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "165 g (5.82 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "v1.1",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~143 ppi pixel density)",
+            "Size": "2.8 inches, 42 x 57 mm (~31.0% screen-to-body ratio)",
+            "Type": "STN resistive touchscreen, 4096 colors"
+        },
+        "Features": {
+            "": "- Pocket Office \n- eBook Reader\n- Windows MPlayer 9\n- Organizer\n- Predictive text input\n- Voice memo",
+            "Browser": "HTML (PocketIE)",
+            "Java": "No",
+            "Messaging": "SMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2004, 2Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "SD/SDIO",
+            "Internal": "64 MB, 64 MB RAM"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Platform": {
+            "CPU": "Samsung 2410 200 MHz",
+            "OS": "Microsoft Windows Mobile 2003 PocketPC"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Eten P300B",
+        "image": {
+            "href": "http://www.gsmarena.com/eten_p300b-pictures-1224.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/eten-p300b.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/eten_p300b-1224.php"
+    }
+}

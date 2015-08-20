@@ -1,0 +1,71 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 800 mAh battery",
+            "Stand-by": "Up to 150 h",
+            "Talk time": "Up to 3 h"
+        },
+        "Body": {
+            "Dimensions": "105 x 43 x 19 mm (4.13 x 1.69 x 0.75 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "70 g (2.47 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "FM radio",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Four way navigation keys",
+            "Resolution": "128 x 128 pixels, 5 lines (~121 ppi pixel density)",
+            "Size": "1.5 inches (~16.1% screen-to-body ratio)",
+            "Type": "UFB, 65K colors"
+        },
+        "Features": {
+            "": "- Predictive text input\n- Sync ML\n- Organizer",
+            "Browser": "WAP 1.2",
+            "Games": "4 - BubbleSmile, Fun2Link, UltimateGolf, MobileChess + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2005, 2Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- 700 KB for MMS\n- 600 KB for ringtones\n- 512 KB for games\n- 100 KB for voice memo (5 x 30 sec.) \n- 200 short messages",
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "No",
+            "Phonebook": "1000 entries x 4 fields"
+        },
+        "Misc": {
+            "Colors": "Metallic Silver, Black, White",
+            "SAR EU": "0.51 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "": "- Nokia compatible melodies",
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Samsung C230",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_c230-pictures-1208.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-c230.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_c230-1208.php"
+    }
+}

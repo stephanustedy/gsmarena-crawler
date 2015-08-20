@@ -1,0 +1,75 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 780 mAh battery",
+            "Stand-by": "Up to 300 h",
+            "Talk time": "Up to 7h"
+        },
+        "Body": {
+            "Dimensions": "107.5 x 49 x 24.5 mm (4.23 x 1.93 x 0.96 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "137 g (4.83 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 960 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v1.1",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- 180 deg swivel\n- Wallpapers, screensavers",
+            "Resolution": "240 x 320 pixels (~174 ppi pixel density)",
+            "Size": "2.3 inches, 35 x 46 mm (~31.1% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/MP4 player\n- Predictive text input\n- Organizer\n- SyncML\n- Voice dial/mail",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes + downloadable",
+            "Java": "Yes",
+            "Messaging": "SMS, EMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2004, 3Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "Memory Stick Duo",
+            "Internal": "32 MB",
+            "Phonebook": "Yes"
+        },
+        "Misc": {
+            "Colors": "Onyx Black",
+            "SAR EU": "0.88 W/kg (head)",
+            "SAR US": "0.88 W/kg (head) \u00a0 \u00a0 0.58 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 1800 / 1900",
+            "EDGE": "Class 6",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones, composer",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Sony Ericsson S710",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_ericsson_s710-pictures-848.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/sns710.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_ericsson_s710-848.php"
+    }
+}

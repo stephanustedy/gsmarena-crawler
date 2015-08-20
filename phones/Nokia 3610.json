@@ -1,0 +1,73 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 830 mAh battery (BLB-2)",
+            "Stand-by": "Up to 170 h",
+            "Talk time": "Up to 3 h 50 min"
+        },
+        "Body": {
+            "Dimensions": "105 x 45 x 22 mm, 79 cc (4.13 x 1.77 x 0.87 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "92 g (3.25 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Dynamic font size\n- Softkey\n- Animated screensavers\n- Welcome message",
+            "Resolution": "96 x 65 pixels, 5 lines",
+            "Size": "",
+            "Type": "Backlit full graphics"
+        },
+        "Features": {
+            "": "- Downloadable game packs via WAP\n- Predictive text input\n- Smart messaging\n- Calculator\n- Stopwatch\n- Rhythmic backlight alert\n- Photo editor\n- Picture messaging",
+            "Alarm": "Yes",
+            "Browser": "WAP 1.1",
+            "Clock": "Yes",
+            "Games": "6 - Dance 2 Music, Link5, Magic Draw, Space Impact, Snake II, Bumper",
+            "Java": "No",
+            "Languages": "Country dependant",
+            "Messaging": "SMS, EMS"
+        },
+        "Launch": {
+            "Announced": "2002",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- Editable message templates",
+            "Call records": "20 dialed, 10 received, 10 missed calls",
+            "Card slot": "No",
+            "Phonebook": "200"
+        },
+        "Misc": {
+            "Colors": "Ttranslucent Xpress-on covers",
+            "SAR EU": "0.63 W/kg (head)",
+            "SAR US": "0.83 W/kg (head) \u00a0 \u00a0 0.83 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Monophonic ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 3610",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_3610-pictures-342.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/no3610.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_3610-342.php"
+    }
+}

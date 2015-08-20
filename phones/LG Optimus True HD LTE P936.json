@@ -1,0 +1,83 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1830 mAh battery",
+            "Stand-by": "Up to 250 h (3G)",
+            "Talk time": "Up to 4 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "132.9 x 67.9 x 10.4 mm (5.23 x 2.67 x 0.41 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "135 g (4.76 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face/smile detection",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash",
+            "Secondary": "1.3 MP",
+            "Video": "1080p"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "microUSB v2.0 (MHL TV-out)",
+            "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, DLNA, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "720 x 1280 pixels (~326 ppi pixel density)",
+            "Size": "4.5 inches (~61.9% screen-to-body ratio)",
+            "Type": "True HD-IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- TDMB TV tunner\n- Active noise cancellation with dedicated mic\n- MP4/DivX/Xvid/WMV/H.264 player\n- MP3/WAV/WMA/eAAC+ player\n- Document viewer\n- Photo viewer/editor\n- Organizer\n- Voice memo/dial/commands\n- Predictive text input (Swype)",
+            "Browser": "HTML, Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2012, April",
+            "Status": "Available. Released 2012, May"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB, 16 GB included",
+            "Internal": "4 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "5/10 (About 220 EUR)",
+            "SAR EU": "0.57 W/kg (head) \u00a0 \u00a0 0.87 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "4G bands": "LTE band 3(1800), 7(2600), 20(800)",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 21.1/5.76 Mbps, LTE Cat3 100/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.5 GHz Scorpion",
+            "Chipset": "Qualcomm APQ8060 Snapdragon S3",
+            "GPU": "Adreno 220",
+            "OS": "Android OS, v2.3.6 (Gingerbread)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as LG Maximo True HD LTE",
+        "device_name": "LG Optimus True HD LTE P936",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_optimus_true_hd_lte_p936-pictures-4717.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-optimus-truehd-lte-p936-new.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_optimus_true_hd_lte_p936-4717.php"
+    }
+}

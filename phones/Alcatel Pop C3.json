@@ -1,0 +1,84 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1300 mAh battery",
+            "Music play": "Up to 28 h",
+            "Stand-by": "Up to 510 h (2G) / Up to 410 h (3G)",
+            "Talk time": "Up to 13 h 30 min (2G) / Up to 9 h 30 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "122 x 64.4 x 12 mm (4.80 x 2.54 x 0.47 in)",
+            "SIM": "Optional Dual SIM (Mini-SIM)",
+            "Weight": "110 g (3.88 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face/smile detection",
+            "Primary": "5 MP (4033A, 4033E) / 3.15 MP (4033X, 4033D)",
+            "Secondary": "VGA (4033A, 4033E only)",
+            "Video": "480p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "480 x 800 pixels (~233 ppi pixel density)",
+            "Size": "4.0 inches (~58.0% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic (4033X, 4033D only)\n- MP3/AAC+/WAV player\n- MP4/H.264 player\n- Document viewer\n- Photo viewer/editor\n- Voice memo",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2013, September",
+            "Status": "Available. Released 2014, March"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "4 GB, 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Bluish Black, Pure White, Hot Pink",
+            "Price group": "2/10 (About 80 EUR)",
+            "SAR EU": "0.77 W/kg (head) \u00a0 \u00a0 0.99 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 1900 / 2100 - 4033A, 4033E",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - 4033A, 4033E",
+            "3G bands": "HSDPA 900 / 2100 - 4033D, 4033X",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 21.1/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.3 GHz Cortex-A7",
+            "Chipset": "Mediatek MT6572",
+            "GPU": "Mali-400",
+            "OS": "Android OS, v4.2 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Available as Alcatel 4033A, 4033X\nAlcatel 4033D, 4033E with dual SIM card support",
+        "device_name": "Alcatel Pop C3",
+        "image": {
+            "href": "http://www.gsmarena.com/alcatel_pop_c3-pictures-5687.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/alcatel-pop-c3-new.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/alcatel_pop_c3-5687.php"
+    }
+}

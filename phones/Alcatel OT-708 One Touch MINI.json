@@ -1,0 +1,77 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 750 mAh battery",
+            "Music play": "Up to 15 h",
+            "Stand-by": "Up to 350 h",
+            "Talk time": "Up to 8 h"
+        },
+        "Body": {
+            "Dimensions": "96 x 52.4 x 14.6 mm (3.78 x 2.06 x 0.57 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "82 g (2.89 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 1024 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "FM radio with RDS",
+            "USB": "miniUSB v1.1",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Embedded images and animations\n- Home screen Widgets",
+            "Resolution": "240 x 320 pixels (~167 ppi pixel density)",
+            "Size": "2.4 inches (~35.5% screen-to-body ratio)",
+            "Type": "TFT touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/AAC player\n- MP4 player\n- Organizer\n- Calendar\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "2",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2009, June. Released 2009",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "microSD, up to 4 GB",
+            "Internal": "5 MB",
+            "Phonebook": "800 entries"
+        },
+        "Misc": {
+            "Colors": "Metallic Blue, Silver, Acid Green",
+            "Price group": "3/10 (About 130 EUR)",
+            "SAR EU": "0.66 W/kg (head)",
+            "SAR US": "0.69 W/kg (head) \u00a0 \u00a0 0.95 W/kg (body)"
+        },
+        "Network": {
+            "": "GSM 900 / 1800",
+            "2G bands": "GSM 850 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Alcatel OT-708 One Touch MINI",
+        "image": {
+            "href": "http://www.gsmarena.com/alcatel_ot_708_one_touch_mini-pictures-2846.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/alcatel-708.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/alcatel_ot_708_one_touch_mini-2846.php"
+    }
+}

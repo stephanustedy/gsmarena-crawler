@@ -1,0 +1,74 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 960 mAh battery",
+            "Stand-by": "Up to 240 h",
+            "Talk time": "Up to 5 h"
+        },
+        "Body": {
+            "Dimensions": "100.8 x 50.3 x 16.5 mm (3.97 x 1.98 x 0.65 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "116 g (4.09 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 960 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "Yes",
+            "WLAN": "Wi-Fi 802.11b/g - UMA only"
+        },
+        "Display": {
+            "Resolution": "176 x 220 pixels (~134 ppi pixel density)",
+            "Size": "2.1 inches (~27.4% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- MP3 player\n- Organizer\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2007, November. Released 2007, December",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "30 dialed, 30 received, 30 missed calls",
+            "Card slot": "microSD, up to 4 GB",
+            "Internal": "5 MB",
+            "Phonebook": "1000 entries"
+        },
+        "Misc": {
+            "Colors": "Silver",
+            "Price group": "2/10 (About 70 EUR)",
+            "SAR US": "0.62 W/kg (head) \u00a0 \u00a0 0.47 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "For T-mobile",
+        "device_name": "Samsung T739 Katalyst",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_t739_katalyst-pictures-2216.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-t739.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_t739_katalyst-2216.php"
+    }
+}

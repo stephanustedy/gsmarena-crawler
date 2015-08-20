@@ -1,0 +1,85 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion battery",
+            "Stand-by": "",
+            "Talk time": "Up to 12 h"
+        },
+        "Body": {
+            "Dimensions": "231 x 158 x 7.8 mm (9.09 x 6.22 x 0.31 in)",
+            "SIM": "Nano-SIM",
+            "Weight": "374 g (Wi-Fi)/ 384 g (4G) (13.19 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash",
+            "Secondary": "720p",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "Yes, with A-GPS (4G model)",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band"
+        },
+        "Display": {
+            "": "Fire OS 3.0 Mojito UI",
+            "Multitouch": "Yes, up to 10 fingers",
+            "Resolution": "2560 x 1600 pixels (~339 ppi pixel density)",
+            "Size": "8.9 inches (~62.9% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP4/VP8/H.263 player\n- MP3/WAV/AAC/OGG/E-AC-3 player\n- Document viewer\n- Photo viewer/editor\n- Free cloud storage for all Amazon content\n- Text-to-Speech English-language content reader",
+            "Browser": "HTML5 (Amazon Silk)",
+            "Java": "No",
+            "Messaging": "Email, Push Email, IM",
+            "Sensors": "Accelerometer, gyro"
+        },
+        "Launch": {
+            "Announced": "2013, September",
+            "Status": "Available. Released 2013, November"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "16/32/64 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "6/10 (About 280 EUR)"
+        },
+        "Network": {
+            "": "CDMA2000 1xEV-DO",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA",
+            "4G bands": "LTE",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA, LTE",
+            "Technology": "GSM / HSPA / EVDO / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 2.2 GHz Krait 400",
+            "Chipset": "Qualcomm Snapdragon 800",
+            "GPU": "Adreno 330",
+            "OS": "Android OS (Jelly Bean - customized)"
+        },
+        "Sound": {
+            "": "- Dolby Digital Plus",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "canonical_name": "Available models:\n- Wi-Fi Only\n- Wi-Fi + 4G LTE (AT&T)\n- Wi-Fi + 4G LTE (Verizon)",
+        "device_name": "Amazon Kindle Fire HDX 8.9",
+        "image": {
+            "href": "http://www.gsmarena.com/amazon_kindle_fire_hdx_8_9-pictures-5728.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/amazon-Kindle-Fire-HDX-89.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/amazon_kindle_fire_hdx_8_9-5728.php"
+    }
+}

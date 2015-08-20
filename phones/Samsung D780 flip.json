@@ -1,0 +1,74 @@
+{
+    "data": {
+        "Battery": {
+            "": "",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "94 x 48 x 15.5 mm (3.70 x 1.89 x 0.61 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "87 g (3.07 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second external display OLED, 65K colors (80 x 64 pixels)",
+            "Resolution": "176 x 220 pixels",
+            "Size": "",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- MP3/AAC/AAC+/AMR player\n- Predictive text input\n- Document viewer (Word, Excel, PowerPoint, PDF)\n- Organizer\n- Voice memo",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2006, March",
+            "Status": "Cancelled"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "No",
+            "Internal": "80 MB",
+            "Phonebook": "Yes"
+        },
+        "Misc": {
+            "Colors": "",
+            "SAR EU": "0.78 W/kg (head)",
+            "SAR US": "0.48 W/kg (head) \u00a0 \u00a0 0.35 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "Yes",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "device_name": "Samsung D780 flip",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_d780_flip-pictures-1507.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-d780.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_d780_flip-1507.php"
+    }
+}

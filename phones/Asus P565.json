@@ -1,0 +1,75 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1300 mAh battery",
+            "Stand-by": "Up to 300 h",
+            "Talk time": "Up to 4 h"
+        },
+        "Body": {
+            "Dimensions": "102 x 60.5 x 16 mm (4.02 x 2.38 x 0.63 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "120 g (4.23 oz)"
+        },
+        "Camera": {
+            "Primary": "3.15 MP, 2048 x 1536 pixels, autofocus",
+            "Secondary": "VGA videocall camera",
+            "Video": "320p@24fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "Yes, SiRF Star III chipset",
+            "Radio": "No",
+            "USB": "v1.1",
+            "WLAN": "Wi-Fi 802.11b/g"
+        },
+        "Display": {
+            "Resolution": "480 x 640 pixels (~286 ppi pixel density)",
+            "Size": "2.8 inches (~39.3% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 65K colors"
+        },
+        "Features": {
+            "": "- MP3/AAC/AAC+/WMA/OGG/AMR player\n- WMV/MP4 player\n- Organizer\n- World Clock\n- Pocket Office \n- Business card scanner\n- Predictive text input",
+            "Browser": "HTTP / WAP 2.0",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS (threaded view), MMS, Email, IM, Push email"
+        },
+        "Launch": {
+            "Announced": "2008, November. Released 2009, May",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "microSD",
+            "Internal": "128 MB RAM, 256 MB ROM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "8/10 (About 440 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "3G bands": "HSDPA 2100",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Speed": "HSPA 3.6/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "800 MHz Marvell TavorP",
+            "OS": "Microsoft Windows Mobile 6.1 Professional"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Asus P565",
+        "image": {
+            "href": "http://www.gsmarena.com/asus_p565-pictures-2606.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/asus-p565.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/asus_p565-2606.php"
+    }
+}

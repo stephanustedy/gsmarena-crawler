@@ -1,0 +1,82 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1240 mAh battery",
+            "Stand-by": "Up to 450 h (2G) / Up to 410 h (3G)",
+            "Talk time": "Up to 5 h 20 min (2G) / Up to 5 h 20 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "127 x 64 x 11.9 mm (5.0 x 2.52 x 0.47 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "135 g (4.76 oz)"
+        },
+        "Camera": {
+            "Features": "Stereoscopic photos & videos; geo-tagging",
+            "Primary": "Dual 8 MP, 3264 x 2448 pixels, autofocus, LED flash",
+            "Secondary": "VGA",
+            "Video": "1080p (2D), 720p (3D)"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "Infrared port": "Yes",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- TapFlow UI",
+            "Multitouch": "Yes",
+            "Resolution": "540 x 960 pixels (~262 ppi pixel density)",
+            "Size": "4.2 inches (~59.8% screen-to-body ratio)",
+            "Type": "3D LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- HDMI port\n- MP3/AAC+/WAV/WMA player\n- MP4/Xvid/H.264/WMV player\n- Organizer\n- 3D photo viewer\n- Document viewer/editor\n- Voice memo/dial\n- Predictive text input",
+            "Browser": "HTML, Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2011, September",
+            "Status": "Available. Released 2011, October"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "2 GB, 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "8/10 (About 470 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "1 GHz Scorpion",
+            "GPU": "Adreno 205",
+            "OS": "Android OS, v2.3 (Gingerbread)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "For Orange\nAlso known as Sharp AQUOS PHONE SH80F",
+        "device_name": "Sharp Aquos SH80F",
+        "image": {
+            "href": "http://www.gsmarena.com/sharp_aquos_sh80f-pictures-4207.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/orange-sharp-AQUOS-PHONE-SH80F.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sharp_aquos_sh80f-4207.php"
+    }
+}

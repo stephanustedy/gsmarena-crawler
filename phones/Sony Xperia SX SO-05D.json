@@ -1,0 +1,87 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1500 mAh battery",
+            "Stand-by": "Up to 280 h (2G) / Up to 360 h (3G)",
+            "Talk time": "Up to 6 h (2G) / Up to 5 h 50 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "115 x 54 x 9.4 mm (4.53 x 2.13 x 0.37 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "95 g (3.35 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face/smile detection, panorama",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash",
+            "Secondary": "VGA",
+            "Video": "1080p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v3.1, A2DP",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "Infrared port": "Yes",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0 (MHL TV-out)",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- Sony Mobile BRAVIA Engine\n- Timescape UI",
+            "Multitouch": "Yes, up to 10 fingers",
+            "Protection": "Scratch-resistant glass",
+            "Resolution": "540 x 960 pixels (~298 ppi pixel density)",
+            "Size": "3.7 inches (~60.8% screen-to-body ratio)",
+            "Type": "LED-backlit LCD, capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Mobile FeliCa client (v2.2.0)\n- Digital TV and TV launcher\n- Active noise cancellation with dedicated mic\n- MP4/H.264/WMV player\n- MP3/eAAC+/WMA/WAV player\n- TrackID music recognition\n- Document viewer\n- Voice memo/dial/commands\n- Predictive text input",
+            "Browser": "HTML5, Adobe Flash",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, IM, Push Email",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2012, May",
+            "Status": "Available. Released 2012, September"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "4 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White, Pink, Orange",
+            "Price group": "5/10 (About 220 EUR)",
+            "SAR EU": "0.97 W/kg (head)",
+            "SAR US": "1.07 W/kg (head) \u00a0 \u00a0 0.51 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 2100 / 800",
+            "4G bands": "LTE band 1(2100)",
+            "EDGE": "Up to 237 kbps",
+            "GPRS": "Up to 86 kbps",
+            "Speed": "HSPA 14.4/5.76 Mbps, LTE Cat2 50/25 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.5 GHz Krait",
+            "Chipset": "Qualcomm MSM8960 Snapdragon S4 Plus",
+            "GPU": "Adreno 225",
+            "OS": "Android OS, v4.0 (Ice Cream Sandwich)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "For Japan",
+        "device_name": "Sony Xperia SX SO-05D",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_xperia_sx_so_05d-pictures-4775.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/Sony-Xperia-SX-SO-05D.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_xperia_sx_so_05d-4775.php"
+    }
+}

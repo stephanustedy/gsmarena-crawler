@@ -1,0 +1,79 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 760 mAh battery (BL-5B)",
+            "Stand-by": "Up to 300 h",
+            "Talk time": "Up to 5 h"
+        },
+        "Body": {
+            "": "- Flashlight",
+            "Dimensions": "106 x 47 x 24 mm, 86 cc (4.17 x 1.85 x 0.94 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "100 g (3.53 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "Stereo FM radio",
+            "USB": "Pop-Port",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- White backlight\n- Adjustable display brightness\n- Wallpapers\n- Softkey",
+            "Resolution": "128 x 128 pixels, 5 lines (~121 ppi pixel density)",
+            "Size": "1.5 inches, 27 x 27 mm (~14.6% screen-to-body ratio)",
+            "Type": "CSTN, 4096 colors"
+        },
+        "Features": {
+            "": "- Push to talk (VoIP service)\n- Organizer\n- Stopwatch\n- Improved durability\n- Automatic volume control\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Adventure Race + Java downloadable",
+            "Java": "Yes",
+            "Languages": "Major European languages",
+            "Messaging": "SMS, MMS, Email",
+            "Sensors": "Compass, thermometer, sound level meter"
+        },
+        "Launch": {
+            "Announced": "4Q, 2003",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- Editable message templates\n- Up to 150 SMS messages\n- Up to 50 MMS messages\n- Max 64 kB Java apps.",
+            "Call records": "20 dialed, 10 received, 10 missed calls",
+            "Card slot": "No",
+            "Phonebook": "500"
+        },
+        "Misc": {
+            "Colors": "",
+            "SAR EU": "0.77 W/kg (head)",
+            "SAR US": "0.47 W/kg (head) \u00a0 \u00a0 1.21 W/kg (body)"
+        },
+        "Network": {
+            "": "GSM 850 / 1800 / 1900 - US version",
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "Class 6",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, monophonic ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 5140",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_5140-pictures-587.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/no5140.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_5140-587.php"
+    }
+}

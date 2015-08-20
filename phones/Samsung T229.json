@@ -1,0 +1,75 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 800 mAh battery",
+            "Stand-by": "Up to 200 h",
+            "Talk time": "Up to 6 h"
+        },
+        "Body": {
+            "Dimensions": "89 x 48 x 20 mm (3.50 x 1.89 x 0.79 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "85 (3.00 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "No"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- External monochrome display(96 x 96 pixels)",
+            "Resolution": "128 x 160 pixels (~114 ppi pixel density)",
+            "Size": "1.8 inches (~23.9% screen-to-body ratio)",
+            "Type": "STN, 65K colors"
+        },
+        "Features": {
+            "": "- Converter\n- Calculator\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes",
+            "Java": "No",
+            "Messaging": "SMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2008, June",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "20 dialed, received, missed calls",
+            "Card slot": "No",
+            "Internal": "2 MB",
+            "Phonebook": "1000 contacts, Photo call"
+        },
+        "Misc": {
+            "Colors": "Black, Red",
+            "Price group": "2/10 (About 80 EUR)",
+            "SAR US": "0.17 W/kg (head) \u00a0 \u00a0 0.33 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "canonical_name": "For T-Mobile",
+        "device_name": "Samsung T229",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_t229-pictures-2592.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-t229.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_t229-2592.php"
+    }
+}

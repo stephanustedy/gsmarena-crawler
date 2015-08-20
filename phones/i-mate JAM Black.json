@@ -1,0 +1,79 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 1200 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "108 x 58 x 18 mm (4.25 x 2.28 x 0.71 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "160 g (5.64 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 960 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v1.2",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Handwriting recognition",
+            "Resolution": "240 x 320 pixels, 2.8 inches (~143 ppi pixel density)",
+            "Size": "2.8 inches, 42 x 57 mm (~38.8% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 65K colors"
+        },
+        "Features": {
+            "": "- Pocket Office \n- Voice memo\n- MP3/AAC player\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML (PocketIE)",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2005, 3Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "SDIO/MMC",
+            "Internal": "128 MB RAM, 64 MB ROM"
+        },
+        "Misc": {
+            "Colors": "Stylish black",
+            "Price group": "6/10 (About 270 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Platform": {
+            "CPU": "Intel Bulverde 416 MHz",
+            "OS": "Microsoft Windows Mobile 2003 SE PocketPC"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": {
+            "href": "http://www.gsmarena.com/htc_pocketpc_smartphone.php3",
+            "text": "Produced by HTC. Functionally identical to Qtek S110, T-Mobile MDA Compact II."
+        },
+        "device_name": "i-mate JAM Black",
+        "image": {
+            "href": "http://www.gsmarena.com/i_mate_jam_black-pictures-1263.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/imate-jam_black.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/i_mate_jam_black-1263.php"
+    }
+}

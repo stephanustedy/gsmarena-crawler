@@ -1,0 +1,90 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1200 mAh battery",
+            "Stand-by": "Up to 520 h (2G) / Up to 370 h (3G)",
+            "Talk time": "Up to 9 h (2G) / Up to 5 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "111 x 55 x 15.2 mm (4.37 x 2.17 x 0.60 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "117 g (4.13 oz)"
+        },
+        "Camera": {
+            "Primary": "3.15 MP, 2048 x 1536 pixels, autofocus, check quality",
+            "Secondary": "No",
+            "Video": "320p@15fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- TouchWiz 3.0 UI",
+            "Resolution": "240 x 400 pixels (~146 ppi pixel density)",
+            "Size": "3.2 inches (~47.7% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/WMV/H.263 player\n- MP3/WAV/eAAC+ player\n- Document viewer",
+            "Browser": "HTML",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2010, October",
+            "Status": "Available. Released 2010, Q4"
+        },
+        "Memory": {
+            "": "- DNSe sound enhancement",
+            "Card slot": "microSD, up to 32 GB, 1 GB included",
+            "Internal": "160 MB"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "2/10 (About 90 EUR)",
+            "SAR EU": "0.38 W/kg (head)",
+            "SAR US": "0.18 W/kg (head) \u00a0 \u00a0 0.90 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 2100",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Class 12",
+            "GPRS": "Class 10",
+            "Speed": "HSPA 7.2/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "600 MHz",
+            "Chipset": "Qualcomm MSM7227 Snapdragon S1",
+            "GPU": "Adreno 200",
+            "OS": "Android OS, v2.2 (Froyo), upgradable to v2.3.6 (Gingerbread)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -85.0dB / Crosstalk -32.4dB",
+            "Camera": "Photo",
+            "Loudspeaker": "Voice 69dB / Noise 66dB / Ring 72dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Samsung I5510, Samsung Callisto",
+        "device_name": "Samsung Galaxy 551",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_galaxy_551-pictures-3515.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/Samsung-Galaxy-551-I5510.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_galaxy_551-3515.php"
+    }
+}

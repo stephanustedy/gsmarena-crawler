@@ -1,0 +1,84 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 3000 mAh battery",
+            "Stand-by": "Up to 936 h",
+            "Talk time": "Up to 18 h"
+        },
+        "Body": {
+            "": "- IP68 certified - dust and water proof (up to 1m for 60 mins)\n- Drop-to-concrete resistance from up to 1.8 m\n- MIL-STD-810G certified - salt, dust, humidity, rain, vibration, solar radiation, transport and thermal shock resistant",
+            "Dimensions": "144.9 x 74.1 x 12.5 mm (5.70 x 2.92 x 0.49 in)",
+            "SIM": "Nano-SIM",
+            "Weight": "185 g (6.53 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus",
+            "Secondary": "2 MP",
+            "Video": "1080p@60fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.1",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "Radio": "No",
+            "USB": "microUSB v2.0, USB Host",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 4",
+            "Resolution": "540 x 960 pixels (~234 ppi pixel density)",
+            "Size": "4.7 inches (~56.7% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/H.265 player\n- MP3/WAV/eAAC+/Flac player\n- Photo/video editor\n- Document viewer",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2015, July",
+            "Status": "Coming soon. Exp. release 2015, August"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "16 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "8/10 (About 440 EUR)"
+        },
+        "Network": {
+            "": "LTE band 2(1900), 4(1700/2100), 5(850), 7(2600), 12(700), 17(700) - North America",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 2100 - Global",
+            "4G bands": "LTE band 1(2100), 3(1800), 7(2600), 8(900), 20(800) - Global",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA, LTE Cat4 150/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.1 GHz Cortex-A7",
+            "Chipset": "Qualcomm MSM8909 Snapdragon 210",
+            "GPU": "Adreno 304",
+            "OS": "Android OS, v5.1 (Lollipop)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Cat S40",
+        "image": {
+            "href": "http://www.gsmarena.com/cat_s40-pictures-7456.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/cat-s40.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/cat_s40-7456.php"
+    }
+}

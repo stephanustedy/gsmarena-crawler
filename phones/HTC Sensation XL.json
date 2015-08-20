@@ -1,0 +1,91 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1600 mAh battery",
+            "Stand-by": "Up to 360 h (2G) / Up to 460 h (3G)",
+            "Talk time": "Up to 11 h 50 min (2G) / Up to 6 h 50 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "132.5 x 70.7 x 9.9 mm (5.22 x 2.78 x 0.39 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "162.5 g (5.75 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face detection, touch focus, HDR, auto-upload",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, dual-LED flash, check quality",
+            "Secondary": "1.3 MP",
+            "Video": "720p, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- HTC Sense UI 3.5",
+            "Multitouch": "Yes",
+            "Resolution": "480 x 800 pixels (~199 ppi pixel density)",
+            "Size": "4.7 inches (~67.1% screen-to-body ratio)",
+            "Type": "S-LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP4/H.264/WMV player\n- MP3/eAAC+/WMA/WAV player\n- Document viewer/editor\n- Voice memo/dial/commands\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML, Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2011, October",
+            "Status": "Available. Released 2011, November"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "16 GB, 768 MB RAM"
+        },
+        "Misc": {
+            "Colors": "White",
+            "Price group": "4/10 (About 170 EUR)",
+            "SAR EU": "0.32 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 2100",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 14.4/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "1.5 GHz Scorpion",
+            "Chipset": "Qualcomm MSM8255 Snapdragon S2",
+            "GPU": "Adreno 205",
+            "OS": "Android OS, v2.3 (Gingerbread), upgradable to v4.0 (Ice Cream Sandwich)"
+        },
+        "Sound": {
+            "": "- Beats Audio\n- Beats headset",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -85.2dB / Crosstalk -75.1dB",
+            "Battery life": "Endurance rating 40h",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 1085:1 (nominal)",
+            "Loudspeaker": "Voice 70dB / Noise 61dB / Ring 70dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Previously rumored as HTC Runnymede",
+        "device_name": "HTC Sensation XL",
+        "image": {
+            "href": "http://www.gsmarena.com/htc_sensation_xl-pictures-4161.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/htc-runnymede.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/htc_sensation_xl-4161.php"
+    }
+}

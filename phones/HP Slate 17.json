@@ -1,0 +1,80 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po battery (43 Wh, 3-cell)",
+            "Stand-by": "",
+            "Talk time": "Up to 7 h 45 min (multimedia)"
+        },
+        "Body": {
+            "": "Built-in 2 kickstands",
+            "Dimensions": "418.1 x 283.2 x 15.8 mm (16.46 x 11.15 x 0.62 in)",
+            "SIM": "No",
+            "Weight": "2005 g (4.42 lb)"
+        },
+        "Camera": {
+            "Features": "Yes",
+            "Primary": "0.9 MP, 1280 x 720 pixels",
+            "Secondary": "No",
+            "Video": "720p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "USB v2.0",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, WiFi Direct"
+        },
+        "Display": {
+            "Multitouch": "Yes, up to 10 fingers",
+            "Resolution": "1080 x 1920 pixels (~127 ppi pixel density)",
+            "Size": "17.3 inches (~69.7% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- HDMI port\n- MP4/H.264 player\n- MP3/WAV/eAAC+ player\n- Photo/video editor\n- Document viewer",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "Email, Push Email, IM",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2014, September",
+            "Status": "Available. Released 2014, September"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB; SD cards",
+            "Internal": "32 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Snow White, Sweet Yellow",
+            "Price group": "7/10 (About 370 EUR)"
+        },
+        "Network": {
+            "2G bands": "N/A",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "No cellular connectivity"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.58 GHz",
+            "Chipset": "Intel Celeron N2807",
+            "OS": "Android OS, v4.4.2 (KitKat)"
+        },
+        "Sound": {
+            "": "- Beats Audio",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as HP Slate 17-l010 All-in-One PC",
+        "device_name": "HP Slate 17",
+        "image": {
+            "href": "http://www.gsmarena.com/hp_slate_17-pictures-7030.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/hp-slate-17.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/hp_slate_17-7030.php"
+    }
+}

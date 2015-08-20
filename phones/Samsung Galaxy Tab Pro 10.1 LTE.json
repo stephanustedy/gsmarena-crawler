@@ -1,0 +1,93 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 8220 mAh battery",
+            "Music play": "Up to 147 h",
+            "Stand-by": "",
+            "Talk time": "Up to 10 h (multimedia)"
+        },
+        "Body": {
+            "Dimensions": "243.1 x 171.4 x 7.3 mm (9.57 x 6.75 x 0.29 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "477 g (1.05 lb)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face/smile detection",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash, check quality",
+            "Secondary": "2 MP, 1080p@30fps",
+            "Video": "1080p@30fps, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "microUSB v2.0 (MHL TV-out), USB Host",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot"
+        },
+        "Display": {
+            "": "- Samsung TouchWiz UI",
+            "Multitouch": "Yes, up to 10 fingers",
+            "Resolution": "2560 x 1600 pixels (~299 ppi pixel density)",
+            "Size": "10.1 inches (~71.0% screen-to-body ratio)",
+            "Type": "Super clear LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/DivX/XviD/WMV/H.265 player\n- MP3/WAV/eAAC+/FLAC player\n- Photo/video editor\n- Document viewer",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, gyro, compass"
+        },
+        "Launch": {
+            "Announced": "2014, January",
+            "Status": "Available. Released 2014, March"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "16/32 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "White, Black",
+            "Price group": "8/10 (About 420 EUR)",
+            "SAR EU": "0.90 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+            "4G bands": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 20(800)",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 2.3 GHz Krait 400",
+            "Chipset": "Qualcomm Snapdragon 800",
+            "GPU": "Adreno 330",
+            "OS": "Android OS, v4.4 (KitKat)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        },
+        "Tests": {
+            "Audio quality": "Noise -93.2dB / Crosstalk -94.4dB",
+            "Battery life": "Endurance rating 101h",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 812:1 (nominal)",
+            "Loudspeaker": "Voice 67dB / Noise 66dB / Ring 69dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Samsung SM-T525",
+        "device_name": "Samsung Galaxy Tab Pro 10.1 LTE",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_galaxy_tab_pro_10_1_lte-pictures-5941.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-tab-pro-101.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_galaxy_tab_pro_10_1_lte-5941.php"
+    }
+}

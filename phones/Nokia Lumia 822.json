@@ -1,0 +1,90 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1800 mAh battery (BP-4W)",
+            "Music play": "Up to 62.1 h",
+            "Stand-by": "Up to 254 h (2G) / Up to 400 h (3G)",
+            "Talk time": "Up to 10 h 20 min (2G) / Up to 11 h 40 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "127.8 x 68.4 x 11.2 mm, 95 cc (5.03 x 2.69 x 0.44 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "141.6 g (4.97 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, Carl Zeiss Tessar lens, F2.2, dual-LED flash",
+            "Secondary": "1.2 MP, 720p@30fps",
+            "Video": "1080p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, EDR, LE/ apt-X after WP8 Denim update",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "NFC": "Yes",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct"
+        },
+        "Display": {
+            "": "- Nokia ClearBlack display",
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 2",
+            "Resolution": "480 x 800 pixels (~217 ppi pixel density)",
+            "Size": "4.3 inches (~60.2% screen-to-body ratio)",
+            "Type": "AMOLED capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- OneDrive (15 GB cloud storage)\n- Active noise cancellation with dedicated mic\n- MP3/WAV/eAAC+/WMA player\n- MP4/H.264/WMV player\n- Document viewer\n- Video/photo editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2012, October",
+            "Status": "Available. Released 2012, November"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "16 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, Gray, White, Red",
+            "Price group": "7/10 (About 320 EUR)",
+            "SAR EU": "1.23 W/kg (head) \u00a0 \u00a0 1.03 W/kg (body)",
+            "SAR US": "0.79 W/kg (head)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 900 / 1900 / 2100",
+            "2G bands": "CDMA 800 / 1900",
+            "3G bands": "CDMA2000 1xEV-DO",
+            "4G bands": "LTE band 13(700)",
+            "EDGE": "Class B",
+            "GPRS": "Class B",
+            "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat3 100/50 Mbps, EV-DO Rev.A 3.1 Mbps",
+            "Technology": "GSM / CDMA / HSPA / EVDO / LTE"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.5 GHz Krait",
+            "Chipset": "Qualcomm MSM8960 Snapdragon S4 Plus",
+            "GPU": "Adreno 225",
+            "OS": "Microsoft Windows Phone 8, upgradeable to v8.1"
+        },
+        "Sound": {
+            "": "- Dolby Headphone",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "For Verizon Wireless",
+        "device_name": "Nokia Lumia 822",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_lumia_822-pictures-5090.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-lumia-822-new.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_lumia_822-5090.php"
+    }
+}

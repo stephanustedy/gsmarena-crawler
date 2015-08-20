@@ -1,0 +1,91 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1500 mAh battery",
+            "Stand-by": "Up to 450 h (2G) / Up to 430 h (3G)",
+            "Talk time": "Up to 14 h 10 min (2G) / Up to 7 h 10 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "121.6 x 63 x 9.9 mm (4.79 x 2.48 x 0.39 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "111.5 g (3.92 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face/smile detection, panorama",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, LED flash, check quality",
+            "Secondary": "VGA",
+            "Video": "720p@30fps, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, EDR, LE, apt-X",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "NFC": "Yes (Market dependent)",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, DLNA, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "480 x 800 pixels (~233 ppi pixel density)",
+            "Size": "4.0 inches (~59.4% screen-to-body ratio)",
+            "Type": "Super AMOLED capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/DivX/XviD/WMV/H.264 player\n- MP3/WAV/eAAC+/AC3/FLAC player\n- Photo/video editor\n- Document editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2012, October",
+            "Status": "Available. Released 2012, November"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "8/16 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "White, Blue, Titan Gray, Amber Brown, Garnet Red, Onyx Black",
+            "Price group": "3/10 (About 130 EUR)",
+            "SAR EU": "0.52 W/kg (head)",
+            "SAR US": "1.03 W/kg (head) \u00a0 \u00a0 1.28 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 1900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 14.4/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "1 GHz dual-core Cortex-A9",
+            "Chipset": "NovaThor U8420",
+            "GPU": "Mali-400",
+            "OS": "Android OS, v4.1 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -82.1dB / Crosstalk -80.7dB",
+            "Battery life": "Endurance rating 42h",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: Infinite (nominal) / 2.422:1 (sunlight)",
+            "Loudspeaker": "Voice 66dB / Noise 63dB / Ring 76dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Samsung I8190 Galaxy S3 mini, Samsung Galaxy S III more\nAvailable as Samsung I8190N Galaxy S III mini with NFC",
+        "device_name": "Samsung I8190 Galaxy S III mini",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_i8190_galaxy_s_iii_mini-pictures-5033.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s-iii-mini-i8190.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_i8190_galaxy_s_iii_mini-5033.php"
+    }
+}

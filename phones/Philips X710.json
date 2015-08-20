@@ -1,0 +1,75 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 1900 mAh battery",
+            "Stand-by": "Up to 720 h",
+            "Talk time": "Up to 8 h 30 min"
+        },
+        "Body": {
+            "Dimensions": "113 x 49 x 16 mm (4.45 x 1.93 x 0.63 in)",
+            "SIM": "Dual SIM (Mini-SIM)",
+            "Weight": "114 g (4.02 oz)"
+        },
+        "Camera": {
+            "Primary": "3.15 MP, 2048 x 1536 pixels, autofocus",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "FM radio",
+            "USB": "miniUSB v1.1",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~167 ppi pixel density)",
+            "Size": "2.4 inches (~32.2% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- Photo editor\n- MP3/WAV/AAC player\n- MP4/3gp player\n- Voice memo\n- Organizer\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "3 games + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2009, January. Released 2009",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "30 received, dialed and missed calls",
+            "Card slot": "microSD, up to 8 GB",
+            "Internal": "20 MB",
+            "Phonebook": "Yes"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "4/10 (About 180 EUR)",
+            "SAR EU": "0.78 W/kg (head)",
+            "SAR US": "1.09 W/kg (head)"
+        },
+        "Network": {
+            "": "GSM 900 / 1800 - SIM 2",
+            "2G bands": "GSM 900 / 1800 / 1900 - SIM 1",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Philips X710",
+        "image": {
+            "href": "http://www.gsmarena.com/philips_x710-pictures-2653.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/philips-x710.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/philips_x710-2653.php"
+    }
+}

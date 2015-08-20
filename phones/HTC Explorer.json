@@ -1,0 +1,90 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1230 mAh battery",
+            "Stand-by": "Up to 485 h (2G) / Up to 445 h (3G)",
+            "Talk time": "Up to 7 h 40 min (2G) / Up to 7 h 33 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "102.8 x 57.2 x 12.9 mm (4.05 x 2.25 x 0.51 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "108 g (3.81 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face detection",
+            "Primary": "3.15 MP, 2048 x 1536 pixels, check quality",
+            "Secondary": "No",
+            "Video": "480p"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "": "- HTC Sense UI 3.5",
+            "Resolution": "320 x 480 pixels (~180 ppi pixel density)",
+            "Size": "3.2 inches (~51.9% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/eAAC+/WAV/WMA player\n- XviD/MP4/H.264/WMV player\n- Organizer\n- Voice memo\n- Predictive text input",
+            "Browser": "HTML, Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2011, September",
+            "Status": "Available. Released 2011, October"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "512 MB, 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Active Black, Active Navy, Metallic Black, Metallic Navy",
+            "Price group": "2/10 (About 70 EUR)",
+            "SAR EU": "1.24 W/kg (head) \u00a0 \u00a0 0.72 W/kg (body)",
+            "SAR US": "1.56 W/kg (head) \u00a0 \u00a0 0.75 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Up to 236.8 kbps",
+            "GPRS": "Up to 80 kbps",
+            "Speed": "HSPA 14.4/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "600 MHz Cortex A5",
+            "Chipset": "Qualcomm MSM7225A Snapdragon S1",
+            "GPU": "Adreno 200",
+            "OS": "Android OS, v2.3 (Gingerbread)"
+        },
+        "Sound": {
+            "": "- SRS surround",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -82.4dB / Crosstalk -81.1dB",
+            "Camera": "Photo",
+            "Display": "Contrast ratio: 755:1 (nominal)",
+            "Loudspeaker": "Voice 66dB / Noise 66dB / Ring 79dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as HTC Pico",
+        "device_name": "HTC Explorer",
+        "image": {
+            "href": "http://www.gsmarena.com/htc_explorer-pictures-4102.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/htc-explorer-ofic.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/htc_explorer-4102.php"
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 2100 mAh battery",
+            "Stand-by": "Up to 200 h",
+            "Talk time": "Up to 15 h"
+        },
+        "Body": {
+            "Dimensions": "137.2 x 71.1 x 7.6 mm (5.40 x 2.80 x 0.30 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "133.2 g (4.69 oz)"
+        },
+        "Camera": {
+            "Features": "Simultaneous HD video and image recording, geo-tagging, touch focus, face/smile detection",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash",
+            "Secondary": "1.9 MP, 720p@30fps",
+            "Video": "1080p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, EDR, apt-X",
+            "GPS": "Yes, with A-GPS",
+            "NFC": "Yes",
+            "Radio": "No",
+            "USB": "microUSB v2.0 (MHL TV-out), USB Host",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- TouchWiz UI",
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 2",
+            "Resolution": "720 x 1280 pixels (~306 ppi pixel density)",
+            "Size": "4.8 inches (~65.1% screen-to-body ratio)",
+            "Type": "Super AMOLED capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- S-Voice natural language commands and dictation\n- Smart Stay eye tracking\n- Dropbox (50 GB cloud storage)\n- Active noise cancellation with dedicated mic\n- MP4/DivX/XviD/WMV/H.264 player\n- MP3/WAV/eAAC+/AC3/FLAC player\n- Photo/video editor\n- Document editor",
+            "Browser": "HTML5, Adobe Flash",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass, barometer"
+        },
+        "Launch": {
+            "Announced": "2012, June",
+            "Status": "Available. Released 2012, July"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "16/32 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Pebble blue, Marble white, Purple",
+            "Price group": "6/10 (About 280 EUR)",
+            "SAR EU": "0.88 W/kg (head)",
+            "SAR US": "0.48 W/kg (head) \u00a0 \u00a0 1.29 W/kg (body)"
+        },
+        "Network": {
+            "": "LTE band 25(1900) - SPH-L710",
+            "2G bands": "CDMA 800 / 1900 - SGH-I535, SPH-L710",
+            "3G bands": "CDMA2000 1xEV-DO - SGH-I535, SPH-L710",
+            "4G bands": "LTE band 13(700) - SGH-I535",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Speed": "LTE Cat3 100/50 Mbps, EV-DO Rev.A 3.1 Mbps",
+            "Technology": "CDMA / EVDO / LTE"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.5 GHz Krait",
+            "Chipset": "Qualcomm MSM8960 Snapdragon S4 Plus",
+            "GPU": "Adreno 225",
+            "OS": "Android OS, v4.1 (Jelly Bean), upgrad\u0430ble to v4.3 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Available as:\nSamsung SGH-I535 for Verizon\nSamsung SPH-L710 for Sprint",
+        "device_name": "Samsung Galaxy S III CDMA",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_galaxy_s_iii_cdma-pictures-4799.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-siii-verizon.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_galaxy_s_iii_cdma-4799.php"
+    }
+}

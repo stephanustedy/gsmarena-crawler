@@ -1,0 +1,80 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 4960 mAh battery (18.6 Wh)",
+            "Stand-by": "",
+            "Talk time": "Up to 7 h (multimedia)"
+        },
+        "Body": {
+            "Dimensions": "208.7 x 145.7 x 11.1 mm (8.22 x 5.74 x 0.44 in)",
+            "SIM": "Yes",
+            "Weight": "430 g (15.17 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus",
+            "Secondary": "VGA",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "768 x 1024 pixels (~162 ppi pixel density)",
+            "Size": "7.9 inches (~63.6% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- HDMI port\n- MP3/WAV/WMA/eAAC+ player\n- XviD/MP4/H.264 player\n- Document viewer\n- Photo viewer/editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, gyro"
+        },
+        "Launch": {
+            "Announced": "2013, Q2",
+            "Status": "Available. Released 2013, Q2"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "8 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "White",
+            "Price group": "3/10 (About 150 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.2 GHz Cortex-A7",
+            "Chipset": "Mediatek MT8389W",
+            "GPU": "PowerVR SGX544",
+            "OS": "Android OS, v4.2 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Acer Iconia Tab A1-811",
+        "image": {
+            "href": "http://www.gsmarena.com/acer_iconia_tab_a1_811-pictures-5892.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/acer-iconia-b1-810.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/acer_iconia_tab_a1_811-5892.php"
+    }
+}

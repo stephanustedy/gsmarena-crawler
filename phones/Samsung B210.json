@@ -1,0 +1,68 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 850 mAh battery",
+            "Stand-by": "Up to 590 h",
+            "Talk time": "Up to 8 h 45 min"
+        },
+        "Body": {
+            "Dimensions": "110 x 44 x 11.9 mm (4.33 x 1.73 x 0.47 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "75 g (2.65 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "FM radio",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "128 x 160 pixels (~116 ppi pixel density)",
+            "Size": "1.77 inches (~20.4% screen-to-body ratio)",
+            "Type": "CSTN, 65K colors"
+        },
+        "Features": {
+            "": "- Mobile Tracker 2.0\n- Indian calendar\n- Organizer\n- Voice memo\n- Predictive text input",
+            "Browser": "No",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS"
+        },
+        "Launch": {
+            "Announced": "2008, September. Released 2009, March",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "30 dialed, 30 received, 30 missed calls",
+            "Card slot": "No",
+            "Internal": "480 KB",
+            "Phonebook": "Yes, up to 500 entries"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "SAR EU": "0.76 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Samsung B210",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_b210-pictures-2510.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-b210.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_b210-2510.php"
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 2000 mAh battery",
+            "Stand-by": "Up to 408 h (3G)",
+            "Talk time": "Up to 20 h (3G)"
+        },
+        "Body": {
+            "": "- Splash resistant",
+            "Dimensions": "122.4 x 60.7 x 8.4 mm (4.82 x 2.39 x 0.33 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "125.9 g (4.44 oz)"
+        },
+        "Camera": {
+            "Features": "Touch focus, geo-tagging, face detection",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash",
+            "Secondary": "VGA, 720p",
+            "Video": "1080p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, EDR",
+            "GPS": "Yes, with A-GPS, S-GPS, GLONASS",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, DLNA, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 2",
+            "Resolution": "540 x 960 pixels (~256 ppi pixel density)",
+            "Size": "4.3 inches (~68.6% screen-to-body ratio)",
+            "Type": "Super AMOLED Advanced capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP3/AAC+/WAV/WMA player\n- MP4/H.264/WMV player\n- Photo/video editor\n- Document editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2014, August",
+            "Status": "Available. Released 2014, August"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "8 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "5/10 (About 240 EUR)",
+            "SAR US": "1.30 W/kg (head) \u00a0 \u00a0 0.63 W/kg (body)"
+        },
+        "Network": {
+            "": "CDMA2000 1xEV-DO",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+            "4G bands": "LTE band 13(700)",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 21.1/5.76 Mbps, LTE, EV-DO Rev.A 3.1 Mbps",
+            "Technology": "GSM / CDMA / HSPA / EVDO / LTE"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.5 GHz Krait",
+            "Chipset": "Qualcomm MSM8960 Snapdragon S4 Plus",
+            "GPU": "Adreno 225",
+            "OS": "Android OS, v4.4.2 (KitKat)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "For Verizon",
+        "device_name": "Motorola Luge",
+        "image": {
+            "href": "http://www.gsmarena.com/motorola_luge-pictures-6806.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/motorola-luge.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/motorola_luge-6806.php"
+    }
+}

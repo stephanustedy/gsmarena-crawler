@@ -1,0 +1,76 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 750 mAh battery",
+            "Music play": "Up to 12 h",
+            "Stand-by": "Up to 300 h",
+            "Talk time": "Up to 3 h"
+        },
+        "Body": {
+            "Dimensions": "104 x 52 x 10 mm (4.09 x 2.05 x 0.39 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "75 g (2.65 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 1024 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "176 x 220 pixels (~148 ppi pixel density)",
+            "Size": "1.9 inches (~21.0% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- Organizer\n- MP3 player\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "1",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2008, January. Released 2008, May",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "microSD, up to 2 GB",
+            "Internal": "10 MB",
+            "Phonebook": "800 entries"
+        },
+        "Misc": {
+            "Colors": "Glossy White, Soft Touch Black",
+            "Price group": "2/10 (About 100 EUR)",
+            "SAR EU": "1.00 W/kg (head)",
+            "SAR US": "1.06 W/kg (head) \u00a0 \u00a0 1.22 W/kg (body)"
+        },
+        "Network": {
+            "": "GSM 850 / 1800 / 1900",
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; Polyphonic(64), MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Alcatel OT-V770",
+        "image": {
+            "href": "http://www.gsmarena.com/alcatel_ot_v770-pictures-2236.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/alcatel-v770.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/alcatel_ot_v770-2236.php"
+    }
+}

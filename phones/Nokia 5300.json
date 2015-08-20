@@ -1,0 +1,77 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 860 mAh battery (BL-5B)",
+            "Stand-by": "Up to 223 h",
+            "Talk time": "Up to 3 h 10 min"
+        },
+        "Body": {
+            "Dimensions": "92.4 x 48.2 x 20.7 mm, 85 cc (3.64 x 1.90 x 0.81 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "106 g (3.74 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 1024 pixels",
+            "Secondary": "No",
+            "Video": "QCIF"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "Stereo FM radio",
+            "USB": "miniUSB",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Downloadable themes",
+            "Resolution": "240 x 320 pixels (~190 ppi pixel density)",
+            "Size": "2.1 inches, 31 x 42 mm (~30.7% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/SpMidi/AAC/AAC+ player\n- Predictive text input\n- Reminders\n- Stopwatch\n- Voice memo/commands",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2006, September",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 2 GB",
+            "Internal": "5 MB",
+            "Phonebook": "Yes"
+        },
+        "Misc": {
+            "Colors": "Red, Black",
+            "Price group": "2/10 (About 100 EUR)",
+            "SAR EU": "0.66 W/kg (head)",
+            "SAR US": "0.90 W/kg (head) \u00a0 \u00a0 0.51 W/kg (body)"
+        },
+        "Network": {
+            "": "GSM 850 / 1800 / 1900 - US version",
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 5300",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_5300-pictures-1718.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-5300.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_5300-1718.php"
+    }
+}

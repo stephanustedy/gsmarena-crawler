@@ -1,0 +1,74 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 950 mAh battery",
+            "Stand-by": "Up to 740 h",
+            "Talk time": "Up to 8 h 30 min"
+        },
+        "Body": {
+            "Dimensions": "105.6 x 46 x 15 mm, 68 cc (4.16 x 1.81 x 0.59 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "86 g (3.03 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 1024 pixels, LED flash",
+            "Secondary": "No",
+            "Video": "No"
+        },
+        "Comms": {
+            "Bluetooth": "v1.1",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "128 x 160 pixels (~114 ppi pixel density)",
+            "Size": "1.8 inches, 29 x 36 mm (~21.0% screen-to-body ratio)",
+            "Type": "OLED, 256K colors"
+        },
+        "Features": {
+            "": "- Predictive text input\n- MP3 player\n- Organizer\n- World clock\n- Lunar calendar\n- Voice command\n- Voice memo (up to 30 min)",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2007, January",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "30 received, dialed and missed calls",
+            "Card slot": "No",
+            "Internal": "18 MB",
+            "Phonebook": "1000 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "SAR EU": "0.82 W/kg (head)",
+            "SAR US": "1.25 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Philips Xenium 9@9g",
+        "image": {
+            "href": "http://www.gsmarena.com/philips_xenium_9@9g-pictures-1835.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/philips-9@9g.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/philips_xenium_9@9g-1835.php"
+    }
+}

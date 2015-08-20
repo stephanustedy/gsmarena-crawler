@@ -1,0 +1,76 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po battery",
+            "Stand-by": "Up to 360 h",
+            "Talk time": "Up to 7 h"
+        },
+        "Body": {
+            "Dimensions": "99 x 46 x 19 mm (3.90 x 1.81 x 0.75 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "93 g (3.28 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels, LED flash",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v1.1",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "FM radio",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Wallpapers, screensavers",
+            "Resolution": "176 x 220 pixels, 7 lines (~158 ppi pixel density)",
+            "Size": "1.78 inches (~21.9% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- SyncML\n- MP3 player\n- Organizer\n- Predictive text input\n- Voice dial/memo\n- Sync ML\n- Photo editor",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2004, March",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- 50 voice dial slots",
+            "Call records": "30 received, dialed and missed calls",
+            "Card slot": "No",
+            "Internal": "41 MB",
+            "Phonebook": "15 fields, 510 items, Photo call"
+        },
+        "Misc": {
+            "Colors": "Optic Silver, Blue Tinted Silver",
+            "SAR EU": "0.48 W/kg (head)",
+            "SAR US": "0.37 W/kg (head) \u00a0 \u00a0 1.03 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3, recorded ringtones, composer",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Sony Ericsson K700",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_ericsson_k700-pictures-692.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/snk700.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_ericsson_k700-692.php"
+    }
+}

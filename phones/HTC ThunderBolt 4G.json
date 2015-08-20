@@ -1,0 +1,87 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1400 mAh battery",
+            "Stand-by": "Up to 330 h",
+            "Talk time": "Up to 6 h 30 min"
+        },
+        "Body": {
+            "": "- Built-in kickstand",
+            "Dimensions": "122 x 66 x 13 mm (4.80 x 2.60 x 0.51 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "164 g (5.78 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face detection",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, dual-LED flash",
+            "Secondary": "1.3 MP",
+            "Video": "720p"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- HTC Sense UI 2.0",
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "480 x 800 pixels (~217 ppi pixel density)",
+            "Size": "4.3 inches (~65.4% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP3/AAC+/WAV/WMA9 player\n- DivX/Xvid/MP4/H.264/WMV9/player\n- Organizer\n- Document viewer\n- Voice memo/dial/commands\n- Predictive text input",
+            "Browser": "HTML, Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2011, January",
+            "Status": "Available. Released 2011, March"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB, 32 GB included",
+            "Internal": "4 GB, 768 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "5/10 (About 230 EUR)",
+            "SAR US": "1.20 W/kg (head) \u00a0 \u00a0 1.46 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "CDMA 800 / 1900",
+            "3G bands": "CDMA2000 1xEV-DO",
+            "4G bands": "LTE band 13(700)",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Speed": "EV-DO Rev.A 3.1 Mbps, LTE",
+            "Technology": "CDMA / EVDO / LTE"
+        },
+        "Platform": {
+            "CPU": "1GHz Scorpion",
+            "Chipset": "Qualcomm MSM8655 Snapdragon S2",
+            "GPU": "Adreno 205",
+            "OS": "Android OS, v2.2 (Froyo), upgradable to v4.0 (Ice Cream Sandwich)"
+        },
+        "Sound": {
+            "": "- DNSe sound",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as HTC Incredible HD, HTC Droid Thunderbolt\nFor Verizon",
+        "device_name": "HTC ThunderBolt 4G",
+        "image": {
+            "href": "http://www.gsmarena.com/htc_thunderbolt_4g-pictures-3703.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/htc-thunderbolt-verizon.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/htc_thunderbolt_4g-3703.php"
+    }
+}

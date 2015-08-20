@@ -1,0 +1,81 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1700 mAh battery",
+            "Stand-by": "Up to 500 h (2G) / Up to 400 h (3G)",
+            "Talk time": "Up to 8 h (2G) / Up to 6 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "119.8 x 60.5 x 9.9 mm (4.72 x 2.38 x 0.39 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "129.7 g (4.55 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash",
+            "Secondary": "VGA",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- Touch sensitive controls",
+            "Multitouch": "Yes",
+            "Resolution": "480 x 854 pixels (~245 ppi pixel density)",
+            "Size": "4.0 inches (~60.8% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Mobile TV\n- MP3/WAV/WMA/AAC+ player\n- Divx/MP4/WMV/H.264 player\n- Document viewer\n- Photo viewer/editor\n- Organizer\n- Voice memo/dial\n- Predictive text input",
+            "Browser": "HTML5, Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS (threaded view), MMS, Email, IM, Push Email",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2012, May",
+            "Status": "Available. Released 2012, June"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "1 GB, 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "5/10 (About 230 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 1900 / 2100",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 7.2/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "1 GHz Cortex-A5",
+            "Chipset": "Qualcomm MSM7227A-AA Snapdragon S1",
+            "GPU": "Adreno 200",
+            "OS": "Android OS, v2.3.7 (Gingerbread)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Motorola ATRIX TV XT682",
+        "image": {
+            "href": "http://www.gsmarena.com/motorola_atrix_tv_xt682-pictures-4797.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/motorola-atrix-tv-xt682.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/motorola_atrix_tv_xt682-4797.php"
+    }
+}

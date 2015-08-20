@@ -1,0 +1,76 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1020 mAh battery (BL-5C)",
+            "Music play": "Up to 11 h",
+            "Stand-by": "Up to 350 h",
+            "Talk time": "Up to 7 h"
+        },
+        "Body": {
+            "Dimensions": "108.5 x 48.6 x 13.2 mm, 62.3 cc (4.27 x 1.91 x 0.52 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "90 g (3.17 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels",
+            "Secondary": "No",
+            "Video": "QCIF@10fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Handwriting recognition",
+            "Resolution": "240 x 320 pixels (~167 ppi pixel density)",
+            "Size": "2.4 inches (~33.8% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/AAC/eAAC player\n- Voice memo\n- Organizer",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "2 + Downloadable",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS, MMS, Email, IM"
+        },
+        "Launch": {
+            "Announced": "2009, August",
+            "Status": "Available. Released 2009, Q4"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "microSD, up to 4 GB, 1 GB included",
+            "Internal": "13 MB",
+            "Phonebook": "1000 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Pearl White, Graphite Black",
+            "SAR EU": "1.08 W/kg (head)",
+            "SAR US": "0.99 W/kg (head) \u00a0 \u00a0 0.27 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "Class 32",
+            "GPRS": "Class 32",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "For China",
+        "device_name": "Nokia 3208c",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_3208c-pictures-2920.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-3208c.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_3208c-2920.php"
+    }
+}

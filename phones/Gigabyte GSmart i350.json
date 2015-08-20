@@ -1,0 +1,96 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1300 mAh battery",
+            "Stand-by": "Up to 160 h",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "110 x 54 x 18 mm (4.33 x 2.13 x 0.71 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "130 g (4.59 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels, autofocus, LED flash",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0",
+            "GPS": "Yes, SiRF Star III chipset",
+            "Radio": "No",
+            "USB": "miniUSB v2.0",
+            "WLAN": "Wi-Fi 802.11b/g"
+        },
+        "Display": {
+            "Resolution": "480 x 640 pixels (~308 ppi pixel density)",
+            "Size": "2.6 inches (~35.2% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 256K colors (65K effective)"
+        },
+        "Features": {
+            "": "- Pocket Office \n- MP3/AAC/AAC+/WMA/OGG/AMR player\n- WMV/MP4 player\n- Java\n- Organizer",
+            "Browser": "WAP 2.0/xHTML",
+            "Java": "Yes",
+            "Messaging": "SMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2007, June. Released 2008, December",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "miniSD, SDHC",
+            "Internal": "256 MB, 64 MB RAM"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 12",
+            "Technology": "GSM"
+        },
+        "Platform": {
+            "CPU": "Intel XScale PXA270 520 MHz",
+            "OS": "Microsoft Windows Mobile 6.0 Professional"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3, MIDI ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Gigabyte GSmart i350",
+        "image": {
+            "href": "http://www.gsmarena.com/gigabyte_gsmart_i350-pictures-2072.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/gigabyte-i350.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/gigabyte_gsmart_i350-2072.php"
+    }
+}

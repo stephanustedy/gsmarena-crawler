@@ -1,0 +1,95 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 3450 mAh battery",
+            "Music play": "Up to 84 h",
+            "Stand-by": "Up to 432 h (2G) / Up to 444 h (3G)",
+            "Talk time": "Up to 18 h (2G) / Up to 23 h (3G)"
+        },
+        "Body": {
+            "": "- Capacitive touch 3-row BlackBerry keyboard",
+            "Dimensions": "128 x 90.3 x 9.3 mm (5.04 x 3.56 x 0.37 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Nano-SIM",
+            "Weight": "196 g (6.91 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection, HDR, panorama",
+            "Primary": "13 MP, 4128 x 3096 pixels, autofocus, optical image stabilization, LED flash, check quality",
+            "Secondary": "2 MP, 720p",
+            "Video": "1080p@60fps, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, LE",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "NFC": "Yes",
+            "Radio": "FM radio with RDS",
+            "USB": "microUSB v2.0 (SlimPort)",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, DLNA, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes, up to 10 fingers",
+            "Protection": "Corning Gorilla Glass 3",
+            "Resolution": "1440 x 1440 pixels (~453 ppi pixel density)",
+            "Size": "4.5 inches (~56.5% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- BlackBerry Assistant\n- BlackBerry maps\n- Organizer\n- Document viewer\n- Photo viewer/editor\n- Video editor\n- MP3/WMA/WAV/eAAC+/FlAC player\n- DivX/XviD/MP4/WMV/H.264 player\n- Voice memo/dial\n- Predictive text input",
+            "Browser": "HTML5",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS, MMS, Email, Push Email, IM, BBM 6",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2014, June",
+            "Status": "Available. Released 2014, September"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 128 GB",
+            "Internal": "32 GB, 3 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White, Red, Black&Gold",
+            "Price group": "9/10 (About 520 EUR)"
+        },
+        "Network": {
+            "": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 13(700), 17(700), 20(800)",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+            "4G bands": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900)",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA, LTE",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 2.26 GHz Krait 400",
+            "Chipset": "Qualcomm MSM8974AA Snapdragon 801",
+            "GPU": "Adreno 330",
+            "OS": "BlackBerry OS 10.3, upgradable to v10.3.2"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        },
+        "Tests": {
+            "Audio quality": "Noise -91.5dB / Crosstalk -92.5dB",
+            "Battery life": "Endurance rating 73h",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 1256 (nominal), 2.595 (sunlight)",
+            "Loudspeaker": "Voice 76dB / Noise 71dB / Ring 76dB",
+            "Performance": "Basemark OS II: 628 / Basemark X: 10682"
+        }
+    },
+    "main": {
+        "device_name": "BlackBerry Passport",
+        "image": {
+            "href": "http://www.gsmarena.com/blackberry_passport-pictures-6457.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/blackberry-passport-1.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/blackberry_passport-6457.php"
+    }
+}

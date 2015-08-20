@@ -1,0 +1,84 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1500 mAh battery",
+            "Stand-by": "Up to 312 h",
+            "Talk time": "Up to 7 h"
+        },
+        "Body": {
+            "Dimensions": "124.5 x 64.3 x 9.9 mm (4.90 x 2.53 x 0.39 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "117.9 g (4.13 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face/smile detection",
+            "Primary": "5 MP, 2592 x 1944 pixels, autofocus, LED flash",
+            "Secondary": "VGA",
+            "Video": "720p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, DLNA, hotspot (Android 2.2)"
+        },
+        "Display": {
+            "": "- TouchWiz 3.0 UI",
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "480 x 800 pixels (~233 ppi pixel density)",
+            "Size": "4.0 inches (~56.9% screen-to-body ratio)",
+            "Type": "Super AMOLED capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/DivX/WMV/H.264 player\n- MP3/WAV/eAAC+/FLAC player\n- TV-out\n- Organizer\n- Photo/video editor\n- Document editor \n- Voice memo/dial/commands\n- Predictive text input (Swype)",
+            "Browser": "HTML, Adobe Flash Lite",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2010, October",
+            "Status": "Available. Released 2010, October"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB, 16 GB included",
+            "Internal": "2 GB, 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black and Grey",
+            "Price group": "2/10 (About 100 EUR)",
+            "SAR US": "0.57 W/kg (head) \u00a0 \u00a0 0.52 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "CDMA 800 / 1900",
+            "3G bands": "CDMA2000 1xEV-DO",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Speed": "EV-DO Rev.A 3.1 Mbps",
+            "Technology": "CDMA / EVDO"
+        },
+        "Platform": {
+            "CPU": "1 GHz Cortex-A8",
+            "Chipset": "Hummingbird",
+            "GPU": "PowerVR SGX540",
+            "OS": "Android OS, v2.1 (Eclair), upgradable to v2.2 (Froyo)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "For US Cellular\nAlso known as Samsung Showcase i500 for Cellular South",
+        "device_name": "Samsung Mesmerize i500",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_mesmerize_i500-pictures-3580.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-i500-mesmerize.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_mesmerize_i500-3580.php"
+    }
+}

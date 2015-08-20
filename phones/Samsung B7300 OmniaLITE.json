@@ -1,0 +1,85 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1500 mAh battery",
+            "Stand-by": "Up to 650 h",
+            "Talk time": "Up to 9 h"
+        },
+        "Body": {
+            "Dimensions": "107 x 51.8 x 12.9 mm (4.21 x 2.04 x 0.51 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "103 g (3.63 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, smile detection",
+            "Primary": "3.15 MP, 2048 x 1536 pixels, autofocus, check quality",
+            "Secondary": "Videocall camera",
+            "Video": "480p@15fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS and FM recording",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g, DLNA"
+        },
+        "Display": {
+            "": "- TouchWiz v2.0 UI",
+            "Resolution": "240 x 400 pixels (~155 ppi pixel density)",
+            "Size": "3.0 inches (~46.2% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 65K colors"
+        },
+        "Features": {
+            "": "- DviX/XviD/MP4/H.264/WMV9 player\n- MP3/AAC/WMA player\n- Organizer\n- Pocket Office \n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML (Opera)",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2009, June",
+            "Status": "Available. Released 2009, September"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "250 MB"
+        },
+        "Misc": {
+            "Colors": "Black, blue, red",
+            "Price group": "3/10 (About 150 EUR)",
+            "SAR EU": "0.79 W/kg (head)",
+            "SAR US": "0.74 W/kg (head) \u00a0 \u00a0 0.51 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Speed": "HSPA 3.6/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "800MHz ARM 1176",
+            "OS": "Microsoft Windows Mobile 6.1 Professional, upgradeable to Windows Mobile 6.5"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -90.5dB / Crosstalk -82.8dB",
+            "Camera": "Photo",
+            "Loudspeaker": "Voice 73dB / Noise 70dB / Ring 73dB"
+        }
+    },
+    "main": {
+        "device_name": "Samsung B7300 OmniaLITE",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_b7300_omnialite-pictures-2837.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-omnia-lite.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_b7300_omnialite-2837.php"
+    }
+}

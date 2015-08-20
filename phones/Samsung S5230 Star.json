@@ -1,0 +1,84 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1000 mAh battery",
+            "Stand-by": "Up to 800 h",
+            "Talk time": "Up to 10 h"
+        },
+        "Body": {
+            "Dimensions": "104 x 53 x 11.9 mm (4.09 x 2.09 x 0.47 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "93.5 g (3.28 oz)"
+        },
+        "Camera": {
+            "Features": "Smile detection",
+            "Primary": "3.15 MP, 2048 x 1536 pixels, check quality",
+            "Secondary": "No",
+            "Video": "320p@15fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "No",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Handwriting recognition",
+            "Resolution": "240 x 400 pixels (~155 ppi pixel density)",
+            "Size": "3.0 inches (~46.5% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/WMA/AAC player\n- H.264/MP4 player\n- Organizer\n- Document viewer (Word, Excel, PowerPoint, PDF)\n- Shazam Find Music service",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2009, March",
+            "Status": "Available. Released 2009, May"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 16 GB",
+            "Internal": "50 MB",
+            "Phonebook": "Yes, Photo Contact"
+        },
+        "Misc": {
+            "Colors": "Black, White, Pink",
+            "Price group": "2/10 (About 70 EUR)",
+            "SAR EU": "0.53 W/kg (head)",
+            "SAR US": "0.91 W/kg (head) \u00a0 \u00a0 0.72 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "": "- DNSe (Digital Natural Sound Engine)",
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -88.0dB / Crosstalk -82.3dB",
+            "Camera": "Photo",
+            "Loudspeaker": "Voice 77dB / Noise 75dB / Ring 82dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Samsung Tocco Lite, Samsung Player One, and Samsung S5233, Samsung Avila",
+        "device_name": "Samsung S5230 Star",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_s5230_star-pictures-2739.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-s5230.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_s5230_star-2739.php"
+    }
+}

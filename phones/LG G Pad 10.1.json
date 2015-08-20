@@ -1,0 +1,88 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 8000 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "260.9 x 165.9 x 8.9 mm (10.27 x 6.53 x 0.35 in)",
+            "SIM": "No",
+            "Weight": "523 g (1.16 lb)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face detection, panorama",
+            "Primary": "5 MP, 2592 x 1944 pixels, autofocus, check quality",
+            "Secondary": "1.3 MP, 720p",
+            "Video": "1080p, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0",
+            "GPS": "Yes",
+            "Infrared port": "Yes",
+            "NFC": "Yes",
+            "Radio": "No",
+            "USB": "microUSB v2.0, USB Host",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, hotspot, Wi-Fi Direct, DLNA"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "1280 x 800 pixels (~149 ppi pixel density)",
+            "Size": "10.1 inches (~68.3% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/H.264 player\n- MP3/WAV/eAAC+ player\n- Photo/video viewer/editor\n- Document editor\n- Voice memo",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "Email, Push Mail, IM",
+            "Sensors": "Accelerometer, compass"
+        },
+        "Launch": {
+            "Announced": "2014, May",
+            "Status": "Available. Released 2014, July"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "16 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, red",
+            "Price group": "6/10 (About 260 EUR)"
+        },
+        "Network": {
+            "2G bands": "N/A",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "No cellular connectivity"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.2 GHz Cortex-A7",
+            "Chipset": "Qualcomm MSM8226 Snapdragon 400",
+            "GPU": "Adreno 305",
+            "OS": "Android OS, v4.4.2 (KitKat), upgradable to v5.0 (Lollipop)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, dual mono speakers"
+        },
+        "Tests": {
+            "Audio quality": "Noise -91.1dB / Crosstalk -93.7dB",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 759 (nominal)",
+            "Loudspeaker": "Voice 71dB / Noise 73dB / Ring 77dB",
+            "Performance": "Basemark OS II: 529 / Basemark X: 807"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as LG G Pad 10.1 V700n",
+        "device_name": "LG G Pad 10.1",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_g_pad_10_1-pictures-6354.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-g-pad-101-2014.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_g_pad_10_1-6354.php"
+    }
+}

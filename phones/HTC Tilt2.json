@@ -1,0 +1,82 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1500 mAh battery",
+            "Stand-by": "Up to 500 h (2G) / Up to 750 h (3G)",
+            "Talk time": "Up to 8 h 30 min (2G) / Up to 6 h 30 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "116 x 59.2 x 17.3 mm (4.57 x 2.33 x 0.68 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "178.5 g (6.28 oz)"
+        },
+        "Camera": {
+            "Primary": "3.15 MP, 2048 x 1536 pixels, autofocus",
+            "Secondary": "No",
+            "Video": "480p"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "Yes",
+            "Radio": "Factory locked by default, can be enabled",
+            "USB": "miniUSB",
+            "WLAN": "Wi-Fi 802.11 b/g"
+        },
+        "Display": {
+            "": "- TouchFLO 3D finger swipe navigation\n- Touch-sensitive zoom bar\n- Handwriting recognition",
+            "Resolution": "480 x 800 pixels (~259 ppi pixel density)",
+            "Size": "3.6 inches (~53.7% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 65K colors"
+        },
+        "Features": {
+            "": "- Noise cancellation with dedicated microphone\n- Pocket Office \n- Voice memo\n- MP3 player\n- TV-out\n- PTT button",
+            "Browser": "HTML",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS (threaded view), MMS, Email, Instant Messaging",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2009, February",
+            "Status": "Available. Released 2009, May"
+        },
+        "Memory": {
+            "Card slot": "microSD",
+            "Internal": "288 MB RAM, 512 MB ROM"
+        },
+        "Misc": {
+            "Colors": "Black/Grey",
+            "Price group": "2/10 (About 90 EUR)",
+            "SAR US": "1.16 W/kg (head)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 1900 / 2100",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Speed": "HSPA 7.2/2 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "528 MHz ARM 11",
+            "Chipset": "Qualcomm MSM7200A",
+            "GPU": "Adreno 130",
+            "OS": "Microsoft Windows Mobile 6.1 Professional, upgradeable to Windows Mobile 6.5"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "For AT&T",
+        "device_name": "HTC Tilt2",
+        "image": {
+            "href": "http://www.gsmarena.com/htc_tilt2-pictures-2969.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/htc-tilt2-new.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/htc_tilt2-2969.php"
+    }
+}

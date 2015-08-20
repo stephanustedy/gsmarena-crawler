@@ -1,0 +1,82 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1300 mAh battery",
+            "Stand-by": "",
+            "Talk time": "Up to 6 h"
+        },
+        "Body": {
+            "Dimensions": "116 x 59 x 13 mm (4.57 x 2.32 x 0.51 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "126 g (4.44 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, DLNA"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "480 x 800 pixels (~259 ppi pixel density)",
+            "Size": "3.6 inches (~53.9% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP3/WAV/WMA/eAAC+ player\n- MP4/WMV/H.264 player\n- Document viewer\n- Voice memo\n- Predictive text input",
+            "Browser": "HTML5",
+            "Java": "Yes",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2011, October",
+            "Status": "Available. Released 2011, November"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "8 GB"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "3/10 (About 140 EUR)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 1900",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "1 GHz Scorpion",
+            "Chipset": "Qualcomm MSM8255 Snapdragon S2",
+            "GPU": "Adreno 205",
+            "OS": "Microsoft Windows Phone 7.5 Mango"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Acer W4, Acer M310",
+        "device_name": "Acer Allegro",
+        "image": {
+            "href": "http://www.gsmarena.com/acer_allegro-pictures-3966.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/acer-allego.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/acer_allegro-3966.php"
+    }
+}

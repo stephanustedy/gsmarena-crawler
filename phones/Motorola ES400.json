@@ -1,0 +1,84 @@
+{
+    "data": {
+        "Battery": {
+            "": "Extended battery, Li-Ion 3080 mAh",
+            "Stand-by": "Up to 500 h",
+            "Talk time": "Up to 12 h"
+        },
+        "Body": {
+            "": "- Fingerprint sensor\n- IP42 certified - water proof\n- MIL-STD 810G compliant: fog, humidity, transport shock and thermal shock resistant\n- Drop-to-concrete resistance from up to 0.91m\n- Bar code scanner",
+            "Dimensions": "129 x 60.4 x 16.4 mm (5.08 x 2.38 x 0.65 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "156 g (5.50 oz)"
+        },
+        "Camera": {
+            "Primary": "3.15 MP, 2048 x 1536 pixels, autofocus, LED flash",
+            "Secondary": "Yes",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g"
+        },
+        "Display": {
+            "": "- Motorola Enterprise UI",
+            "Resolution": "480 x 640 pixels (~267 ppi pixel density)",
+            "Size": "3.0 inches (~35.8% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 65K colors"
+        },
+        "Features": {
+            "": "- MP3/AAC+/WAV/WMA player\n- MP4/3gp/MWV/H.264 player\n- Voice memo/dial\n- Predictive text input",
+            "Browser": "WAP 2.0 / xHTML, HTML",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2010, June",
+            "Status": "Available. Released 2010, Q3"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "256 MB RAM, 1 GB Flash"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "5/10 (About 220 EUR)",
+            "SAR US": "1.05 W/kg (head) \u00a0 \u00a0 0.65 W/kg (body)"
+        },
+        "Network": {
+            "": "CDMA/EVDO Rev A 850/1900",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 1900 / 2100",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Speed": "HSPA",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "600 MHz ARM 11",
+            "Chipset": "Qualcomm MSM7627",
+            "GPU": "Adreno 200",
+            "OS": "Microsoft Windows Mobile 6.5.3 Professional"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as LG Motorola ES400S for Sprint",
+        "device_name": "Motorola ES400",
+        "image": {
+            "href": "http://www.gsmarena.com/motorola_es400-pictures-3409.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/motorola-es400.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/motorola_es400-3409.php"
+    }
+}

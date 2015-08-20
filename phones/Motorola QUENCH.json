@@ -1,0 +1,85 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 1420 mAh battery",
+            "Stand-by": "Up to 500 h (2G) / Up to 450 h (3G)",
+            "Talk time": "Up to 7 h 30 min (2G) / Up to 6 h 40 min (3G)"
+        },
+        "Body": {
+            "": "- Capacitive trackpad",
+            "Dimensions": "116.8 x 60 x 12.4 mm (4.60 x 2.36 x 0.49 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "130 g (4.59 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "5 MP, 2592 x 1944 pixels, autofocus, LED flash",
+            "Secondary": "",
+            "Video": "CIF@25fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g, DLNA"
+        },
+        "Display": {
+            "": "- MOTOBLUR UI with Live Widgets",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "320 x 480 pixels (~186 ppi pixel density)",
+            "Size": "3.1 inches (~40.8% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 65K colors"
+        },
+        "Features": {
+            "": "- MP3/WMA/WAV/eAAC+ player\n- MP4/H.263 player\n- Document viewer\n- Photo viewer/editor\n- Organizer\n- Voice memo\n- Predictive text input",
+            "Browser": "HTML",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2010, February",
+            "Status": "Available. Released 2010, April"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB, 2 GB included",
+            "Internal": "512 MB, 256 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White, Licorice, Purple",
+            "Price group": "3/10 (About 100 EUR)",
+            "SAR US": "0.96 W/kg (head) \u00a0 \u00a0 1.16 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 1900 / 2100 - American version",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 1700 / 2100",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 7.2/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "528 MHz ARM 11",
+            "Chipset": "Qualcomm MSM7201A",
+            "GPU": "Adreno 130",
+            "OS": "Android OS, v1.5 (Cupcake), upgradable to v2.1 (Eclair) in USA"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "canonical_name": "Available as:\nMotorola CLIQ XT MB501 in USA\nMotorola MOTO MIX in Korea",
+        "device_name": "Motorola QUENCH",
+        "image": {
+            "href": "http://www.gsmarena.com/motorola_quench-pictures-3153.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/motorola-quench.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/motorola_quench-3153.php"
+    }
+}

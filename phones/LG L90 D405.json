@@ -1,0 +1,87 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 2540 mAh battery",
+            "Stand-by": "Up to 977 h (2G) / Up to 1012 h (3G)",
+            "Talk time": "Up to 24 h 30 min (2G) / Up to 21 h 30 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "131.6 x 66 x 9.7 mm (5.18 x 2.60 x 0.38 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "126 g (4.44 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, panorama",
+            "Primary": "8 MP/ 5 MP (market dependent), autofocus, LED flash",
+            "Secondary": "1.3 MP/ VGA",
+            "Video": "1080p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, LE, apt-X",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "Infrared port": "Yes",
+            "NFC": "Yes",
+            "Radio": "FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, DLNA, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 2",
+            "Resolution": "540 x 960 pixels (~234 ppi pixel density)",
+            "Size": "4.7 inches (~70.1% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- DivX/XviD/MP4/H.264 player\n- MP3/WAV/eAAC+/Flac/AC3 player\n- Photo viewer/editor\n- Document viewer\n- Voice memo/dial",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2014, February",
+            "Status": "Available. Released 2014, March"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "8 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "White, Black",
+            "Price group": "4/10 (About 170 EUR)",
+            "SAR EU": "0.47 W/kg (head) \u00a0 \u00a0 0.44 W/kg (body)",
+            "SAR US": "0.78 W/kg (head) \u00a0 \u00a0 1.04 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 900 / 2100 - D405N",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 1900 / 2100",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 21.1/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.2 GHz Cortex-A7",
+            "Chipset": "Qualcomm MSM8226 Snapdragon 400",
+            "GPU": "Adreno 305",
+            "OS": "Android OS, v4.4.2 (KitKat)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also available as LG L90 D405N",
+        "device_name": "LG L90 D405",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_l90_d405-pictures-6100.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-l90.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_l90_d405-6100.php"
+    }
+}

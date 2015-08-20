@@ -1,0 +1,97 @@
+{
+    "data": {
+        "Battery": {
+            "": "High Capacity Battery",
+            "Stand-by": "up to 29 days",
+            "Talk time": "up to 25 h"
+        },
+        "Body": {
+            "Dimensions": "101 x 48 x 19.5 mm (3.98 x 1.89 x 0.77 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "84 g (2.96 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "v1.0b",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Joystick navigation\n- Image handling",
+            "Resolution": "101 x 80 pixels",
+            "Size": "",
+            "Type": "CSTN, 256 colors"
+        },
+        "Features": {
+            "": "- Predictive text input\n- Organizer\n- Voice dialing\n- Voice answering\n- Profiles",
+            "Alarm": "Yes",
+            "Browser": "WAP 1.2.1",
+            "Clock": "Yes",
+            "Games": "6 - Erix, Ripple, Tetris, Game, Q, Solitaire",
+            "Java": "No",
+            "Messaging": "SMS, EMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "4Q 2001",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- 100 sec voice memo\n- 300 calendar events",
+            "Call records": "10 dialed, 10 received, 10 missed calls",
+            "Card slot": "No",
+            "Phonebook": "500 x 8 fields"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Yes",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "": "- Ringtones can be assigned to contacts",
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable monophonic ringtones, composer",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "canonical_name": "Can be software upgraded to T68i features",
+        "device_name": "Ericsson T68",
+        "image": {
+            "href": "http://www.gsmarena.com/ericsson_t68-pictures-253.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/ert68.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/ericsson_t68-253.php"
+    }
+}

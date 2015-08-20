@@ -1,0 +1,69 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 950 mAh battery",
+            "Stand-by": "Up to 440 h",
+            "Talk time": "Up to 6 h 30 min"
+        },
+        "Body": {
+            "Dimensions": "87 x 45 x 19.3 mm (3.43 x 1.77 x 0.76 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "90 g (3.17 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "FM radio, built-in antenna",
+            "USB": "No",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second external monochrome display",
+            "Resolution": "128 x 128 pixels (~121 ppi pixel density)",
+            "Size": "1.5 inches (~18.5% screen-to-body ratio)",
+            "Type": "CSTN, 65K colors"
+        },
+        "Features": {
+            "": "- Phone tracker\n- Calculator\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS"
+        },
+        "Launch": {
+            "Announced": "2009, March",
+            "Status": "Available. Released 2009, July"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "No",
+            "Internal": "Yes",
+            "Phonebook": "Yes"
+        },
+        "Misc": {
+            "Colors": "Yes",
+            "Price group": "1/10 (About 40 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "Yes",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "LG GB125",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_gb125-pictures-2778.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-gb125.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_gb125-2778.php"
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1300 mAh battery",
+            "Stand-by": "Up to 420 h (2G) / Up to 380 h (3G)",
+            "Talk time": "Up to 8 h 40 min (2G) / Up to 6 h 10 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "113.2 x 61.6 x 11.6 mm (4.46 x 2.43 x 0.46 in)",
+            "SIM": "Optional Dual SIM (Mini-SIM)",
+            "Weight": "120.6 g (4.23 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, LED flash, check quality",
+            "Secondary": "VGA",
+            "Video": "480p@25fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "NFC": "Yes (S6810P model only)",
+            "Radio": "Stereo FM radio with RDS, FM recording",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot, Wi-Fi Direct"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "320 x 480 pixels (~165 ppi pixel density)",
+            "Size": "3.5 inches (~52.3% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- MP4/WMV/H.264 player\n- MP3/WAV/eAAC+/FLAC player\n- Photo/video editor\n- Document viewer",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2013, February",
+            "Status": "Available. Released 2013, March"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "4 GB, 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "White, Blue",
+            "Price group": "3/10 (About 120 EUR)",
+            "SAR EU": "0.83 W/kg (head) \u00a0 \u00a0 0.35 W/kg (body)",
+            "SAR US": "1.46 W/kg (head) \u00a0 \u00a0 0.94 W/kg (body)"
+        },
+        "Network": {
+            "": "GSM 850 / 900 / 1800 / 1900 - GT-S6812 (SIM 1 & SIM 2)",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - GT-S6810",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 7.2/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "1 GHz Cortex-A9",
+            "GPU": "Broadcom VideoCore IV",
+            "OS": "Android OS, v4.1.2 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -87.8dB / Crosstalk -88.5dB",
+            "Battery life": "Endurance rating 33h",
+            "Camera": "Photo",
+            "Display": "Contrast ratio: 906:1 (nominal) / 1.245:1 (sunlight)",
+            "Loudspeaker": "Voice 66dB / Noise 64dB / Ring 75dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Also available as Samsung Galaxy Fame S6810P with NFC",
+        "device_name": "Samsung Galaxy Fame S6810",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_galaxy_fame_s6810-pictures-5279.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-frame.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_galaxy_fame_s6810-5279.php"
+    }
+}

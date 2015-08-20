@@ -1,0 +1,71 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 800 mAh battery",
+            "Stand-by": "Up to 240 h",
+            "Talk time": "Up to 4 h"
+        },
+        "Body": {
+            "Dimensions": "89 x 45 x 20 mm (3.50 x 1.77 x 0.79 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "88 g (3.10 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "v1.1",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- External monochrome display(96 x 96 pixels)",
+            "Resolution": "128 x 160 pixels (~111 ppi pixel density)",
+            "Size": "1.85 inches (~26.9% screen-to-body ratio)",
+            "Type": "CSTN, 65K colors"
+        },
+        "Features": {
+            "": "- Organizer\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS, IM"
+        },
+        "Launch": {
+            "Announced": "2008, October",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "30 dialed, 30 received, 30 missed calls",
+            "Card slot": "No",
+            "Internal": "3 MB",
+            "Phonebook": "300 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Black and Green",
+            "Price group": "1/10 (About 40 EUR)",
+            "SAR US": "0.80 W/kg (head) \u00a0 \u00a0 0.70 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "For T-Mobile",
+        "device_name": "Samsung T109",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_t109-pictures-2550.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-t109.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_t109-2550.php"
+    }
+}

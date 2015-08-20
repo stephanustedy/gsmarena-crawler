@@ -1,0 +1,75 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion battery",
+            "Music play": "Up to 13 h 30 min",
+            "Stand-by": "Up to 425 h",
+            "Talk time": "Up to 9h"
+        },
+        "Body": {
+            "Dimensions": "92 x 47 x 16.4 mm (3.62 x 1.85 x 0.65 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "96 g (3.39 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 1024 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0",
+            "GPS": "No",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "128 x 160 pixels (~114 ppi pixel density)",
+            "Size": "1.8 inches (~23.6% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- Walkman media player \n- TrackID music recognition\n- Predictive text input\n- Organizer\n- Voice memo",
+            "Browser": "WAP 2.0/HTML (Opera Mini)",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2009, March",
+            "Status": "Available. Released 2009, July"
+        },
+        "Memory": {
+            "Call records": "30 received, dialed and missed calls",
+            "Card slot": "Memory Stick Micro (M2), up to 2 GB",
+            "Internal": "5 MB",
+            "Phonebook": "1000 contacts, Photo call"
+        },
+        "Misc": {
+            "Colors": "Ambient Black, Sakura Pink, Windy Blue",
+            "Price group": "2/10 (About 80 EUR)",
+            "SAR EU": "0.87 W/kg (head)"
+        },
+        "Network": {
+            "": "GSM 850 / 1900 -W205a",
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3, AAC ringtones, composer",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Sony Ericsson W205",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_ericsson_w205-pictures-2774.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/se-w205.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_ericsson_w205-2774.php"
+    }
+}

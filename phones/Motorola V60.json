@@ -1,0 +1,90 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 700 mAh battery Li-Ion (SNN5704)",
+            "Stand-by": "Up to 130 h",
+            "Talk time": "Up to 3 h"
+        },
+        "Body": {
+            "Dimensions": "87 x 45 x 24 mm, 73 cc (3.43 x 1.77 x 0.94 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "109 g (3.84 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second display",
+            "Resolution": "96 x 64 pixels",
+            "Size": "",
+            "Type": "Monochrome graphic"
+        },
+        "Features": {
+            "": "- Predictive text input (iTAP)\n- Organizer\n- Voice memo\n- Voice dial",
+            "Alarm": "No",
+            "Browser": "WAP 1.1",
+            "Clock": "Yes",
+            "Games": "On some versions",
+            "Java": "No",
+            "Messaging": "SMS"
+        },
+        "Launch": {
+            "Announced": "4Q, 2001",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- 25 phone book voice tags\n- 9 quick access voice tags",
+            "Call records": "10 dialed, 10 received + missed calls",
+            "Card slot": "No",
+            "Phonebook": "500"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 8",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Monophonic ringtones, composer",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Motorola V60",
+        "index": 1,
+        "url": "http://www.gsmarena.com/motorola_v60-298.php"
+    }
+}

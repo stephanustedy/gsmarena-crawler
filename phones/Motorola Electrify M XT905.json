@@ -1,0 +1,84 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 2000 mAh battery",
+            "Stand-by": "Up to 432 h (3G)",
+            "Talk time": "Up to 16 h 40 min (3G)"
+        },
+        "Body": {
+            "": "- Splash resistant",
+            "Dimensions": "123.2 x 61.5 x 8.6 mm (4.85 x 2.42 x 0.34 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "111.1 g (3.92 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face detection, HDR",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash",
+            "Secondary": "VGA",
+            "Video": "1080p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, EDR, LE",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "NFC": "Yes",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, DLNA, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "540 x 960 pixels (~256 ppi pixel density)",
+            "Size": "4.3 inches (~67.3% screen-to-body ratio)",
+            "Type": "Super AMOLED Advanced capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP3/WAV/WMA/AAC+ player\n- MP4/WMV/H.264 player\n- Document viewer\n- Photo viewer/editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2012, November",
+            "Status": "Available. Released 2012, November"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "8 GB (5 GB user available), 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black/Gray",
+            "Price group": "8/10 (About 440 EUR)",
+            "SAR US": "1.08 W/kg (head) \u00a0 \u00a0 0.42 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "CDMA 800 / 1700 / 1900",
+            "3G bands": "CDMA2000 1xEV-DO",
+            "4G bands": "LTE band 4(1700/2100), 17(700)",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Speed": "LTE Cat3 100/50 Mbps, EV-DO Rev.A 3.1 Mbps",
+            "Technology": "CDMA / EVDO / LTE"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.5 GHz",
+            "OS": "Android OS, v4.0.4 (Ice Cream Sandwich)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "For US Cellular",
+        "device_name": "Motorola Electrify M XT905",
+        "image": {
+            "href": "http://www.gsmarena.com/motorola_electrify_m_xt905-pictures-5102.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/motorola-electrify-m.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/motorola_electrify_m_xt905-5102.php"
+    }
+}

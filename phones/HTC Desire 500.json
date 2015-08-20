@@ -1,0 +1,90 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1800 mAh battery",
+            "Stand-by": "Up to 435 h (3G)",
+            "Talk time": "Up to 12 h 6 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "131.8 x 66.9 x 9.9 mm, 87.3 cc (5.19 x 2.63 x 0.39 in)",
+            "SIM": "Optional Dual SIM (Micro-SIM)",
+            "Weight": "123 g (4.34 oz)"
+        },
+        "Camera": {
+            "Features": "1/3.2'' sensor size, 1.4\u00b5m pixel size, geo-tagging, face/smile detection",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash, check quality",
+            "Secondary": "1.6 MP",
+            "Video": "720p@30fps, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, apt-X",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0, USB Host",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot, DLNA"
+        },
+        "Display": {
+            "": "- HTC Sense UI 5.0",
+            "Multitouch": "Yes",
+            "Resolution": "480 x 800 pixels (~217 ppi pixel density)",
+            "Size": "4.3 inches (~59.7% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Dropbox (25 GB cloud storage)\n- Active noise cancellation with dedicated mic\n- DivX/XviD/MP4/H.264/WMV player\n- MP3/eAAC+/WMA/WAV/FLAC player\n- Document viewer\n- Photo viewer/editor\n- Voice memo/dial/commands",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2013, August",
+            "Status": "Available. Released 2013, September"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "4 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, Silver",
+            "Price group": "4/10 (About 180 EUR)",
+            "SAR US": "0.50 W/kg (head) \u00a0 \u00a0 0.72 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 7.2/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.2 GHz Cortex-A5",
+            "Chipset": "Qualcomm MSM8225Q Snapdragon S4 Play",
+            "GPU": "Adreno 203",
+            "OS": "Android OS, v4.1.2 (Jelly Bean)"
+        },
+        "Sound": {
+            "": "- Beats Audio",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -88.0dB / Crosstalk -87.9dB",
+            "Battery life": "Endurance rating 47h",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 1198:1 (nominal) / 2.129:1 (sunlight)",
+            "Loudspeaker": "Voice 60dB / Noise 62dB / Ring 75dB"
+        }
+    },
+    "main": {
+        "device_name": "HTC Desire 500",
+        "image": {
+            "href": "http://www.gsmarena.com/htc_desire_500-pictures-5623.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/htc-desire-500.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/htc_desire_500-5623.php"
+    }
+}

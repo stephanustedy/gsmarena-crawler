@@ -1,0 +1,106 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po battery (22 Wh)",
+            "Stand-by": "",
+            "Talk time": "Up to 9 h 30 min (multimedia)"
+        },
+        "Body": {
+            "": "- Optional mobile dock with standard QWERTY keyboard and trackpad",
+            "Dimensions": "263 x 180.8 x 9.9 mm (10.35 x 7.12 x 0.39 in)",
+            "SIM": "Yes",
+            "Weight": "635 g (1.40 lb)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus",
+            "Secondary": "1.2 MP",
+            "Video": "1080p"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, EDR",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n"
+        },
+        "Display": {
+            "": "- ASUS Waveshare UI",
+            "Multitouch": "Yes, up to 10 fingers",
+            "Resolution": "1280 x 800 pixels (~149 ppi pixel density)",
+            "Size": "10.1 inches (~62.2% screen-to-body ratio)",
+            "Type": "LED-backlit IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- HDMI port\n- MP3/WAV/WMA/AAC player\n- MP4/H.264 player\n- Document editor\n- Photo viewer/editor",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, gyro, compass"
+        },
+        "Launch": {
+            "Announced": "2012",
+            "Status": "Available. Released 2012"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "16/32 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 21.1/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.2 GHz Cortex-A9",
+            "Chipset": "Nvidia Tegra 3 T30L",
+            "GPU": "ULP GeForce",
+            "OS": "Android OS, v4.0 (Ice Cream Sandwich)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "canonical_name": "Tablet with no support for GSM voice communication",
+        "device_name": "Asus Transformer Pad TF300TG",
+        "image": {
+            "href": "http://www.gsmarena.com/asus_transformer_pad_tf300tg-pictures-5337.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/asus-transformer-pad-300.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/asus_transformer_pad_tf300tg-5337.php"
+    }
+}

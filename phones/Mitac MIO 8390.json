@@ -1,0 +1,98 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 1050 mAh battery",
+            "Stand-by": "Up to 100 h",
+            "Talk time": "Up to 3 h"
+        },
+        "Body": {
+            "Dimensions": "99 x 51 x 24 mm (3.90 x 2.01 x 0.94 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "125 g (4.41 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "No"
+        },
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second LCD display (48 x 64 pixels)",
+            "Resolution": "176 x 220 pixels, 8 lines (~128 ppi pixel density)",
+            "Size": "2.2 inches, 35 x 44 mm (~30.2% screen-to-body ratio)",
+            "Type": "TFT, 256K colors (65K effective)"
+        },
+        "Features": {
+            "": "- MP3/AAC/AAC+/WMA/OGG/AMR player\n- WMV/MP4 player\n- Predictive text input\n- Sync ML\n- MP4 encoder/decoder\n- Voice memo",
+            "Browser": "WAP 2.0/xHTML",
+            "Java": "No",
+            "Messaging": "SMS, EMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2003, 3Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "MMC/SD",
+            "Internal": "16 MB RAM, 32 MB ROM"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Yes",
+            "Technology": "GSM"
+        },
+        "Platform": {
+            "CPU": "Intel PXA262 200 MHz",
+            "OS": "Microsoft Smartphone 2003"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Polyphonic(40), MP3 ringtones, composer",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Mitac MIO 8390",
+        "image": {
+            "href": "http://www.gsmarena.com/mitac_mio_8390-pictures-590.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/mitac-mio-8390.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/mitac_mio_8390-590.php"
+    }
+}

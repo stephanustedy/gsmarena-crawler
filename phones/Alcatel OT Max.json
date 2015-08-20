@@ -1,0 +1,88 @@
+{
+    "data": {
+        "Battery": {
+            "": "Extended 1200 mAh NiMH",
+            "Stand-by": "140 h",
+            "Talk time": "6 h"
+        },
+        "Body": {
+            "Dimensions": "133 x 54 x 25 mm, 160 cc (5.24 x 2.13 x 0.98 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "160 g (5.64 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "2 x 12 chars",
+            "Size": "",
+            "Type": "Alphanumeric"
+        },
+        "Features": {
+            "": "- Works with AAA batteries",
+            "Alarm": "Yes",
+            "Browser": "",
+            "Clock": "Yes",
+            "Games": "No",
+            "Java": "No",
+            "Messaging": "SMS"
+        },
+        "Launch": {
+            "Announced": "1998",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "5 dialed, 5 received, 5 missed calls",
+            "Card slot": "No",
+            "Phonebook": "SIM only"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Monophonic ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Alcatel OT Max",
+        "index": 1,
+        "url": "http://www.gsmarena.com/alcatel_ot_max-37.php"
+    }
+}

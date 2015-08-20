@@ -1,0 +1,73 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 800 mAh battery (BL-5CB)",
+            "Stand-by": "Up to 792 h",
+            "Talk time": "Up to 7 h 50 min"
+        },
+        "Body": {
+            "Dimensions": "110 x 46 x 14.8 mm (4.33 x 1.81 x 0.58 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "77 g (2.72 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "176x144"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, EDR",
+            "GPS": "No",
+            "Radio": "Stereo FM radio with RDS, FM recording",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "128 x 160 pixels (~114 ppi pixel density)",
+            "Size": "1.8 inches (~20.2% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- MP3/WMA/AAC player\n- MP4/H.264 player\n- Organizer\n- Voice memo",
+            "Browser": "WAP 1.1",
+            "Games": "Yes",
+            "Java": "Yes",
+            "Messaging": "SMS(threaded view), MMS, Email, IM"
+        },
+        "Launch": {
+            "Announced": "2012, May",
+            "Status": "Available. Released 2012, September"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "16 MB",
+            "Phonebook": "1000 entries"
+        },
+        "Misc": {
+            "Colors": "Black, Magenta, Lime Green, Cyan",
+            "Price group": "2/10 (About 70 EUR)",
+            "SAR EU": "1.46 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; Polyphonic",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 113",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_113-pictures-4758.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-113.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_113-4758.php"
+    }
+}

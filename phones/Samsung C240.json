@@ -1,0 +1,69 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 750 mAh battery",
+            "Stand-by": "Up to 360 h",
+            "Talk time": "Up to 5 h 50 min"
+        },
+        "Body": {
+            "Dimensions": "104 x 42.5 x 15.6 mm (4.09 x 1.67 x 0.61 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "68 g (2.40 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "FM radio",
+            "USB": "No",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "128 x 128 pixels (~113 ppi pixel density)",
+            "Size": "1.6 inches (~18.7% screen-to-body ratio)",
+            "Type": "UFB, 65K colors"
+        },
+        "Features": {
+            "": "- Predictive text input\n- Organizer\n- Voice memo",
+            "Browser": "WAP 1.2",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2006, June",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "30 dialed, 30 received, 30 missed calls",
+            "Card slot": "No",
+            "Internal": "1.2 MB",
+            "Phonebook": "500 entries"
+        },
+        "Misc": {
+            "Colors": "Silver",
+            "SAR EU": "0.42 W/kg (head)",
+            "SAR US": "0.82 W/kg (head) \u00a0 \u00a0 0.59 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Polyphonic(16) ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Samsung C240",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_c240-pictures-1616.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-c240.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_c240-1616.php"
+    }
+}

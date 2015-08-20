@@ -1,0 +1,72 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1400 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "": "- Trackball",
+            "Dimensions": "114 x 66 x 14 mm (4.49 x 2.60 x 0.55 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "132 g (4.66 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "v2.0",
+            "GPS": "Yes",
+            "Radio": "No",
+            "USB": "miniUSB",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "320 x 240 pixels (~160 ppi pixel density)",
+            "Size": "2.5 inches (~25.7% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- BlackBerry maps\n- Media player\n- Organizer\n- Organizer\n- Document viewer (Word, Excel, PowerPoint, PDF)\n- Voice dial",
+            "Browser": "HTML",
+            "Java": "Yes",
+            "Messaging": "SMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2007, April",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "microSD",
+            "Internal": "64 MB, 16 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "2/10 (About 100 EUR)",
+            "SAR EU": "0.86 W/kg (head) \u00a0 \u00a0 0.51 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / CDMA2000 1x EV-DO",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Technology": "GSM"
+        },
+        "Platform": {
+            "Chipset": "Qualcomm MSM6550",
+            "OS": "BlackBerry OS"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "BlackBerry 8830 World Edition",
+        "image": {
+            "href": "http://www.gsmarena.com/blackberry_8830_world_edition-pictures-1968.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/blackberry-8830.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/blackberry_8830_world_edition-1968.php"
+    }
+}

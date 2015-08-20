@@ -1,0 +1,83 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po 3200 mAh battery (15 Wh)",
+            "Stand-by": "Up to 490 h (2G) / Up to 334 h (3G)",
+            "Talk time": "Up to 23 h"
+        },
+        "Body": {
+            "": "- Stylus",
+            "Dimensions": "164.8 x 88.8 x 10.3 mm (6.49 x 3.50 x 0.41 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "210 g (7.41 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus",
+            "Secondary": "1.2 MP, 720p",
+            "Video": "1080p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP, EDR",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "NFC": "Yes",
+            "Radio": "No",
+            "USB": "v2.0",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes, up to 10 fingers",
+            "Resolution": "1080 x 1920 pixels (~367 ppi pixel density)",
+            "Size": "6.0 inches (~67.8% screen-to-body ratio)",
+            "Type": "Super IPS+ LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- ASUS WebStorage (5 GB storage)\n- MP3/WAV/WMA/AAC player\n- MP4/H.264 player\n- Document editor\n- Photo viewer/editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2013, June",
+            "Status": "Available. Released 2013, November"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "16/32 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "White, Black",
+            "Price group": "7/10 (About 350 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100 / 700",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Speed": "HSPA 42.2/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Dual-core 2 GHz",
+            "Chipset": "Intel Atom Z2580",
+            "GPU": "PowerVR SGX544MP2",
+            "OS": "Android OS, v4.2 (Jelly Bean), upgradable to v4.4.2 (KitKat)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Asus Fonepad Note 6 ME560CG",
+        "device_name": "Asus Fonepad Note FHD6",
+        "image": {
+            "href": "http://www.gsmarena.com/asus_fonepad_note_fhd6-pictures-5494.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/asus-fonepad-note-6.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/asus_fonepad_note_fhd6-5494.php"
+    }
+}

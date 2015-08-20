@@ -1,0 +1,76 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 800 mAh battery",
+            "Stand-by": "Up to 550 h (2G) / Up to 330 h (3G)",
+            "Talk time": "Up to 8 h 20 min (2G) / Up to 3 h 20 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "112.8 x 46.4 x 13.2 mm (4.44 x 1.83 x 0.52 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "80.6 g (2.82 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "Yes",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "No",
+            "Radio": "Stereo FM radio, FM recording",
+            "USB": "microUSB v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "128 x 160 pixels (~102 ppi pixel density)",
+            "Size": "2.0 inches (~24.1% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- Mobile TV\n- SNS applications\n- MP3/WMA/eAAC+ player\n- MP4/H.263 player\n- Organizer\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Games": "Yes + downloadable",
+            "Java": "",
+            "Messaging": "SMS, MMS, Email, IM"
+        },
+        "Launch": {
+            "Announced": "2011",
+            "Status": "Available. Released 2011"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 8 GB",
+            "Internal": "36 MB",
+            "Phonebook": "1000 contacts, Photocall"
+        },
+        "Misc": {
+            "Colors": "Red, Black",
+            "Price group": "1/10 (About 40 EUR)",
+            "SAR EU": "0.71 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 3.6/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "For India",
+        "device_name": "Samsung E3213 Hero",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_e3213_hero-pictures-4030.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-hero-e3213.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_e3213_hero-4030.php"
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion battery",
+            "Stand-by": "Up to 425 h",
+            "Talk time": "Up to 6 h 30 min"
+        },
+        "Body": {
+            "Dimensions": "103 x 46.5 x 9.5 mm (4.06 x 1.83 x 0.37 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "72 g (2.54 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels",
+            "Secondary": "No",
+            "Video": "QCIF"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Wallpapers, screensavers",
+            "Resolution": "240 x 320 pixels (~222 ppi pixel density)",
+            "Size": "1.8 inches (~20.9% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- Walkman player 2.0\n- Chinese input method \n- TrackID music recognition\n- Predictive text input\n- Photo editor\n- Organizer\n- Voice memo/dial",
+            "Browser": "WAP 2.0/HTML (NetFront), RSS reader",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2007, February",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "30 received, dialed and missed calls",
+            "Card slot": "Memory Stick Micro (M2), up to 4 GB, 1 GB included",
+            "Internal": "10 MB",
+            "Phonebook": "1000 x 20 fields, Photo call"
+        },
+        "Misc": {
+            "Colors": "Flame Black, Steel Silver",
+            "Price group": "3/10 (About 130 EUR)",
+            "SAR US": "1.47 W/kg (head) \u00a0 \u00a0 0.90 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3, AAC ringtones, composer",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "- SonyEricsson W880 version without 3G support",
+        "device_name": "Sony Ericsson W888",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_ericsson_w888-pictures-1847.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/sonyericsson-w888.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_ericsson_w888-1847.php"
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 900 mAh battery",
+            "Stand-by": "Up to 250 h",
+            "Talk time": "Up to 3 h"
+        },
+        "Body": {
+            "Dimensions": "103 x 53 x 12 mm (4.06 x 2.09 x 0.47 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "81 g (2.86 oz)"
+        },
+        "Camera": {
+            "Features": "Video-calling",
+            "Primary": "1.3 MP, 1280 x 1024 pixels",
+            "Secondary": "No",
+            "Video": "320p"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "XM radio",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Downloadable wallpapers",
+            "Resolution": "320 x 240 pixels (~182 ppi pixel density)",
+            "Size": "2.2 inches (~27.5% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/MP4/eAAC+/WMA player\n- Organizer\n- Photo editor\n- XM Radio\n- Voice memo\n- Voice dial\n- Predictive text input\n- AT&T Mobile TV\n- Multitasking",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2008, August. Released 2008",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "40 dialed, 40 received, 40 missed calls",
+            "Card slot": "microSD, up to 8 GB",
+            "Internal": "128 MB",
+            "Phonebook": "500 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "2/10 (About 80 EUR)",
+            "SAR US": "1.34 W/kg (head) \u00a0 \u00a0 0.81 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 1900",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Speed": "HSPA 3.6/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones, composer",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "For AT&T",
+        "device_name": "LG CB630 Invision",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_cb630_invision-pictures-2504.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-cb630-invision.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_cb630_invision-2504.php"
+    }
+}

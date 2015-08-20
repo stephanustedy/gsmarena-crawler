@@ -1,0 +1,71 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion battery",
+            "Stand-by": "Up to 280 h",
+            "Talk time": "Up to 3 h"
+        },
+        "Body": {
+            "Dimensions": "104 x 57 x 13.3 mm (4.09 x 2.24 x 0.52 in)",
+            "SIM": "Dual SIM (Mini-SIM)",
+            "Weight": "92 g (3.25 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "No",
+            "Radio": "FM radio",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~143 ppi pixel density)",
+            "Size": "2.8 inches (~41.0% screen-to-body ratio)",
+            "Type": "TFT touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- Audio/video player\n- Photo viewer\n- Organizer",
+            "Browser": "",
+            "Games": "Downloadable",
+            "Java": "Yes",
+            "Messaging": "SMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2013",
+            "Status": "Available. Released 2013"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 4 GB",
+            "Phonebook": "Yes"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "1/10 (About 30 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, Polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Micromax X335C",
+        "image": {
+            "href": "http://www.gsmarena.com/micromax_x335c-pictures-5471.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/micromax-x335c.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/micromax_x335c-5471.php"
+    }
+}

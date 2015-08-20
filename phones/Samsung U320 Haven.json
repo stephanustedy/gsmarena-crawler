@@ -1,0 +1,74 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1000 mAh battery",
+            "Stand-by": "Up to 336 h",
+            "Talk time": "Up to 5 h"
+        },
+        "Body": {
+            "Dimensions": "100 x 51 x 18 mm (3.94 x 2.01 x 0.71 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "99 g (3.49 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "E911 call only",
+            "Radio": "No",
+            "USB": "microUSB",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- External 1\" 56K display (CSTN, 96x96 pixels)",
+            "Resolution": "176 x 220 pixels (~128 ppi pixel density)",
+            "Size": "2.2 inches (~29.9% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- MP3/AAC player\n- MP4/H.263 player\n- Organizer\n- Voice memo/dial\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2010, July",
+            "Status": "Available. Released 2010, July"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "No",
+            "Internal": "24 MB, 16 MB RAM, 64 MB ROM",
+            "Phonebook": "500 entries"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "2/10 (About 90 EUR)",
+            "SAR US": "0.41 W/kg (head) \u00a0 \u00a0 0.67 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "CDMA 800 / 1900",
+            "3G bands": "CDMA2000 1x",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Speed": "Yes, 384 kbps",
+            "Technology": "CDMA / CDMA2000"
+        },
+        "Sound": {
+            "": "- 2.5 mm audio jack",
+            "3.5mm jack": "No",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "For Verizon",
+        "device_name": "Samsung U320 Haven",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_u320_haven-pictures-3433.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-u320-heaven.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_u320_haven-3433.php"
+    }
+}

@@ -1,0 +1,97 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 700 mAh battery (SNN5704)",
+            "Stand-by": "Up to 210 h",
+            "Talk time": "Up to 8 h"
+        },
+        "Body": {
+            "Dimensions": "89 x 49 x 24.8 mm, 86 cc (3.50 x 1.93 x 0.98 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "123 g (4.34 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "No"
+        },
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second display (96 x 32 pixels), 2 lines\n- Downloadable screensavers, wallpapers and ringtones",
+            "Resolution": "176 x 220 pixels, 8 lines",
+            "Size": "",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- Push to talk (VoIP service)\n- Organizer\n- Predictive text input (iTAP)\n- Voice memo/dial",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2004, 1Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "10 dialed, 10 received, 10 missed calls",
+            "Card slot": "No",
+            "Internal": "5 MB",
+            "Phonebook": "500 entries, Photo call"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Motorola V400 - the same, but without 'Push to talk' service",
+        "device_name": "Motorola V400p",
+        "image": {
+            "href": "http://www.gsmarena.com/motorola_v400p-pictures-652.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/mov400p.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/motorola_v400p-652.php"
+    }
+}

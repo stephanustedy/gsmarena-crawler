@@ -1,0 +1,74 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 900 mAh battery",
+            "Stand-by": "Up to 296 h",
+            "Talk time": "Up to 3 h 30 min"
+        },
+        "Body": {
+            "Dimensions": "102.9 x 56.9 x 11.9 mm (4.05 x 2.24 x 0.47 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "86.5 g (3.03 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels",
+            "Secondary": "No",
+            "Video": "320p@15fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g"
+        },
+        "Display": {
+            "": "- Cartoon UI\n- Handwriting recognition",
+            "Resolution": "240 x 320 pixels (~143 ppi pixel density)",
+            "Size": "2.8 inches (~41.5% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- SNS integration\n- MP3/eAAC+/WAV player\n- MP4/H.264 player\n- Organizer\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS, MMS, Email, IM"
+        },
+        "Launch": {
+            "Announced": "2010, December",
+            "Status": "Available. Released 2010, December"
+        },
+        "Memory": {
+            "Call records": "100 received, 100 dialed, 100 missed calls",
+            "Card slot": "microSD, up to 4 GB",
+            "Internal": "20 MB",
+            "Phonebook": "1000 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Black&Red, White&Organge, Black&Titan Silver, Pink&White",
+            "Price group": "1/10 (About 40 EUR)",
+            "SAR EU": "0.96 W/kg (head) \u00a0 \u00a0 0.97 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "LG Cookie WiFi T310i",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_cookie_wifi_t310i-pictures-3684.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-t310i-cookie-wifi.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_cookie_wifi_t310i-3684.php"
+    }
+}

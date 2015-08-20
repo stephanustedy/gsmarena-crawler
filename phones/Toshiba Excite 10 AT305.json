@@ -1,0 +1,81 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po battery (25 Wh)",
+            "Stand-by": "Up to 168 h",
+            "Talk time": "Up to 10 h"
+        },
+        "Body": {
+            "Dimensions": "262 x 178 x 9 mm (10.31 x 7.01 x 0.35 in)",
+            "SIM": "No",
+            "Weight": "599 g (1.32 lb)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, LED flash",
+            "Secondary": "2 MP",
+            "Video": "720p"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "Yes",
+            "Radio": "No",
+            "USB": "microUSB v2.0, USB Host",
+            "WLAN": "Wi-Fi 802.11 b/g/n"
+        },
+        "Display": {
+            "Multitouch": "Yes, up to 10 fingers",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "1280 x 800 pixels (~149 ppi pixel density)",
+            "Size": "10.1 inches (~63.4% screen-to-body ratio)",
+            "Type": "LED-backlit LCD, capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- HDMI port\n- MP3/WAV/WMA/eAAC+ player\n- MP4/H.264/WMV player\n- Organizer\n- Document viewer\n- Photo editor\n- Voice memo\n- Predictive text input",
+            "Browser": "HTML, Adobe Flash",
+            "Java": "No",
+            "Messaging": "Email, Push Mail, IM",
+            "Sensors": "Accelerometer, gyro, compass"
+        },
+        "Launch": {
+            "Announced": "2012, April",
+            "Status": "Available. Released 2012, May"
+        },
+        "Memory": {
+            "Card slot": "SD/microSD, up to 32 GB",
+            "Internal": "16/32/64 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black/Silver",
+            "Price group": "6/10 (About 290 EUR)"
+        },
+        "Network": {
+            "2G bands": "N/A",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "No cellular connectivity"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.5 GHz",
+            "Chipset": "Nvidia Tegra 3",
+            "GPU": "ULP GeForce 2",
+            "OS": "Android OS, v4.0 (Ice Cream Sandwich)"
+        },
+        "Sound": {
+            "": "- SRS audio",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "canonical_name": "Tablet with no support for GSM voice communication",
+        "device_name": "Toshiba Excite 10 AT305",
+        "image": {
+            "href": "http://www.gsmarena.com/toshiba_excite_10_at305-pictures-4692.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/toshiba-excite-10-AT305.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/toshiba_excite_10_at305-4692.php"
+    }
+}

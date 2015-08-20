@@ -1,0 +1,73 @@
+{
+    "data": {
+        "Battery": {
+            "": "Internal, 1000 mAh Li-Ion (BLC-2)",
+            "Stand-by": "55 h to 245 h",
+            "Talk time": "2 h 30 min to 4 h 30"
+        },
+        "Body": {
+            "Dimensions": "113 x 48 x 22 mm, 97 cc (4.45 x 1.89 x 0.87 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "133 g (4.69 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Dynamic font size\n- Softkey\n- Screensavers\n- Welcome message",
+            "Resolution": "5 lines",
+            "Size": "",
+            "Type": "Monochrome graphic"
+        },
+        "Features": {
+            "": "- Predictive text input\n- Smart messaging\n- Calculator\n- Voice Dial\n- Mobile Chat mode for SMS\n- Profiles\n- Currency converter",
+            "Alarm": "Yes",
+            "Browser": "",
+            "Clock": "Yes",
+            "Games": "4 ( Snake II, Pairs II, Space Impact, Bantumi )",
+            "Java": "No",
+            "Languages": "17 for menu, 11 for T9",
+            "Messaging": "SMS"
+        },
+        "Launch": {
+            "Announced": "2000",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- Message templates",
+            "Call records": "8 dialed, 8 received, 8 missed calls",
+            "Card slot": "No",
+            "Phonebook": "SIM only"
+        },
+        "Misc": {
+            "Colors": "User exchangeable front and back covers",
+            "SAR EU": "0.96 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "": "- 6 Ringing tone levels\n- 10 Volume levels",
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable monophonic ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 3310",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_3310-pictures-192.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/no3310b.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_3310-192.php"
+    }
+}

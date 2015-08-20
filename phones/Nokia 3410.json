@@ -1,0 +1,73 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 825 mAh battery (BLC-2)",
+            "Stand-by": "55h - 260h",
+            "Talk time": "2h 20min - 4h 10 min"
+        },
+        "Body": {
+            "Dimensions": "115 x 49 x 22.5 mm, 100 cc (4.53 x 1.93 x 0.89 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "114 g (4.02 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Dynamic font size\n- Softkey\n- 3D screensavers\n- Welcome message\n- Picture messaging(7 predefined + 1 empty)",
+            "Resolution": "96 x 65 pixels, 6 lines",
+            "Size": "",
+            "Type": "Monochrome graphic"
+        },
+        "Features": {
+            "": "- Predictive text input\n- Smart messaging\n- Organizer\n- Voice Dial\n- Customizable and downloadable profiles",
+            "Alarm": "Yes",
+            "Browser": "WAP 1.1",
+            "Clock": "Yes",
+            "Games": "1 Java + 5 ( Snake II, Bumper, Space Impact, Bantumi, Link5 )",
+            "Java": "Yes",
+            "Languages": "Country dependant",
+            "Messaging": "SMS, EMS"
+        },
+        "Launch": {
+            "Announced": "2002",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- Editable message templates\n- 10 voice dial numbers\n- 100 Calendar notes",
+            "Call records": "20 dialed, 10 received, 10 missed calls",
+            "Card slot": "No",
+            "Phonebook": "200"
+        },
+        "Misc": {
+            "Colors": "Xpress-on front and back covers",
+            "SAR EU": "0.81 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "": "- 6 Ringing tone levels\n- 10 Volume levels",
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable monophonic ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 3410",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_3410-pictures-315.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/no3410.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_3410-315.php"
+    }
+}

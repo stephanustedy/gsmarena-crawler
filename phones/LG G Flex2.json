@@ -1,0 +1,95 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po 3000 mAh battery",
+            "Stand-by": "Up to 520 h (2G) / Up to 450 h (3G)",
+            "Talk time": "Up to 18 h (2G) / Up to 20 h (3G)"
+        },
+        "Body": {
+            "": "- Self-healing back panel coating",
+            "Build": "Curved body and display",
+            "Dimensions": "149.1 x 75.3 x 7.1-9.4 mm",
+            "SIM": "Micro-SIM",
+            "Weight": "152 g (5.36 oz)"
+        },
+        "Camera": {
+            "Features": "Simultaneous video and image recording, geo-tagging, face detection, panorama, HDR",
+            "Primary": "13 MP, 4128 x 3096 pixels, laser autofocus, optical image stabilization, dual-LED flash, check quality",
+            "Secondary": "2.1 MP, 1080p@30fps",
+            "Video": "2160p@30fps, 1080p@60fps, HDR, stereo sound rec., check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v4.1, A2DP, LE, apt-X",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "Infrared port": "Yes",
+            "NFC": "Yes",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0 (SlimPort), USB Host",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, DLNA, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 3",
+            "Resolution": "1080 x 1920 pixels (~403 ppi pixel density)",
+            "Size": "5.5 inches (~73.5% screen-to-body ratio)",
+            "Type": "Curved P-OLED capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Fast battery charging: 60% in 30 min (Quick Charge 2.0)\n- DMB TV tuner (Korean model only)\n- Active noise cancellation with dedicated mic\n- MP4/DviX/XviD/H.264/WMV player\n- MP3/WAV/FLAC/eAAC+/AC3/WMA player\n- Photo/video editor\n- Document viewer",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2015, January",
+            "Status": "Available. Released 2015, February"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 128 GB",
+            "Internal": "16 GB, 2 GB RAM/ 32 GB, 3 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Platinum Silver, Flamenco Red",
+            "Price group": "9/10 (About 650 EUR)",
+            "SAR EU": "0.68 W/kg (head) \u00a0 \u00a0 0.44 W/kg (body)",
+            "SAR US": "1.10 W/kg (head) \u00a0 \u00a0 1.07 W/kg (body)"
+        },
+        "Network": {
+            "": "LTE - US995 (U.S. Cellular)",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+            "4G bands": "LTE band 1(2100), 3(1800), 7(2600), 8(900), 20(800) - H955",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 42.2/21.1 Mbps, LTE Cat6 300/50 Mbps\nLTE, EV-DO Rev.A 3.1 Mbps - US995 (U.S. Cellular)",
+            "Technology": "GSM / CDMA / HSPA / EVDO / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.5 GHz Cortex-A53 & Quad-core 2 GHz Cortex-A57",
+            "Chipset": "Qualcomm MSM8994 Snapdragon 810",
+            "GPU": "Adreno 430",
+            "OS": "Android OS, v5.0.1 (Lollipop), upgradable to v5.1.1 (Lollipop)"
+        },
+        "Sound": {
+            "": "- Dolby mobile",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Battery life": "Endurance rating 62h",
+            "Camera": "Photo / Video"
+        }
+    },
+    "main": {
+        "canonical_name": "Available versions:\nLG H955 (EMEA), LG LS996 (Sprint), LG H950 (AT&T), LG US995 (U.S. Cellular)",
+        "device_name": "LG G Flex2",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_g_flex2-pictures-6916.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-g-flex2.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_g_flex2-6916.php"
+    }
+}

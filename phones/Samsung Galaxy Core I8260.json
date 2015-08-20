@@ -1,0 +1,90 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1800 mAh battery",
+            "Stand-by": "Up to 500 h (2G) / Up to 300 h (3G)",
+            "Talk time": "Up to 14 h (2G) / Up to 9 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "129.3 x 67.6 x 9 mm (5.09 x 2.66 x 0.35 in)",
+            "SIM": "Optional Dual SIM (dual stand-by)",
+            "Weight": "124 g (4.37 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face/smile detection",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, LED flash, check quality",
+            "Secondary": "VGA",
+            "Video": "480p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "480 x 800 pixels (~217 ppi pixel density)",
+            "Size": "4.3 inches (~60.2% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/WMV/H.264 player\n- MP3/WAV/eAAC+/FLAC player\n- Photo/video editor\n- Document viewer",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2013, May",
+            "Status": "Available. Released 2013, June"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "8 GB (4.5 GB user available), 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Metallic Blue, Chic White",
+            "Price group": "4/10 (About 160 EUR)",
+            "SAR EU": "0.29 W/kg (head) \u00a0 \u00a0 0.95 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 900 / 2100 - GT-I8262 (SIM 1 & SIM 2)",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - GT-I8260",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 7.2/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.2 GHz Cortex-A5",
+            "Chipset": "Qualcomm MSM8225 Snapdragon S4 Play",
+            "GPU": "Adreno 203",
+            "OS": "Android OS, v4.1.2 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -89.5dB / Crosstalk -85.2dB",
+            "Battery life": "Endurance rating 49h",
+            "Camera": "Photo",
+            "Display": "Contrast ratio: 842:1 (nominal) / 1.563:1 (sunlight)",
+            "Loudspeaker": "Voice 71dB / Noise 64dB / Ring 72dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Available as Samsung Galaxy Core I8262 with Dual SIM card slot",
+        "device_name": "Samsung Galaxy Core I8260",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_galaxy_core_i8260-pictures-5419.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-core-gt-i8260.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_galaxy_core_i8260-5419.php"
+    }
+}

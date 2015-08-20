@@ -1,0 +1,95 @@
+{
+    "data": {
+        "Battery": {
+            "": "NiMH 500 mAh battery",
+            "Stand-by": "50 h - 180 h",
+            "Talk time": "90 min - 300 min"
+        },
+        "Body": {
+            "Dimensions": "118 x 46 x 21 mm, 88 cc (4.65 x 1.81 x 0.83 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "110 g (3.88 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Fixed icons\n- Softkey",
+            "Resolution": "101 x 54 pixels, 5 lines",
+            "Size": "",
+            "Type": "Monochrome graphic"
+        },
+        "Features": {
+            "": "- Predictive text input\n- Currency converter\n- Calculator\n- Stopwatch",
+            "Alarm": "Yes",
+            "Browser": "",
+            "Clock": "Yes",
+            "Games": "4 - Wayout, Reversi, Quattropoli, Minesweeper",
+            "Java": "No",
+            "Languages": "20",
+            "Messaging": "SMS"
+        },
+        "Launch": {
+            "Announced": "2000",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "10 dialed, 10 received, 10 missed calls",
+            "Card slot": "No",
+            "Phonebook": "20"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "": "- DJ sounds",
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Monophonic ringtones, composer",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Siemens C35",
+        "image": {
+            "href": "http://www.gsmarena.com/siemens_c35-pictures-92.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/sic35b.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/siemens_c35-92.php"
+    }
+}

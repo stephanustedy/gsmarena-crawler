@@ -1,0 +1,78 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion battery",
+            "Stand-by": "Up to 360 h",
+            "Talk time": "Up to 8 h"
+        },
+        "Body": {
+            "Dimensions": "105 x 45.5 x 19.5 mm (4.13 x 1.79 x 0.77 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "105 g (3.70 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 1024 pixels, LED flash",
+            "Secondary": "Yes",
+            "Video": "QCIF"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Wallpapers, screensavers",
+            "Resolution": "176 x 220 pixels (~157 ppi pixel density)",
+            "Size": "1.8 inches, 28 x 35 mm (~21.3% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- Predictive text input\n- SMS to many\n- Calculator\n- Stopwatch\n- Changeable front and back covers \n- Picture messaging",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2005, June",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "20 received, 20 dialed and 20 missed calls",
+            "Card slot": "No",
+            "Internal": "32 MB",
+            "Phonebook": "500 x 15 fields, Photo call"
+        },
+        "Misc": {
+            "Colors": "Moonlight Silver, Black",
+            "SAR EU": "0.86 W/kg (head)",
+            "SAR US": "1.62 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "3G bands": "UMTS 2100",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Speed": "Yes, 384 kbps",
+            "Technology": "GSM / UMTS"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3, AAC ringtones, composer",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "canonical_name": "Vodafone exclusive",
+        "device_name": "Sony Ericsson V600",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_ericsson_v600-pictures-1189.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/sonyericsson-v600.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_ericsson_v600-1189.php"
+    }
+}

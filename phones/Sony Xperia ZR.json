@@ -1,0 +1,97 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-ion 2300 mAh battery",
+            "Music play": "Up to 45 h",
+            "Stand-by": "Up to 470 h (2G) / Up to 520 h (3G)",
+            "Talk time": "Up to 11 h (2G) / Up to 13 h (3G)"
+        },
+        "Body": {
+            "": "- IP58 certified - dust proof and water resistant over 1.5 meter and 30 minutes",
+            "Dimensions": "131.3 x 67.3 x 10.5 mm (5.17 x 2.65 x 0.41 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "138 g (4.87 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection, HDR, sweep panorama",
+            "Primary": "13.1 MP, 4128 x 3096 pixels, autofocus, LED flash, check quality",
+            "Secondary": "VGA",
+            "Video": "1080p@30fps, HDR, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "NFC": "Yes",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0 (MHL TV-out)",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- Sony Mobile BRAVIA Engine 2",
+            "Multitouch": "Yes, up to 10 fingers",
+            "Protection": "Shatter proof glass",
+            "Resolution": "720 x 1280 pixels (~323 ppi pixel density)",
+            "Size": "4.55 inches (~64.6% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP4/H.264/WMV player\n- MP3/eAAC+/WMA/WAV/Flac player\n- Document viewer\n- Photo viewer/editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, IM, Push Email",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2013, May",
+            "Status": "Available. Released 2013, June"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "8 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White, Pink, Mint",
+            "Price group": "5/10 (About 230 EUR)",
+            "SAR EU": "0.79 W/kg (head)",
+            "SAR US": "1.25 W/kg (head) \u00a0 \u00a0 0.76 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 900 / 1700 / 1900 / 2100 - C5502",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - all versions",
+            "3G bands": "HSDPA 850 / 900 / 2100 - C5503",
+            "4G bands": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 20(800) - C5503",
+            "EDGE": "Up to 296 kbps",
+            "GPRS": "Up to 107 kbps",
+            "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat3 100/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.5 GHz Krait",
+            "Chipset": "Qualcomm APQ8064 Snapdragon S4 Pro",
+            "GPU": "Adreno 320",
+            "OS": "Android OS, v4.1.2 (Jelly Bean), v5.0.2 (Lollipop), planned upgrade to v5.1 (Lollipop)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -87.8dB / Crosstalk -88.3dB",
+            "Battery life": "Endurance rating 62h",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 1004:1 (nominal) / 2.672:1 (sunlight)",
+            "Loudspeaker": "Voice 65dB / Noise 60dB / Ring 66dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Sony Xperia ZR C5502, Sony Xperia ZR C5503, Sony Xperia ZR LTE, Sony Xperia ZR HSPA+",
+        "device_name": "Sony Xperia ZR",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_xperia_zr-pictures-5421.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/sony-xperia-zr.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_xperia_zr-5421.php"
+    }
+}

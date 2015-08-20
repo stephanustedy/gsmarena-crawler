@@ -1,0 +1,83 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1200 mAh battery",
+            "Stand-by": "Up to 400 h (2G) / Up to 450 h (3G)",
+            "Talk time": "Up 3 h 40 min (2G) / Up to 5 h 10 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "115.2 x 58.3 x 13.1 mm (4.54 x 2.30 x 0.52 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "120.8 (4.23 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face, smile and blink detection",
+            "Primary": "5 MP, 2592 x 1944 pixels, autofocus, LED flash",
+            "Secondary": "Yes",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Motion UI\n- Touch Wiz 2.0 UI",
+            "Resolution": "480 x 800 pixels (~267 ppi pixel density)",
+            "Size": "3.5 inches (~51.9% screen-to-body ratio)",
+            "Type": "AMOLED resistive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- DMB TV, Live TV\n- MP3/WMA/eAAC+/WAV player\n- DivX/XviD/H.264/MP4/WMV player\n- Organizer\n- Document viewer (Word, Excel, PowerPoint, PDF)\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email, IM, Push Email",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2009, June",
+            "Status": "Available. Released 2009, June"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 16 GB",
+            "Internal": "440 MB",
+            "Phonebook": "Yes, Photocall"
+        },
+        "Misc": {
+            "Colors": "Rose Black, Snow White, Valentine Pink",
+            "Price group": "4/10 (About 150 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 2100",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 7.2/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "800 Mhz ARM 11",
+            "Chipset": "Qualcomm MSM6246"
+        },
+        "Sound": {
+            "": "- DNSe (Digital Natural Sound Engine)\n- Virtual 5.1 channel Dolby surround",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "For South Korea\nAlso known as Samsung W8500, Samsung W8550",
+        "device_name": "Samsung W850",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_w850-pictures-3349.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-w850.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_w850-3349.php"
+    }
+}

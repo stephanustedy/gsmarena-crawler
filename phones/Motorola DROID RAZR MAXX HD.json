@@ -1,0 +1,87 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 3300 mAh battery",
+            "Stand-by": "Up to 372 h",
+            "Talk time": "Up to 32 h"
+        },
+        "Body": {
+            "": "- Splash resistant",
+            "Dimensions": "131.9 x 67.9 x 9.3 mm (5.19 x 2.67 x 0.37 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "157 g (5.54 oz)"
+        },
+        "Camera": {
+            "Features": "Touch focus, geo-tagging, face detection",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash",
+            "Secondary": "1.3 MP, 720p@30fps",
+            "Video": "1080p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, EDR, LE",
+            "GPS": "Yes, with A-GPS, S-GPS, GLONASS",
+            "NFC": "Yes",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, DLNA, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "720 x 1280 pixels (~312 ppi pixel density)",
+            "Size": "4.7 inches (~68.0% screen-to-body ratio)",
+            "Type": "Super AMOLED capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- HDMI port\n- MP3/AAC+/WAV/WMA player\n- MP4/H.264/WMV player\n- Organizer\n- Document viewer/editor\n- Voice memo/dial/commands\n- Predictive text input (Swype)",
+            "Browser": "HTML5, Adobe Flash",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass, barometer"
+        },
+        "Launch": {
+            "Announced": "2012, September",
+            "Status": "Available. Released 2012, November"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "16/32 GB (26 GB user available), 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "6/10 (About 270 EUR)",
+            "SAR US": "1.56 W/kg (head) \u00a0 \u00a0 0.46 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 900 / 1900 / 2100",
+            "2G bands": "CDMA 800 / 1900",
+            "3G bands": "CDMA2000 1xEV-DO",
+            "4G bands": "LTE band 13(700)",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 21.1/5.76 Mbps, LTE, EV-DO Rev.A 3.1 Mbps",
+            "Technology": "GSM / CDMA / HSPA / EVDO / LTE"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.5 GHz Krait",
+            "Chipset": "Qualcomm MSM8960 Snapdragon S4 Plus",
+            "GPU": "Adreno 225",
+            "OS": "Android OS, v4.0.4 (Ice Cream Sandwich), upgradable to v4.4 (KitKat)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "For Verizon",
+        "device_name": "Motorola DROID RAZR MAXX HD",
+        "image": {
+            "href": "http://www.gsmarena.com/motorola_droid_razr_maxx_hd-pictures-4972.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/motorola-droid-razr-maxx-hd.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/motorola_droid_razr_maxx_hd-4972.php"
+    }
+}

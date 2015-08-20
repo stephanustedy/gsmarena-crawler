@@ -1,0 +1,83 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion battery",
+            "Stand-by": "Up to 400 h (2G) / Up to 480 h (3G)",
+            "Talk time": "Up to 8 h (2G) / Up to 6 h 40 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "115 x 60.8 x 13.4 mm (4.53 x 2.39 x 0.53 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "138 g (4.87 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, LED flash",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "NFC": "Region specific",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "": "- Touch sensitive controls\n- Acer UI",
+            "Multitouch": "Yes",
+            "Resolution": "320 x 480 pixels (~210 ppi pixel density)",
+            "Size": "3.5 inches (~48.3% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/WAV/WMA/eAAC+ player\n- MP4/WMV/H.264 player\n- Organizer\n- Document viewer \n- Voice memo\n- Predictive text input",
+            "Browser": "HTML",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2011, September",
+            "Status": "Available. Released 2011, November"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB, 2 GB included",
+            "Internal": "512 MB RAM, 512 MB"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "2/10 (About 90 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "800MHz ARM 11",
+            "Chipset": "Qualcomm MSM7227T-1 Snapdragon S1",
+            "GPU": "Adreno 200",
+            "OS": "Android OS, v2.3 (Gingerbread)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Acer C6 Liquid Express\nFor Orange",
+        "device_name": "Acer Liquid Express E320",
+        "image": {
+            "href": "http://www.gsmarena.com/acer_liquid_express_e320-pictures-4261.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/acer-c6-liquid-express.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/acer_liquid_express_e320-4261.php"
+    }
+}

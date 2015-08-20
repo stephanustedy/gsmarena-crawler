@@ -1,0 +1,75 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 820 mAh battery",
+            "Stand-by": "Up to 700 h",
+            "Talk time": "Up to 15 h"
+        },
+        "Body": {
+            "Dimensions": "107.8 x 59.8 x 14 mm (4.24 x 2.35 x 0.55 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Dual SIM (Mini-SIM)",
+            "Weight": "80 g (2.82 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0",
+            "GPS": "No",
+            "Radio": "FM radio",
+            "USB": "microUSB",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "176 x 220 pixels (~141 ppi pixel density)",
+            "Size": "2.0 inches (~19.5% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- SNS apps\n- Analog TV\n- MP3/AAC+/WMA/WAV player\n- MP4/H.264 player\n- Predictive text input",
+            "Browser": "No",
+            "Games": "Downloadable",
+            "Java": "No",
+            "Messaging": "SMS, IM"
+        },
+        "Launch": {
+            "Announced": "2013, May",
+            "Status": "Available. Released 2013, May"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "32 MB ROM, 32 MB RAM",
+            "Phonebook": "Yes"
+        },
+        "Misc": {
+            "Colors": "Red, Blue, White/Pink, White/Blue",
+            "Price group": "1/10 (About 20 EUR)"
+        },
+        "Network": {
+            "": "GSM 850 / 900 / 1800 / 1900 - SIM 2 (Q170T only)",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1",
+            "EDGE": "No",
+            "GPRS": "Class 12",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Q160T - Single SIM\nQ170T - Dual SIM",
+        "device_name": "BLU Samba TV",
+        "image": {
+            "href": "http://www.gsmarena.com/blu_samba_tv-pictures-5747.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/blu-samba-tv.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/blu_samba_tv-5747.php"
+    }
+}

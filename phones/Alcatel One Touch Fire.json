@@ -1,0 +1,83 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1400 mAh battery",
+            "Stand-by": "Up to 280 h (2G) / Up to 220 h (3G)",
+            "Talk time": "Up to 6 h 40 min (2G) / Up to 3 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "115 x 62.3 x 12.2 mm (4.53 x 2.45 x 0.48 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "108 g (3.81 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "3.15 MP, 2048 x 1536 pixels",
+            "Secondary": "No",
+            "Video": "480p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n"
+        },
+        "Display": {
+            "Multitouch": "No",
+            "Resolution": "320 x 480 pixels (~165 ppi pixel density)",
+            "Size": "3.5 inches (~50.9% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/AAC+/OGG player\n- MP4/H.264 player\n- Photo viewer\n- Predictive text input",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), Email, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2013, February",
+            "Status": "Available. Released 2013, July"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB, 2 GB included",
+            "Internal": "160 MB, 512 MB ROM, 256 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Mozilla Orange, Apple Green, Pure White",
+            "Price group": "3/10 (About 120 EUR)",
+            "SAR EU": "1.45 W/kg (head) \u00a0 \u00a0 1.30 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 1900 / 2100",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 7.2/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "1.0 GHz Cortex-A5",
+            "Chipset": "Qualcomm MSM7227A Snapdragon S1",
+            "GPU": "Adreno 200",
+            "OS": "Firefox OS 1.0"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Alcatel One Touch Fire 4012A, Alcatel One Touch Fire 4012X",
+        "device_name": "Alcatel One Touch Fire",
+        "image": {
+            "href": "http://www.gsmarena.com/alcatel_one_touch_fire-pictures-5319.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/alcatel-one-touch-fire1.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/alcatel_one_touch_fire-5319.php"
+    }
+}

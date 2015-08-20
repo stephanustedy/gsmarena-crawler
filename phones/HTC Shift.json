@@ -1,0 +1,85 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 2700 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "": "- Fingerprint sensor",
+            "Dimensions": "207 x 129 x 25 mm (8.15 x 5.08 x 0.98 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "800 g (1.76 lb)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "Yes",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g"
+        },
+        "Display": {
+            "": "- Handwriting recognition",
+            "Resolution": "800 x 480 pixels (Wide-VGA) (~133 ppi pixel density)",
+            "Size": "7.0 inches (~52.2% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Voice memo\n- MP3/AAC/AAC+/WMA/OGG/AMR player\n- WMV/MP4 player\n- File manager\n- Fingerprint recognition",
+            "Browser": "HTML (PocketIE)",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2007, March. Released 2008, February",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "SDIO",
+            "Internal": "40/80 GB (microdrive), 1 GB RAM, 128 MB ROM"
+        },
+        "Misc": {
+            "Colors": "",
+            "Price group": "5/10 (About 210 EUR)",
+            "SAR EU": "1.91 W/kg (head)"
+        },
+        "Network": {
+            "": "No voice calls, data transfer only",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 1900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 3.6/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Intel Stealey 800MHz",
+            "OS": "Microsoft Vista Business and SnapVUE OS"
+        },
+        "Sound": {
+            "": "- Dual speakers",
+            "3.5mm jack": "No",
+            "Alert types": "",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "canonical_name": {
+            "href": "http://www.gsmarena.com/htc_pocketpc_smartphone.php3",
+            "text": "Full HTC platforms guide"
+        },
+        "device_name": "HTC Shift",
+        "image": {
+            "href": "http://www.gsmarena.com/htc_shift-pictures-1934.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/htc-shift.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/htc_shift-1934.php"
+    }
+}

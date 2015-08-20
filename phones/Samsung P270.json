@@ -1,0 +1,74 @@
+{
+    "data": {
+        "Battery": {
+            "": "",
+            "Stand-by": "Up to 150 h",
+            "Talk time": "Up to 4 h"
+        },
+        "Body": {
+            "Dimensions": "99.5 x 49 x 15.9 mm (3.92 x 1.93 x 0.63 in)",
+            "SIM": "Mini-SIM",
+            "Weight": ""
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "v2.0",
+            "WLAN": "Wi-Fi 802.11b/g"
+        },
+        "Display": {
+            "Resolution": "176 x 220 pixels (~128 ppi pixel density)",
+            "Size": "2.2 inches (~31.2% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- UMA support\n- MP3/AAC/WMA/MP4 player\n- MP4/3GPP/H.263 player\n- Photo editor\n- Organizer\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2008, September",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "30 dialed, 30 received, 30 missed calls",
+            "Card slot": "microSD",
+            "Internal": "20 MB",
+            "Phonebook": "1000 entries, Photo call"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "2/10 (About 80 EUR)",
+            "SAR EU": "0.60 W/kg (head)",
+            "SAR US": "0.23 W/kg (head) \u00a0 \u00a0 0.39 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Samsung P270",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_p270-pictures-2722.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-p270.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_p270-2722.php"
+    }
+}

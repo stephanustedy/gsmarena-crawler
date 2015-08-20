@@ -1,0 +1,82 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 6000 mAh battery",
+            "Stand-by": "",
+            "Talk time": "Up to 18 h (3G)"
+        },
+        "Body": {
+            "": "- Built-in 3-stage kickstand",
+            "Dimensions": "213 x 144 x 7.3 mm (8.39 x 5.67 x 0.29 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "401 g (Wi-Fi) / 404 g (3G) (14.25 oz)"
+        },
+        "Camera": {
+            "Primary": "5 MP, 2592 x 1936 pixels",
+            "Secondary": "1.6 MP",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0",
+            "GPS": "Yes",
+            "Radio": "No",
+            "USB": "microUSB v2.0, USB Host",
+            "WLAN": "Wi-Fi 802.11 b/g/n"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "1280 x 800 pixels (~189 ppi pixel density)",
+            "Size": "8.0 inches (~60.5% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP3/WAV/WMA/AAC player\n- MP4/H.264 player\n- Document viewer\n- Photo viewer/editor",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "Email, Push Email, IM",
+            "Sensors": "Accelerometer, compass"
+        },
+        "Launch": {
+            "Announced": "2013, October",
+            "Status": "Available. Released 2013, October"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "16/32 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Gray",
+            "Price group": "4/10 (About 190 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.2 GHz Cortex-A7",
+            "Chipset": "Mediatek MT8125",
+            "GPU": "PowerVR SGX544",
+            "OS": "Android OS, v4.2 (Jelly Bean)"
+        },
+        "Sound": {
+            "": "- Dolby Digital Plus",
+            "3.5mm jack": "Yes",
+            "Alert types": "Yes",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "canonical_name": "Available with 3G/Wi-Fi or Wi-Fi only support\nTablet with no support for GSM voice communication",
+        "device_name": "Lenovo Yoga Tablet 8",
+        "image": {
+            "href": "http://www.gsmarena.com/lenovo_yoga_tablet_8-pictures-5835.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lenovo-yoga-tablet-8.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lenovo_yoga_tablet_8-5835.php"
+    }
+}

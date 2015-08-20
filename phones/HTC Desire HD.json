@@ -1,0 +1,91 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1230 mAh battery",
+            "Stand-by": "Up to 490 h (2G) / Up to 420 h (3G)",
+            "Talk time": "Up to 9 h 15 min (2G) / Up to 5 h 30 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "123 x 68 x 11.8 mm (4.84 x 2.68 x 0.46 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "164 g (5.78 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face detection",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, dual-LED flash, check quality",
+            "Secondary": "No",
+            "Video": "720p"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- HTC Sense UI",
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "480 x 800 pixels (~217 ppi pixel density)",
+            "Size": "4.3 inches (~62.9% screen-to-body ratio)",
+            "Type": "LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Dedicated search key\n- MP3/AAC+/WAV/WMA9 player\n- DivX/Xvid/MP4/H.264/WMV9/player\n- Voice memo\n- Predictive text input",
+            "Browser": "HTML, Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2010, September",
+            "Status": "Available. Released 2010, October"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB, 8 GB included",
+            "Internal": "1.5 GB; 768 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, Brown",
+            "Price group": "3/10 (About 150 EUR)",
+            "SAR US": "0.47 W/kg (head) \u00a0 \u00a0 0.84 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 1900 - North America",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Class 32",
+            "GPRS": "Class 32",
+            "Speed": "HSPA 14.4/5.76 Mbps or HSPA 7.2/2 Mbps (carrier dependent)",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "1 GHz Scorpion",
+            "Chipset": "Qualcomm MSM8255 Snapdragon S2",
+            "GPU": "Adreno 205",
+            "OS": "Android OS, v2.2 (Froyo), v2.3 (Gingerbread), not upgradable to v4.0 (Ice Cream Sandwich)"
+        },
+        "Sound": {
+            "": "- Dolby Mobile, SRS sound",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -90.6dB / Crosstalk -92.6dB",
+            "Camera": "Photo",
+            "Loudspeaker": "Voice 69dB / Noise 66dB / Ring 78dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Previously rumored as HTC Ace",
+        "device_name": "HTC Desire HD",
+        "image": {
+            "href": "http://www.gsmarena.com/htc_desire_hd-pictures-3468.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/htc-desire-hd-new.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/htc_desire_hd-3468.php"
+    }
+}

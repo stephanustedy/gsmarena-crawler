@@ -1,0 +1,76 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion battery",
+            "Stand-by": "",
+            "Talk time": "Up to 7 h"
+        },
+        "Body": {
+            "Dimensions": "273 x 177 x 16 mm (10.75 x 6.97 x 0.63 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "725 g (1.60 lb)"
+        },
+        "Camera": {
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus",
+            "Secondary": "2 MP",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "miniUSB v2.0, USB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "1280 x 800 pixels (~149 ppi pixel density)",
+            "Size": "10.1 inches (~61.2% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- HDMI port\n- MP3/WAV/WMA/eAAC+ player\n- MP4/H.264/WMV player\n- Organizer\n- Document viewer\n- Photo editor\n- Voice memo\n- Predictive text input",
+            "Browser": "HTML5, Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "Email, Push Mail, IM",
+            "Sensors": "Accelerometer, gyro, compass"
+        },
+        "Launch": {
+            "Announced": "2010, June. Released 2011, July",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "SD, up to 32 GB",
+            "Internal": "8/16/32 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "7/10 (About 300 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 1900 / 2100",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Speed": "HSPA 7.2/2 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1 GHz Cortex-A9",
+            "Chipset": "Nvidia Tegra 2 T20",
+            "GPU": "ULP GeForce",
+            "OS": "Android OS, v3.0 (Honeycomb), upgradable to v3.2 (Honeycomb)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Toshiba Regza AT300, Toshiba Tablet.",
+        "device_name": "Toshiba Thrive",
+        "index": 1,
+        "url": "http://www.gsmarena.com/toshiba_thrive-3970.php"
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 820 mAh battery (BL-4C)",
+            "Stand-by": "Up to 280 h",
+            "Talk time": "Up to 5 h"
+        },
+        "Body": {
+            "Dimensions": "90 x 46 x 23.6 mm (3.54 x 1.81 x 0.93 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "98 g (3.46 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 1024 pixels",
+            "Secondary": "No",
+            "Video": "QCIF"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "FM radio; Visual radio",
+            "USB": "Pop-Port",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second external display 65K colors (96 x 65 pixels)\n- 5-way navi key\n- Downloadable themes",
+            "Resolution": "128 x 160 pixels (~114 ppi pixel density)",
+            "Size": "1.8 inches, 29 x 35 mm (~24.6% screen-to-body ratio)",
+            "Type": "TFT, 256k colors"
+        },
+        "Features": {
+            "": "- Push to talk\n- Audio/video player\n- SyncML\n- Predictive text input\n- Presence enhanced contacts\n- Organizer\n- Voice dial/memo",
+            "Browser": "WAP/xHTML",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2006, 1Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "microSD, up to 2 GB",
+            "Internal": "11 MB",
+            "Phonebook": "Yes, Photo call"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "3/10 (About 130 EUR)",
+            "SAR EU": "0.64 W/kg (head)",
+            "SAR US": "0.66 W/kg (head) \u00a0 \u00a0 0.54 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3, AAC ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 6125",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_6125-pictures-1409.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-6125.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_6125-1409.php"
+    }
+}

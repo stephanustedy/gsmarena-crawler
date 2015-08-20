@@ -1,0 +1,73 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 800 mAh battery",
+            "Stand-by": "Up to 260 h",
+            "Talk time": "Up to 5 h"
+        },
+        "Body": {
+            "Dimensions": "94.7 x 45.4 x 17.5 mm (3.73 x 1.79 x 0.69 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "85 g (3.00 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 1024 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "176 x 220 pixels (~148 ppi pixel density)",
+            "Size": "1.9 inches (~26.4% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- Eco-friendly and non-toxic materials\n- MP3 player\n- MP4 player\n- Organizer\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2008, November. Released 2008, December",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "30 dialed, 30 received, 30 missed calls",
+            "Card slot": "microSD, up to 8 GB",
+            "Internal": "15 MB",
+            "Phonebook": "1000 entries, Photo call"
+        },
+        "Misc": {
+            "Colors": "Sweet Pink, Loyal Blue, Apple Green, Bright Orange, Oasis Blue, Snow Silver",
+            "Price group": "2/10 (About 90 EUR)",
+            "SAR EU": "0.38 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Samsung S3030 Tobi",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_s3030_tobi-pictures-2610.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-tobi.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_s3030_tobi-2610.php"
+    }
+}

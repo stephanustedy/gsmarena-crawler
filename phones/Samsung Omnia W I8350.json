@@ -1,0 +1,89 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1500 mAh battery",
+            "Stand-by": "Up to 370 h",
+            "Talk time": "Up to 7 h"
+        },
+        "Body": {
+            "Dimensions": "115.6 x 58.8 x 10.9 mm (4.55 x 2.31 x 0.43 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "115.3 g (4.06 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "5 MP, 2592 x 1944 pixels, autofocus, LED flash, check quality",
+            "Secondary": "VGA",
+            "Video": "720p@30fps, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "Yes, with A-GPS, Bing map",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "480 x 800 pixels (~252 ppi pixel density)",
+            "Size": "3.7 inches (~57.3% screen-to-body ratio)",
+            "Type": "Super AMOLED capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Document viewer/editor\n- MP4/WMV/H.264 player\n- MP3/WAV/WMA/eAAC+ player",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2011, September",
+            "Status": "Available. Released 2011, October"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "8 GB, 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "3/10 (About 150 EUR)",
+            "SAR EU": "0.36 W/kg (head)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 1900 - Samsung Omnia W I8350T",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 14.4/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "1.4 GHz Scorpion",
+            "Chipset": "Qualcomm MSM8255 Snapdragon S2",
+            "GPU": "Adreno 205",
+            "OS": "Microsoft Windows Phone 7.5 Mango"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -84.8dB / Crosstalk -84.2dB",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: Infinite (nominal) / 3.301:1 (sunlight)",
+            "Loudspeaker": "Voice 67dB / Noise 66dB / Ring 67dB"
+        }
+    },
+    "main": {
+        "device_name": "Samsung Omnia W I8350",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_omnia_w_i8350-pictures-4200.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-omnia-w-i8350.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_omnia_w_i8350-4200.php"
+    }
+}

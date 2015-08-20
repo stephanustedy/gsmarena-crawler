@@ -1,0 +1,78 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 890 mAh battery (BL-5B)",
+            "Stand-by": "Up to 250 h (2G) / 240 h (3G)",
+            "Talk time": "Up to 3 h (2G) / 2 h 24 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "105 x 46 x 15 mm, 66 cc (4.13 x 1.81 x 0.59 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "89 g (3.14 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels, LED flash",
+            "Secondary": "VGA videocall camera",
+            "Video": "320p"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "Stereo FM radio",
+            "USB": "miniUSB",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Downloadable wallpapers, screensavers",
+            "Resolution": "240 x 320 pixels (~200 ppi pixel density)",
+            "Size": "2.0 inches (~25.6% screen-to-body ratio)",
+            "Type": "TFT, 16M colors"
+        },
+        "Features": {
+            "": "- Push to talk\n- WMV/RV/MP4/3GP player\n- MP3/WMA/WAV/RA/AAC/M4A player\n- Document viewer (Word, Excel, PowerPoint, PDF)\n- Voice memo/dial\n- Predictive text input\n- Organizer",
+            "Browser": "WAP 2.0/xHTML",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2007, June. Released 2008, February",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 8 GB",
+            "Internal": "32 MB, 64 MB RAM, 128 MB ROM"
+        },
+        "Misc": {
+            "Colors": "Black, Pearl White, Pink, Sand Gold",
+            "Price group": "4/10 (About 180 EUR)",
+            "SAR EU": "1.18 W/kg (head)",
+            "SAR US": "1.22 W/kg (head) \u00a0 \u00a0 1.13 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Class 32, 296 / 177.6 kbits",
+            "GPRS": "Class 32",
+            "Speed": "HSPA 3.6/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "369 MHz ARM 11",
+            "OS": "Symbian OS v9.2, S60 rel. 3.1"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3, AAC ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 6121 classic",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_6121_classic-pictures-2011.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-6121classic.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_6121_classic-2011.php"
+    }
+}

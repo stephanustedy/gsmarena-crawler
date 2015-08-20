@@ -1,0 +1,81 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1300 mAh battery",
+            "Stand-by": "Up to 570 h (2G) / Up to 370 h (3G)",
+            "Talk time": "Up to 15 h (2G) / Up to 6 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "110.1 x 59 x 12.3 mm (4.33 x 2.32 x 0.48 in)",
+            "SIM": "Dual SIM (Mini-SIM)",
+            "Weight": "106.9 g (3.74 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus",
+            "Primary": "3.15 MP, 2048 x 1536 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "Radio": "Stereo FM radio with RDS; built-in antenna",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, DLNA, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "240 x 320 pixels (~133 ppi pixel density)",
+            "Size": "3.0 inches (~42.9% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- MP4/H.263 player\n- MP3/WAV/eAAC+ player\n- Photo viewer/editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2012, October",
+            "Status": "Available. Released 2012, December"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "4 GB, 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Blue, Orange, Gray",
+            "Price group": "2/10 (About 100 EUR)",
+            "SAR EU": "0.75 W/kg (head)",
+            "SAR US": "0.79 W/kg (head) \u00a0 \u00a0 0.68 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 7.2/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "850 MHz Cortex-A9",
+            "OS": "Android OS, v4.0.4 (Ice Cream Sandwich), planned upgrade to 4.1 (Jelly Bean)"
+        },
+        "Sound": {
+            "": "- SRS audio",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "device_name": "Samsung Galaxy Music Duos S6012",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_galaxy_music_duos_s6012-pictures-5027.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-music.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_galaxy_music_duos_s6012-5027.php"
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1800 mAh battery",
+            "Stand-by": "Up to 340 h",
+            "Talk time": "Up to 7 h"
+        },
+        "Body": {
+            "": "- Optical trackpad",
+            "Dimensions": "116 x 61 x 13 mm (4.57 x 2.40 x 0.51 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "125 g (4.41 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g"
+        },
+        "Display": {
+            "": "- Handwriting recognition",
+            "Resolution": "320 x 320 pixels (~181 ppi pixel density)",
+            "Size": "2.5 inches (~28.5% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 65K colors"
+        },
+        "Features": {
+            "": "- AT&T Navigator\n- Pocket Office \n- Voice memo/dial\n- MP3/AAC/AAC+/WMA/OGG/AMR player\n- WMV/MP4 player\n- Predictive text input",
+            "Browser": "WAP 2.0 / HTML",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS (threaded view), MMS, EMail, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2008, October. Released 2008, October",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 16 GB",
+            "Internal": "150 MB RAM, 256 MB ROM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "2/10 (About 90 EUR)",
+            "SAR US": "1.30 W/kg (head) \u00a0 \u00a0 0.91 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 1900 / 2100",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Speed": "HSPA 3.6/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "624 MHz",
+            "OS": "Microsoft Windows Mobile 6.1 Professional"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "For AT&T",
+        "device_name": "Samsung i907 Epix",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_i907_epix-pictures-2566.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-epix.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_i907_epix-2566.php"
+    }
+}

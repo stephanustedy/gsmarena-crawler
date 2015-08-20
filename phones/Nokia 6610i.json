@@ -1,0 +1,75 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 780 mAh battery (BLD-3)",
+            "Stand-by": "144 h - 432 h",
+            "Talk time": "3 h - 3 h 30 min"
+        },
+        "Body": {
+            "Dimensions": "106 x 44 x 19 mm, 72 cc (4.17 x 1.73 x 0.75 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "87 g (3.07 oz)"
+        },
+        "Camera": {
+            "Primary": "CIF, 352 x 288 pixels",
+            "Secondary": "No",
+            "Video": "No"
+        },
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "Stereo FM radio",
+            "USB": "Pop-Port",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Four-way scroll\n- Downloadable pictures",
+            "Resolution": "128 x 128 pixels, 8 lines (~121 ppi pixel density)",
+            "Size": "1.5 inches (~15.6% screen-to-body ratio)",
+            "Type": "CSTN, 4096 colors"
+        },
+        "Features": {
+            "": "- Predictive text input\n- Organizer\n- IR transfer between compatible phones",
+            "Browser": "WAP 1.2.1, xHTML",
+            "Games": "2 - PuzzleChess and Bounce + downloadable",
+            "Java": "Yes, MIDP 1.0",
+            "Messaging": "SMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2004, 1Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "10 dialed, 10 received, 10 missed calls",
+            "Card slot": "No",
+            "Internal": "4 MB",
+            "Phonebook": "500 entries, Photo call"
+        },
+        "Misc": {
+            "Colors": "3 - Black, White, Grey",
+            "SAR EU": "0.73 W/kg (head)",
+            "SAR US": "0.97 W/kg (head) \u00a0 \u00a0 1.05 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 6",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, monophonic ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 6610i",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_6610i-pictures-742.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/no6610i.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_6610i-742.php"
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1300 mAh battery (BP-3L)",
+            "Music play": "Up to 35 h",
+            "Stand-by": "Up to 670 h (2G) / Up to 720 h (3G)",
+            "Talk time": "Up to 10 h 30 min (2G) / Up to 9 h 30 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "119 x 62 x 12 mm, 77.6 cc (4.69 x 2.44 x 0.47 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "131.5 g (4.62 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face detection",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, LED flash, check quality",
+            "Secondary": "No",
+            "Video": "480p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "480 x 800 pixels (~252 ppi pixel density)",
+            "Size": "3.7 inches (~52.8% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 65K colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP3/WAV/eAAC+/WMA player\n- MP4/H.264/WMV player\n- Document viewer\n- Video/photo editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2012, February",
+            "Status": "Available. Released 2012, April"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "8 GB, 256 MB RAM"
+        },
+        "Misc": {
+            "Colors": "White, Cyan, Magenta, Black",
+            "Price group": "2/10 (About 90 EUR)",
+            "SAR EU": "0.83 W/kg (head)",
+            "SAR US": "1.32 W/kg (head) \u00a0 \u00a0 0.97 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Speed": "HSPA 7.2/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "800 MHz ARM Cortex-A5",
+            "Chipset": "Qualcomm MSM7227A Snapdragon S1",
+            "GPU": "Adreno 200",
+            "OS": "Microsoft Windows Phone 7.5 Mango"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -84.6dB / Crosstalk -85.7dB",
+            "Battery life": "Endurance rating 43h",
+            "Camera": "Photo",
+            "Display": "Contrast ratio: 746:1 (nominal) / 1.432:1 (sunlight)",
+            "Loudspeaker": "Voice 70dB / Noise 65dB / Ring 75dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Nokia RM-835",
+        "device_name": "Nokia Lumia 610",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_lumia_610-pictures-4576.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-lumia-610.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_lumia_610-4576.php"
+    }
+}

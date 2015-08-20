@@ -1,0 +1,79 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 2000 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "132.5 x 71.2 x 19.3 mm (5.22 x 2.80 x 0.76 in)",
+            "SIM": "No",
+            "Weight": "283 g (9.98 oz)"
+        },
+        "Camera": {
+            "Features": "1/2.3'' sensor size, geo-tagging, touch focus, face/smile detection",
+            "Primary": "16.3 MP, 4608 x 3456 pixels, autofocus, 21x optical zoom, optical image stabilization, pop-up Xenon flash, AF light",
+            "Secondary": "No",
+            "Video": "1080p@30fps, 512p@120fps, optical stabilization"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0",
+            "GPS": "Yes, with GLONASS",
+            "NFC": "Yes",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, hotspot"
+        },
+        "Display": {
+            "": "- TouchWiz UI",
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 2",
+            "Resolution": "720 x 1280 pixels (~306 ppi pixel density)",
+            "Size": "4.8 inches (~67.3% screen-to-body ratio)",
+            "Type": "Super Clear LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Dropbox (50 GB cloud storage)\n- HDMI port\n- MP4/DivX/XviD/WMV/H.264 player\n- MP3/WAV/eAAC+/FLAC player\n- Photo/video editor\n- Document editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, gyro, compass"
+        },
+        "Launch": {
+            "Announced": "2014, January",
+            "Status": "Available. Released 2014, March"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "8 GB (2.8 GB user available), 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "7/10 (About 330 EUR)"
+        },
+        "Network": {
+            "2G bands": "N/A",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "No cellular connectivity"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.6 GHz",
+            "OS": "Android OS, v4.3 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Samsung Galaxy Camera 2 GC200",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_galaxy_camera_2_gc200-pictures-5928.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-camera-2.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_galaxy_camera_2_gc200-5928.php"
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po 2600 mAh battery",
+            "Stand-by": "Up to 737 h (3G)",
+            "Talk time": "Up to 21 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "156.6 x 78.7 x 7.9 mm (6.17 x 3.10 x 0.31 in)",
+            "SIM": "Nano-SIM",
+            "Weight": "165 g (5.82 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection, simultaneous HD video and image recording, HDR",
+            "Primary": "13 MP, 4160 x 3120 pixels, autofocus, LED flash, check quality",
+            "Secondary": "5 MP, 1080p",
+            "Video": "1080p@30fps, 720p@60fps, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, apt-X",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "NFC": "Yes (optional)",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- HTC Sense UI 6.0",
+            "Multitouch": "Yes",
+            "Resolution": "720 x 1280 pixels (~267 ppi pixel density)",
+            "Size": "5.5 inches (~67.7% screen-to-body ratio)",
+            "Type": "Super LCD2 capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Google Drive (100 GB cloud storage)\n- MP4/H.264/WMV player\n- MP3/eAAC+/WMA/WAV player\n- Document viewer\n- Photo viewer/editor\n- Voice memo/dial/commands",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2014, February",
+            "Status": "Available. Released 2014, March"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 128 GB",
+            "Internal": "8 GB, 1.5 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White, Red, Gray, Green",
+            "Price group": "5/10 (About 250 EUR)"
+        },
+        "Network": {
+            "": "LTE band 1(2100), 3(1800), 7(2600), 8(900) - Asia version",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 2100",
+            "4G bands": "LTE band 3(1800), 7(2600), 8(900), 20(800) - EMEA version",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 42.2/5.76 Mbps, LTE",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.6 GHz Cortex-A7",
+            "Chipset": "Qualcomm MSM8928 Snapdragon 400",
+            "GPU": "Adreno 305",
+            "OS": "Android OS, v4.4.2 (KitKat)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        },
+        "Tests": {
+            "Audio quality": "Noise -93.9dB / Crosstalk -83.0dB",
+            "Battery life": "Endurance rating 64h",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 1032 (nominal), 1.783 (sunlight)",
+            "Loudspeaker": "Voice 66dB / Noise 65dB / Ring 66dB",
+            "Performance": "Basemark OS II: 520 / Basemark X: 1437"
+        }
+    },
+    "main": {
+        "device_name": "HTC Desire 816",
+        "image": {
+            "href": "http://www.gsmarena.com/htc_desire_816-pictures-6073.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/htc-desire-8.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/htc_desire_816-6073.php"
+    }
+}

@@ -1,0 +1,129 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1200 mAh battery",
+            "Stand-by": "Up to 700 h (2G) / Up to 600 h (3G)",
+            "Talk time": "Up to 14 h 20 min (2G) / Up to 6 h 45 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "109.5 x 53.9 x 11.8 mm (4.31 x 2.12 x 0.46 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "113.8 g / 99.5 g (3.99 oz)"
+        },
+        "Camera": {
+            "Features": "Smile detection, geo-tagging",
+            "Primary": "5 MP, 2592 x 1944 pixels, autofocus, LED flash, check quality",
+            "Secondary": "No",
+            "Video": "320p@15fps"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS; FM recording",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "": "- TouchWiz UI 3.0",
+            "Multitouch": "Yes",
+            "Resolution": "240 x 400 pixels (~146 ppi pixel density)",
+            "Size": "3.2 inches (~49.4% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- Removable plastic flip cover with leather texture\n- MP3/WAV/eAAC+ player\n- MP4/H.264 player\n- Organizer\n- Photo editor\n- Voice memo\n- Predictive text input (T9 Trace)",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email, Push Email, IM, RSS",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2010, August",
+            "Status": "Available. Released 2010, October"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 16 GB",
+            "Internal": "90 MB"
+        },
+        "Misc": {
+            "Colors": "Various; La Fleur edition",
+            "Price group": "3/10 (About 130 EUR)",
+            "SAR EU": "0.96 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 3.6/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "0": "O",
+            "1": "S",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "t",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "g",
+            "25": "l",
+            "26": "o",
+            "27": "s",
+            "28": "s",
+            "29": "a",
+            "3": "p",
+            "30": "r",
+            "31": "y",
+            "32": ".",
+            "33": "p",
+            "34": "h",
+            "35": "p",
+            "36": "3",
+            "37": "?",
+            "38": "t",
+            "39": "e",
+            "4": ":",
+            "40": "r",
+            "41": "m",
+            "42": "=",
+            "43": "o",
+            "44": "s",
+            "5": "/",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Sound": {
+            "": "- DNSe (Digital Natural Sound Engine)",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -67.8dB / Crosstalk -65.3dB",
+            "Camera": "Photo",
+            "Loudspeaker": "Voice 69dB / Noise 66dB / Ring 74dB"
+        }
+    },
+    "main": {
+        "device_name": "Samsung S7230E Wave 723",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_s7230e_wave_723-pictures-3493.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-wave-723.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_s7230e_wave_723-3493.php"
+    }
+}

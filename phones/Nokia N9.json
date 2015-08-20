@@ -1,0 +1,95 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 1450 mAh battery (BV-5JW)",
+            "Music play": "Up to 50 h",
+            "Stand-by": "Up to 380 h (2G) / Up to 450 h (3G)",
+            "Talk time": "Up to 11 h (2G) / Up to 7 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "116.5 x 61.2 x 12.1 mm, 76 cc (4.59 x 2.41 x 0.48 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "135 g (4.76 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face detection, touch-focus",
+            "Primary": "8 MP, 3264 x 2448 pixels, Carl Zeiss optics, autofocus, dual LED flash, check quality",
+            "Secondary": "Yes",
+            "Video": "720p@30fps, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP, EDR",
+            "GPS": "Yes, with A-GPS; Ovi Maps",
+            "NFC": "Yes",
+            "Radio": "FM radio (Via third-party app)",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct"
+        },
+        "Display": {
+            "": "- Anti-glare polariser",
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "480 x 854 pixels (~251 ppi pixel density)",
+            "Size": "3.9 inches (~58.8% screen-to-body ratio)",
+            "Type": "AMOLED capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- SNS integration\n- Active noise cancellation with dedicated mic\n- TV-out \n- Dolby Digital Plus\n- MP3/WAV/eAAC+/WMA/FLAC player\n- MP4/H.264/WMV player\n- Document viewer (Word, Excel, PowerPoint, PDF)\n- Video/photo editor\n- Voice memo/command/dial\n- Predictive text input (Swype)",
+            "Browser": "WAP 2.0/xHTML, HTML5, RSS feeds",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2011, June",
+            "Status": "Available. Released 2011, September"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "16/64 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, Cyan, Magenta, Glossy white",
+            "Price group": "3/10 (About 140 EUR)",
+            "SAR EU": "1.16 W/kg (head)",
+            "SAR US": "1.18 W/kg (head) \u00a0 \u00a0 1.18 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 1700 / 1900 / 2100",
+            "EDGE": "Class 33",
+            "GPRS": "Class 33",
+            "Speed": "HSPA 14.4/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "1 GHz Cortex A8",
+            "Chipset": "TI OMAP 3630",
+            "GPU": "PowerVR SGX530",
+            "OS": "MeeGo OS, v1.2 Harmattan"
+        },
+        "Sound": {
+            "": "- Dolby Mobile\n- Dolby Headphone",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -90.9dB / Crosstalk -83.6dB",
+            "Battery life": "Endurance rating 39h",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: Infinite (nominal) / 3.069:1 (sunlight)",
+            "Loudspeaker": "Voice 61dB / Noise 58dB / Ring 66dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Nokia N9-00, Nokia N9 Lankku",
+        "device_name": "Nokia N9",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_n9-pictures-3398.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/Nokia-N9-00-cyan.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_n9-3398.php"
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 1000 mAh battery",
+            "Stand-by": "Up to 400 h (2G) / Up to 350 h (3G)",
+            "Talk time": "Up to 10 h (2G) / Up to 4 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "97 x 49 x 16 mm (3.82 x 1.93 x 0.63 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "96 g (3.39 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face/smile detection, video-calling",
+            "Primary": "5 MP, 2592 x 1944 pixels, autofocus, LED flash",
+            "Secondary": "No",
+            "Video": "320p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "Yes, with A-GPS; Wayfinder Navigator 7",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Protection": "Scratch-resistant glass",
+            "Resolution": "240 x 320 pixels (~167 ppi pixel density)",
+            "Size": "2.4 inches (~37.5% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/AAC/MP4 player\n- TrackID music recognition\n- Photo editor \n- YouTube application\n- TV-out\n- Organizer\n- Voice memo/dial\n- Predictive text input",
+            "Browser": "WAP 2.0/HTML (NetFront), RSS reader",
+            "Games": "Yes, incl. motion-based + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2009, February",
+            "Status": "Available. Released 2009, July"
+        },
+        "Memory": {
+            "Call records": "30 received, dialed and missed calls",
+            "Card slot": "Memory Stick Micro (M2), up to 16 GB",
+            "Internal": "105 MB",
+            "Phonebook": "1000 x 20 fields, Photo call"
+        },
+        "Misc": {
+            "Colors": "Lacquer Black, Techno White, Glamour Red, Metal Pink, Warm Silver",
+            "Price group": "3/10 (About 110 EUR)",
+            "SAR EU": "0.55 W/kg (head)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 1900 / 2100 - C903a",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Speed": "HSPA",
+            "Technology": "GSM / HSPA"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration, MP3, AAC ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Sony Ericsson C903",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_ericsson_c903-pictures-2668.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/se-c903.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_ericsson_c903-2668.php"
+    }
+}

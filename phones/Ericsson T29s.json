@@ -1,0 +1,93 @@
+{
+    "data": {
+        "Battery": {
+            "": "NiMH battery",
+            "Stand-by": "150 h",
+            "Talk time": "7 h"
+        },
+        "Body": {
+            "Dimensions": "101 x 49 x 20 mm (3.98 x 1.93 x 0.79 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "95 g (3.35 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "101 x 33 pixels, 3 x 12 chars",
+            "Size": "",
+            "Type": "Grayscale graphic"
+        },
+        "Features": {
+            "": "- Predictive text input\n- Voice dialing\n- Voice answering\n- Profiles]\n- Helptexts and shortcuts\n- Active flip",
+            "Alarm": "Yes",
+            "Browser": "WAP 1.1",
+            "Clock": "Yes",
+            "Games": "5",
+            "Java": "No",
+            "Languages": "English + many Asian",
+            "Messaging": "SMS, EMS"
+        },
+        "Launch": {
+            "Announced": "Feb, 2001",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "10 received, dialed and missed calls",
+            "Card slot": "No",
+            "Phonebook": "200"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable monophonic ringtones, composer",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Ericsson T29s",
+        "image": {
+            "href": "http://www.gsmarena.com/ericsson_t29s-pictures-225.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/ert29.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/ericsson_t29s-225.php"
+    }
+}

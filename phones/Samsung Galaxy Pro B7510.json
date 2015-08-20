@@ -1,0 +1,87 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1350 mAh battery",
+            "Stand-by": "Up to 610 h (2G) / Up to 430 h (3G)",
+            "Talk time": "Up to 11 h (2G) / Up to 6 h 10 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "108.6 x 66.7 x 10.7 mm (4.28 x 2.63 x 0.42 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "103.4 g (3.63 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, smile shutter",
+            "Primary": "3.15 MP, 2048 x 1536 pixels, autofocus, check quality",
+            "Secondary": "No",
+            "Video": "320p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "": "- TouchWiz UI v3.0",
+            "Multitouch": "No",
+            "Resolution": "320 x 240 pixels (~143 ppi pixel density)",
+            "Size": "2.8 inches (~33.5% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- MP4/WMV/H.264 player\n- MP3/WAV/eAAC+ player\n- Photo/video editor\n- Document viewer",
+            "Browser": "HTML, no Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2011, March",
+            "Status": "Available. Released 2011, April"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB, 2 GB included",
+            "Internal": "270 MB RAM (160 MB user available)"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "3/10 (About 120 EUR)",
+            "SAR EU": "1.00 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 7.2/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "800 MHz ARMv6",
+            "OS": "Android OS, v2.2.2 (Froyo)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -83.8dB / Crosstalk -81.2dB",
+            "Camera": "Photo",
+            "Display": "Contrast ratio: 747:1 (nominal)",
+            "Loudspeaker": "Voice 69dB / Noise 72dB / Ring 81dB"
+        }
+    },
+    "main": {
+        "device_name": "Samsung Galaxy Pro B7510",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_galaxy_pro_b7510-pictures-3850.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-pro.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_galaxy_pro_b7510-3850.php"
+    }
+}

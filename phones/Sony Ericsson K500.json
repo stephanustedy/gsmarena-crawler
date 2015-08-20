@@ -1,0 +1,76 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion battery",
+            "Stand-by": "Up to 300 h",
+            "Talk time": "Up to 7 h"
+        },
+        "Body": {
+            "Dimensions": "102 x 46 x 14 mm (4.02 x 1.81 x 0.55 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "80 g (2.82 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Wallpapers, 3D animations and pictures",
+            "Resolution": "128 x 160 pixels (~108 ppi pixel density)",
+            "Size": "1.9 inches, 30 x 37 mm (~24.2% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- MP3/MP4 player\n- SyncML\n- Predictive text input\n- Organizer\n- Photo editor\n- Voice dial\n- Voice memo",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2004, 3Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "30 received, dialed and missed calls",
+            "Card slot": "No",
+            "Internal": "12 MB",
+            "Phonebook": "8 fields, 510 items, Photo call"
+        },
+        "Misc": {
+            "Colors": "2 - Virtual Silver, Cosmetic Blue",
+            "SAR EU": "0.53 W/kg (head)",
+            "SAR US": "0.65 W/kg (head) \u00a0 \u00a0 1.39 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones, composer",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "canonical_name": "- K500i GSM 900/1800/1900 MHz\n- K500c GSM 900/1800/1900 MHz for China Mainland\n- K506c GSM 900/1800/1900 MHz for China Mainland\n- K508i GSM 900/1800/1900 MHz \n- K508c GSM 900/1800/1900 MHz for China Mainland",
+        "device_name": "Sony Ericsson K500",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_ericsson_k500-pictures-847.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/snk500.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_ericsson_k500-847.php"
+    }
+}

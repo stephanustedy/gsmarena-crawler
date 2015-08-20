@@ -1,0 +1,80 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1650 mAh battery",
+            "Stand-by": "Up to 840 h (2G) / Up to 560 h (3G)",
+            "Talk time": "Up to 13 h 10 min (2G) / Up to 9 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "122.5 x 63 x 9.9 mm (4.82 x 2.48 x 0.39 in)",
+            "SIM": "No",
+            "Weight": "123.5 g (4.34 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face/smile detection",
+            "Primary": "3.15 MP, 2048 x 1536 pixels, autofocus",
+            "Secondary": "VGA",
+            "Video": "720p"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "480 x 800 pixels (~233 ppi pixel density)",
+            "Size": "4.0 inches (~59.0% screen-to-body ratio)",
+            "Type": "Super AMOLED capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- DMB TV tuner\n- MP4/WMV/H.264 player\n- MP3/WAV/eAAC+ player\n- Photo editor\n- Document viewer",
+            "Browser": "WAP 2.0/xHTML, HTML, Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2012, January",
+            "Status": "Available. Released 2012, September"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "4 GB"
+        },
+        "Misc": {
+            "Colors": "Platinum Silver, Blue Black, Lavender Pink",
+            "Price group": "4/10 (About 160 EUR)",
+            "SAR EU": "0.43 W/kg (head)",
+            "SAR US": "0.74 W/kg (head)"
+        },
+        "Network": {
+            "": "CDMA",
+            "2G bands": "GSM",
+            "3G bands": "HSDPA 2100",
+            "EDGE": "",
+            "GPRS": "",
+            "Speed": "HSPA",
+            "Technology": "HSPA"
+        },
+        "Platform": {
+            "CPU": "1 GHz Cortex-A8",
+            "OS": "Android OS, v2.3 (Gingerbread)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Samsung Galaxy M Style M340S",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_galaxy_m_style_m340s-pictures-4401.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-m-style.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_galaxy_m_style_m340s-4401.php"
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po 7000 mAh battery",
+            "Music play": "Up to 32 h",
+            "Stand-by": "Up to 336 h",
+            "Talk time": "Up to 8 h 30 min"
+        },
+        "Body": {
+            "Dimensions": "260 x 170 x 9.5 mm (10.24 x 6.69 x 0.37 in)",
+            "SIM": "Yes",
+            "Weight": "612 g (1.35 lb)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels",
+            "Secondary": "VGA",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0",
+            "GPS": "No",
+            "USB": "microUSB v2.0, USB Host",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "800 x 1280 pixels (~149 ppi pixel density)",
+            "Size": "10.1 inches (~66.9% screen-to-body ratio)",
+            "Type": "IPS capacitive touchscreen"
+        },
+        "Features": {
+            "": "- HDMI port\n- MP3/WAV/eAAC player\n- MP4/H.264 player\n- Document viewer\n- Photo viewer/editor\n- Voice memo/dial",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "Email, IM",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2014, Q1",
+            "Status": "Available. Released 2014, Q1"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "16 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black/Deep Blue",
+            "Price group": "5/10 (About 220 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 7.2/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.6 GHz Cortex-A9",
+            "Chipset": "Rockchip RK3188",
+            "GPU": "Mali-400MP4",
+            "OS": "Android OS, v4.2 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "device_name": "Prestigio MultiPad 4 Quantum 10.1 3G",
+        "image": {
+            "href": "http://www.gsmarena.com/prestigio_multipad_4_quantum_10_1_3g-pictures-6208.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/prestigio-multipad4-quantum-101.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/prestigio_multipad_4_quantum_10_1_3g-6208.php"
+    }
+}

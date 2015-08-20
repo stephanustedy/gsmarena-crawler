@@ -1,0 +1,91 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 2000 mAh battery",
+            "Stand-by": "Up to 586 h (2G) / Up to 581 h (3G)",
+            "Talk time": "Up to 19 h 23 min (2G) / Up to 11 h 30 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "132.2 x 69.1 x 9.3 mm (5.20 x 2.72 x 0.37 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "139.1 g (4.90 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face/smile detection",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, LED flash, check quality",
+            "Secondary": "1.3 MP, 720p@30fps",
+            "Video": "720p@30fps, stereo sound rec., check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, EDR",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "NFC": "Yes",
+            "Radio": "Stereo FM radio with RDS, FM recording",
+            "USB": "microUSB v2.0 (MHL TV-out)",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, DLNA, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "480 x 800 pixels (~207 ppi pixel density)",
+            "Size": "4.5 inches (~63.1% screen-to-body ratio)",
+            "Type": "Super AMOLED Plus capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/WMV/H.264 player\n- MP3/WAV/eAAC+/FLAC player\n- Photo/video editor\n- Document viewer",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2013, January",
+            "Status": "Available. Released 2013, March"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "8 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "White, Gray",
+            "Price group": "4/10 (About 180 EUR)",
+            "SAR EU": "0.33 W/kg (head) \u00a0 \u00a0 0.35 W/kg (body)",
+            "SAR US": "0.48 W/kg (head) \u00a0 \u00a0 0.73 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 2100",
+            "4G bands": "LTE band 3(1800), 7(2600), 8(900), 20(800)",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 21.1/5.76 Mbps, LTE",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.2 GHz Krait",
+            "Chipset": "Qualcomm MSM8930 Snapdragon 400",
+            "GPU": "Adreno 305",
+            "OS": "Android OS, v4.1.2 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -82.5dB / Crosstalk -82.0dB",
+            "Battery life": "Endurance rating 59h",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: Infinite (nominal) / 2.861:1 (sunlight)",
+            "Loudspeaker": "Voice 67dB / Noise 66dB / Ring 75dB"
+        }
+    },
+    "main": {
+        "device_name": "Samsung Galaxy Express I8730",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_galaxy_express_i8730-pictures-5271.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-express.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_galaxy_express_i8730-5271.php"
+    }
+}

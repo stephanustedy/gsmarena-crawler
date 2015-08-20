@@ -1,0 +1,95 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 690 mAh battery",
+            "Stand-by": "60 h - 190 h",
+            "Talk time": "1 h 30 min - 6 h"
+        },
+        "Body": {
+            "Dimensions": "109 x 45 x 20 mm, 81 cc (4.29 x 1.77 x 0.79 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "81 g (2.86 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Five directional joystick\n- Screensavers\n- Background pictures",
+            "Resolution": "101 x 80 pixels, 6 lines",
+            "Size": "",
+            "Type": "STN, 256 colors"
+        },
+        "Features": {
+            "": "- SyncML\n- Organizer\n- Predictive text input\n- Voice dial\n- Voice memo\n- On/off timers\n- CallerID graphics",
+            "Alarm": "Yes",
+            "Browser": "WAP 1.2.1",
+            "Clock": "Yes",
+            "Games": "Downloadable",
+            "Java": "No",
+            "Messaging": "SMS, EMS"
+        },
+        "Launch": {
+            "Announced": "2002",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- Several fields in the address book\n- Message templates",
+            "Call records": "10 dialed, 10 received, 10 missed calls",
+            "Card slot": "No",
+            "Phonebook": "100"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "Class 8",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, recorded ringtones, composer",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "GD68 - asian version",
+        "device_name": "Panasonic GD67",
+        "image": {
+            "href": "http://www.gsmarena.com/panasonic_gd67-pictures-321.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/pagd67.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/panasonic_gd67-321.php"
+    }
+}

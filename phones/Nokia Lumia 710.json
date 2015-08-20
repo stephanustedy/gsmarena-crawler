@@ -1,0 +1,94 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1300 mAh battery (BP-3L)",
+            "Music play": "Up to 38 h",
+            "Stand-by": "Up to 400 h (2G) / Up to 400 h (3G)",
+            "Talk time": "Up to 6 h 50 min (2G) / Up to 7 h 40 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "119 x 62.4 x 12.5 mm, 81.1 cc (4.69 x 2.46 x 0.49 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "125.5 g (4.41 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, LED flash, check quality",
+            "Secondary": "No",
+            "Video": "720p@30fps, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n"
+        },
+        "Display": {
+            "": "- Nokia ClearBlack display",
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "480 x 800 pixels (~252 ppi pixel density)",
+            "Size": "3.7 inches (~52.5% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP3/WAV/eAAC+/WMA player\n- MP4/H.264/WMV player\n- Document viewer/editor\n- Video/photo editor",
+            "Browser": "WAP 2.0/xHTML, HTML5, RSS feeds",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2011, October",
+            "Status": "Available. Released 2011, December"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "8 GB, 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White (front)/ black, white, cyan, fuchsia, yellow (back)",
+            "Price group": "2/10 (About 100 EUR)",
+            "SAR EU": "1.30 W/kg (head)",
+            "SAR US": "1.06 W/kg (head) \u00a0 \u00a0 0.94 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 900 / 1700 / 1900 / 2100 - For Canada",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 1900 / 2100 - RM-803",
+            "EDGE": "Class 33",
+            "GPRS": "Class 33",
+            "Speed": "HSPA 14.4/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "1.4 GHz Scorpion",
+            "Chipset": "Qualcomm MSM8255 Snapdragon S2",
+            "GPU": "Adreno 205",
+            "OS": "Microsoft Windows Phone 7.5 Mango"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -80.9dB / Crosstalk -85.7dB",
+            "Battery life": "Endurance rating 27h",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 1115:1 (nominal)",
+            "Loudspeaker": "Voice 65dB / Noise 61dB / Ring 65dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Nokia Sabre",
+        "device_name": "Nokia Lumia 710",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_lumia_710-pictures-4276.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-lumia-710.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_lumia_710-4276.php"
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po 4600 mAh battery",
+            "Stand-by": "Up to 624 h (3G)",
+            "Talk time": "Up to 18 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "216.9 x 126.5 x 8.9 mm (8.54 x 4.98 x 0.35 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "339.9 g (11.99 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, panorama, HDR",
+            "Primary": "5 MP, 2560 x 1600 pixels, autofocus",
+            "Secondary": "1.3 MP, 720p",
+            "Video": "1080p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP",
+            "GPS": "Yes, with GLONASS",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "microUSB v2.0 (SlimPort)",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, hotspot, Wi-Fi Direct, DLNA"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 2",
+            "Resolution": "1200 x 1920 pixels (~273 ppi pixel density)",
+            "Size": "8.3 inches (~72.8% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/DivX/XviD/H.264 player\n- MP3/WAV/eAAC+ player\n- Document viewer\n- Photo viewer/editor\n- Voice memo",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, gyro, compass"
+        },
+        "Launch": {
+            "Announced": "2014, March",
+            "Status": "Available. Released 2014, March"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "16 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "5/10 (About 220 EUR)",
+            "SAR US": "1.06 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM - N/A",
+            "4G bands": "LTE band 4(1700/2100), 13(700)",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Speed": "LTE",
+            "Technology": "LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.5 GHz Krait 300",
+            "Chipset": "Qualcomm APQ8064 Pro Snapdragon 600",
+            "GPU": "Adreno 320",
+            "OS": "Android OS, v4.2.2 (Jelly Bean), planned upgrade to v5.0 (Lollipop)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "canonical_name": "For Verizon\nAlso known as LG VK810",
+        "device_name": "LG G Pad 8.3 LTE",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_g_pad_8_3_lte-pictures-6173.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-g-pad-83-lte-v.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_g_pad_8_3_lte-6173.php"
+    }
+}

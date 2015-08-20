@@ -1,0 +1,84 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po 2500 mAh battery",
+            "Stand-by": "Up to 800 h (2G) / Up to 600 h (3G)",
+            "Talk time": "Up to 17 h (2G) / Up to 15 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "150.6 x 75 x 9.5 mm (5.93 x 2.95 x 0.37 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "152 g (5.36 oz)"
+        },
+        "Camera": {
+            "Features": "1.34 \u00b5m pixel size, 1/2.3'' sensor size, geo-tagging, touch focus, face detection, HDR, panorama",
+            "Primary": "16 MP, 3456 x 4608 pixels, autofocus, LED flash",
+            "Secondary": "8 MP, autofocus",
+            "Video": "1080p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0",
+            "GPS": "Yes, with A-GPS",
+            "NFC": "Yes",
+            "Radio": "Stereo FM radio",
+            "USB": "microUSB v2.0, USB Host",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, DLNA, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 3",
+            "Resolution": "1080 x 1920 pixels (~401 ppi pixel density)",
+            "Size": "5.5 inches (~73.8% screen-to-body ratio)",
+            "Type": "LTPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- Air gestures\n- Motion controls\n- MP4/WMV/H.264 player\n- MP3/WAV/WMA/AAC player\n- Photo/video editor\n- Voice memo",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2014, April",
+            "Status": "Available. Released 2014, May"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "32 GB, 3GB RAM (L260L)/ 16 GB, 2 GB RAM (L259L)"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "6/10 (About 290 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 1900 / 2100",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 21.1/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Quad-core 2.2 GHz Krait 400",
+            "Chipset": "Qualcomm MSM8274AB Snapdragon 800",
+            "GPU": "Adreno 330",
+            "OS": "Android OS, v4.2.2 (Jelly Bean), upgradable to v4.4.2 (KitKat)"
+        },
+        "Sound": {
+            "": "- DTS sound",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as BLU L260L (32GB+3GB), L259L (16GB+2GB)",
+        "device_name": "BLU Life Pure XL",
+        "image": {
+            "href": "http://www.gsmarena.com/blu_life_pure_xl-pictures-6346.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/blu-life-pure-xl.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/blu_life_pure_xl-6346.php"
+    }
+}

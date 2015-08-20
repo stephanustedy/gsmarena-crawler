@@ -1,0 +1,81 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1800 mAh battery",
+            "Music play": "Up to 46 h",
+            "Stand-by": "Up to 380 h (2G) / Up to 330 h (3G)",
+            "Talk time": "Up to 13 h (2G) / Up to 10 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "124.9 x 64.9 x 10.2 mm (4.92 x 2.56 x 0.40 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "142 g (5.01 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, smile detection, WDR",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash",
+            "Secondary": "1.2 MP, 720p@30fps",
+            "Video": "1080p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "Radio": "No",
+            "USB": "microUSB v2.0 (MHL TV-out), USB Host",
+            "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "800 x 1280 pixels (~343 ppi pixel density)",
+            "Size": "4.4 inches (~69.3% screen-to-body ratio)",
+            "Type": "Capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP3/WAV/eAAC+/FLAC player\n- MP4/H.264 player\n- Document viewer/editor\n- Photo viewer",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2012, November",
+            "Status": "Available. Released 2012, December"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "16/32/64 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black front & white back",
+            "Price group": "7/10 (About 310 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "3G bands": "HSDPA 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 21.1/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.6 GHz Cortex-A9",
+            "Chipset": "Exynos 4412 Quad",
+            "GPU": "Mali-400MP4",
+            "OS": "Android OS, v4.1.1 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Meizu MX2",
+        "image": {
+            "href": "http://www.gsmarena.com/meizu_mx2-pictures-5142.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/meizu-mx2.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/meizu_mx2-5142.php"
+    }
+}

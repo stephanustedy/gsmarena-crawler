@@ -1,0 +1,82 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1320 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "-",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "-"
+        },
+        "Camera": {
+            "Features": "Resolution limited to 8 MP by software, geo-tagging, face detection, touch focus",
+            "Primary": "12 MP, 4000 x 3000 pixels, autofocus, dual-LED flash",
+            "Secondary": "Yes",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP, EDR",
+            "GPS": "Yes, with A-GPS; Ovi Maps",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "480 x 854 pixels (~245 ppi pixel density)",
+            "Size": "4.0 inches",
+            "Type": "LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP3/WAV/eAAC+/WMA/FLAC player\n- MP4/H.264/WMV player\n- Document viewer (Word, Excel, PowerPoint, PDF viewer)\n- Video/photo editor\n- Predictive text input (Swype)",
+            "Browser": "WAP 2.0/xHTML, HTML, RSS feeds",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2011, June",
+            "Status": "Available"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "8.5 GB user available, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "SAR US": "0.80 W/kg (head) \u00a0 \u00a0 1.24 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 1700 / 1900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 14.4/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "1 GHz Cortex-A8",
+            "Chipset": "TI OMAP 3630",
+            "GPU": "PowerVR SGX530",
+            "OS": "MeeGo 1.2 Harmattan OS"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "This is a developers-only device, not available commercially",
+        "device_name": "Nokia N950",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_n950-pictures-3997.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-n950.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_n950-3997.php"
+    }
+}

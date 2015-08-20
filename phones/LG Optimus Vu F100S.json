@@ -1,0 +1,92 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 2080 mAh battery",
+            "Stand-by": "Up to 270 h",
+            "Talk time": "Up to 6 h"
+        },
+        "Body": {
+            "Dimensions": "139.6 x 90.4 x 8.5 mm (5.50 x 3.56 x 0.33 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "168 g (5.93 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face detection",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash, check quality",
+            "Secondary": "1.3 MP",
+            "Video": "1080p@30fps, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "NFC": "Yes",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0 (MHL TV-out)",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, DLNA, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "768 x 1024 pixels (~256 ppi pixel density)",
+            "Size": "5.0 inches (~61.3% screen-to-body ratio)",
+            "Type": "HD-IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- T-DMB TV tuner\n- Active noise cancellation with dedicated mic\n- MP4/H.264/WMV/DviX player\n- MP3/WMA/WAV/FLAC/eAAC+ player\n- True HD movie editor\n- Document viewer/editor\n- Organizer\n- Voice memo/dial/commands\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML, Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2012, February",
+            "Status": "Available. Released 2012, March"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "32 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "5/10 (About 240 EUR)"
+        },
+        "Network": {
+            "": "HSDPA 2100",
+            "2G bands": "CDMA 800 / 1900",
+            "3G bands": "CDMA2000 1xEV-DO",
+            "4G bands": "LTE 800",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Speed": "HSPA, LTE, EV-DO Rev. A 3.1 Mbps",
+            "Technology": "CDMA / HSPA / EVDO / LTE"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.5 GHz Scorpion",
+            "Chipset": "Qualcomm MSM8660 Snapdragon S3",
+            "GPU": "Adreno 220",
+            "OS": "Android OS, v2.3.5 (Gingerbread), upgradable to v4.1.2 (Jelly Bean)"
+        },
+        "Sound": {
+            "": "- Dolby mobile",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -87.0dB / Crosstalk -83.7dB",
+            "Battery life": "Endurance rating 37h",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 890:1 (nominal) / 1.680:1 (sunlight)",
+            "Loudspeaker": "Voice 66dB / Noise 66dB / Ring 80dB"
+        }
+    },
+    "main": {
+        "canonical_name": "For South Korea\nAlso known as LG Optimus F100L",
+        "device_name": "LG Optimus Vu F100S",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_optimus_vu_f100s-pictures-4554.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-optimus-vu.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_optimus_vu_f100s-4554.php"
+    }
+}

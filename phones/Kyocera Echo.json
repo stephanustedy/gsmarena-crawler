@@ -1,0 +1,82 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1370 mAh battery",
+            "Stand-by": "Up to 200 h",
+            "Talk time": "Up to 7 h"
+        },
+        "Body": {
+            "Dimensions": "115 x 56.5 x 17.2 mm (4.53 x 2.22 x 0.68 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "193 g (6.81 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "5 MP, 2592 x 1944 pixels, autofocus, LED flash",
+            "Secondary": "Yes",
+            "Video": "720p"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g, hotspot (charges may apply)"
+        },
+        "Display": {
+            "": "- Simul-Task Mode \u2013 choose 2 of the Echo's 7 core apps and run one on each display simultaneously.\n- Optimized Mode \u2013 apps let the dual displays complement each other, like email on one and a full virtual keypad on the other.\n- Tablet Mode \u2013 dual displays act as a single (4.7 inches diagonally, 800 x 960 pixels) display.",
+            "Multitouch": "Yes",
+            "Resolution": "480 x 800 pixels (~267 ppi pixel density)",
+            "Size": "3.5 inches (~53.7% screen-to-body ratio)",
+            "Type": "Dual TFT capacitive touchscreens, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/WAV/AAC+ player\n- MP4/H.263 player\n- Organizer\n- Voice memo\n- Predictive text input",
+            "Browser": "HTML, Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS, MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2011, March",
+            "Status": "Available. Released 2011, April"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB, 8 GB included",
+            "Internal": "1GB, 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "7/10 (About 350 EUR)"
+        },
+        "Network": {
+            "2G bands": "CDMA 800 / 1900",
+            "3G bands": "CDMA2000 1xEV-DO",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Speed": "EV-DO Rev.A 3.1 Mbps",
+            "Technology": "CDMA / EVDO"
+        },
+        "Platform": {
+            "CPU": "1 GHz Scorpion",
+            "Chipset": "Qualcomm QSD8650 Snapdragon S1",
+            "GPU": "Adreno 200",
+            "OS": "Android OS, v2.2 (Froyo), upgradable to v2.3 (Gingerbread)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "For Sprint\nAlso known as Kyocera M9300",
+        "device_name": "Kyocera Echo",
+        "image": {
+            "href": "http://www.gsmarena.com/kyocera_echo-pictures-3914.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/kyocera-echo.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/kyocera_echo-3914.php"
+    }
+}

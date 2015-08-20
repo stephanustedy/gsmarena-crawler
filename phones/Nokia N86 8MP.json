@@ -1,0 +1,89 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1200 mAh battery (BL-5K)",
+            "Music play": "Up to 25 h",
+            "Stand-by": "Up to 312 h (2G) / 264 h (3G)",
+            "Talk time": "Up to 6 h 18 min (2G) / 3 h 54 min (3G)"
+        },
+        "Body": {
+            "": "- Dual slide design\n- Built-in kickstand",
+            "Dimensions": "103.4 x 51.4 x 16.5 mm, 69 cc (4.07 x 2.02 x 0.65 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "149 g (5.26 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "8 MP, 3264 x 2448 pixels, wide 28mm Carl Zeiss lens, autofocus, dual LED flash, check quality",
+            "Secondary": "VGA videocall camera",
+            "Video": "480p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "Yes, with A-GPS; Ovi Maps 3.0",
+            "Radio": "Stereo FM radio with RDS; FM transmitter",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g, UPnP technology"
+        },
+        "Display": {
+            "Protection": "Scratch-resistant glass",
+            "Resolution": "240 x 320 pixels (~154 ppi pixel density)",
+            "Size": "2.6 inches (~39.4% screen-to-body ratio)",
+            "Type": "AMOLED, 16M colors"
+        },
+        "Features": {
+            "": "- WMV/RV/MP4/3GP player\n- MP3/WMA/WAV/RA/AAC/M4A player\n- Document viewer (Word, Excel, PowerPoint, PDF) \n- Voice memo\n- TV-out",
+            "Browser": "WAP 2.0/xHTML, HTML, Adobe Flash Lite",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS, MMS, Email",
+            "Sensors": "Accelerometer, compass"
+        },
+        "Launch": {
+            "Announced": "2009, February",
+            "Status": "Available. Released 2009, June"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 16 GB",
+            "Internal": "8 GB, 128 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Indigo Black, White",
+            "Price group": "4/10 (About 180 EUR)",
+            "SAR EU": "0.66 W/kg (head)",
+            "SAR US": "0.83 W/kg (head) \u00a0 \u00a0 0.88 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 1900 / 2100 - American version",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Class 32, 296 / 177.6 kbits",
+            "GPRS": "Class 32",
+            "Speed": "HSPA 3.6/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "434 MHz ARM 11",
+            "OS": "Symbian OS v9.3, S60 rel. 3.2"
+        },
+        "Sound": {
+            "": "- Dedicated music/gallery keys",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        },
+        "Tests": {
+            "Audio quality": "Noise -91.0dB / Crosstalk -89.1dB",
+            "Camera": "Photo",
+            "Loudspeaker": "Voice 67dB / Noise 64dB / Ring 75dB"
+        }
+    },
+    "main": {
+        "device_name": "Nokia N86 8MP",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_n86_8mp-pictures-2713.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-n86.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_n86_8mp-2713.php"
+    }
+}

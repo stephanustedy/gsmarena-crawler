@@ -1,0 +1,73 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 680 mAh battery (BA700)",
+            "Stand-by": "Up to 280 h",
+            "Talk time": "Up to 7 h"
+        },
+        "Body": {
+            "Dimensions": "98 x 53 x 13.9 mm, 65 cc (3.86 x 2.09 x 0.55 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "95 g (3.35 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "No"
+        },
+        "Comms": {
+            "Bluetooth": "v1.2",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "miniUSB",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second CSTN display (96 x 80 pixels), 4096 colors\n- Anodized aluminum case\n- Downloadable logos",
+            "Resolution": "176 x 220 pixels, 9 lines (~128 ppi pixel density)",
+            "Size": "2.2 inches (~29.3% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- MP4 video\n- Predictive text input\n- Organizer",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Skipping Stones, Golf, Billiards + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2004, 3Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "10 dialed, 10 received, 10 missed calls",
+            "Card slot": "No",
+            "Internal": "5.5 MB",
+            "Phonebook": "1000 entries, Photo call"
+        },
+        "Misc": {
+            "Colors": "Silver, Black (Special Edition)",
+            "Price group": "2/10 (About 100 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones, composer",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Motorola RAZR V3",
+        "image": {
+            "href": "http://www.gsmarena.com/motorola_razr_v3-pictures-853.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/mov3.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/motorola_razr_v3-853.php"
+    }
+}

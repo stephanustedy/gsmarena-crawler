@@ -1,0 +1,82 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po 6930 mAh battery (25 Wh)",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "241.2 x 185.7 x 8.8 mm (9.50 x 7.31 x 0.35 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "607 g (1.34 lb)"
+        },
+        "Camera": {
+            "Features": "No",
+            "Primary": "0.7 MP, 960 x 720 pixels",
+            "Secondary": "VGA",
+            "Video": "720p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "v2.0",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Scratch-resistant glass, oleophobic coating",
+            "Resolution": "768 x 1024 pixels (~132 ppi pixel density)",
+            "Size": "9.7 inches (~65.1% screen-to-body ratio)",
+            "Type": "LED-backlit IPS LCD, capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- iCloud cloud service\n- Maps\n- Audio/video player/editor\n- Photo viewer/editor\n- Voice memo\n- TV-out\n- Document viewer\n- Predictive text input",
+            "Browser": "HTML (Safari)",
+            "Java": "No",
+            "Messaging": "iMessage, Email, Push Email, IM",
+            "Sensors": "Accelerometer, gyro, compass"
+        },
+        "Launch": {
+            "Announced": "2011, March",
+            "Status": "Available. Released 2011, March"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "16/32/64 GB, 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "8/10 (About 480 EUR)"
+        },
+        "Network": {
+            "2G bands": "CDMA 800 / 1900",
+            "3G bands": "CDMA2000 1xEV-DO",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Speed": "EV-DO Rev.A 3.1 Mbps",
+            "Technology": "CDMA / EVDO"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1 GHz Cortex-A9",
+            "Chipset": "Apple A5",
+            "GPU": "PowerVR SGX543MP2",
+            "OS": "iOS 4, upgradable to iOS 8.4"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "N/A",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Apple iPad CDMA Early 2011\nTablet with no support for GSM voice communication",
+        "device_name": "Apple iPad 2 CDMA",
+        "image": {
+            "href": "http://www.gsmarena.com/apple_ipad_2_cdma-pictures-3849.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/apple-ipad2-new.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/apple_ipad_2_cdma-3849.php"
+    }
+}

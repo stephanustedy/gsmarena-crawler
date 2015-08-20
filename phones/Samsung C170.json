@@ -1,0 +1,69 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 730 mAh battery",
+            "Stand-by": "Up to 270 h",
+            "Talk time": "Up to 2 h 30 min"
+        },
+        "Body": {
+            "Dimensions": "105 x 42 x 8.9 mm (4.13 x 1.65 x 0.35 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "67 g (2.36 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "FM radio",
+            "USB": "No",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "128 x 128 pixels (~119 ppi pixel density)",
+            "Size": "1.52 inches (~16.9% screen-to-body ratio)",
+            "Type": "CSTN, 65K colors"
+        },
+        "Features": {
+            "": "- Predictive text input\n- Organizer\n- Voice memo",
+            "Browser": "WAP 1.2",
+            "Games": "Yes",
+            "Java": "No",
+            "Messaging": "SMS, EMS"
+        },
+        "Launch": {
+            "Announced": "2007, May",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "No",
+            "Internal": "600 KB",
+            "Phonebook": "500 entries"
+        },
+        "Misc": {
+            "Colors": "Red, Black, Gray, Blue",
+            "Price group": "1/10 (About 40 EUR)",
+            "SAR EU": "0.96 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Polyphonic(16) ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Samsung C170",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_c170-pictures-2010.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-c170.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_c170-2010.php"
+    }
+}

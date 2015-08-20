@@ -1,0 +1,75 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1050 mAh battery",
+            "Stand-by": "Up to 200 h",
+            "Talk time": "Up to 4 h 30 min"
+        },
+        "Body": {
+            "Dimensions": "95.7 x 59.6 x 20.7 mm, 118 cc (3.77 x 2.35 x 0.81 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "135 g (4.76 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels, LED flash",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "Yes, SiRF Star III chipset",
+            "Radio": "No",
+            "USB": "USB, v1.1",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Handwriting recognition\n- 5 way joystick",
+            "Resolution": "240 x 320 pixels (~148 ppi pixel density)",
+            "Size": "2.7 inches (~39.6% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- Car antenna connector\n- MP3/MP4 player\n- Organizer\n- Pocket Office \n- eUtility\n- E-viewer\n- Mio Menu\n- Customized Today screen\n- Voice memo/dial",
+            "Browser": "WAP 2.0/xHTML, HTML 4.0",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email, InstantMessaging"
+        },
+        "Launch": {
+            "Announced": "2007, 4Q",
+            "Status": "Cancelled"
+        },
+        "Memory": {
+            "Card slot": "SD/MMC, SDIO",
+            "Internal": "256 MB, 64 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Gray",
+            "Price group": "5/10 (About 210 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Platform": {
+            "CPU": "200 MHz ARM926EJ-S",
+            "Chipset": "TI OMAP 850",
+            "OS": "Windows Mobile 5 AKU3.3"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Mitac MIO A501",
+        "image": {
+            "href": "http://www.gsmarena.com/mitac_mio_a501-pictures-2122.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/mio-a501.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/mitac_mio_a501-2122.php"
+    }
+}

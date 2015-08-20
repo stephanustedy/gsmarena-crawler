@@ -1,0 +1,91 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1730 mAh battery",
+            "Stand-by": "Up to 358 h (2G) / Up to 420 h (3G)",
+            "Talk time": "Up to 9 h 20 min (2G) / Up to 7 h 45 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "126 x 65 x 12.1 mm (4.96 x 2.56 x 0.48 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "170 g (6.00 oz)"
+        },
+        "Camera": {
+            "Features": "Stereoscopic photos (2 MP only) & videos; geo-tagging",
+            "Primary": "5 MP, 2560 x 1920 pixels, autofocus, dual-LED flash, check quality",
+            "Secondary": "1.3 MP",
+            "Video": "720p@30fps (2D), 720p@30fps (3D), check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0 (MHL TV-out)",
+            "WLAN": "Wi-Fi 802.11 b/g/n, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- HTC Sense UI",
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "540 x 960 pixels (~256 ppi pixel density)",
+            "Size": "4.3 inches (~62.2% screen-to-body ratio)",
+            "Type": "3D LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP3/AAC+/WAV/WMA player\n- MP4/Xvid/H.264/WMV player\n- Organizer\n- Document viewer/editor\n- Voice memo/dial/commands\n- Predictive text input",
+            "Browser": "HTML",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2011, Q1",
+            "Status": "Available. Released 2011, July"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "1 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "4/10 (About 150 EUR)",
+            "SAR US": "0.89 W/kg (head) \u00a0 \u00a0 1.05 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 2100",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Up to 560 kbps",
+            "GPRS": "Up to 114 kbps",
+            "Speed": "HSPA 14.4/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.2 GHz",
+            "Chipset": "Qualcomm MSM8660 Snapdragon S3",
+            "GPU": "Adreno 220",
+            "OS": "Android OS, v2.3 (Gingerbread), upgradable to v4.0 (Ice Cream Sandwich)"
+        },
+        "Sound": {
+            "": "- SRS virtual surround sound (via wired headphones)",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -84.0dB / Crosstalk -73.1dB",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 761:1 (nominal)",
+            "Loudspeaker": "Voice 65dB / Noise 64dB / Ring 75dB"
+        }
+    },
+    "main": {
+        "device_name": "HTC EVO 3D",
+        "image": {
+            "href": "http://www.gsmarena.com/htc_evo_3d-pictures-3901.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/htc-evo-3d-gsm.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/htc_evo_3d-3901.php"
+    }
+}

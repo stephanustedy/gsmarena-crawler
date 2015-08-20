@@ -1,0 +1,73 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1000 mAh battery",
+            "Stand-by": "Up to 600 h",
+            "Talk time": "Up to 13 h"
+        },
+        "Body": {
+            "Dimensions": "110.7 x 46 x 14.3 mm (4.36 x 1.81 x 0.56 in)",
+            "SIM": "Dual SIM (Mini-SIM, dual stand-by)",
+            "Weight": "78.2 g (2.75 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "CIF@15fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, EDR",
+            "GPS": "No",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "128 x 160 pixels (~114 ppi pixel density)",
+            "Size": "1.8 inches (~20.0% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- SNS applications\n- MP3/AAC/WAV player\n- MP4/H.264 player\n- Organizer",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes",
+            "Java": "Yes",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2013, February",
+            "Status": "Available. Released 2013, February"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 16 GB",
+            "Phonebook": "1500 entries"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "1/10 (About 30 EUR)",
+            "SAR EU": "0.90 W/kg (head) \u00a0 \u00a0 0.60 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+            "EDGE": "No",
+            "GPRS": "Yes",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Available as Samsung E2200 with single SIM card support",
+        "device_name": "Samsung Metro E2202",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_metro_e2202-pictures-5312.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-metro-e2202.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_metro_e2202-5312.php"
+    }
+}

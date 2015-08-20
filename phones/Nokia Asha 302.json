@@ -1,0 +1,132 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1320 mAh battery (BL-5J)",
+            "Music play": "Up to 50 h",
+            "Stand-by": "Up to 707 h (2G) / Up to 830 h (3G)",
+            "Talk time": "Up to 9 h (2G) / Up to 5 h 50 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "115.2 x 58.9 x 13.5 mm, 77 cc (4.54 x 2.32 x 0.53 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "106 g (3.74 oz)"
+        },
+        "Camera": {
+            "Primary": "3.15 MP, 2048 x 1536 pixels, check quality",
+            "Secondary": "No",
+            "Video": "480p@15fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP, EDR",
+            "GPS": "No",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0, USB Host",
+            "WLAN": "Wi-Fi 802.11 b/g/n"
+        },
+        "Display": {
+            "Resolution": "320 x 240 pixels (~167 ppi pixel density)",
+            "Size": "2.4 inches (~26.3% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- SNS integration\n- MP4/H.264/WMV player\n- MP3/WAV/WMA/AAC player\n- Organizer\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML, Adobe Flash Lite",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email, Push Email, IM"
+        },
+        "Launch": {
+            "Announced": "2012, February",
+            "Status": "Available. Released 2012, March"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "100 MB, 256 MB ROM, 128 MB RAM",
+            "Phonebook": "Yes, Photocall"
+        },
+        "Misc": {
+            "Colors": "Dark Grey, Mid Blue, Plum Red, White, Golden Light",
+            "Price group": "2/10 (About 80 EUR)",
+            "SAR EU": "1.11 W/kg (head)",
+            "SAR US": "1.27 W/kg (head) \u00a0 \u00a0 1.01 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 1700 / 1900 / 2100",
+            "EDGE": "Class 33",
+            "GPRS": "Class 33",
+            "Speed": "HSPA 14.4/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "0": "C",
+            "1": "P",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "U",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "g",
+            "25": "l",
+            "26": "o",
+            "27": "s",
+            "28": "s",
+            "29": "a",
+            "3": "p",
+            "30": "r",
+            "31": "y",
+            "32": ".",
+            "33": "p",
+            "34": "h",
+            "35": "p",
+            "36": "3",
+            "37": "?",
+            "38": "t",
+            "39": "e",
+            "4": ":",
+            "40": "r",
+            "41": "m",
+            "42": "=",
+            "43": "c",
+            "44": "p",
+            "45": "u",
+            "5": "/",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -87.5dB / Crosstalk -88.3dB",
+            "Camera": "Photo",
+            "Display": "Contrast ratio: 602 (nominal) / 1.537:1 (sunlight)",
+            "Loudspeaker": "Voice 77dB / Noise 75dB / Ring 83dB"
+        }
+    },
+    "main": {
+        "device_name": "Nokia Asha 302",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_asha_302-pictures-4546.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-asha-302-ofic.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_asha_302-4546.php"
+    }
+}

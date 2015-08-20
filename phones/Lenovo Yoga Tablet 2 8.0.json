@@ -1,0 +1,82 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 6400 mAh battery",
+            "Stand-by": "Up to 324 h (3G)",
+            "Talk time": "Up to 18 h (3G)"
+        },
+        "Body": {
+            "": "- Built-in 3-stage kickstand",
+            "Dimensions": "210 x 149 x 7 mm (8.27 x 5.87 x 0.28 in)",
+            "SIM": "Yes",
+            "Weight": "419 g (14.78 oz)"
+        },
+        "Camera": {
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus",
+            "Secondary": "1.6 MP",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "microUSB v2.0, USB Host",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes, up to 10 fingers",
+            "Resolution": "1200 x 1920 pixels (~283 ppi pixel density)",
+            "Size": "8.0 inches (~59.3% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP3/WAV/WMA/AAC player\n- MP4/H.264 player\n- Document viewer\n- Photo/video editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "Email, Push Email, IM",
+            "Sensors": "Accelerometer, compass"
+        },
+        "Launch": {
+            "Announced": "2014, October",
+            "Status": "Available. Released 2014, October"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "16 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Platinum",
+            "Price group": "5/10 (About 230 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.33 GHz",
+            "Chipset": "Intel Atom Z3745",
+            "GPU": "Intel Gen 7 (Ivy Bridge)",
+            "OS": "Android OS, v4.4.2 (KitKat)"
+        },
+        "Sound": {
+            "": "- Dolby Digital Plus",
+            "3.5mm jack": "Yes",
+            "Alert types": "Yes",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "canonical_name": "Available with 3G/Wi-Fi or Wi-Fi only support\nTablet with no support for GSM voice communication",
+        "device_name": "Lenovo Yoga Tablet 2 8.0",
+        "image": {
+            "href": "http://www.gsmarena.com/lenovo_yoga_tablet_2_8_0_-pictures-6730.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lenovo-yoga-tablet-2.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lenovo_yoga_tablet_2_8_0_-6730.php"
+    }
+}

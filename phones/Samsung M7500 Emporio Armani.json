@@ -1,0 +1,82 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 960 mAh battery",
+            "Stand-by": "Up to 290 h (2G) / 290 h (3G)",
+            "Talk time": "Up to 4 h 20 min (2G) / 4 h 20 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "114.9 x 47.4 x 12 mm (4.52 x 1.87 x 0.47 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "90.2 g (3.21 oz)"
+        },
+        "Camera": {
+            "Features": "Smile detection",
+            "Primary": "3.15 MP, 2048 x 1536 pixels, autofocus",
+            "Secondary": "Videocall camera",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~182 ppi pixel density)",
+            "Size": "2.2 inches (~27.5% screen-to-body ratio)",
+            "Type": "AMOLED, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/e-AAC+/WMA player\n- MP4/3GP player\n- Organizer\n- Document viewer (Word, Excel, PowerPoint, PDF)\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2008, September. Released 2008, December",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "30 dialed, 30 received, 30 missed calls",
+            "Card slot": "microSD, up to 16 GB",
+            "Internal": "120 MB",
+            "Phonebook": "1000 entries, Photo call"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "3/10 (About 130 EUR)",
+            "SAR EU": "0.78 W/kg (head)",
+            "SAR US": "0.53 W/kg (head) \u00a0 \u00a0 0.81 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 2100",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 3.6/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Sound": {
+            "": "- Dedicated music keys",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -80.1B / Crosstalk -73.9dB",
+            "Loudspeaker": "Voice 73dB / Noise 0dB / Ring 0dB"
+        }
+    },
+    "main": {
+        "device_name": "Samsung M7500 Emporio Armani",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_m7500_emporio_armani-pictures-2529.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-m7500-emporio-armani.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_m7500_emporio_armani-2529.php"
+    }
+}

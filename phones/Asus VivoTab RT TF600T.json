@@ -1,0 +1,82 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po battery (25 Wh)",
+            "Stand-by": "",
+            "Talk time": "Up to 9 h"
+        },
+        "Body": {
+            "Dimensions": "262.5 x 170.9 x 8.3 mm (10.33 x 6.73 x 0.33 in)",
+            "SIM": "No",
+            "Weight": "525 g (1.16 lb)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash",
+            "Secondary": "2 MP",
+            "Video": "1080p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP",
+            "GPS": "No",
+            "NFC": "Yes",
+            "Radio": "No",
+            "USB": "USB v2.0, USB Host",
+            "WLAN": "Wi-Fi 802.11 b/g/n"
+        },
+        "Display": {
+            "": "- TruVivid technology",
+            "Multitouch": "Yes, up to 5 fingers",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "1366 x 768 pixels (~155 ppi pixel density)",
+            "Size": "10.1 inches (~62.7% screen-to-body ratio)",
+            "Type": "Super IPS+ LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Asus WebStorage (32 GB)\n- HDMI port\n- MP4/DivX/Xvid/H.264 player\n- MP3/WAV/eAAC+ player\n- Photo viewer/editor\n- Document editor/viewer",
+            "Browser": "HTML5",
+            "Java": "",
+            "Messaging": "Email, Push Email, IM",
+            "Sensors": "Accelerometer, gyro, compass"
+        },
+        "Launch": {
+            "Announced": "2012, October",
+            "Status": "Available. Released 2012, November"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "32/64 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Gray",
+            "Price group": "8/10 (About 420 EUR)"
+        },
+        "Network": {
+            "2G bands": "N/A",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "No cellular connectivity"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.3 GHz Cortex-A9",
+            "Chipset": "Nvidia Tegra 3 T30",
+            "GPU": "ULP GeForce",
+            "OS": "Microsoft Windows RT"
+        },
+        "Sound": {
+            "": "- SonicMaster sound technology",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes, with quad speakers"
+        }
+    },
+    "main": {
+        "device_name": "Asus VivoTab RT TF600T",
+        "image": {
+            "href": "http://www.gsmarena.com/asus_vivotab_rt_tf600t-pictures-5083.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/asus-vivotab-rt.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/asus_vivotab_rt_tf600t-5083.php"
+    }
+}

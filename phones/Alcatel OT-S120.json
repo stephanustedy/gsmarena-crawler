@@ -1,0 +1,69 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 670 mAh battery",
+            "Stand-by": "Up to 250 h",
+            "Talk time": "Up to 5 h"
+        },
+        "Body": {
+            "Dimensions": "98 x 44 x 12.3 mm (3.86 x 1.73 x 0.48 in)",
+            "SIM": "Mini-SIM",
+            "Weight": ""
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "96 x 64 pixels (~89 ppi pixel density)",
+            "Size": "1.3 inches (~11.7% screen-to-body ratio)",
+            "Type": "STN, monochrome graphics"
+        },
+        "Features": {
+            "": "- Predictive text input\n- Organizer",
+            "Browser": "No",
+            "Games": "1",
+            "Java": "No",
+            "Messaging": "SMS"
+        },
+        "Launch": {
+            "Announced": "2008, February. Released 2008, April",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- 250 SMS capacity",
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "No",
+            "Phonebook": "255 entries"
+        },
+        "Misc": {
+            "Colors": "Black, Black&White",
+            "SAR EU": "1.10 W/kg (head)",
+            "SAR US": "1.26 W/kg (head) \u00a0 \u00a0 0.74 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Polyphonic(16) ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Alcatel OT-S120",
+        "image": {
+            "href": "http://www.gsmarena.com/alcatel_ot_s120-pictures-2276.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/alcatel-s120.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/alcatel_ot_s120-2276.php"
+    }
+}

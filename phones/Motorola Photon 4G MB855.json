@@ -1,0 +1,85 @@
+{
+    "data": {
+        "Battery": {
+            "": "Standard battery, Li-Ion 1700 mAh ( in CDMA)",
+            "Stand-by": "Up to 200 h",
+            "Talk time": "Up to 10 h"
+        },
+        "Body": {
+            "": "- Built-in kickstand",
+            "Dimensions": "126.9 x 66.9 x 12.2 mm (5.00 x 2.63 x 0.48 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "158 g (5.57 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face detection",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, dual-LED flash",
+            "Secondary": "VGA",
+            "Video": "720p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, DLNA, hotspot; WiMAX 802.16 e"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "540 x 960 pixels (~256 ppi pixel density)",
+            "Size": "4.3 inches (~60.0% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- HDMI port\n- Active noise cancellation with dedicated mic\n- MP3/WAV/WMA/AAC+ player\n- MP4/WMV/H.264 player\n- Quickoffice document viewer\n- Photo viewer/editor\n- Organizer\n- Voice memo/dial/commands\n- Predictive text input (Swype)",
+            "Browser": "HTML, Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2011, June",
+            "Status": "Available. Released 2011, August"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "16 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "6/10 (About 270 EUR)",
+            "SAR US": "0.93 W/kg (head) \u00a0 \u00a0 0.91 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 1900 / 2100",
+            "2G bands": "CDMA 800 / 1900",
+            "3G bands": "CDMA2000 1xEV-DO",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "EV-DO Rev.A 3.1 Mbps, HSPA",
+            "Technology": "GSM / CDMA / HSPA / EVDO"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1 GHz Cortex-A9",
+            "Chipset": "Nvidia Tegra 2 AP20H",
+            "GPU": "ULP GeForce",
+            "OS": "Android OS, v2.3 (Gingerbread), not upgradable to v4.1 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Motorola ELECTRIFY",
+        "device_name": "Motorola Photon 4G MB855",
+        "image": {
+            "href": "http://www.gsmarena.com/motorola_photon_4g_mb855-pictures-3987.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/motorola-photon-4g.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/motorola_photon_4g_mb855-3987.php"
+    }
+}

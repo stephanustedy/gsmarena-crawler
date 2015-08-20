@@ -1,0 +1,88 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 1390 mAh battery",
+            "Stand-by": "Up to 320 h (2G) / Up to 320 h (3G)",
+            "Talk time": "Up to 4 h 30 min (2G) / Up to 9 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "116 x 60.9 x 10.9 mm (4.57 x 2.40 x 0.43 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "139 g (4.90 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face detection",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, Xenon flash, check quality",
+            "Secondary": "No",
+            "Video": "720p@24fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g, DLNA"
+        },
+        "Display": {
+            "": "- Touch sensitive controls",
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "480 x 854 pixels (~265 ppi pixel density)",
+            "Size": "3.7 inches (~53.4% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP3/WAV/WMA/AAC+ player\n- MP4/WMV/H.264 player\n- TV-out (720p video) via HDMI port\n- Active noise cancellation with dedicated mic\n- Document viewer\n- Photo viewer/editor\n- Face tagging\n- Organizer\n- Voice memo\n- Predictive text input",
+            "Browser": "HTML",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS (threaded view), MMS, Email, IM, Push Email",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2010, June",
+            "Status": "Available. Released 2010, July"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB, 8 GB included",
+            "Internal": "512 MB, 256 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black Slate",
+            "Price group": "4/10 (About 190 EUR)",
+            "SAR EU": "0.60 W/kg (head)",
+            "SAR US": "1.01 W/kg (head) \u00a0 \u00a0 1.21 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 1700 / 2100",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 10.2/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "600 MHz Cortex-A8",
+            "GPU": "PowerVR SGX530",
+            "OS": "Android OS, v2.1 (Eclair)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -86.0dB / Crosstalk -86.3dB",
+            "Camera": "Photo",
+            "Loudspeaker": "Voice 66dB / Noise 65dB / Ring 77dB"
+        }
+    },
+    "main": {
+        "device_name": "Motorola MILESTONE XT720",
+        "image": {
+            "href": "http://www.gsmarena.com/motorola_milestone_xt720-pictures-3375.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/motorola-milestone-xt720-final.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/motorola_milestone_xt720-3375.php"
+    }
+}

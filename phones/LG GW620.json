@@ -1,0 +1,129 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 1500 mAh battery",
+            "Stand-by": "Up to 600 h (2G) / Up to 500 h (3G)",
+            "Talk time": "Up to 8 h (2G) / Up to 7 h 40 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "109 x 54.5 x 15.9 mm (4.29 x 2.15 x 0.63 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "139 g (4.90 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face and detection",
+            "Primary": "5 MP, 2560 x 1920 pixels, autofocus, LED flash, check quality",
+            "Secondary": "No",
+            "Video": "320p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "Yes, A-GPS",
+            "Radio": "Stereo FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g, hotspot"
+        },
+        "Display": {
+            "Resolution": "320 x 480 pixels (~192 ppi pixel density)",
+            "Size": "3.0 inches (~45.1% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 256K colors (65K effective)"
+        },
+        "Features": {
+            "": "- MP3/WAV/eAAC+/WMA player\n- MP4/DivX/WMV/H.264 player\n- Document viewer \n- Organizer\n- Photo/video editor\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS (threaded view), MMS, Email, IM, Push Email",
+            "Sensors": "Accelerometer, compass"
+        },
+        "Launch": {
+            "Announced": "2009, September",
+            "Status": "Available. Released 2009, November"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "150 MB"
+        },
+        "Misc": {
+            "Colors": "Black, Gray, Blue",
+            "Price group": "2/10 (About 90 EUR)",
+            "SAR US": "0.21 W/kg (head) \u00a0 \u00a0 0.71 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 1900 / 2100 - American version",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Class 10",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 7.2/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "0": "O",
+            "1": "S",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "t",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "g",
+            "25": "l",
+            "26": "o",
+            "27": "s",
+            "28": "s",
+            "29": "a",
+            "3": "p",
+            "30": "r",
+            "31": "y",
+            "32": ".",
+            "33": "p",
+            "34": "h",
+            "35": "p",
+            "36": "3",
+            "37": "?",
+            "38": "t",
+            "39": "e",
+            "4": ":",
+            "40": "r",
+            "41": "m",
+            "42": "=",
+            "43": "o",
+            "44": "s",
+            "5": "/",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -86.3dB / Crosstalk -83.2dB",
+            "Camera": "Photo",
+            "Loudspeaker": "Voice 67dB / Noise 68dB / Ring 78dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as LG Eve, LG InTouch Max GW620 and LG LinkMe",
+        "device_name": "LG GW620",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_gw620-pictures-2936.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-gw620.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_gw620-2936.php"
+    }
+}

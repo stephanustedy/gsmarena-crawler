@@ -1,0 +1,75 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 960 mAh battery",
+            "Stand-by": "Up to 300 h",
+            "Talk time": "Up to 3 h"
+        },
+        "Body": {
+            "Dimensions": "105 x 56.5 x 12.4 mm (4.13 x 2.22 x 0.49 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "97 g (3.42 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels",
+            "Secondary": "No",
+            "Video": "320p@15fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "No",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Yes, Wi-Fi 802.11 b/g"
+        },
+        "Display": {
+            "": "- Smart unlock\n- Cartoon UI",
+            "Resolution": "240 x 320 pixels (~143 ppi pixel density)",
+            "Size": "2.8 inches (~40.9% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- SNS integration\n- MP3/WAV/WMA/eAAC+ player\n- MP4/H.264 player\n- Find Music recognition service\n- Organizer\n- Document viewer\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email, IM"
+        },
+        "Launch": {
+            "Announced": "2010, February",
+            "Status": "Available. Released 2010, April"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 16 GB",
+            "Internal": "50 MB",
+            "Phonebook": "1000 contacts, Photocall"
+        },
+        "Misc": {
+            "Colors": "Black, Neon Blue",
+            "Price group": "3/10 (About 120 EUR)",
+            "SAR EU": "0.62 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "Class 10",
+            "GPRS": "Class 12",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "": "- DNSe (Digital Natural Sound Engine)\n- Dedicated music keys",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Samsung M3710 Corby Beat",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_m3710_corby_beat-pictures-3091.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-m3710-corby-beat-new.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_m3710_corby_beat-3091.php"
+    }
+}

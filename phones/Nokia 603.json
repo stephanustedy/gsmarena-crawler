@@ -1,0 +1,84 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion battery (BP-3L)",
+            "Music play": "Up to 75 h",
+            "Stand-by": "Up to 460 h (2G) / Up to 490 h (3G)",
+            "Talk time": "Up 16 h (2G) / Up to 7 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "113.5 x 57.1 x 12.7 mm, 74 cc (4.47 x 2.25 x 0.5 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "109.6 g (3.84 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face detection",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, fixed focus",
+            "Secondary": "No",
+            "Video": "720p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "NFC": "Yes",
+            "Radio": "Stereo FM radio with RDS, music recognition",
+            "USB": "microUSB v2.0, USB Host",
+            "WLAN": "Wi-Fi 802.11 b/g/n"
+        },
+        "Display": {
+            "": "- Nokia ClearBlack display",
+            "Multitouch": "Yes",
+            "Protection": "Scratch-resistant glass",
+            "Resolution": "360 x 640 pixels (~210 ppi pixel density)",
+            "Size": "3.5 inches (~52.1% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- SNS integration\n- Active noise cancellation with dedicated mic\n- MP4/WMV/H.264 player\n- MP3/WAV/\u0435AAC+ player\n- Dolby Digital Plus (via FP1 update)\n- Photo editor\n- Organizer\n- Quickoffice document editor\n- Adobe PDF Reader\n- Voice command/dial\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML, Adobe Flash Lite",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2011, October",
+            "Status": "Available. Released 2011, October"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "2 GB (340 MB user available), 512 MB RAM, 1 GB ROM"
+        },
+        "Misc": {
+            "Colors": "Black, white (front panel)/ black, white, fuchsia, green, yellow, blue (back panel)",
+            "Price group": "3/10 (About 100 EUR)",
+            "SAR EU": "0.98 W/kg (head)",
+            "SAR US": "1.33 W/kg (head) \u00a0 \u00a0 1.02 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 1700 / 1900 / 2100",
+            "EDGE": "Class 33",
+            "GPRS": "Class 33",
+            "Speed": "HSPA 14.4/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "1 GHz",
+            "OS": "Symbian Belle OS, upgradeable to Belle FP1"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 603",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_603-pictures-4243.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-603-ofic.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_603-4243.php"
+    }
+}

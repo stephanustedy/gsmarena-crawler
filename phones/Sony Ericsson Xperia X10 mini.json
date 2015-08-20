@@ -1,0 +1,90 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 950 mAh battery",
+            "Stand-by": "Up to 285 h (2G) / Up to 360 h (3G)",
+            "Talk time": "Up to 4 h (2G) / Up to 3 h 30 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "83 x 50 x 16 mm (3.27 x 1.97 x 0.63 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "88 g (3.10 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, LED flash, check quality",
+            "Secondary": "No",
+            "Video": "480p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g, hotspot (v2.2 or higher)"
+        },
+        "Display": {
+            "": "- Timescape UI",
+            "Multitouch": "No",
+            "Protection": "Scratch-resistant glass",
+            "Resolution": "240 x 320 pixels (~157 ppi pixel density)",
+            "Size": "2.55 inches (~48.5% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors (65K effective)"
+        },
+        "Features": {
+            "": "- ANT+ support\n- MP4/H.264/WMV player\n- MP3/eAAC+/WMA/WAV player\n- TrackID music recognition\n- Document viewer\n- Voice memo\n- Predictive text input",
+            "Browser": "HTML",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS (threaded view), MMS, Email, Push email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2010, February",
+            "Status": "Available. Released 2010, May"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB, 2 GB included",
+            "Internal": "128 MB"
+        },
+        "Misc": {
+            "Colors": "Gold, Pearl White, Black, Pink, Lime, Red, Silver",
+            "Price group": "2/10 (About 70 EUR)",
+            "SAR EU": "1.17 W/kg (head)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 1900 / 2100 - E10a",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100 - E10i",
+            "EDGE": "Up to 236.8 kbps",
+            "GPRS": "Up to 85.6 kbps",
+            "Speed": "HSPA 7.2/2 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "600 MHz ARM 11",
+            "Chipset": "Qualcomm MSM7227 Snapdragon S1",
+            "GPU": "Adreno 200",
+            "OS": "Android OS, v1.6 (Donut), upgradable to v2.1 (Eclair)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -86.5dB / Crosstalk -83.8dB",
+            "Camera": "Photo",
+            "Loudspeaker": "Voice 65dB / Noise 66dB / Ring 67dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Sony Ericsson Robyn",
+        "device_name": "Sony Ericsson Xperia X10 mini",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_ericsson_xperia_x10_mini-pictures-3125.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/se-x10-mini.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_ericsson_xperia_x10_mini-3125.php"
+    }
+}

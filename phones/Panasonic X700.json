@@ -1,0 +1,99 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 780 mAh battery",
+            "Stand-by": "80 h - 250 h",
+            "Talk time": "2 h - 6 h"
+        },
+        "Body": {
+            "Dimensions": "97 x 49 x 24 mm, 89 cc (3.82 x 1.93 x 0.94 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "107 g (3.77 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels, LED flash",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v1.1",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second 4096 colors display (64 x 96 pixels)\n- Downloadable logos",
+            "Resolution": "176 x 208 pixels (~136 ppi pixel density)",
+            "Size": "2.0 inches, 33 x 39 mm (~26.8% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- Predictive text input\n- Document viewer (Word, Excel, PowerPoint, PDF)\n- Photo editor\n- Voice memo\n- Voice dial",
+            "Browser": "WAP 2.0/xHTML",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2004, 1Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "miniSD, 16 MB included",
+            "Internal": "8 MB"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Platform": {
+            "CPU": "104 MHz ARM 920T",
+            "OS": "Symbian OS v7.0s, Series 60 UI"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Panasonic X701 for Vodafone",
+        "device_name": "Panasonic X700",
+        "image": {
+            "href": "http://www.gsmarena.com/panasonic_x700-pictures-683.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/pax700.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/panasonic_x700-683.php"
+    }
+}

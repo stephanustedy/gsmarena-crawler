@@ -1,0 +1,80 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1540 mAh battery",
+            "Stand-by": "Up to 744 h (2G) / Up to 744 h (3G)",
+            "Talk time": "Up to 8 h (2G) / Up to 8 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "113.8 x 66.5 x 9 mm (4.48 x 2.62 x 0.35 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "122.5 g (4.30 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, LED flash",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n"
+        },
+        "Display": {
+            "Multitouch": "No",
+            "Resolution": "320 x 480 pixels (~144 ppi pixel density)",
+            "Size": "4.0 inches (~63.0% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen"
+        },
+        "Features": {
+            "": "- MP3/AAC+ player\n- MP4/H.264 player\n- Photo viewer\n- Document viewer\n- Organizer\n- Predictive text input",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), Email, IM",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2013, October",
+            "Status": "Available. Released 2013, October"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "2 GB"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "3/10 (About 150 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "1 GHz Cortex-A5",
+            "Chipset": "Qualcomm MSM7227A Snapdragon S1",
+            "GPU": "Adreno 200",
+            "OS": "Firefox OS 1.1"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "LG Fireweb",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_fireweb-pictures-5798.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-fireweb.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_fireweb-5798.php"
+    }
+}

@@ -1,0 +1,97 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 2000 mAh battery",
+            "Stand-by": "Up to 1200 h",
+            "Talk time": "Up to 23 h"
+        },
+        "Body": {
+            "Dimensions": "118.5 x 49 x 15.2 mm (4.67 x 1.93 x 0.60 in)",
+            "SIM": "Dual SIM (Mini-SIM)",
+            "Weight": "132.8 g (4.66 oz)"
+        },
+        "Camera": {
+            "Primary": "5 MP, 2592 x 1944 pixels, LED flash",
+            "Secondary": "No",
+            "Video": "QCIF"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "No",
+            "Radio": "FM radio with RDS",
+            "USB": "v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~167 ppi pixel density)",
+            "Size": "2.4 inches (~30.7% screen-to-body ratio)",
+            "Type": "IPS LCD, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/AAC+/WMA/WAV player\n- MP4/H.264 player\n- Organizer\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS(threaded view), MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2011, December",
+            "Status": "Available. Released 2011, December"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "64 MB",
+            "Phonebook": "Yes, Photocall"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "": "GSM 850 / 900 / 1800 / 1900 - SIM 2",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1",
+            "EDGE": "Yes",
+            "GPRS": "Class 12",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Philips Xenium X623",
+        "device_name": "Philips X623",
+        "image": {
+            "href": "http://www.gsmarena.com/philips_x623-pictures-4379.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/philips-x623.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/philips_x623-4379.php"
+    }
+}

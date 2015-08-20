@@ -1,0 +1,83 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1000 mAh battery",
+            "Music play": "Up to 45 h",
+            "Stand-by": "Up to 348 h",
+            "Talk time": "Up to 5 h 30 min"
+        },
+        "Body": {
+            "": "- Optical trackpad",
+            "Dimensions": "109 x 60 x 11 mm (4.29 x 2.36 x 0.43 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "99 g (3.49 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face detection",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, LED flash",
+            "Secondary": "No",
+            "Video": "480p"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "NFC": "Yes",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n"
+        },
+        "Display": {
+            "Resolution": "480 x 360 pixels (~246 ppi pixel density)",
+            "Size": "2.44 inches (~28.2% screen-to-body ratio)",
+            "Type": "TFT"
+        },
+        "Features": {
+            "": "- MP3/eAAC+/WMA/WAV/Flac player\n- MP4/H.264/WMV player\n- Organizer\n- Document viewer\n- Voice memo/dial\n- Predictive text input",
+            "Browser": "HTML",
+            "Java": "",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM"
+        },
+        "Launch": {
+            "Announced": "2011, August",
+            "Status": "Available. Released 2011, September"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "1 GB, 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "2/10 (About 90 EUR)",
+            "SAR EU": "0.65 W/kg (head) \u00a0 \u00a0 0.48 W/kg (body)",
+            "SAR US": "1.51 W/kg (head) \u00a0 \u00a0 1.00 W/kg (body)"
+        },
+        "Network": {
+            "": "GSM 850 / 900 / 1800 / 1900",
+            "2G bands": "CDMA 800 / 1900",
+            "3G bands": "CDMA2000 1xEV-DO",
+            "EDGE": "Yes",
+            "GPRS": "",
+            "Speed": "EV-DO Rev.A 3.1 Mbps",
+            "Technology": "GSM / CDMA / EVDO"
+        },
+        "Platform": {
+            "CPU": "800 MHz",
+            "OS": "BlackBerry OS 7.0"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "BlackBerry Curve 9370",
+        "image": {
+            "href": "http://www.gsmarena.com/blackberry_curve_9370-pictures-4112.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/blackberry-curve-9350-9360-9370.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/blackberry_curve_9370-4112.php"
+    }
+}

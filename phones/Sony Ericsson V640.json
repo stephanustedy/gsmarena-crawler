@@ -1,0 +1,78 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion battery",
+            "Stand-by": "Up to 300 h (2G) / Up to 300 h (3G)",
+            "Talk time": "Up to 9 h (2G) / Up to 5 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "103 x 47 x 15.5 mm (4.06 x 1.85 x 0.61 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "97 g (3.42 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels",
+            "Secondary": "CIF videocall camera",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Wallpapers, screensavers",
+            "Resolution": "176 x 220 pixels (~141 ppi pixel density)",
+            "Size": "2.0 inches (~26.0% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- Vodafone music streaming service\n- MP3/AAC player\n- TrackID music recognition\n- Predictive text input\n- Picture/video editor\n- Organizer\n- Voice memo/dial",
+            "Browser": "HTML (NetFront 3.3), RSS reader",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2007, September",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "20 received, 20 dialed and 20 missed calls",
+            "Card slot": "Memory Stick Micro (M2), up to 4 GB",
+            "Internal": "32 MB",
+            "Phonebook": "Yes, Photo call"
+        },
+        "Misc": {
+            "Colors": "Havana Gold, Quick Black",
+            "Price group": "2/10 (About 80 EUR)",
+            "SAR EU": "1.10 W/kg (head)",
+            "SAR US": "1.10 W/kg (head) \u00a0 \u00a0 0.91 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "3G bands": "HSDPA 2100",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Speed": "HSPA",
+            "Technology": "GSM / HSPA"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3, AAC ringtones, composer",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Vodafone exclusive",
+        "device_name": "Sony Ericsson V640",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_ericsson_v640-pictures-2125.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/sonyericsson-v640.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_ericsson_v640-2125.php"
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1420 mAh battery",
+            "Stand-by": "Up to 320 h",
+            "Talk time": "Up to 6 h"
+        },
+        "Body": {
+            "Dimensions": "114 x 58 x 15.6 mm (4.49 x 2.28 x 0.61 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "163 g (5.75 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "5 MP, 2592 x 1944 pixels, autofocus",
+            "Secondary": "No",
+            "Video": "320p@24fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g"
+        },
+        "Display": {
+            "": "- MOTOBLUR UI with Live Widgets",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "320 x 480 pixels (~186 ppi pixel density)",
+            "Size": "3.1 inches (~43.3% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 256K colors (65K effective)"
+        },
+        "Features": {
+            "": "- Noise cancellation with dedicated microphone\n- MP3/eAAC+/WAV/WMA9 player\n- MP4/H.264/WMV9 player\n- Organizer\n- Document viewer\n- Voice memo/dial\n- Predictive text input",
+            "Browser": "HTML",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS, MMS, Email",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2009, September",
+            "Status": "Available. Released 2009, October"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB, 2 GB included",
+            "Internal": "1 GB, 256 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Midnight Titanium, Winter White",
+            "Price group": "3/10 (About 130 EUR)",
+            "SAR EU": "0.95 W/kg (head)",
+            "SAR US": "0.69 W/kg (head) \u00a0 \u00a0 1.11 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 1900 / 2100 - American version",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 1700 / 2100",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 7.2/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "528 MHz ARM 11",
+            "Chipset": "Qualcomm MSM7201A",
+            "GPU": "Adreno 130",
+            "OS": "Android OS, v1.5 (Cupcake)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Motorola CLIQ in USA",
+        "device_name": "Motorola DEXT MB220",
+        "image": {
+            "href": "http://www.gsmarena.com/motorola_dext_mb220-pictures-2934.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/moto-cliq.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/motorola_dext_mb220-2934.php"
+    }
+}

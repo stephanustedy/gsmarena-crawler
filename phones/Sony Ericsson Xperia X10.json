@@ -1,0 +1,90 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 1500 mAh battery (BST-41)",
+            "Stand-by": "Up to 415 h (2G) / Up to 425 h (3G)",
+            "Talk time": "Up to 10 h (2G) / Up to 8 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "119 x 63 x 13 mm (4.69 x 2.48 x 0.51 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "135 g (4.76 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face/smile detection",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash, check quality",
+            "Secondary": "No",
+            "Video": "w480p@30fps, 720p@30fps (via SW update), check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- Timescape/Mediascape UI",
+            "Protection": "Scratch-resistant glass",
+            "Resolution": "480 x 854 pixels (~245 ppi pixel density)",
+            "Size": "4.0 inches (~58.8% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 65K colors"
+        },
+        "Features": {
+            "": "- MP4/H.264/WMV player\n- MP3/eAAC+/WMA/WAV player\n- Document viewer\n- Voice memo\n- Predictive text input",
+            "Browser": "HTML, Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS (threaded view), MMS, Email, Push email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2009, November. Released 2010, March",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB, 8 GB included",
+            "Internal": "1 GB, 384 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Sensous Black, Luster White",
+            "Price group": "3/10 (About 120 EUR)",
+            "SAR EU": "1.25 W/kg (head)",
+            "SAR US": "0.87 W/kg (head) \u00a0 \u00a0 0.81 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 1900 / 2100 / 800 - X10a for Americas",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 1700 / 2100",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Speed": "HSPA 7.2/2 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "1 GHz Scorpion",
+            "Chipset": "Qualcomm QSD8250 Snapdragon S1",
+            "GPU": "Adreno 200",
+            "OS": "Android OS, v1.6 (Donut), upgradable to v2.3 (Gingerbread)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones, composer",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -85.4dB / Crosstalk -83.6dB",
+            "Camera": "Photo / Video",
+            "Loudspeaker": "Voice 66dB / Noise 66dB / Ring 68dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Previously rumored as XPERIA X3 and Sony Ericsson Rachael",
+        "device_name": "Sony Ericsson Xperia X10",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_ericsson_xperia_x10-pictures-2964.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/se-xperia-x10-new.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_ericsson_xperia_x10-2964.php"
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1400 mAh battery",
+            "Stand-by": "Up to 520 h",
+            "Talk time": "Up to 5 h"
+        },
+        "Body": {
+            "": "- Trackball",
+            "Dimensions": "114 x 66 x 14 mm (4.49 x 2.60 x 0.55 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "134 g (4.73 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "Yes",
+            "Radio": "No",
+            "USB": "miniUSB",
+            "WLAN": "Wi-Fi 802.11b/g"
+        },
+        "Display": {
+            "Resolution": "320 x 240 pixels (~160 ppi pixel density)",
+            "Size": "2.5 inches (~25.7% screen-to-body ratio)",
+            "Type": "65K colors"
+        },
+        "Features": {
+            "": "- BlackBerry maps\n- Media player\n- Organizer\n- Document viewer (Word, Excel, PowerPoint, PDF)\n- Voice dial",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Java": "Yes",
+            "Messaging": "SMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2007, July",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "microSD",
+            "Internal": "64 MB, 16 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Silver",
+            "Price group": "3/10 (About 110 EUR)",
+            "SAR EU": "1.00 W/kg (head) \u00a0 \u00a0 0.83 W/kg (body)",
+            "SAR US": "1.28 W/kg (head) \u00a0 \u00a0 1.58 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Technology": "GSM"
+        },
+        "Platform": {
+            "CPU": "32-bit Intel XScale PXA272 312 MHz",
+            "OS": "BlackBerry OS"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "BlackBerry 8820",
+        "image": {
+            "href": "http://www.gsmarena.com/blackberry_8820-pictures-2033.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/blackberry-8820.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/blackberry_8820-2033.php"
+    }
+}

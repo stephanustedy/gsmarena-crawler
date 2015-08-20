@@ -1,0 +1,81 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1000 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "108 x 53 x 13.8 mm (4.25 x 2.09 x 0.54 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "120 g (4.23 oz)"
+        },
+        "Camera": {
+            "Features": "Touch focus, geo-tagging, face, smile and blink detection, WDR",
+            "Primary": "12 MP, 4000 x 3000 pixels, wide 28mm lens, autofocus, xenon flash, LED flash, check quality",
+            "Secondary": "Videocall camera",
+            "Video": "480p@30fps, 320p@120fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "Yes",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Yes"
+        },
+        "Display": {
+            "Resolution": "480 x 800 pixels (~301 ppi pixel density)",
+            "Size": "3.1 inches (~47.8% screen-to-body ratio)",
+            "Type": "AMOLED resistive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- DivX/XviD/H.264/WMV/MP4 player\n- MP3/eAAC+/WMA/AMR player \n- TV-out\n- Organizer\n- Document viewer (Word, Excel, PowerPoint, PDF)\n- Voice memo/dial",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2009, June",
+            "Status": "Available. Released 2009, August"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 16 GB",
+            "Internal": "150 MB",
+            "Phonebook": "1000 contacts, Photo call"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "5/10 (About 240 EUR)",
+            "SAR EU": "0.27 W/kg (head)",
+            "SAR US": "0.14 W/kg (head) \u00a0 \u00a0 0.33 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Speed": "HSPA 7.2/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Camera": "Photo",
+            "Loudspeaker": "Voice 75dB / Noise 72dB / Ring 77dB"
+        }
+    },
+    "main": {
+        "device_name": "Samsung M8910 Pixon12",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_m8910_pixon12-pictures-2813.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-pixon-12mp.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_m8910_pixon12-2813.php"
+    }
+}

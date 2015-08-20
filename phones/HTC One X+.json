@@ -1,0 +1,94 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 2100 mAh battery",
+            "Stand-by": "Up to 360 h",
+            "Talk time": "Up to 12 h 45 min"
+        },
+        "Body": {
+            "Dimensions": "134.4 x 69.9 x 8.9 mm (5.29 x 2.75 x 0.35 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "135 g (4.76 oz)"
+        },
+        "Camera": {
+            "Features": "Simultaneous HD video and image recording, touch focus, geo-tagging, face detection, HDR",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash, check quality",
+            "Secondary": "1.6 MP, 720p@30fps",
+            "Video": "1080p@28ps, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, apt-X",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "NFC": "Yes",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0 (MHL TV-out)",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- HTC Sense UI 4+",
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 2",
+            "Resolution": "720 x 1280 pixels (~312 ppi pixel density)",
+            "Size": "4.7 inches (~64.8% screen-to-body ratio)",
+            "Type": "Super LCD2 capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- Dropbox (25 GB cloud storage)\n- DivX/XviD/MP4/H.264/WMV player\n- MP3/eAAC+/WMA/WAV player\n- Document viewer\n- Voice memo/dial/commands\n- Predictive text input",
+            "Browser": "HTML5, Adobe Flash",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, IM, Push Email",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2012, October",
+            "Status": "Available. Released 2012, November"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "32/64 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Stealth Black, Polar White",
+            "Price group": "5/10 (About 220 EUR)",
+            "SAR US": "0.86 W/kg (head) \u00a0 \u00a0 0.72 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 1900 / 2100 - for AT&T",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+            "4G bands": "LTE band 4(1700/2100), 17(700) - AT&T",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 21.1/5.76 Mbps - Global version\nHSPA 42.2/5.76 Mbps, LTE Cat3 100/50 Mbps - AT&T version",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.7 GHz",
+            "Chipset": "NVIDIA Tegra 3 AP37",
+            "GPU": "ULP GeForce 2",
+            "OS": "Android OS, v4.1.1 (Jelly Bean)"
+        },
+        "Sound": {
+            "": "- Beats Audio",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -82.4dB / Crosstalk -81.5dB",
+            "Battery life": "Endurance rating 44h",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 1521 (nominal)",
+            "Loudspeaker": "Voice 64dB / Noise 65dB / Ring 74dB"
+        }
+    },
+    "main": {
+        "device_name": "HTC One X+",
+        "image": {
+            "href": "http://www.gsmarena.com/htc_one_x+-pictures-4976.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/htc-one-x-plus-ofic.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/htc_one_x+-4976.php"
+    }
+}

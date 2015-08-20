@@ -1,0 +1,145 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1100 mAh battery (BLN-3)",
+            "Stand-by": "60 - 170 h",
+            "Talk time": "3 - 6 h"
+        },
+        "Body": {
+            "Dimensions": "158 x 56 x 27 mm, 218 cc (6.22 x 2.20 x 1.06 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "253 g (8.92 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second display",
+            "Resolution": "640 x 200 pixels (~149 ppi pixel density)",
+            "Size": "4.5 inches, 110 x 35 mm (~42.0% screen-to-body ratio)",
+            "Type": "Grayscale LCD"
+        },
+        "Features": {
+            "": "- Telnet\n- Terminal\n- Organizer\n- Help\n- System & security",
+            "Alarm": "Yes",
+            "Browser": "WAP, HTML",
+            "Clock": "Yes",
+            "Games": "Available separately",
+            "Java": "No",
+            "Messaging": "SMS, Email, Fax"
+        },
+        "Launch": {
+            "Announced": "1999",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- 4 MB Operating System and applications \n- 2 MB program execution\n- 2 MB user data storage \n- Operating System: GEOSE-mail protocols: SMTP, IMAP4, POP3 and MIME1",
+            "Call records": "Yes",
+            "Card slot": "MMC",
+            "Internal": "8 MB",
+            "Phonebook": "Many"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "GSM"
+        },
+        "Platform": {
+            "0": "C",
+            "1": "P",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "U",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "g",
+            "25": "l",
+            "26": "o",
+            "27": "s",
+            "28": "s",
+            "29": "a",
+            "3": "p",
+            "30": "r",
+            "31": "y",
+            "32": ".",
+            "33": "p",
+            "34": "h",
+            "35": "p",
+            "36": "3",
+            "37": "?",
+            "38": "t",
+            "39": "e",
+            "4": ":",
+            "40": "r",
+            "41": "m",
+            "42": "=",
+            "43": "c",
+            "44": "p",
+            "45": "u",
+            "5": "/",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Downloadable monophonic ringtones, composer",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "canonical_name": "WAP version of 9110 phone",
+        "device_name": "Nokia 9110i Communicator",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_9110i_communicator-pictures-18.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/no9110ib.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_9110i_communicator-18.php"
+    }
+}

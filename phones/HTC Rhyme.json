@@ -1,0 +1,90 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 1600 mAh battery",
+            "Stand-by": "Up to 295 h (2G) / Up to 340 h (3G)",
+            "Talk time": "Up to 10 h 20 min (2G) / Up to 8 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "119 x 60.8 x 10.9 mm (4.69 x 2.39 x 0.43 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "130 g (4.59 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, LED flash, check quality",
+            "Secondary": "VGA",
+            "Video": "720p, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot, DLNA"
+        },
+        "Display": {
+            "": "- HTC Sense UI 3.6",
+            "Multitouch": "Yes",
+            "Resolution": "480 x 800 pixels (~252 ppi pixel density)",
+            "Size": "3.7 inches (~53.9% screen-to-body ratio)",
+            "Type": "S-LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- ANT+ support\n- Light-up Charm Indicator accessory\n- Active noise cancellation with dedicated mic\n- MP3/AAC+/WAV player\n- MP4/H.264 player\n- Organizer\n- Document viewer\n- Voice memo/dial\n- Predictive text input",
+            "Browser": "HTML, Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2011, September",
+            "Status": "Available. Released 2011, October"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB, 8 GB included",
+            "Internal": "4 GB, 768 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Clearwater, Hourglass, Plum",
+            "Price group": "3/10 (About 140 EUR)",
+            "SAR US": "0.55 W/kg (head) \u00a0 \u00a0 1.26 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 14.4/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "1 GHz Scorpion",
+            "Chipset": "Qualcomm MSM8255 Snapdragon S2",
+            "GPU": "Adreno 205",
+            "OS": "Android OS, v2.3.4 (Gingerbread), upgradable to v4.0 (Ice Cream Sandwich)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -90.4dB / Crosstalk -75.4dB",
+            "Battery life": "Endurance rating 39h",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 694:1 (nominal)",
+            "Loudspeaker": "Voice 68dB / Noise 66dB / Ring 78dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Previously rumored as HTC Bliss",
+        "device_name": "HTC Rhyme",
+        "image": {
+            "href": "http://www.gsmarena.com/htc_rhyme-pictures-4132.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/htc-rhyme.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/htc_rhyme-4132.php"
+    }
+}

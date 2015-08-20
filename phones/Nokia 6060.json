@@ -1,0 +1,72 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 760 mAh battery (BL-5B)",
+            "Stand-by": "Up to 400 h",
+            "Talk time": "Up to 3 h 30 min"
+        },
+        "Body": {
+            "Dimensions": "85 x 44 x 24 mm (3.35 x 1.73 x 0.94 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "93 g (3.28 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- 5-way navi key\n- Themes and wallpapers",
+            "Resolution": "128 x 160 pixels (~114 ppi pixel density)",
+            "Size": "1.8 inches (~27.3% screen-to-body ratio)",
+            "Type": "TFT, 65k colors"
+        },
+        "Features": {
+            "": "- Predictive text input\n- Organizer\n- Presence enhanced contacts\n- Voice dial/memo",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2005, June",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "No",
+            "Internal": "3.2 MB",
+            "Phonebook": "500 x 10 fields, Picture call"
+        },
+        "Misc": {
+            "Colors": "Black, Silver, Red, Blue",
+            "Price group": "2/10 (About 60 EUR)",
+            "SAR EU": "0.41 W/kg (head)",
+            "SAR US": "0.59 W/kg (head) \u00a0 \u00a0 0.92 W/kg (body)"
+        },
+        "Network": {
+            "": "GSM 850 / 1900 - US version",
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "Class 6",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, monophonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 6060",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_6060-pictures-1196.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-6060.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_6060-1196.php"
+    }
+}

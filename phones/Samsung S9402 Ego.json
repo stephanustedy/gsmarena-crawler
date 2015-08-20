@@ -1,0 +1,76 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 960 mAh battery",
+            "Stand-by": "Up to 280 h",
+            "Talk time": "Up to 3 h 30 min"
+        },
+        "Body": {
+            "Dimensions": "115 x 48 x 16 mm (4.53 x 1.89 x 0.63 in)",
+            "SIM": "Dual SIM (Mini-SIM)",
+            "Weight": "140 g (4.94 oz)"
+        },
+        "Camera": {
+            "Primary": "5 MP, 2560 x 1920 pixels, autofocus, LED flash",
+            "Secondary": "No",
+            "Video": "480p@15fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~200 ppi pixel density)",
+            "Size": "2.0 inches (~22.4% screen-to-body ratio)",
+            "Type": "AMOLED, 256K colors"
+        },
+        "Features": {
+            "": "- Liquid metal body\n- MP3/AAC+/MP4 player\n- Pocket Office (Word, Excel, PowerPoint, PDF viewer)\n- Voice memo",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2008, December. Released 2009",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "30 received, dialed and missed calls",
+            "Card slot": "microSD, up to 8 GB",
+            "Internal": "1 GB",
+            "Phonebook": "1000 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "9/10 (About 690 EUR)",
+            "SAR EU": "0.60 W/kg (head)",
+            "SAR US": "1.31 W/kg (head) \u00a0 \u00a0 0.73 W/kg (body)"
+        },
+        "Network": {
+            "": "GSM 900 / 1800 - SIM 2",
+            "2G bands": "GSM 900 / 1800 / 1900 - SIM 1",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "": "- DNSe (Digital Natural Sound Engine)",
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Samsung S9402 Ego",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_s9402_ego-pictures-2616.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung_s9402_ego.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_s9402_ego-2616.php"
+    }
+}

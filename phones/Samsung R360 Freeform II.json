@@ -1,0 +1,77 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1000 mAh battery",
+            "Stand-by": "Up to 550 h",
+            "Talk time": "Up to 5 h"
+        },
+        "Body": {
+            "Dimensions": "104.9 x 53.8 x 15 mm (4.13 x 2.12 x 0.59 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "108 g (3.81 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 1024 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "Yes, with A-GPS; MetroNavigator GPS",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~182 ppi pixel density)",
+            "Size": "2.2 inches (~26.6% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- MP4/H.263 player\n- MP3/AAC+ player\n- Organizer\n- Voice memo/dial/commands\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes",
+            "Java": "No",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2010, October",
+            "Status": "Available. Released 2010, October"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 16 GB",
+            "Internal": "42 MB",
+            "Phonebook": "1000 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "1/10 (About 40 EUR)",
+            "SAR US": "1.07 W/kg (head) \u00a0 \u00a0 0.48 W/kg (body)"
+        },
+        "Network": {
+            "": "AWS 1700/2100",
+            "2G bands": "CDMA 800 / 1900",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Speed": "Yes",
+            "Technology": "CDMA"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "For MetroPCS",
+        "device_name": "Samsung R360 Freeform II",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_r360_freeform_ii-pictures-3579.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-freeform-II-r360.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_r360_freeform_ii-3579.php"
+    }
+}

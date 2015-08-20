@@ -1,0 +1,93 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po 3100 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "152.9 x 75.9 x 8.9 mm (6.02 x 2.99 x 0.35 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "162 g (5.71 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection, panorama, HDR",
+            "Primary": "13 MP, 4128 x 3096 pixels, autofocus, dual-LED flash, check quality",
+            "Secondary": "5 MP, 1080p@30fps",
+            "Video": "2160p@30fps, 2160p(DCI)@24fps, 1080p@60fps, 720p@120fps, HDR, stereo sound rec., check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v4.1, A2DP",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "NFC": "Yes",
+            "Radio": "No",
+            "USB": "microUSB v2.0, USB Host",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, Wi-Fi Direct, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- CyanogenMod 12 (after SW update)",
+            "Multitouch": "Yes, up to 10 fingers",
+            "Protection": "Corning Gorilla Glass 3",
+            "Resolution": "1080 x 1920 pixels (~401 ppi pixel density)",
+            "Size": "5.5 inches (~71.9% screen-to-body ratio)",
+            "Type": "LTPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- ANT+ support\n- Active noise cancellation with dedicated mic\n- MP4/H.264/WMV player\n- MP3/eAAC+/WMA/WAV/FLAC player\n- Document viewer\n- Photo viewer/editor\n- Voice memo/dial/commands",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, IM, Push Email",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2014, April",
+            "Status": "Available. Released 2014, June"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "16/64 GB, 3 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Silk White, Sandstone Black",
+            "Price group": "5/10 (About 250 EUR)",
+            "SAR US": "0.62 W/kg (head) \u00a0 \u00a0 0.75 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 1700 / 1900 / 2100",
+            "4G bands": "LTE band 1(2100), 3(1800), 4(1700/2100), 7(2600), 17(700), 38(2600), 40(2300)",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 2.5 GHz Krait 400",
+            "Chipset": "Qualcomm MSM8974AC Snapdragon 801",
+            "GPU": "Adreno 330",
+            "OS": "Android OS, v4.4.2 (KitKat), upgradable to v5.0.2 (Lollipop)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, dual mono speakers"
+        },
+        "Tests": {
+            "Audio quality": "Noise -94.1dB / Crosstalk -94.3dB",
+            "Battery life": "Endurance rating 66h",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 799 (nominal), 1.961 (sunlight)",
+            "Loudspeaker": "Voice 74dB / Noise 73dB / Ring 80dB",
+            "Performance": "Basemark OS II: 1196 / Basemark OS II 2.0: 1230\nBasemark X: 13129"
+        }
+    },
+    "main": {
+        "device_name": "OnePlus One",
+        "image": {
+            "href": "http://www.gsmarena.com/oneplus_one-pictures-6327.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/oneplus-one.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/oneplus_one-6327.php"
+    }
+}

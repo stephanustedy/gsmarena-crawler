@@ -1,0 +1,71 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1800 mAh battery",
+            "Stand-by": "Up to 400 h",
+            "Talk time": "Up to 8 h"
+        },
+        "Body": {
+            "Dimensions": "111 x 47 x 16.5 mm (4.37 x 1.85 x 0.65 in)",
+            "SIM": "Dual SIM (Mini-SIM)",
+            "Weight": "92 g (3.25 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "No",
+            "Radio": "FM radio; FM recording",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "128 x 160 pixels (~114 ppi pixel density)",
+            "Size": "1.8 inches (~19.5% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- Audio/video player\n- Photo viewer\n- Organizer",
+            "Browser": "No",
+            "Games": "Yes",
+            "Java": "Yes",
+            "Messaging": "SMS"
+        },
+        "Launch": {
+            "Announced": "2012",
+            "Status": "Available"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 8 GB",
+            "Phonebook": "500 entries"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "1/10 (About 20 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration, Polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Karbonn K36+ Jumbo Mini",
+        "image": {
+            "href": "http://www.gsmarena.com/karbonn_k36+_jumbo_mini-pictures-5191.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/karbonn-k36+.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/karbonn_k36+_jumbo_mini-5191.php"
+    }
+}

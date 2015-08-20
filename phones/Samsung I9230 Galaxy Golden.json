@@ -1,0 +1,82 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1820 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "118 x 59.5 x 15.8 mm (4.65 x 2.34 x 0.62 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "179 g (6.31 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face/smile detection",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash",
+            "Secondary": "1.9 MP",
+            "Video": "1080p@30fps, stereo sound rec."
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, LE",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "NFC": "Yes",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0 (MHL)",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, hotspot, DLNA"
+        },
+        "Display": {
+            "": "- External Super AMOLED capacitive touchscreen, 16M colors\n480 x 800 pixels, 3.5 inches",
+            "Multitouch": "Yes",
+            "Resolution": "480 x 800 pixels (~252 ppi pixel density)",
+            "Size": "3.7 inches (~55.5% screen-to-body ratio)",
+            "Type": "Super AMOLED capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/DivX/XviD/WMV/H.264 player\n- MP3/WAV/eAAC+/FLAC player\n- Photo/video editor\n- Document viewer",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass, barometer"
+        },
+        "Launch": {
+            "Announced": "2013, October",
+            "Status": "Available. Released 2013, November"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "16 GB, 1.5 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black and Gold",
+            "Price group": "9/10 (About 590 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "3G bands": "HSDPA 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 21.1/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.7 GHz Krait 300",
+            "Chipset": "Qualcomm MSM8930AB Snapdragon 400",
+            "GPU": "Adreno 305",
+            "OS": "Android OS, v4.2 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Samsung I9230 Galaxy Golden",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_i9230_galaxy_golden-pictures-5814.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-golden.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_i9230_galaxy_golden-5814.php"
+    }
+}

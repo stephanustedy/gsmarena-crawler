@@ -1,0 +1,91 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1500 mAh battery",
+            "Music play": "Up to 30 h",
+            "Stand-by": "Up to 470 h (2G) / Up to 545 h (3G)",
+            "Talk time": "Up to 5 h (2G) / Up to 4 h 30 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "103 x 57 x 13 mm (4.06 x 2.24 x 0.51 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "99.4 g (3.49 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "3.15 MP, 2048 x 1536 pixels",
+            "Secondary": "No",
+            "Video": "480p"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes, up to 2 fingers",
+            "Protection": "Scratch-resistant glass",
+            "Resolution": "320 x 480 pixels (~180 ppi pixel density)",
+            "Size": "3.2 inches (~51.9% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- MP4/H.264/WMV player\n- MP3/WMA/WAV/eAAC+ player\n- Organizer\n- Document viewer\n- Voice memo/dial\n- Predictive text input",
+            "Browser": "HTML, Adobe Flash",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, IM, Push Email",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2012, June",
+            "Status": "Available. Released 2012, August"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "2.9 GB (2.5 GB user available), 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Classic Black, Classic White, Deep Red, Navy Blue",
+            "Price group": "2/10 (About 80 EUR)",
+            "SAR EU": "1.62 W/kg (head) \u00a0 \u00a0 1.30 W/kg (body)",
+            "SAR US": "1.37 W/kg (head) \u00a0 \u00a0 0.74 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 1900 / 2100 - ST21a",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100 - ST21i",
+            "EDGE": "Up to 237 kbps",
+            "GPRS": "Up to 86 kbps",
+            "Speed": "HSPA 7.2/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "800 MHz Cortex-A5",
+            "Chipset": "Qualcomm MSM7225AA Snapdragon S1",
+            "GPU": "Adreno 200",
+            "OS": "Android OS, v4.0.4 (Ice Cream Sandwich)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -75.9dB / Crosstalk -79.1dB",
+            "Display": "Contrast ratio: 751:1 (nominal) / 1.166:1 (sunlight)",
+            "Loudspeaker": "Voice 65dB / Noise 61dB / Ring 71dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Sony Tapioca, Sony ST21i, Sony ST21a",
+        "device_name": "Sony Xperia tipo",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_xperia_tipo-pictures-4718.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/sony-xperia-tipo.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_xperia_tipo-4718.php"
+    }
+}

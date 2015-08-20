@@ -1,0 +1,78 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 800 mAh battery",
+            "Stand-by": "Up to 460 h (2G) / Up to 320 h (3G)",
+            "Talk time": "Up to 11 h (2G) / Up to 3 h 40 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "113.9 x 46.4 x 13.3 mm (4.48 x 1.83 x 0.52 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "75.4 g (2.65 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "320p@15fps"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "microUSB",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "128 x 160 pixels (~102 ppi pixel density)",
+            "Size": "2.0 inches (~23.8% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- SNS applications\n- MP3/eAAC+/WAV/WMA player\n- MP4/H.263 player\n- Organizer",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes",
+            "Java": "",
+            "Messaging": "SMS, MMS, IM"
+        },
+        "Launch": {
+            "Announced": "2012, August",
+            "Status": "Available. Released 2012, Q3"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "30 MB",
+            "Phonebook": "Yes"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "1/10 (About 30 EUR)",
+            "SAR EU": "0.80 W/kg (head) \u00a0 \u00a0 0.40 W/kg (body)",
+            "SAR US": "0.80 W/kg (head) \u00a0 \u00a0 0.60 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 1900 - E3300L",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - E3300, E3300L, E3309",
+            "3G bands": "HSDPA 900 / 2100 - E3300, E3309",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA",
+            "Technology": "GSM / HSPA"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Samsung GT-E3300, Samsung GT-E3309, Samsung GT-E3300L",
+        "device_name": "Samsung Manhattan E3300",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_manhattan_e3300-pictures-5342.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-manhattan-gt-e3300.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_manhattan_e3300-5342.php"
+    }
+}

@@ -1,0 +1,103 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "109.9 x 57 x 18.6 mm (4.33 x 2.24 x 0.73 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "165 g (4.23 oz)"
+        },
+        "Camera": {
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, LED flash",
+            "Secondary": "VGA",
+            "Video": "480p@24fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g, hotspot"
+        },
+        "Display": {
+            "": "- External capacitive display",
+            "Resolution": "480 x 854 pixels (~306 ppi pixel density)",
+            "Size": "3.2 inches (~45.0% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- CMMB mobile TV\n- MP3/WAV/WMA/AAC+ player\n- MP4/H.264/WMV player\n- Document viewer\n- Organizer\n- Voice memo\n- Predictive text input",
+            "Browser": "HTML",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, compass"
+        },
+        "Launch": {
+            "Announced": "2010, September",
+            "Status": "Available. Released 2010, Q4"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "512 MB, 256 MB RAM"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "3G bands": "TD-SCDMA 2010/2025",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Speed": "HSPA",
+            "Technology": "GSM"
+        },
+        "Platform": {
+            "CPU": "600 MHz Cortex-A8",
+            "Chipset": "TI OMAP 3430",
+            "GPU": "PowerVR SGX530",
+            "OS": "Android-based OPhone OS v2.0"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "For China Mobile\nPreviously rumored as Motorola Beihai",
+        "device_name": "Motorola XT810",
+        "image": {
+            "href": "http://www.gsmarena.com/motorola_xt810-pictures-3521.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/motorola-mt810-ofic.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/motorola_xt810-3521.php"
+    }
+}

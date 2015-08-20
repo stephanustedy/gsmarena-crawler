@@ -1,0 +1,82 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1000 mAh battery",
+            "Music play": "Up to 21 h",
+            "Stand-by": "Up to 256 h (2G) / Up to 185 h (3G)",
+            "Talk time": "Up to 4 h 40 min (2G) / Up to 5 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "97 x 56.2 x 12 mm (3.82 x 2.21 x 0.47 in)",
+            "SIM": "Yes",
+            "Weight": "78 g (2.75 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, panorama, HDR",
+            "Primary": "2 MP, 1600 x 1200 pixels, LED flash (4002X)",
+            "Secondary": "No",
+            "Video": "480p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "NFC": "Yes (optional)",
+            "Radio": "FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot, Wi-Fi Direct"
+        },
+        "Display": {
+            "Multitouch": "No",
+            "Resolution": "240 x 320 pixels (~143 ppi pixel density)",
+            "Size": "2.8 inches (~44.5% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/AAC/WAV player\n- MP4/H.264 player\n- Document viewer\n- Photo editor\n- JBL headphones (4002X)",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email",
+            "Sensors": "Accelerometer, proximity (4002X)"
+        },
+        "Launch": {
+            "Announced": "2014, February",
+            "Status": "Cancelled"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "4 GB, 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Red, Hot Pink, Slate, Fresh Turquoise, Flash Yellow",
+            "Price group": "2/10 (About 90 EUR)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 1900 - 4002A",
+            "2G bands": "GSM 900 / 1800 - 4002X",
+            "3G bands": "HSDPA 900 / 2100 - 4002X",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 21.1/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1 GHz",
+            "OS": "Android OS, v4.2.2 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Alcatel Pop Fit 4002X, 4002A",
+        "device_name": "Alcatel Pop Fit",
+        "image": {
+            "href": "http://www.gsmarena.com/alcatel_pop_fit-pictures-6132.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/alcatel-pop-fit-new.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/alcatel_pop_fit-6132.php"
+    }
+}

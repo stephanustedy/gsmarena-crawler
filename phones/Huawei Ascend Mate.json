@@ -1,0 +1,91 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 4050 mAh battery",
+            "Stand-by": "Up to 1100 h (2G) / Up to 1072 h (3G)",
+            "Talk time": "Up to 50 h (2G) / Up to 23 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "163.5 x 85.7 x 9.9 mm (6.44 x 3.37 x 0.39 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "198 g (6.98 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face detection, HDR",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash, check quality",
+            "Secondary": "1 MP, 720p@30fps",
+            "Video": "1080p@30fps, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, EDR, LE",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio",
+            "USB": "microUSB v2.0, USB Host",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- Emotion UI 1.5",
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "720 x 1280 pixels (~241 ppi pixel density)",
+            "Size": "6.1 inches (~73.2% screen-to-body ratio)",
+            "Type": "IPS+ LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- DivX/XviD/MP4/H.264/WMV player\n- MP3/eAAC+/WMA/WAV/Flac player\n- Document editor\n- Photo viewer/editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2013, January",
+            "Status": "Available. Released 2013, March"
+        },
+        "Memory": {
+            "Card slot": "Yes, up to 64 GB",
+            "Internal": "8 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Crystal Black, Pure White",
+            "Price group": "5/10 (About 230 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 1700 / 1900 / 2100",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Speed": "HSPA 42.2/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.5 GHz Cortex-A9",
+            "Chipset": "Huawei K3V2",
+            "GPU": "Vivante GC4000",
+            "OS": "Android OS, v4.1 (Jelly Bean), upgradable to v4.2.2 (Jelly Bean)"
+        },
+        "Sound": {
+            "": "- Dolby mobile",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -86.8dB / Crosstalk -84.7dB",
+            "Battery life": "Endurance rating 81h",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 1053 (nominal), 1.845 (sunlight)",
+            "Loudspeaker": "Voice 67dB / Noise 66dB / Ring 75dB",
+            "Performance": "Basemark OS II: 267"
+        }
+    },
+    "main": {
+        "device_name": "Huawei Ascend Mate",
+        "image": {
+            "href": "http://www.gsmarena.com/huawei_ascend_mate-pictures-5237.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/huawei-ascend-mate-new.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/huawei_ascend_mate-5237.php"
+    }
+}

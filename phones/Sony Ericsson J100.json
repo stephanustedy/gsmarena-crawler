@@ -1,0 +1,70 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion battery",
+            "Stand-by": "Up to 300 h",
+            "Talk time": "Up to 8 h"
+        },
+        "Body": {
+            "Dimensions": "100 x 44 x 18 mm (3.94 x 1.73 x 0.71 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "79 g (2.79 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Wallpapers, themes",
+            "Resolution": "96 x 64 pixels (~82 ppi pixel density)",
+            "Size": "1.4 inches (~13.3% screen-to-body ratio)",
+            "Type": "STN, 65K colors"
+        },
+        "Features": {
+            "": "- Predictive text input\n- Organizer\n- Stopwatch",
+            "Browser": "No",
+            "Games": "Yes",
+            "Java": "No",
+            "Messaging": "SMS"
+        },
+        "Launch": {
+            "Announced": "2006, February",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "10 dialed, 20 received and missed calls",
+            "Card slot": "No",
+            "Phonebook": "SIM based only"
+        },
+        "Misc": {
+            "Colors": "2 - Polar White, Twilight Blue",
+            "Price group": "1/10 (About 40 EUR)"
+        },
+        "Network": {
+            "": "GSM 850 / 1900 - J100a",
+            "2G bands": "GSM 900 / 1800 - J100i",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Polyphonic(32) ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "canonical_name": "J100i: Dual band 900/1800 Mhz \nJ100a: Dual band 850/1900 Mhz - For Americas \nJ100c: Dual band 900/1800 Mhz - For mainland China",
+        "device_name": "Sony Ericsson J100",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_ericsson_j100-pictures-1430.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/sonyericsson-j100.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_ericsson_j100-1430.php"
+    }
+}

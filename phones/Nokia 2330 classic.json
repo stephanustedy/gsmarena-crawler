@@ -1,0 +1,77 @@
+{
+    "data": {
+        "Battery": {
+            "": "Standard battery, Li-Ion 860 mAh (BL-5CA)",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "107 x 46 x 13.8 mm, 57 cc (4.21 x 1.81 x 0.54 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "80 g (2.82 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "SQCIF@6fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0",
+            "GPS": "No",
+            "Radio": "Stereo FM radio; broadcast recording",
+            "USB": "No",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- 5-way navigation key",
+            "Resolution": "128 x 160 pixels (~114 ppi pixel density)",
+            "Size": "1.8 inches (~20.7% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- H.263 player\n- MP3/AAC player\n- Organizer\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2008, November. Released 2009, June",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "No",
+            "Internal": "10 MB",
+            "Phonebook": "1000 entries"
+        },
+        "Misc": {
+            "Colors": "Black, Deep red",
+            "Price group": "2/10 (About 50 EUR)",
+            "SAR EU": "0.99 W/kg (head)",
+            "SAR US": "1.42 W/kg (head) \u00a0 \u00a0 0.89 W/kg (body)"
+        },
+        "Network": {
+            "": "GSM 850 / 1900 - US version",
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "": "- 2.5 mm audio jack",
+            "3.5mm jack": "No",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 2330 classic",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_2330_classic-pictures-2570.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-2330-classic.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_2330_classic-2570.php"
+    }
+}

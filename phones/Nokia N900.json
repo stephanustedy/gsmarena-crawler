@@ -1,0 +1,89 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1320 mAh battery (BL-5J)",
+            "Music play": "Up to 24 h 30 min",
+            "Stand-by": "Up to 278 h (2G) / Up to 250 h (3G)",
+            "Talk time": "Up to 6 h 30 min (2G) / Up to 4 h 30 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "110.9 x 59.8 x 18 mm, 113 cc (4.37 x 2.35 x 0.71 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "181 g (6.38 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "5 MP, 2576 x 1936 pixels, Carl Zeiss optics, autofocus, Dual LED flash, check quality",
+            "Secondary": "VGA",
+            "Video": "480p@25fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "Yes, with A-GPS; Ovi Maps",
+            "Infrared port": "Yes",
+            "Radio": "Stereo FM radio (via third party software); FM transmitter",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g, DLNA"
+        },
+        "Display": {
+            "Resolution": "800 x 480 pixels (~267 ppi pixel density)",
+            "Size": "3.5 inches (~52.6% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 65K colors"
+        },
+        "Features": {
+            "": "- MP3/WMA/WAV/eAAC+ player\n- WMV/RealVideo/MP4/AVI/XviD/DivX player\n- TV-out\n- PDF document viewer\n- Photo editor",
+            "Browser": "xHTML, HTML, Adobe Flash",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2009, August",
+            "Status": "Available. Released 2009, November"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 16 GB",
+            "Internal": "32 GB, 256 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "4/10 (About 160 EUR)",
+            "SAR EU": "0.80 W/kg (head)",
+            "SAR US": "0.92 W/kg (head) \u00a0 \u00a0 0.82 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 1700 / 2100",
+            "EDGE": "Class 32",
+            "GPRS": "Class 32",
+            "Speed": "HSPA 10.2/2 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "600 MHz Cortex-A8",
+            "Chipset": "TI OMAP 3430",
+            "GPU": "PowerVR SGX530",
+            "OS": "Maemo 5"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3 ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        },
+        "Tests": {
+            "Audio quality": "Noise -93.7dB / Crosstalk -86.9dB",
+            "Camera": "Photo",
+            "Loudspeaker": "Voice 66dB / Noise 66dB / Ring 70dB"
+        }
+    },
+    "main": {
+        "device_name": "Nokia N900",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_n900-pictures-2917.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-n900.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_n900-2917.php"
+    }
+}

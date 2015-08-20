@@ -1,0 +1,92 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po 2320 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "143 x 71 x 6.3 mm (5.63 x 2.80 x 0.25 in)",
+            "SIM": "Dual SIM (Nano-SIM/ Micro-SIM, dual stand-by)",
+            "Weight": "147 g (5.19 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection, panorama, HDR",
+            "Primary": "13 MP, 4128 x 3096 pixels, Schneider-Kreuznach optics, phase detection autofocus, LED flash, check quality",
+            "Secondary": "8 MP",
+            "Video": "1080p@30fps, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "Radio": "No",
+            "USB": "microUSB v2.0, USB Host",
+            "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot"
+        },
+        "Display": {
+            "": "- Color OS 2.1",
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 3",
+            "Resolution": "1080 x 1920 pixels (~445 ppi pixel density)",
+            "Size": "5.0 inches (~66.7% screen-to-body ratio)",
+            "Type": "AMOLED capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Fast battery charging: 75% in 30 min\n- Active noise cancellation with dedicated mic\n- MP4/H.264 player\n- MP3/WAV/eAAC+/FLAC player\n- Document viewer\n- Photo/video editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2015, May",
+            "Status": "Available. Released 2015, May"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 128 GB (uses SIM 2 slot)",
+            "Internal": "16 GB, 3 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Golden, Silver",
+            "Price group": "7/10 (About 360 EUR)"
+        },
+        "Network": {
+            "": "LTE band 1(2100), 3(1800), 4(1700/2100), 7(2600), 17(700), 20(800) - USA",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100 - Global, Taiwan",
+            "4G bands": "LTE band 1(2100), 3(1800), 7(2600), 8(900), 40(2300) - Global",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA, LTE Cat4 150/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.5 GHz Cortex-A53 & quad-core 1.0 GHz Cortex-A53",
+            "Chipset": "Qualcomm MSM8939 Snapdragon 615",
+            "GPU": "Adreno 405",
+            "OS": "Android OS, v4.4.2 (KitKat)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -93.2dB / Crosstalk -94.1dB",
+            "Battery life": "Endurance rating 63h",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: Infinite (nominal), 3.320 (sunlight)",
+            "Loudspeaker": "Voice 65dB / Noise 66dB / Ring 73dB",
+            "Performance": "Basemark OS II: 737 / Basemark OS II 2.0: 757\nBasemark X: 5382"
+        }
+    },
+    "main": {
+        "device_name": "Oppo R7",
+        "image": {
+            "href": "http://www.gsmarena.com/oppo_r7-pictures-7221.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/oppo-r7-new.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/oppo_r7-7221.php"
+    }
+}

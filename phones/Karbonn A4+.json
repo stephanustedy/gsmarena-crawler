@@ -1,0 +1,76 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1250 mAh battery",
+            "Stand-by": "Up to 125 h",
+            "Talk time": "Up to 5 h"
+        },
+        "Body": {
+            "Dimensions": "123 x 63 x 10.5 mm (4.84 x 2.48 x 0.41 in)",
+            "SIM": "Dual SIM",
+            "Weight": "87.5 g without battery (3.07 oz)"
+        },
+        "Camera": {
+            "Primary": "3.15 MP, 2048 x 1536 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "No",
+            "Radio": "FM radio",
+            "USB": "Yes",
+            "WLAN": "Yes"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "480 x 800 pixels (~233 ppi pixel density)",
+            "Size": "4.0 inches (~58.8% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen"
+        },
+        "Features": {
+            "": "- MP3/AAC/WMA/WAV player\n- MP4/WMV/H.264 player\n- Document viewer\n- Voice memo/dial",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2013",
+            "Status": "Available. Released 2013"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "90 MB"
+        },
+        "Misc": {
+            "Colors": "White/Black",
+            "Price group": "2/10 (About 50 EUR)",
+            "SAR EU": "0.94 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Technology": "GSM"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1 GHz",
+            "OS": "Android OS, v4.0 (Ice Cream Sandwich)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Karbonn A4+",
+        "image": {
+            "href": "http://www.gsmarena.com/karbonn_a4+-pictures-5518.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/karbonn-a4plus.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/karbonn_a4+-5518.php"
+    }
+}

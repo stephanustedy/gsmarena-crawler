@@ -1,0 +1,91 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 720 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "89.9 x 44 x 18.9 mm (3.54 x 1.73 x 0.74 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "75.2 g (2.65 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "No",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "",
+            "Size": "1.5 inches",
+            "Type": "CSTN, 65K colors"
+        },
+        "Features": {
+            "": "- Document viewer (Word, Excel, PowerPoint, PDF)\n- Voice scheduler\n- Fatness checker\n- PC sync\n- Organizer",
+            "Browser": "WAP",
+            "Games": "No",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2006, June",
+            "Status": "Cancelled"
+        },
+        "Memory": {
+            "Call records": "10 dialed, 10 received, 10 missed calls",
+            "Card slot": "No",
+            "Internal": "128 MB, 64 MB RAM",
+            "Phonebook": "Yes"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Pantech PG-1300",
+        "image": {
+            "href": "http://www.gsmarena.com/pantech_pg_1300-pictures-1584.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/pantech-pg1300.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/pantech_pg_1300-1584.php"
+    }
+}

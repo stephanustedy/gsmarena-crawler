@@ -1,0 +1,84 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 2000 mAh battery",
+            "Music play": "Up to 36 h",
+            "Stand-by": "Up to 440 h (2G) / Up to 340 h (3G)",
+            "Talk time": "Up to 11 h (2G) / Up to 7 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "140.4 x 67.5 x 6.9 mm (5.53 x 2.66 x 0.27 in)",
+            "SIM": "Optional Dual SIM (Micro-SIM, dual stand-by)",
+            "Weight": "130 g (4.59 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection",
+            "Primary": "13.1 MP, 4208 x 3120 pixels, autofocus, LED flash",
+            "Secondary": "2.1 MP",
+            "Video": "1080p"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "FM Radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, DLNA, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Scratch-resistant glass",
+            "Resolution": "1080 x 1920 pixels (~441 ppi pixel density)",
+            "Size": "5.0 inches (~72.7% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP3/eAAC+/WAV/WMA/FLAC player\n- MP4/H.264/WMV player\n- Document viewer\n- Photo viewer/editor",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2013, February",
+            "Status": "Available. Released 2013, July"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "8/16 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Blue, Black, Red, Yellow",
+            "Price group": "7/10 (About 370 EUR)",
+            "SAR EU": "0.26 W/kg (head) \u00a0 \u00a0 0.58 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 1900 / 2100 - OT-6040A/6040E",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - OT-6040/6040A",
+            "3G bands": "HSDPA 900 / 2100 - OT-6040/6040D",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 42.2/11.5 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.5 GHz Cortex-A7",
+            "Chipset": "Mediatek MT6589",
+            "GPU": "PowerVR SGX544",
+            "OS": "Android OS, v4.2.1 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Alcatel Idol X",
+        "image": {
+            "href": "http://www.gsmarena.com/alcatel_idol_x-pictures-5318.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/alcatel-idol-x-new.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/alcatel_idol_x-5318.php"
+    }
+}

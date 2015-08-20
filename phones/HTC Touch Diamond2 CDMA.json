@@ -1,0 +1,82 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1500 mAh battery",
+            "Stand-by": "Up to 324 h",
+            "Talk time": "Up to 5 h 50 min"
+        },
+        "Body": {
+            "Dimensions": "118.1 x 61.7 x 14 mm (4.65 x 2.43 x 0.55 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "150.3 g (5.29 oz)"
+        },
+        "Camera": {
+            "Primary": "5 MP, 2592 x 1944 pixels, autofocus",
+            "Secondary": "Yes",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g"
+        },
+        "Display": {
+            "": "- TouchFLO 3D finger swipe navigation\n- Handwriting recognition",
+            "Resolution": "480 x 800 pixels (~259 ppi pixel density)",
+            "Size": "3.6 inches (~50.6% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 256K colors (65K effective)"
+        },
+        "Features": {
+            "": "- MP3/WAV/WMV/eAAC+ player\n- MP4/WMV/H.264 player\n- Pocket Office \n- Organizer\n- Photo editor\n- Voice memo/dial/commands\n- Predictive text input",
+            "Browser": "HTML",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS (threaded view), MMS, Email, IM",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2009, December. Released 2009, December",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 16 GB",
+            "Internal": "288 MB RAM, 512 MB ROM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "4/10 (About 150 EUR)",
+            "SAR US": "1.34 W/kg (head) \u00a0 \u00a0 0.47 W/kg (body)"
+        },
+        "Network": {
+            "": "CDMA2000 1xEV-DO",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 2100",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Speed": "HSPA 7.2/2 Mbps, EV-DO Rev.A 3.1 Mbps",
+            "Technology": "GSM / CDMA / HSPA / EVDO"
+        },
+        "Platform": {
+            "CPU": "528 MHz ARM 11",
+            "Chipset": "Qualcomm MSM7200A",
+            "GPU": "Adreno 130",
+            "OS": "Microsoft Windows Mobile 6.5 Professional"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "For Verizon\nAlso known as HTC Imagio, HTC Whitestone, HTC XV6975",
+        "device_name": "HTC Touch Diamond2 CDMA",
+        "image": {
+            "href": "http://www.gsmarena.com/htc_touch_diamond2_cdma-pictures-3087.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/htc-imagio-verizon.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/htc_touch_diamond2_cdma-3087.php"
+    }
+}

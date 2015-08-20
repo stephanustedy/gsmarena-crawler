@@ -1,0 +1,74 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 800 mAh battery",
+            "Stand-by": "Up to 240 h",
+            "Talk time": "Up to 8 h"
+        },
+        "Body": {
+            "Dimensions": "88 x 45 x 24 mm (3.46 x 1.77 x 0.94 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "97 g (3.42 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 1024 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v1.2, A2DP",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second external OLED dispalay, 65K colors, 96 x 96 pixels",
+            "Resolution": "176 x 220 pixels",
+            "Size": "",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- MP4 player\n- MP3/AAC player\n- Predictive text input\n- Organizer\n- SyncML\n- vCalendar\n- vCard\n- Voice memo",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes",
+            "Java": "Yes",
+            "Messaging": "SMS, EMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2005, 1Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- 4 MB for Java apps\n- 200 short messages",
+            "Call records": "30 dialed, 30 received, 30 missed calls",
+            "Card slot": "No",
+            "Internal": "90 MB",
+            "Phonebook": "1000 x 10 fields, Photo call"
+        },
+        "Misc": {
+            "Colors": "Black, Red, Silver",
+            "SAR EU": "0.89 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Samsung E750",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_e750-pictures-1127.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-e750.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_e750-1127.php"
+    }
+}

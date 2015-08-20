@@ -1,0 +1,72 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 940 mAh battery (BQ50)",
+            "Stand-by": "Up to 450 h",
+            "Talk time": "Up to 9 h"
+        },
+        "Body": {
+            "Dimensions": "95 x 45 x 17 mm (3.74 x 1.77 x 0.67 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "94 g (3.32 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "Stereo FM radio with RDS, FM recorder",
+            "USB": "v1.1",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second external mono display",
+            "Resolution": "128 x 128 pixels (~113 ppi pixel density)",
+            "Size": "1.6 inches (~19.3% screen-to-body ratio)",
+            "Type": "CSTN, 65K colors"
+        },
+        "Features": {
+            "": "- MP3 player (iMelody,MIDI,MP3,AMR formats)\n- Predictive text input\n- Calculator\n- Stopwatch",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes",
+            "Java": "No",
+            "Languages": "7 African languages, Hinglish, Bengali, Tamil ...",
+            "Messaging": "SMS, EMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2008, January. Released 2008",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- 500 SMS messages",
+            "Call records": "10 dialed, 10 received, 10 missed calls",
+            "Card slot": "microSD, up to 2 GB",
+            "Phonebook": "500 entries"
+        },
+        "Misc": {
+            "Colors": "lustrous silver, dark titanium gray",
+            "Price group": "1/10 (About 30 EUR)",
+            "SAR US": "0.54 W/kg (head) \u00a0 \u00a0 0.64 W/kg (body)"
+        },
+        "Network": {
+            "": "GSM 850 / 1900 - US version",
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Polyphonic ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Motorola W270",
+        "image": {
+            "href": "http://www.gsmarena.com/motorola_w270-pictures-2201.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/motorola-w270.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/motorola_w270-2201.php"
+    }
+}

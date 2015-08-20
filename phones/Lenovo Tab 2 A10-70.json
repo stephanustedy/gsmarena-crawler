@@ -1,0 +1,82 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 7000 mAh battery",
+            "Stand-by": "",
+            "Talk time": "Up to 15 h 30 min (multimedia)"
+        },
+        "Body": {
+            "Dimensions": "247 x 171 x 8.9 mm (9.72 x 6.73 x 0.35 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "509 g (1.12 lb)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus",
+            "Secondary": "5 MP",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0",
+            "GPS": "To be confirmed",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes, up to 10 fingers",
+            "Resolution": "1200 x 1920 pixels (~218 ppi pixel density)",
+            "Size": "10.1 inches (~73.9% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP3/WAV/AAC player\n- MP4/H.264 player\n- Document viewer\n- Photo/video editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2015, March",
+            "Status": "Available. Released 2015, April"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "16 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Pearl White, Midnight Blue",
+            "Price group": "4/10 (About 180 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA",
+            "4G bands": "LTE",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA, LTE",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.7 GHz",
+            "Chipset": "Mediatek MT8732 - 4G model\nMediatek MT8165 - Wi-Fi model",
+            "OS": "Android OS, v4.4.4 (KitKat), planned upgrade to v5.0 (Lollipop)"
+        },
+        "Sound": {
+            "": "- Dolby Atmos",
+            "3.5mm jack": "Yes",
+            "Alert types": "Yes",
+            "Loudspeaker": "Yes, with multiple speakers"
+        }
+    },
+    "main": {
+        "canonical_name": "Available as:\nLenovo Tab 2 A10-70F Wi-Fi only\nLenovo Tab 2 A10-70L Wi-Fi + 4G/3G (Data only)",
+        "device_name": "Lenovo Tab 2 A10-70",
+        "image": {
+            "href": "http://www.gsmarena.com/lenovo_tab_2_a10_70-pictures-7089.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lenovo-tab-2-a10.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lenovo_tab_2_a10_70-7089.php"
+    }
+}

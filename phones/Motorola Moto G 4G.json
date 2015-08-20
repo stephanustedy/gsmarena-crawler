@@ -1,0 +1,92 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 2070 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "129.9 x 65.9 x 11.6 mm (5.11 x 2.59 x 0.46 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "143 g (5.04 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection, HDR, panorama",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, LED flash, check quality",
+            "Secondary": "1.3 MP",
+            "Video": "720p@30fps, stereo sound rec., HDR, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, LE",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0, USB Host",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 3",
+            "Resolution": "720 x 1280 pixels (~329 ppi pixel density)",
+            "Size": "4.5 inches (~64.0% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Google Drive (50 GB cloud storage)\n- Active noise cancellation with dedicated mic\n- MP3/AAC+/WAV/Flac player\n- MP4/H.264 player\n- Photo viewer/editor\n- Document viewer\n- Voice memo/dial",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2014, May",
+            "Status": "Available. Released 2014, June"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "8 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "White, Black, Moto G Ferrari Edition",
+            "Price group": "4/10 (About 160 EUR)"
+        },
+        "Network": {
+            "": "LTE band 4(1700/2100), 7(2600), 17(700) - LATAM",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+            "4G bands": "LTE band 2(1900), 4(1700/2100), 5(850), 17(700) - USA",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 21.1/5.76 Mbps, LTE",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.2 GHz Cortex-A7",
+            "Chipset": "Qualcomm MSM8926 Snapdragon 400",
+            "GPU": "Adreno 305",
+            "OS": "Android OS, v4.4.2 (KitKat), upgradable to v4.4.4 (KitKat), planned upgrade to v5.1 (Lollipop)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -92.1dB / Crosstalk -92.1dB",
+            "Battery life": "Endurance rating 64h",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 929:1 (nominal), 2.546 (sunlight)",
+            "Loudspeaker": "Voice 77dB / Noise 76dB / Ring 83dB",
+            "Performance": "Basemark OS II: 495"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Motorola Moto G LTE\nAvailable as Moto G Ferrari Edition with Kevlar back panel (~$390)",
+        "device_name": "Motorola Moto G 4G",
+        "image": {
+            "href": "http://www.gsmarena.com/motorola_moto_g_4g-pictures-6355.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/motorola-moto-g-4g-lte.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/motorola_moto_g_4g-6355.php"
+    }
+}

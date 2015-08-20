@@ -1,0 +1,81 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 860 mAh battery (BL-4C)",
+            "Music play": "Up to 27 h",
+            "Stand-by": "Up to 624 h",
+            "Talk time": "Up to 13 h 30 min"
+        },
+        "Body": {
+            "Dimensions": "111 x 47 x 13.3 mm, 61 cc (4.37 x 1.85 x 0.52 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "81 g (2.86 oz)"
+        },
+        "Camera": {
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, LED flash, check quality",
+            "Secondary": "No",
+            "Video": "320p@18fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "No",
+            "Radio": "Stereo FM radio with RDS; built-in antenna",
+            "USB": "microUSB v2.0, USB Host",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~182 ppi pixel density)",
+            "Size": "2.2 inches (~28.7% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- MP4/H.263 player\n- MP3/WMA/eAAC+ player\n- Organizer\n- Photo editor\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML, Adobe Flash Lite",
+            "Games": "Bounce Tales, City Bloxx, Snake III, Block'd, Diamond Rush, Rally 3D, Brain Champion, Sudoku",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS, MMS, Email, Push Email, IM"
+        },
+        "Launch": {
+            "Announced": "2010, April",
+            "Status": "Available. Released 2010, July"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 16 GB, 2 GB included",
+            "Internal": "48 MB, 128 MB ROM, 64 MB RAM",
+            "Phonebook": "1000 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Red on Black, Blue on SIlver",
+            "Price group": "1/10 (About 40 EUR)",
+            "SAR EU": "0.82 W/kg (head)",
+            "SAR US": "1.28 W/kg (head) \u00a0 \u00a0 0.89 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "Class 32",
+            "GPRS": "Class 32",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "": "- Dedicated music keys",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        },
+        "Tests": {
+            "Audio quality": "Noise -85.7dB / Crosstalk -85.6dB",
+            "Camera": "Photo",
+            "Loudspeaker": "Voice 80dB / Noise 75dB / Ring 84dB"
+        }
+    },
+    "main": {
+        "device_name": "Nokia X2-00",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_x2_00-pictures-3304.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-x2.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_x2_00-3304.php"
+    }
+}

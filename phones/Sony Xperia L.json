@@ -1,0 +1,94 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1750 mAh battery",
+            "Music play": "Up to 43 h 12 min",
+            "Stand-by": "Up to 498 h (2G) / Up to 454 h (3G)",
+            "Talk time": "Up to 8 h 30 min (2G) / Up to 9 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "128.7 x 65 x 9.7 mm (5.07 x 2.56 x 0.38 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "137 g (4.83 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face/smile detection, HDR, sweep panorama",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash, check quality",
+            "Secondary": "VGA",
+            "Video": "720p@30fps, HDR, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "NFC": "Yes",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, DLNA, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes, up to 4 fingers",
+            "Protection": "Scratch-resistant glass",
+            "Resolution": "480 x 854 pixels (~228 ppi pixel density)",
+            "Size": "4.3 inches (~60.9% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP4/H.264/WMV player\n- MP3/eAAC+/WMA/WAV player\n- Document viewer\n- Photo viewer/editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2013, March",
+            "Status": "Available. Released 2013, May"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "8 GB (5.8 GB user available), 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White, Red",
+            "Price group": "3/10 (About 130 EUR)",
+            "SAR EU": "0.69 W/kg (head)",
+            "SAR US": "0.79 W/kg (head) \u00a0 \u00a0 1.38 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 1700 / 1900 / 2100 - C2104",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - C2104, C2105",
+            "3G bands": "HSDPA 900 / 2100 - C2105",
+            "EDGE": "Up to 237 kbps",
+            "GPRS": "Up to 85.6 kbps",
+            "Speed": "HSPA 21.1/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1 GHz",
+            "Chipset": "Qualcomm MSM8230 Snapdragon 400",
+            "GPU": "Adreno 305",
+            "OS": "Android OS, v4.1 (Jelly Bean), upgradable to v4.2.2 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -87.0dB / Crosstalk -88.0dB",
+            "Battery life": "Endurance rating 39h",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 1077:1 (nominal) / 1.351:1 (sunlight)",
+            "Loudspeaker": "Voice 72dB / Noise 67dB / Ring 79dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Sony Xperia L C2105, Sony Xperia L C2104",
+        "device_name": "Sony Xperia L",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_xperia_l-pictures-5363.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/sony-xperia-l-new.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_xperia_l-5363.php"
+    }
+}

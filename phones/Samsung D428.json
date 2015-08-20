@@ -1,0 +1,96 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 820 mAh battery",
+            "Stand-by": "Up to 140 h",
+            "Talk time": "Up to 3 h"
+        },
+        "Body": {
+            "Dimensions": "99 x 50 x 24 mm (3.90 x 1.97 x 0.94 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "127 g (4.48 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels, 180 deg. rotating lens, LED flash",
+            "Secondary": "No",
+            "Video": "No"
+        },
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Wallpapers",
+            "Resolution": "176 x 220 pixels, 7 lines (~128 ppi pixel density)",
+            "Size": "2.2 inches (~30.8% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- Predictive text input\n- Handwriting recognition\n- English/Chinese 2-way dictionary\n- Organizer\n- Stopwatch\n- Voice memo",
+            "Browser": "WAP 1.2",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 1.0",
+            "Messaging": "SMS, EMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2004, 4Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "No",
+            "Phonebook": "1000 entries"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 8",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic ringtones, composer",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Samsung D428",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_d428-pictures-1005.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/ssd428.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_d428-1005.php"
+    }
+}

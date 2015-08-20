@@ -1,0 +1,91 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1300 mAh battery (BP-3L)",
+            "Music play": "Up to 38 h",
+            "Stand-by": "Up to 739 h (2G) / Up to 653 h (3G)",
+            "Talk time": "Up to 6 h 15 min (2G) / Up to 8 h 25 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "120.7 x 64.9 x 11.5 mm, 81 cc (4.75 x 2.56 x 0.45 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "129 g (4.55 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection",
+            "Primary": "5 MP, 2596 x 1948 pixels, autofocus, check quality",
+            "Secondary": "No",
+            "Video": "480p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "480 x 800 pixels (~233 ppi pixel density)",
+            "Size": "4.0 inches (~58.1% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 65K colors"
+        },
+        "Features": {
+            "": "- SkyDrive (7 GB cloud storage)\n- MP3/WAV/eAAC+/WMA player\n- MP4/H.264/WMV player\n- Document viewer\n- Video/photo editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2012, October",
+            "Status": "Available. Released 2012, November"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "4 GB, 256 MB RAM"
+        },
+        "Misc": {
+            "Colors": "White, Cyan, Black, Red, Yellow",
+            "Price group": "3/10 (About 110 EUR)",
+            "SAR EU": "0.65 W/kg (head)",
+            "SAR US": "0.85 W/kg (head) \u00a0 \u00a0 0.96 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 1900 - RM-898",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+            "EDGE": "Up to 236.8 kbps",
+            "GPRS": "Up to 85.6 kbps",
+            "Speed": "HSPA 7.2/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "800 MHz Cortex-A5",
+            "Chipset": "Qualcomm MSM7227A Snapdragon S1",
+            "GPU": "Adreno 200",
+            "OS": "Microsoft Windows Phone 7.8"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -79.4dB / Crosstalk -75.2dB",
+            "Battery life": "Endurance rating 44h",
+            "Camera": "Photo",
+            "Display": "Contrast ratio: 904:1 (nominal) / 1.268:1 (sunlight)",
+            "Loudspeaker": "Voice 67dB / Noise 66dB / Ring 76dB"
+        }
+    },
+    "main": {
+        "device_name": "Nokia Lumia 510",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_lumia_510-pictures-5069.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-lumia-510.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_lumia_510-5069.php"
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1530 mAh battery",
+            "Stand-by": "Up to 530 h (2G) / Up to 530 h (3G)",
+            "Talk time": "Up to 6 h 12 min (2G) / Up to 6 h 18 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "113.5 x 61.8 x 11 mm (4.47 x 2.43 x 0.43 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "115.7 g (4.06 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "3.15 MP, 2048 x 1536 pixels, check quality",
+            "Secondary": "No",
+            "Video": "480p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, EDR",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- Timescape UI",
+            "Multitouch": "Yes, up to 2 fingers",
+            "Protection": "Scratch-resistant glass",
+            "Resolution": "320 x 480 pixels (~165 ppi pixel density)",
+            "Size": "3.5 inches (~52.0% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP4/H.264/WMV player\n- MP3/eAAC+/WMA/WAV player\n- Document viewer\n- Photo viewer/editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, IM, Push Email",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2012, December",
+            "Status": "Available. Released 2013, March"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "4 GB (2 GB user available), 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, Pink, White",
+            "Price group": "2/10 (About 80 EUR)",
+            "SAR EU": "0.87 W/kg (head)",
+            "SAR US": "1.15 W/kg (head) \u00a0 \u00a0 0.79 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 1900 / 2100 - C1504",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100 - C1505",
+            "EDGE": "Up to 237 kbps",
+            "GPRS": "Up to 86 kbps",
+            "Speed": "HSPA 7.2/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "1 GHz Cortex-A5",
+            "Chipset": "Qualcomm MSM7227A Snapdragon S1",
+            "GPU": "Adreno 200",
+            "OS": "Android OS, v4.1 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -81.4dB / Crosstalk -80.5dB",
+            "Battery life": "Endurance rating 41h",
+            "Camera": "Photo",
+            "Display": "Contrast ratio: 875:1 (nominal) / 1.215:1 (sunlight)",
+            "Loudspeaker": "Voice 66dB / Noise 64dB / Ring 75dB"
+        }
+    },
+    "main": {
+        "device_name": "Sony Xperia E",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_xperia_e-pictures-5149.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/sony-xperia-e.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_xperia_e-5149.php"
+    }
+}

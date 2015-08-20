@@ -1,0 +1,89 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po 6930 mAh battery (25 Wh)",
+            "Stand-by": "Up to 720 h",
+            "Talk time": "Up to 9 h"
+        },
+        "Body": {
+            "Dimensions": "241.2 x 185.7 x 8.8 mm (9.50 x 7.31 x 0.35 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "607 g (1.34 lb)"
+        },
+        "Camera": {
+            "Features": "No",
+            "Primary": "0.7 MP, 960 x 720 pixels",
+            "Secondary": "VGA",
+            "Video": "720p@30fps, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "v2.0",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Scratch-resistant glass, oleophobic coating",
+            "Resolution": "768 x 1024 pixels (~132 ppi pixel density)",
+            "Size": "9.7 inches (~65.1% screen-to-body ratio)",
+            "Type": "LED-backlit IPS LCD, capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- iCloud cloud service\n- Maps\n- Audio/video player/editor\n- Photo viewer/editor\n- Voice memo\n- TV-out\n- Document viewer\n- Predictive text input",
+            "Browser": "HTML (Safari)",
+            "Java": "No",
+            "Messaging": "iMessage, Email, Push Email, IM",
+            "Sensors": "Accelerometer, gyro, compass"
+        },
+        "Launch": {
+            "Announced": "2011, March",
+            "Status": "Available. Released 2011, March"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "16/32/64 GB, 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "8/10 (About 400 EUR)",
+            "SAR EU": "1.19 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 14.4/2 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1 GHz Cortex-A9",
+            "Chipset": "Apple A5",
+            "GPU": "PowerVR SGX543MP2",
+            "OS": "iOS 4, upgradable to iOS 8.4"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "N/A",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -91.0dB / Crosstalk -93.0dB",
+            "Camera": "Video",
+            "Display": "Contrast ratio: 775:1 (nominal)",
+            "Loudspeaker": "Voice 65dB / Noise 65dB / Ring 75dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Apple iPad Wi-Fi + 3G Early 2011\nTablet with no support for GSM voice communication",
+        "device_name": "Apple iPad 2 Wi-Fi + 3G",
+        "image": {
+            "href": "http://www.gsmarena.com/apple_ipad_2_wi_fi_+_3g-pictures-3848.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/apple-ipad2-new.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/apple_ipad_2_wi_fi_+_3g-3848.php"
+    }
+}

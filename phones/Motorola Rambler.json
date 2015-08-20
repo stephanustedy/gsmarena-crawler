@@ -1,0 +1,77 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion battery",
+            "Stand-by": "Up to 480 h",
+            "Talk time": "Up to 5 h"
+        },
+        "Body": {
+            "Dimensions": "93.9 x 56.9 x 17.8 mm (3.70 x 2.24 x 0.70 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "108 g (3.81 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 1024 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "miniUSB v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Secondary display",
+            "Resolution": "176 x 220 pixels (~128 ppi pixel density)",
+            "Size": "2.2 inches (~28.5% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- MP3/eAAC+ player\n- MP4/H.263 player\n- Organizer\n- Voice memo/dial\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email, IM"
+        },
+        "Launch": {
+            "Announced": "2010, July",
+            "Status": "Available. Released 2010, August"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD",
+            "Phonebook": "1000 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "2/10 (About 80 EUR)",
+            "SAR US": "1.29 W/kg (head) \u00a0 \u00a0 0.64 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "CDMA 1900",
+            "3G bands": "CDMA2000 1x",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Speed": "Yes",
+            "Technology": "CDMA / CDMA2000"
+        },
+        "Sound": {
+            "": "- 2.5 mm audio jack",
+            "3.5mm jack": "No",
+            "Alert types": "Vibration, Polyphonic(64), MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Motorola Rambler",
+        "image": {
+            "href": "http://www.gsmarena.com/motorola_rambler-pictures-3449.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/Motorola-Rambler.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/motorola_rambler-3449.php"
+    }
+}

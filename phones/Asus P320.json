@@ -1,0 +1,75 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1100 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "99 x 55 x 13 mm (3.90 x 2.17 x 0.51 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "105 g (3.70 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels, autofocus",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "Yes",
+            "Radio": "No",
+            "USB": "v2.0",
+            "WLAN": "Wi-Fi 802.11b/g"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~154 ppi pixel density)",
+            "Size": "2.6 inches (~38.4% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 65K colors"
+        },
+        "Features": {
+            "": "- MP3/AAC/AAC+/WMA/OGG/AMR player\n- WMV/MP4 player\n- Organizer\n- World Clock\n- Pocket Office \n- File Manager",
+            "Browser": "HTTP / WAP 2.0",
+            "Java": "Yes",
+            "Messaging": "SMS (threaded view), MMS, Email, Push E-Mail, MSN"
+        },
+        "Launch": {
+            "Announced": "2008, March. Released 2008, April",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "microSD, microSDHC",
+            "Internal": "64 MB RAM, 128 MB ROM"
+        },
+        "Misc": {
+            "Colors": "",
+            "Price group": "8/10 (About 410 EUR)",
+            "SAR US": "0.41 W/kg (head) \u00a0 \u00a0 0.19 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Platform": {
+            "CPU": "200 MHz ARM926EJ-S",
+            "Chipset": "TI OMAP 850",
+            "OS": "Microsoft Windows Mobile 6.1 Professional"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3, Midi ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Asus P320",
+        "image": {
+            "href": "http://www.gsmarena.com/asus_p320-pictures-2347.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/asus-p320.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/asus_p320-2347.php"
+    }
+}

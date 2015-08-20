@@ -1,0 +1,77 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 920 mAh battery",
+            "Stand-by": "Up to 310 h",
+            "Talk time": "Up to 4 h"
+        },
+        "Body": {
+            "Dimensions": "114 x 53 x 14 mm (4.49 x 2.09 x 0.55 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "139 g (4.90 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "Yes",
+            "Radio": "No",
+            "USB": "miniUSB v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Screensavers and wallpapers\n- Downloadable logos",
+            "Resolution": "240 x 320 pixels (~167 ppi pixel density)",
+            "Size": "2.4 inches (~29.5% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/WMA/eAAC+ player\n- Predictive text input\n- Organizer\n- Voice dial\n- Voice memo",
+            "Browser": "WAP 2.0/xHTML, HTML (Opera 8)",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2008, April. Released 2008, April",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "microSD",
+            "Phonebook": "2000 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Burgundy Red",
+            "Price group": "2/10 (About 90 EUR)",
+            "SAR EU": "0.56 W/kg (head)",
+            "SAR US": "0.94 W/kg (head) \u00a0 \u00a0 0.64 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 1900",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Speed": "HSPA 3.6/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "- AT&T exclusive",
+        "device_name": "Motorola Z9",
+        "image": {
+            "href": "http://www.gsmarena.com/motorola_z9-pictures-2334.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/motorola-z9.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/motorola_z9-2334.php"
+    }
+}

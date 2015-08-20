@@ -1,0 +1,75 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 750 mAh battery (BLB-2)",
+            "Stand-by": "Up to 170 h",
+            "Talk time": "Up to 3 h 50 min"
+        },
+        "Body": {
+            "Dimensions": "105.5 x 47.5 x 22.5 mm, 83 cc (4.15 x 1.87 x 0.89 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "92 g (3.25 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Pastel orange backlight\n- Dynamic font size\n- Softkey\n- Screensavers\n- Welcome message",
+            "Resolution": "5 lines",
+            "Size": "",
+            "Type": "Monochrome graphic"
+        },
+        "Features": {
+            "": "- Downloadable game packs via WAP\n- Predictive text input\n- Smart messaging\n- Organizer\n- Voice Dial\n- Mobile Chat mode for SMS\n- Profiles\n- Improved Durability\n- Picture messaging(10 predefined + 1 empty)\n- Photo editor",
+            "Alarm": "Yes",
+            "Browser": "WAP 1.1",
+            "Clock": "Yes",
+            "Games": "5 ( Snake II, Pairs II, Space Impact, Bantumi, Bumper )",
+            "Java": "No",
+            "Languages": "17 for menu, 11 for T9",
+            "Messaging": "SMS",
+            "Sensors": "Thermometer"
+        },
+        "Launch": {
+            "Announced": "1Q 2002",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- Ediatable message templates\n- 10 voice dial numbers\n- 100 Calendar notes",
+            "Call records": "20 dialed, 10 received, 10 missed calls",
+            "Card slot": "No",
+            "Phonebook": "250"
+        },
+        "Misc": {
+            "Colors": "Burned Orange, four Xpress-on shells as accessories",
+            "SAR EU": "0.62 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "": "- 6 Ringing tone levels\n- 10 Volume levels",
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable monophonic ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 5210",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_5210-pictures-286.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/no5210.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_5210-286.php"
+    }
+}

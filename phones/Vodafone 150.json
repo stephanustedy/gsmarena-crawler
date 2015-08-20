@@ -1,0 +1,69 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 500 mAh battery",
+            "Stand-by": "Up to 400 h",
+            "Talk time": "Up to 5 h"
+        },
+        "Body": {
+            "": "- Flashlight",
+            "Dimensions": "-",
+            "SIM": "Mini-SIM",
+            "Weight": "-"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "miniUSB (charging only)",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "96 x 64 pixels (~115 ppi pixel density)",
+            "Size": "1.0 inches",
+            "Type": "STN, monochrome graphics"
+        },
+        "Features": {
+            "": "- Organizer\n- Voice memo",
+            "Browser": "No",
+            "Games": "Yes",
+            "Java": "No",
+            "Messaging": "SMS"
+        },
+        "Launch": {
+            "Announced": "2010, February",
+            "Status": "Available. Released 2010, February"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "No",
+            "Internal": "No",
+            "Phonebook": "100 entries"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "1/10 (About 10 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Vodafone 150",
+        "image": {
+            "href": "http://www.gsmarena.com/vodafone_150-pictures-3192.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/vodafone-150.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/vodafone_150-3192.php"
+    }
+}

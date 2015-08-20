@@ -1,0 +1,81 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1320 mAh battery (BL-5J)",
+            "Music play": "Up to 35 h",
+            "Stand-by": "Up to 408 h (2G) / Up to 408 h (3G)",
+            "Talk time": "Up to 9 h (2G) / Up to 5 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "111 x 51.7 x 15.5 mm, 83 cc (4.37 x 2.04 x 0.61 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "109 g (3.84 oz)"
+        },
+        "Camera": {
+            "Primary": "3.15 MP, 2048 x 1536 pixels, Carl Zeiss optics, autofocus, LED flash",
+            "Secondary": "Videocall camera",
+            "Video": "480p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "Yes, with A-GPS; Nokia Maps 2.0 Touch",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g, UPnP technology"
+        },
+        "Display": {
+            "": "- Handwriting recognition",
+            "Resolution": "360 x 640 pixels (~229 ppi pixel density)",
+            "Size": "3.2 inches (~49.2% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Regional maps\n- Lifetime pedestrian and vehicle voice-guided navigation licenses\n- Car mount and car charger in retail package\n- WMV/RV/MP4/3GP player\n- MP3/WMA/WAV/RA/AAC/M4A player\n- Document viewer (Word, Excel, PowerPoint)\n- Photo editor\n- Voice command/dial\n- TV-out\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML, Adobe Flash Lite",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS, MMS, Email, Instant Messaging",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2009, August",
+            "Status": "Available. Released 2009, October"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 16 GB, 8 GB included",
+            "Internal": "81 MB, 128 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Chrome, Black",
+            "Price group": "4/10 (About 180 EUR)",
+            "SAR EU": "0.99 W/kg (head)",
+            "SAR US": "1.29 W/kg (head) \u00a0 \u00a0 0.92 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 1900 - American version",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Class 32",
+            "GPRS": "Class 32",
+            "Speed": "HSPA 3.6/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "434 MHz ARM 11",
+            "OS": "Symbian OS v9.4, Series 60 rel. 5"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 5800 Navigation Edition",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_5800_navigation_edition-pictures-2906.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-5800-navigation-edition.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_5800_navigation_edition-2906.php"
+    }
+}

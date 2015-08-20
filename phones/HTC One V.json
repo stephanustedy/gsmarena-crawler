@@ -1,0 +1,91 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 1500 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "120.3 x 59.7 x 9.2 mm (4.74 x 2.35 x 0.36 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "115 g (4.06 oz)"
+        },
+        "Camera": {
+            "Features": "Simultaneous HD video and image recording, geo-tagging, face/smile detection",
+            "Primary": "5 MP, 2592 x 1944 pixels, autofocus, LED flash, check quality",
+            "Secondary": "No",
+            "Video": "720p, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, apt-X",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot"
+        },
+        "Display": {
+            "": "- HTC Sense UI 4.0",
+            "Multitouch": "Yes",
+            "Resolution": "480 x 800 pixels (~252 ppi pixel density)",
+            "Size": "3.7 inches (~54.3% screen-to-body ratio)",
+            "Type": "Super LCD2 capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- DivX/XviD/MP4/H.264/WMV player\n- MP3/eAAC+/WMA/WAV player\n- Document editor\n- Voice memo/dial\n- Predictive text input",
+            "Browser": "HTML, Adobe Flash",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2012, February",
+            "Status": "Available. Released 2012, April"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "4 GB (1 GB user available), 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, Brown",
+            "Price group": "3/10 (About 130 EUR)",
+            "SAR EU": "0.87 W/kg (head)",
+            "SAR US": "0.87 W/kg (head) \u00a0 \u00a0 0.77 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "1 GHz Scorpion",
+            "Chipset": "Qualcomm MSM8255 Snapdragon S2",
+            "GPU": "Adreno 205",
+            "OS": "Android OS, v4.0.3 (Ice Cream Sandwich), not upgradable to v4.1 (Jelly Bean)"
+        },
+        "Sound": {
+            "": "- Beats Audio",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -81.7dB / Crosstalk -90.5dB",
+            "Battery life": "Endurance rating 31h",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 1053:1 (nominal) / 1.685:1 (sunlight)",
+            "Loudspeaker": "Voice 66dB / Noise 65dB / Ring 67dB"
+        }
+    },
+    "main": {
+        "device_name": "HTC One V",
+        "image": {
+            "href": "http://www.gsmarena.com/htc_one_v-pictures-4575.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/htc-one-v.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/htc_one_v-4575.php"
+    }
+}

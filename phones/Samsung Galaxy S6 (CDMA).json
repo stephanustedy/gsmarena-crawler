@@ -1,0 +1,95 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 2550 mAh battery",
+            "Music play": "Up to 57 h",
+            "Stand-by": "",
+            "Talk time": "Up to 23 h (3G)"
+        },
+        "Body": {
+            "": "- Fingerprint sensor (PayPal certified)\n- Samsung Pay (Visa, MasterCard certified)",
+            "Build": "Corning Gorilla Glass 4 back panel",
+            "Dimensions": "143.5 x 70.6 x 6.9 mm (5.65 x 2.78 x 0.27 in)",
+            "SIM": "Nano-SIM",
+            "Weight": "140 g (4.94 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection, Auto HDR, panorama",
+            "Primary": "16 MP, 2988 x 5312 pixels, optical image stabilization, autofocus, LED flash",
+            "Secondary": "5 MP, 1440p@30fps, dual video call, Auto HDR",
+            "Video": "2160p@30fps, 1080p@60fps, 720p@120fps, HDR, dual-video rec."
+        },
+        "Comms": {
+            "Bluetooth": "v4.1, A2DP, LE, apt-X",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "Infrared port": "Yes",
+            "NFC": "Yes",
+            "Radio": "No",
+            "USB": "microUSB v2.0, USB Host",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot"
+        },
+        "Display": {
+            "": "- TouchWiz UI",
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 4",
+            "Resolution": "1440 x 2560 pixels (~576 ppi pixel density)",
+            "Size": "5.1 inches (~70.8% screen-to-body ratio)",
+            "Type": "Super AMOLED capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Wireless charging (PMA) - market dependent\n- ANT+ support\n- S-Voice natural language commands and dictation\n- Smart stay\n- Active noise cancellation with dedicated mic\n- MP4/DivX/XviD/WMV/H.264 player\n- MP3/WAV/WMA/eAAC+/FLAC player\n- Photo/video editor\n- Document editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass, barometer, heart rate, SpO2"
+        },
+        "Launch": {
+            "Announced": "2015, March",
+            "Status": "Available. Released 2015, April"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "32/64/128 GB, 3 GB RAM"
+        },
+        "Misc": {
+            "Colors": "White Pearl, Black Sapphire, Gold Platinum",
+            "Price group": "9/10 (About 540 EUR)",
+            "SAR EU": "0.22 W/kg (head) \u00a0 \u00a0 0.66 W/kg (body)",
+            "SAR US": "1.09 W/kg (head) \u00a0 \u00a0 1.13 W/kg (body)"
+        },
+        "Network": {
+            "": "LTE band 2(1900), 4(1700/2100), 5(850), 12(700), 13(700), 17(700), 25(1900) - G920R",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - G920V, G920P",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100 - G920V",
+            "4G bands": "LTE band 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 13(700) - G920V",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat6 300/50 Mbps, EV-DO Rev.A 3.1 Mbps",
+            "Technology": "GSM / CDMA / HSPA / EVDO / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.5 GHz Cortex-A53 & Quad-core 2.1 GHz Cortex-A57",
+            "Chipset": "Exynos 7420",
+            "GPU": "Mali-T760MP8",
+            "OS": "Android OS, v5.0.2 (Lollipop), upgradable to v5.1 (Lollipop)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": {
+            "href": "http://www.gsmarena.com/samsung_galaxy_s6_edge_%28cdma%29-7166.php",
+            "text": "Also known as Samsung Galaxy S6 SM-G920\nCurved screen version available - Samsung Galaxy S6 edge\nAvailable versions: SM-G920P (Sprint), SM-G920V (Verizon), SM-G920R (US Cellular), SM-G920W8 (Canada)"
+        },
+        "device_name": "Samsung Galaxy S6 (CDMA)",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_galaxy_s6_(cdma)-pictures-7164.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s6-cdma.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_galaxy_s6_(cdma)-7164.php"
+    }
+}

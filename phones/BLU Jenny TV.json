@@ -1,0 +1,75 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 820 mAh battery",
+            "Stand-by": "Up to 600 h",
+            "Talk time": "Up to 12 h"
+        },
+        "Body": {
+            "": "- Flashlight",
+            "Dimensions": "119 x 49 x 14 mm (4.69 x 1.93 x 0.55 in)",
+            "SIM": "Dual SIM (Mini-SIM)",
+            "Weight": "88 g (3.10 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1",
+            "GPS": "No",
+            "Radio": "FM radio; built-in antenna",
+            "USB": "microUSB",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~167 ppi pixel density)",
+            "Size": "2.4 inches (~30.6% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- Facebook, Twitter\n- Analog TV\n- MP3/AAC/WMA/WAV player\n- MP4/H.264/WMV player\n- Predictive text input",
+            "Browser": "No",
+            "Games": "Downloadable",
+            "Java": "No",
+            "Messaging": "SMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2012, June",
+            "Status": "Available. Released 2012, August"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 8 GB",
+            "Internal": "32 MB ROM, 32 MB RAM",
+            "Phonebook": "200 entries"
+        },
+        "Misc": {
+            "Colors": "White, Black, Red, Yellow, Blue",
+            "Price group": "1/10 (About 30 EUR)"
+        },
+        "Network": {
+            "": "GSM 850 / 900 / 1800 / 1900 - SIM 2 (T172T only)",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "T162T - Single SIM\nT172T - Dual SIM",
+        "device_name": "BLU Jenny TV",
+        "image": {
+            "href": "http://www.gsmarena.com/blu_jenny_tv-pictures-4944.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/blu-jenny-tv.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/blu_jenny_tv-4944.php"
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1200 mAh battery",
+            "Stand-by": "Up to 360 h",
+            "Talk time": "Up to 4 h"
+        },
+        "Body": {
+            "Dimensions": "104 x 51 x 18.9 mm (4.09 x 2.01 x 0.74 in)",
+            "SIM": "Dual SIM (Mini-SIM)",
+            "Weight": "116 g (4.09 oz)"
+        },
+        "Camera": {
+            "Primary": "3.15 MP, 2048 x 1536 pixels, autofocus",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "FM radio",
+            "USB": "v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~174 ppi pixel density)",
+            "Size": "2.3 inches (~30.9% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/AAC+/MP4 player\n- Business card scanner\n- Document viewer (Word, Excel, PowerPoint, PDF)\n- Voice memo\n- TV-out",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2007, October. Released 2007, December",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "30 received, dialed and missed calls",
+            "Card slot": "microSD, up to 2 GB",
+            "Internal": "60 MB",
+            "Phonebook": "1000 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Noble Black, Silver",
+            "Price group": "3/10 (About 150 EUR)",
+            "SAR EU": "0.22 W/kg (head)",
+            "SAR US": "0.21 W/kg (head) \u00a0 \u00a0 0.54 W/kg (body)"
+        },
+        "Network": {
+            "": "GSM 900 / 1800 - SIM 2",
+            "2G bands": "GSM 900 / 1800 / 1900 - SIM 1",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -84.4dB / Crosstalk -85.2dB",
+            "Loudspeaker": "Voice 66dB / Noise 65dB / Ring 66dB"
+        }
+    },
+    "main": {
+        "device_name": "Samsung D880 Duos",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_d880_duos-pictures-2156.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-d880.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_d880_duos-2156.php"
+    }
+}

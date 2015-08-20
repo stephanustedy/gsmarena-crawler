@@ -1,0 +1,85 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1000 mAh battery (BL-4U)",
+            "Music play": "Up to 26 h",
+            "Stand-by": "Up to 350 h",
+            "Talk time": "Up to 7 h 42 min"
+        },
+        "Body": {
+            "Dimensions": "101 x 48 x 14 mm (3.98 x 1.89 x 0.55 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "113 g (3.99 oz)"
+        },
+        "Camera": {
+            "Features": "Video-calling",
+            "Primary": "3.15 MP, 2048 x 1536 pixels, enhanced fixed focus, LED flash, check quality",
+            "Secondary": "No",
+            "Video": "320p@15fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "No",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~167 ppi pixel density)",
+            "Size": "2.4 inches (~36.8% screen-to-body ratio)",
+            "Type": "TFT, 16M colors"
+        },
+        "Features": {
+            "": "- DVB-H broadcast receiver\n- MP4/H.264/WMV player\n- MP3/eAAC+/WAV/WMA player\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML, Adobe Flash Lite",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2009, November",
+            "Status": "Available. Released 2010, May"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "microSD, up to 16 GB, 1 GB included",
+            "Internal": "70 MB",
+            "Phonebook": "2000 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Glossy Black, Glossy White",
+            "Price group": "3/10 (About 140 EUR)",
+            "SAR EU": "0.89 W/kg (head)",
+            "SAR US": "0.96 W/kg (head) \u00a0 \u00a0 0.84 W/kg (body)"
+        },
+        "Network": {
+            "": "UMTS 900 / 1700 / 2100",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "UMTS 850 / 1900 / 2100",
+            "EDGE": "Class 32, 296 / 178.8 kbits",
+            "GPRS": "Class 32",
+            "Speed": "Yes, 384 kbps",
+            "Technology": "GSM / UMTS"
+        },
+        "Sound": {
+            "": "- Dedicated touch music keys",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -90.0dB / Crosstalk -90.6dB",
+            "Camera": "Photo",
+            "Loudspeaker": "Voice 75dB / Noise 75dB / Ring 75dB"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 5330 Mobile TV Edition",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_5330_mobile_tv_edition-pictures-3020.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-5330-mobile-tv.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_5330_mobile_tv_edition-3020.php"
+    }
+}

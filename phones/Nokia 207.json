@@ -1,0 +1,73 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1020 mAh battery (BL-5C)",
+            "Music play": "Up to 29 h",
+            "Stand-by": "Up to 490 h (2G) / Up to 500 h (3G)",
+            "Talk time": "Up to 12 h (2G) / Up to 4 h 30 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "114.2 x 50.9 x 12.8 mm, 65.2 cc (4.50 x 2.00 x 0.50 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "91.3 g (3.21 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "No",
+            "Radio": "Stereo FM radio with RDS; FM recording",
+            "USB": "microUSB",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~167 ppi pixel density)",
+            "Size": "2.4 inches (~30.7% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- SNS integration\n- MP4/H.263 player\n- MP3/WAV/AAC player\n- Organizer\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Games": "Yes",
+            "Java": "Yes",
+            "Messaging": "SMS(threaded view), MMS, Email, IM"
+        },
+        "Launch": {
+            "Announced": "2013, July",
+            "Status": "Available. Released 2013, October"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "256 MB, 64 MB RAM",
+            "Phonebook": "1000 entries"
+        },
+        "Misc": {
+            "Colors": "Cyan , Red, Yellow, Black, White",
+            "Price group": "2/10 (About 60 EUR)",
+            "SAR EU": "1.16 W/kg (head) \u00a0 \u00a0 0.76 W/kg (body)",
+            "SAR US": "0.95 W/kg (head) \u00a0 \u00a0 0.74 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Up to 236.8 kbps",
+            "GPRS": "Up to 85.6 kbps",
+            "Speed": "HSPA 7.2/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 207",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_207-pictures-5559.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-207.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_207-5559.php"
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "data": {
+        "Battery": {
+            "": "Vibrating Battery, 550 mAh ,NiMH",
+            "Stand-by": "30 h",
+            "Talk time": "2 h 40 min"
+        },
+        "Body": {
+            "Dimensions": "148 x 56 x 25 mm (5.83 x 2.20 x 0.98 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "236g (8.32 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "Navi Key",
+            "Resolution": "4 x 13 characters",
+            "Size": "",
+            "Type": "Monochrome graphic"
+        },
+        "Features": {
+            "Alarm": "No",
+            "Browser": "",
+            "Clock": "No",
+            "Games": "No",
+            "Java": "No",
+            "Messaging": "SMS"
+        },
+        "Launch": {
+            "Announced": "1995",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "10 dialed, 10 received, 10 missed calls",
+            "Card slot": "No",
+            "Phonebook": "SIM card + 125 entries"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "SAR EU": "0.85 W/kg (head)",
+            "SAR US": "1.48 W/kg (head) \u00a0 \u00a0 0.13 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Monophonic ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 2110",
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_2110-24.php"
+    }
+}

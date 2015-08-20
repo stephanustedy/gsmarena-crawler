@@ -1,0 +1,76 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 930 mAh battery (BST-39)",
+            "Stand-by": "Up to 360 h",
+            "Talk time": "Up to 8 h 20 min"
+        },
+        "Body": {
+            "Dimensions": "95 x 49 x 16.5 mm (3.74 x 1.93 x 0.65 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "95 g (3.35 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 1024 pixels",
+            "Secondary": "No",
+            "Video": "No"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Gesture Control\n- Second external OLED, mono display (128 x 36 pixels)",
+            "Resolution": "176 x 220 pixels (~148 ppi pixel density)",
+            "Size": "1.9 inches (~24.4% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- Dynamic themes\n- Media player\n- Shake control\n- Predictive text input\n- Organizer\n- Voice memo",
+            "Browser": "WAP 2.0/xHTML, RSS reader",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2008, January. Released 2008, March",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "30 received, dialed and missed calls",
+            "Card slot": "Memory Stick Micro (M2), up to 8 GB",
+            "Internal": "12 MB",
+            "Phonebook": "1000 x 20 fields, Photo call"
+        },
+        "Misc": {
+            "Colors": "Diamond Black, Dusted Rose",
+            "Price group": "2/10 (About 80 EUR)",
+            "SAR EU": "1.02 W/kg (head)"
+        },
+        "Network": {
+            "": "GSM 850 / 1800 / 1900 - Z555a",
+            "2G bands": "GSM 900 / 1800 / 1900 - Z555i",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3, AAC ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Z555i - 900/1800/1900 MHz\nZ555a - 850/1800/1900 MHz for America",
+        "device_name": "Sony Ericsson Z555",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_ericsson_z555-pictures-2199.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/sonyericsson-z555.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_ericsson_z555-2199.php"
+    }
+}

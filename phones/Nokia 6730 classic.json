@@ -1,0 +1,80 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1050 mAh battery (BL-5CT)",
+            "Music play": "Up to 28 h",
+            "Stand-by": "Up to 500 h (2G) / Up to 500 h (3G)",
+            "Talk time": "Up to 10 h (2G) / Up to 4 h 30 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "112 x 46 x 12.6 mm (4.41 x 1.81 x 0.50 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "83 g (2.93 oz)"
+        },
+        "Camera": {
+            "Primary": "3.15 MP, 2048 x 1536 pixels, enhanced fixed focus",
+            "Secondary": "VGA videocall camera",
+            "Video": "480p@15fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "Yes, with A-GPS; Nokia Maps",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~182 ppi pixel density)",
+            "Size": "2.2 inches (~29.1% screen-to-body ratio)",
+            "Type": "TFT, 16M colors"
+        },
+        "Features": {
+            "": "- WMV/MP4/H.264 player\n- MP3/WMA/WAV/AAC+ player\n- Document viewer\n- Oganizer\n- Photo editor\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML, Adobe Flash Lite",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2009, May",
+            "Status": "Available. Released 2009, July"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 16 GB, 1 GB included",
+            "Internal": "48 MB"
+        },
+        "Misc": {
+            "Colors": "Yes",
+            "Price group": "3/10 (About 130 EUR)",
+            "SAR EU": "1.24 W/kg (head)",
+            "SAR US": "1.13 W/kg (head) \u00a0 \u00a0 0.62 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Class 32, 296 / 178.8 kbits",
+            "GPRS": "Class 32",
+            "Speed": "HSPA 10.2/2 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "600 MHz ARM 11",
+            "OS": "Symbian OS, S60 rel. 3.2"
+        },
+        "Sound": {
+            "": "- 2.5 mm audio jack",
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Vodafone exclusive",
+        "device_name": "Nokia 6730 classic",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_6730_classic-pictures-2811.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-6730-classic.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_6730_classic-2811.php"
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1530 mAh battery",
+            "Stand-by": "Up to 400 h",
+            "Talk time": "Up to 9 h 48 min"
+        },
+        "Body": {
+            "Dimensions": "152.9 x 79.1 x 10 mm (6.02 x 3.11 x 0.39 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "220 g (7.76 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, dual-LED flash, check quality",
+            "Secondary": "Yes",
+            "Video": "480p@20fps; 720p (via SW update)"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g, hotspot (charges may apply)"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "480 x 800 pixels (~187 ppi pixel density)",
+            "Size": "5.0 inches (~58.8% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/H.264/WMV player\n- MP3/WAV/eAAC+/WMA player\n- QuickOffice document viewer\n- Photo viewer/editor\n- Organizer\n- Voice memo/dial\n- Predictive text input",
+            "Browser": "HTML, Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS(threaded view), MMS, Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2010, May",
+            "Status": "Available. Released 2010, June"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "16 GB, 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, Red, white",
+            "Price group": "4/10 (About 190 EUR)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 1900 / 2100",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 7.2/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "1 GHz Scorpion",
+            "Chipset": "Qualcomm QSD8250 Snapdragon S1",
+            "GPU": "Adreno 200",
+            "OS": "Android OS v1.6 (Donut), upgradable to v2.2 (Froyo)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -84.7dB / Crosstalk -82.5dB",
+            "Camera": "Photo",
+            "Loudspeaker": "Voice 70dB / Noise 75dB / Ring 80dB"
+        }
+    },
+    "main": {
+        "canonical_name": "For O2 UK and AT&T\nAlso known as Dell Mini 5\nTablet with support for GSM voice communication, SMS, and MMS",
+        "device_name": "Dell Streak",
+        "image": {
+            "href": "http://www.gsmarena.com/dell_streak-pictures-3353.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/dell-streak-official.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/dell_streak-3353.php"
+    }
+}

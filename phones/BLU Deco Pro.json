@@ -1,0 +1,75 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1200 mAh battery",
+            "Stand-by": "Up to 250 h",
+            "Talk time": "Up to 3 h 30 min"
+        },
+        "Body": {
+            "Dimensions": "108.5 x 64 x 12.5 mm (4.27 x 2.52 x 0.49 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "75 g (2.65 oz)"
+        },
+        "Camera": {
+            "Primary": "3.2 MP, 2048 x 1536 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "No",
+            "Radio": "FM radio",
+            "USB": "microUSB",
+            "WLAN": "Yes"
+        },
+        "Display": {
+            "Resolution": "320 x 240 pixels (~154 ppi pixel density)",
+            "Size": "2.6 inches (~30.1% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- Facebook\n- Music player\n- Video player\n- Organizer",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Downloadable",
+            "Java": "Yes",
+            "Messaging": "SMS, MMS, Push Email"
+        },
+        "Launch": {
+            "Announced": "2011, July",
+            "Status": "Available. Released 2011, Q3"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "1 GB ROM, 256 MB RAM",
+            "Phonebook": "Yes"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "2/10 (About 60 EUR)"
+        },
+        "Network": {
+            "": "GSM 850 / 900 / 1800 / 1900 - SIM 2 (Q360 only)",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "Yes",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Q350 - Single SIM\nQ360 - Dual SIM",
+        "device_name": "BLU Deco Pro",
+        "image": {
+            "href": "http://www.gsmarena.com/blu_deco_pro-pictures-4165.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/blu-deco-pro.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/blu_deco_pro-4165.php"
+    }
+}

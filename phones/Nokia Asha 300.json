@@ -1,0 +1,131 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1110 mAh battery (BL-4U)",
+            "Music play": "Up to 28 h",
+            "Stand-by": "Up to 550 h (2G) / Up to 597 h (3G)",
+            "Talk time": "Up to 6 h 54 min (2G) / Up to 4 h 18 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "112.8 x 49.5 x 12.7 mm, 59 cc (4.44 x 1.95 x 0.5 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "85 g (3.00 oz)"
+        },
+        "Camera": {
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, fixed focus, check quality",
+            "Secondary": "No",
+            "Video": "480p@15fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP, EDR",
+            "GPS": "No",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0, USB Host",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~167 ppi pixel density)",
+            "Size": "2.4 inches (~31.9% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- SNS integration\n- MP4/H.264/WMV player\n- MP3/WAV/WMA/AAC player\n- Organizer\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML, Adobe Flash Lite",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Proximity"
+        },
+        "Launch": {
+            "Announced": "2011, October",
+            "Status": "Available. Released 2011, November"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "140 MB, 256 MB ROM, 128 MB RAM",
+            "Phonebook": "Yes, Photocall"
+        },
+        "Misc": {
+            "Colors": "Graphite, Night Shade, Gold, White Silver, Pink, Red",
+            "Price group": "2/10 (About 70 EUR)",
+            "SAR EU": "1.51 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 10.2/2 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "0": "C",
+            "1": "P",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "U",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "g",
+            "25": "l",
+            "26": "o",
+            "27": "s",
+            "28": "s",
+            "29": "a",
+            "3": "p",
+            "30": "r",
+            "31": "y",
+            "32": ".",
+            "33": "p",
+            "34": "h",
+            "35": "p",
+            "36": "3",
+            "37": "?",
+            "38": "t",
+            "39": "e",
+            "4": ":",
+            "40": "r",
+            "41": "m",
+            "42": "=",
+            "43": "c",
+            "44": "p",
+            "45": "u",
+            "5": "/",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, Polyphonic(64), WAV, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -87.9dB / Crosstalk -86.8dB",
+            "Camera": "Photo",
+            "Display": "Contrast ratio: 856:1 (nominal)",
+            "Loudspeaker": "Voice 75dB / Noise 66dB / Ring 75dB"
+        }
+    },
+    "main": {
+        "device_name": "Nokia Asha 300",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_asha_300-pictures-4279.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-asha-300.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_asha_300-4279.php"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 950 mAh battery",
+            "Stand-by": "Up to 600 h",
+            "Talk time": "Up to 12 h"
+        },
+        "Body": {
+            "Dimensions": "104 x 57 x 13 mm (4.09 x 2.24 x 0.51 in)",
+            "SIM": "Dual SIM (Mini-SIM)",
+            "Weight": "90 g (3.17 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 1024 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, EDR",
+            "GPS": "No",
+            "Radio": "Stereo FM radio",
+            "USB": "microUSB",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~143 ppi pixel density)",
+            "Size": "2.8 inches (~41.0% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- Analog TV\n- Facebook, Twitter\n- MP3/AAC/WMA/WAV player\n- MP4/H.264/WMV player\n- Organizer\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Downloadable",
+            "Java": "No",
+            "Messaging": "SMS, MMS, IM"
+        },
+        "Launch": {
+            "Announced": "2011, November",
+            "Status": "Available. Released 2011, December"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 8 GB",
+            "Internal": "64 MB ROM, 32 MB RAM",
+            "Phonebook": "Yes"
+        },
+        "Misc": {
+            "Colors": "Black, Blue, Pink, Brown, White, Green",
+            "Price group": "1/10 (About 40 EUR)"
+        },
+        "Network": {
+            "": "GSM 850 / 900 / 1800 / 1900 - SIM 2 (S190 only)",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 12",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "S180 - Single SIM\nS190 - Dual SIM",
+        "device_name": "BLU Hero",
+        "image": {
+            "href": "http://www.gsmarena.com/blu_hero-pictures-4945.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/blu-hero.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/blu_hero-4945.php"
+    }
+}

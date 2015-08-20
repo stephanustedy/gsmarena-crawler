@@ -1,0 +1,90 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1080 mAh battery (BP-5Z)",
+            "Music play": "Up to 47 h",
+            "Stand-by": "Up to 465 h (2G) / Up to 450 h (3G)",
+            "Talk time": "Up to 7 h 10 min (2G) / Up to 4 h 30 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "110 x 50.7 x 9.7 mm, 50 cc (4.33 x 2.00 x 0.38 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "96 g (3.39 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face detection",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, fixed focus, LED flash, check quality",
+            "Secondary": "No",
+            "Video": "720p@30fps, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP, EDR",
+            "GPS": "Yes, with A-GPS; Nokia Maps 3.06",
+            "NFC": "Yes",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n"
+        },
+        "Display": {
+            "": "- Nokia ClearBlack display",
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "360 x 640 pixels (~229 ppi pixel density)",
+            "Size": "3.2 inches (~50.6% screen-to-body ratio)",
+            "Type": "AMOLED capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- SNS integration\n- TV-out\n- MP4/H.264 player\n- MP3/WAV/\u0435AAC+/WMA player\n- Dolby Digital Plus (via FP1 update)\n- Photo editor\n- Organizer\n- Voice command/dial\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML, Adobe Flash Lite",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2011, August",
+            "Status": "Available. Released 2011, September"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "2 GB, 1 GB ROM, 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Cool Grey, Silver/White, Coral Red, Peacock Blue and Purple",
+            "Price group": "3/10 (About 140 EUR)",
+            "SAR EU": "1.43 W/kg (head)",
+            "SAR US": "1.32 W/kg (head) \u00a0 \u00a0 1.06 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 1700 / 1900 / 2100",
+            "EDGE": "Class 33",
+            "GPRS": "Class 33",
+            "Speed": "HSPA 14.4/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "1 GHz ARM11 (1.3GHz after update)",
+            "OS": "Symbian Belle OS, upgradeable to Belle FP1"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -89.8dB / Crosstalk -89.3dB",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: Infinite (nominal)",
+            "Loudspeaker": "Voice 62dB / Noise 58dB / Ring 74dB"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 700",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_700-pictures-4021.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-700.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_700-4021.php"
+    }
+}

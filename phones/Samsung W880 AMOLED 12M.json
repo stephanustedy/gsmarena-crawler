@@ -1,0 +1,81 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1080 mAh battery",
+            "Stand-by": "Up to 410 h (2G) / Up to 310 h (3G)",
+            "Talk time": "Up to 6 h (2G) / Up to 4 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "115.8 x 56.9 x 16.3 mm (4.56 x 2.24 x 0.64 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "145 g (5.11 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face, smile and blink detection",
+            "Primary": "12 MP, 4000 x 3000 pixels, 3x optical zoom, autofocus, xenon flash, LED flash",
+            "Secondary": "Videocall camera",
+            "Video": "720p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- TouchWiz 2.0 UI",
+            "Resolution": "480 x 800 pixels (~283 ppi pixel density)",
+            "Size": "3.3 inches (~47.0% screen-to-body ratio)",
+            "Type": "AMOLED capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- T-DMB TV receiver, Live TV\n- MP3/WMA/AAC/WAV player\n- DivX/XviD/H.264/MP4/WMV player\n- Organizer\n- Voice memo/dial\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email, IM, Push Email",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2009, September",
+            "Status": "Available. Released 2009, October"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "4 GB",
+            "Phonebook": "Yes, Photo call"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "4/10 (About 200 EUR)",
+            "SAR EU": "0.58 W/kg (head)"
+        },
+        "Network": {
+            "": "1xEV-DO 800 / 1700",
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "3G bands": "HSDPA 2100",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA, CDMA2000 1xEV-DO",
+            "Technology": "GSM / HSPA"
+        },
+        "Sound": {
+            "": "- Call recording",
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "For South Korea",
+        "device_name": "Samsung W880 AMOLED 12M",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_w880_amoled_12m-pictures-2948.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-w880.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_w880_amoled_12m-2948.php"
+    }
+}

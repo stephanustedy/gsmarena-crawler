@@ -1,0 +1,85 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 2460 mAh battery",
+            "Stand-by": "Up to 456 h",
+            "Talk time": "Up to 16 h"
+        },
+        "Body": {
+            "Dimensions": "116.1 x 62 x 10.1 mm (4.57 x 2.44 x 0.40 in)",
+            "SIM": "Yes",
+            "Weight": "113.4 g (3.99 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, HDR, panorama",
+            "Primary": "5 MP, 2560 x 1920 pixels, autofocus, LED flash",
+            "Secondary": "VGA",
+            "Video": "1080p"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "NFC": "Yes",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, DLNA, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 2",
+            "Resolution": "480 x 800 pixels (~233 ppi pixel density)",
+            "Size": "4.0 inches (~63.3% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/H.264/WMV player\n- MP3/WMA/WAV/FLAC/eAAC+ player\n- Photo viewer/editor\n- Document viewer\n- Voice memo/dial",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2013, June",
+            "Status": "Available. Released 2013, June"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "4 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Purple, Titanium, Black (T-Mobile)",
+            "Price group": "2/10 (About 100 EUR)"
+        },
+        "Network": {
+            "": "LTE band 4(1700/2100), 17(700) - T-Mobile, MetroPCS",
+            "2G bands": "CDMA 800 / 1900 - LS720",
+            "3G bands": "CDMA2000 1xEV-DO - LS720",
+            "4G bands": "LTE band 25(1900) - LS720",
+            "EDGE": "Class 12 (T-Mobile)",
+            "GPRS": "Class 12 (T-Mobile)",
+            "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat3 100/50 Mbps, EV-DO Rev.A 3.1 Mbps",
+            "Technology": "GSM / CDMA / HSPA / EVDO / LTE"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.2 GHz Krait",
+            "Chipset": "Qualcomm MSM8930 Snapdragon 400",
+            "GPU": "Adreno 305",
+            "OS": "Android OS, v4.1.2 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "LS720 - for Sprint\nAlso available for Virgin Mobile, MetroPCS (LG MS659) and T-Mobile USA",
+        "device_name": "LG Optimus F3",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_optimus_f3-pictures-5509.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-optimus-f3.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_optimus_f3-5509.php"
+    }
+}

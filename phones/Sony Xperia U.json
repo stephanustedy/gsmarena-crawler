@@ -1,0 +1,93 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1320 mAh battery",
+            "Music play": "Up to 45 h",
+            "Stand-by": "Up to 260 h (2G) / Up to 472 h (3G)",
+            "Talk time": "Up to 6 h 36 min (2G) / Up to 5 h 36 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "112 x 54 x 12 mm (4.41 x 2.13 x 0.47 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "110 g (3.88 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face/smile detection, panorama",
+            "Primary": "5 MP, 2592 x 1944 pixels, autofocus, LED flash, check quality",
+            "Secondary": "VGA",
+            "Video": "720p@30fps, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0, USB Host",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot, DLNA"
+        },
+        "Display": {
+            "": "- Sony Mobile BRAVIA Engine\n- Timescape UI",
+            "Multitouch": "Yes, up to 4 fingers",
+            "Protection": "Scratch-resistant glass",
+            "Resolution": "480 x 854 pixels (~280 ppi pixel density)",
+            "Size": "3.5 inches (~55.8% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP4/H.264/WMV player\n- MP3/eAAC+/WMA/WAV player\n- Organizer\n- Document viewer\n- Voice memo/dial/commands\n- Predictive text input",
+            "Browser": "HTML5, Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS (threaded view), MMS, Email, IM, Push Email",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2012, February",
+            "Status": "Available. Released 2012, May"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "8 GB (4 GB user available), 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White/ exchangeable bottom caps in white, black, pink, yellow",
+            "Price group": "3/10 (About 140 EUR)",
+            "SAR EU": "1.62 W/kg (head)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 1900 / 2100 - ST25a",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100 - ST25i",
+            "EDGE": "Up to 296 kbps",
+            "GPRS": "Up to 107 kbps",
+            "Speed": "HSPA 14.4/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1 GHz Cortex-A9",
+            "Chipset": "NovaThor U8500",
+            "GPU": "Mali-400",
+            "OS": "Android OS, v2.3 (Gingerbread), upgradable to v4.0 (Ice Cream Sandwich)"
+        },
+        "Sound": {
+            "": "- Sony 3D surround sound audio technology",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -87.3dB / Crosstalk -87.7dB",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 930:1 (nominal) / 1.758:1 (sunlight)",
+            "Loudspeaker": "Voice 65dB / Noise 65dB / Ring 72dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Previously known as Sony Ericsson ST25i Kumquat",
+        "device_name": "Sony Xperia U",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_xperia_u-pictures-4437.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/sony-xperia-u-ofic.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_xperia_u-4437.php"
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 4400 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "190 x 120 x 11.4 mm (7.48 x 4.72 x 0.45 in)",
+            "SIM": "No",
+            "Weight": "413 g (14.57 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "Yes",
+            "WLAN": "Wi-Fi 802.11 b/g/n"
+        },
+        "Display": {
+            "Multitouch": "Yes, up to 2 fingers",
+            "Resolution": "600 x 1024 pixels (~170 ppi pixel density)",
+            "Size": "7.0 inches (~60.5% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/VP8 player\n- MP3/WAV/AAC/OGG/MIDI player\n- Organizer\n- Predictive text input",
+            "Browser": "HTML (Amazon Silk)",
+            "Java": "No",
+            "Messaging": "Email, Push Email, IM",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2011, September",
+            "Status": "Available. Released 2011, November"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "8 GB, 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "3/10 (About 120 EUR)"
+        },
+        "Network": {
+            "2G bands": "N/A",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "No cellular connectivity"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1 GHz Cortex-A9",
+            "Chipset": "TI OMAP 4430",
+            "GPU": "PowerVR SGX540",
+            "OS": "Android OS, v2.3 (customized)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -87.8dB / Crosstalk -83.2dB",
+            "Display": "Contrast ratio: 896:1 (nominal)",
+            "Loudspeaker": "Voice 66dB / Noise 63dB / Ring 66dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Tablet with no support for GSM voice communication, SMS, and MMS",
+        "device_name": "Amazon Kindle Fire",
+        "image": {
+            "href": "http://www.gsmarena.com/amazon_kindle_fire-pictures-4524.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/amazon-kindle-fire.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/amazon_kindle_fire-4524.php"
+    }
+}

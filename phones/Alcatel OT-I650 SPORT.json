@@ -1,0 +1,75 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1000 mAh battery",
+            "Music play": "Up to 20 h",
+            "Stand-by": "Up to 800 h",
+            "Talk time": "Up to 10 h"
+        },
+        "Body": {
+            "Dimensions": "102 x 45 x 15.9 mm (4.02 x 1.77 x 0.63 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "75 g (2.65 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 1024 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "miniUSB",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "128 x 160 pixels (~114 ppi pixel density)",
+            "Size": "1.8 inches (~22.2% screen-to-body ratio)",
+            "Type": "OLED, 65K colors"
+        },
+        "Features": {
+            "": "- MP3/AAC player\n- Fitness applications\n- Pedometer and calories counter\n- Shake-to-mute-alarm\n- Predictive text input\n- Organizer",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "1",
+            "Java": "No",
+            "Messaging": "SMS, MMS, Instant Messaging",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2008, February. Released 2008, August",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "microSD",
+            "Internal": "2 MB",
+            "Phonebook": "800 entries"
+        },
+        "Misc": {
+            "Colors": "Black & Orange",
+            "SAR EU": "0.76 W/kg (head)",
+            "SAR US": "1.09 W/kg (head) \u00a0 \u00a0 1.21 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Polyphonic(64) ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Alcatel OT-I650 SPORT",
+        "image": {
+            "href": "http://www.gsmarena.com/alcatel_ot_i650_sport-pictures-2286.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/alcatel-sport.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/alcatel_ot_i650_sport-2286.php"
+    }
+}

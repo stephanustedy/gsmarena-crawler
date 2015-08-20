@@ -1,0 +1,69 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 690 mAh battery",
+            "Stand-by": "Up to 135 h",
+            "Talk time": "Up to 3 h"
+        },
+        "Body": {
+            "Dimensions": "104 x 45 x 12.5 mm (4.09 x 1.77 x 0.49 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "65 g (2.29 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "No",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "128 x 128 pixels",
+            "Size": "",
+            "Type": "CSTN, 65K colors"
+        },
+        "Features": {
+            "": "- Calculator\n- Predictive text input",
+            "Browser": "No",
+            "Games": "Yes",
+            "Java": "No",
+            "Messaging": "SMS"
+        },
+        "Launch": {
+            "Announced": "2007, May",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "10 dialed, 10 received, 10 missed calls",
+            "Card slot": "No",
+            "Internal": "4 MB",
+            "Phonebook": "300 entries"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "SAR EU": "1.32 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Polyphonic(16) ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "canonical_name": "Manufactured by ZTE",
+        "device_name": "Vodafone 225",
+        "image": {
+            "href": "http://www.gsmarena.com/vodafone_225-pictures-2453.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/vodafone-225.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/vodafone_225-2453.php"
+    }
+}

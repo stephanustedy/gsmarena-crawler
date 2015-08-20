@@ -1,0 +1,77 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 950 mAh battery (BST-33)",
+            "Stand-by": "Up to 350 h",
+            "Talk time": "Up to 7 h"
+        },
+        "Body": {
+            "Dimensions": "102 x 46 x 14 mm (4.02 x 1.81 x 0.55 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "85 g (3.00 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1632 x 1224 pixels, autofocus, LED flash",
+            "Secondary": "No",
+            "Video": "QCIF"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Wallpapers, screensavers",
+            "Resolution": "176 x 220 pixels (~148 ppi pixel density)",
+            "Size": "1.9 inches (~24.2% screen-to-body ratio)",
+            "Type": "TFD, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/AAC/MP4 player\n- TrackID music recognition\n- Predictive text input\n- Adobe Photoshop Album\n- Organizer\n- Voice memo/dial",
+            "Browser": "WAP 2.0/xHTML, HTML(NetFront)",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2007, February",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "30 received, dialed and missed calls",
+            "Card slot": "Memory Stick Micro (M2), up to 2 GB",
+            "Internal": "77 MB",
+            "Phonebook": "1000 x 20 fields, Photo call"
+        },
+        "Misc": {
+            "Colors": "Jet Black, Pearl White, Plum Ruby, Sophisticated Silver",
+            "Price group": "2/10 (About 70 EUR)",
+            "SAR EU": "1.25 W/kg (head)",
+            "SAR US": "1.37 W/kg (head) \u00a0 \u00a0 0.87 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "Yes",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3, AAC ringtones, composer",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "- K550i 850/900/1800/1900 MHz\n- K550c 850/900/1800/1900 MHz for China Mainland",
+        "device_name": "Sony Ericsson K550",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_ericsson_k550-pictures-1840.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/sonyericsson-k550.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_ericsson_k550-1840.php"
+    }
+}

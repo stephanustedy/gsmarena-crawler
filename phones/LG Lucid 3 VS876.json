@@ -1,0 +1,83 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 2440 mAh battery",
+            "Stand-by": "Up to 360 h",
+            "Talk time": "Up to 12 h 30 min"
+        },
+        "Body": {
+            "Dimensions": "131.6 x 66 x 9.9 mm (5.18 x 2.60 x 0.39 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "123.9 g (4.37 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face/smile detection, panorama, HDR",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, LED flash",
+            "Secondary": "VGA",
+            "Video": "1080p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, EDR, LE",
+            "GPS": "Yes, with A-GPS",
+            "NFC": "Yes",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, hotspot, DLNA"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 3",
+            "Resolution": "540 x 960 pixels (~234 ppi pixel density)",
+            "Size": "4.7 inches (~70.1% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/DivX/Xvid/H.264/WMV player\n- MP3/WAV/WMA/eAAC+ player\n- Document viewer\n- Photo/video editor\n- Voice memo/dial/commands",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2014, April",
+            "Status": "Available. Released 2014, April"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "8 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "5/10 (About 220 EUR)",
+            "SAR US": "0.78 W/kg (head) \u00a0 \u00a0 1.09 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "CDMA 800 / 1900",
+            "3G bands": "CDMA2000 1xEV-DO",
+            "4G bands": "LTE band 4(1700/2100), 13(700)",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Speed": "EV-DO Rev.A 3.1 Mbps, LTE",
+            "Technology": "CDMA / EVDO / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.2 GHz",
+            "OS": "Android OS, v4.4.2 (KitKat)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "For Verizon",
+        "device_name": "LG Lucid 3 VS876",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_lucid_3_vs876-pictures-6326.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-lucid-3.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_lucid_3_vs876-6326.php"
+    }
+}

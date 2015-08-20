@@ -1,0 +1,84 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1200 mAh battery (BL-4D)",
+            "Stand-by": "Up to 360 h (2G) / Up to 360 h (3G)",
+            "Talk time": "Up to 5 h 20 min (2G) / Up to 7 h 45 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "113.5 x 59 x 12.8 mm, 80 cc (4.47 x 2.32 x 0.50 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "134 (4.73 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face detection",
+            "Primary": "8 MP, 3264 x 2448 pixels, fixed focus, dual-LED flash",
+            "Secondary": "VGA",
+            "Video": "720p@25fps, 720p@30fps (via SW update)"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "Yes, with A-GPS; Ovi Maps",
+            "Radio": "Stereo FM radio with RDS, FM transmitter",
+            "USB": "microUSB v2.0, USB Host",
+            "WLAN": "Wi-Fi 802.11 b/g/n"
+        },
+        "Display": {
+            "": "- ClearBlack display",
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "360 x 640 pixels (~210 ppi pixel density)",
+            "Size": "3.5 inches (~50.4% screen-to-body ratio)",
+            "Type": "AMOLED capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Anodized aluminum casing\n- Active noise cancellation with a dedicated mic\n- TV Out with composite\n- MP3/WMA/WAV/eAAC+ player\n- MP4/H.264/WMV player\n- Voice command/dial\n- Document viewer (Word, Excel, PowerPoint, PDF)\n- Video/photo editor\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML, Adobe Flash Lite",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2011, June",
+            "Status": "Available. Released 2011, Q3"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "290 MB, 256 MB RAM, 1 GB ROM"
+        },
+        "Misc": {
+            "Colors": "Black, Lime",
+            "Price group": "5/10 (About 240 EUR)",
+            "SAR EU": "0.97 W/kg (head)",
+            "SAR US": "0.77 W/kg (head) \u00a0 \u00a0 0.80 W/kg (body)"
+        },
+        "Network": {
+            "": "TD-SCDMA 2010-2025",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "TD-SCDMA 1880-1920",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA",
+            "Technology": "GSM"
+        },
+        "Platform": {
+            "CPU": "680 MHz ARM 11",
+            "OS": "Symbian^3 OS, upgradable to Nokia Belle OS"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Nokia T7-00",
+        "device_name": "Nokia T7",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_t7-pictures-3915.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-t7-00-ofic.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_t7-3915.php"
+    }
+}

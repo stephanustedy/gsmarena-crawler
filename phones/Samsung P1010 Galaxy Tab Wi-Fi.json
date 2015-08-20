@@ -1,0 +1,82 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po 4000 mAh battery",
+            "Stand-by": "Up to 950 h",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "190.1 x 120.5 x 12 mm (7.48 x 4.74 x 0.47 in)",
+            "SIM": "No",
+            "Weight": "380 g (13.40 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "3.15 MP, 2048 x 1536 pixels, autofocus, LED flash",
+            "Secondary": "1.3 MP",
+            "Video": "480p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP, EDR",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "v2.0",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, hotspot"
+        },
+        "Display": {
+            "": "- TouchWiz UI",
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "600 x 1024 pixels (~170 ppi pixel density)",
+            "Size": "7.0 inches (~60.2% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- TV-out\n- MP4/DivX/WMV/H.264 player\n- MP3/WAV/eAAC+/FLAC player\n- Photo/video editor\n- Thinkfree Office",
+            "Browser": "HTML, Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "Email, Push Mail, IM",
+            "Sensors": "Accelerometer, gyro, proximity"
+        },
+        "Launch": {
+            "Announced": "2011, Q1",
+            "Status": "Available. Released 2011, March"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "16 GB, 592 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black and Grey",
+            "Price group": "3/10 (About 150 EUR)",
+            "SAR EU": "0.18 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "N/A",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "No cellular connectivity"
+        },
+        "Platform": {
+            "CPU": "1 GHz Cortex-A8",
+            "Chipset": "TI OMAP 3630",
+            "GPU": "PowerVR SGX530",
+            "OS": "Android OS, v2.2 (Froyo), upgradable to v2.3 (Gingerbread)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "canonical_name": "Tablet with no support for GSM voice communication, SMS, and MMS",
+        "device_name": "Samsung P1010 Galaxy Tab Wi-Fi",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_p1010_galaxy_tab_wi_fi-pictures-3919.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-p1010-galaxy-tab-wi-fi.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_p1010_galaxy_tab_wi_fi-3919.php"
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 900 mAh battery (BL-5B)",
+            "Stand-by": "Up to 320 h",
+            "Talk time": "Up to 3 h"
+        },
+        "Body": {
+            "Dimensions": "106 x 44 x 20 mm, 73 cc (4.17 x 1.73 x 0.79 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "88 g (3.10 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "v1.2",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "Pop-Port",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Downloadable wallpapers, screensavers",
+            "Resolution": "128 x 128 pixels (~116 ppi pixel density)",
+            "Size": "1.56 inches (~16.8% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- Push to talk\n- Presence enhanced contacts\n- Organizer\n- SyncML\n- Voice dial/memo",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Languages": "Major European languages",
+            "Messaging": "SMS, MMS, EMail, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2005, 1Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "No",
+            "Internal": "2.3 MB",
+            "Phonebook": "500 entries"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "3/10 (About 100 EUR)",
+            "SAR EU": "0.72 W/kg (head)",
+            "SAR US": "0.69 W/kg (head) \u00a0 \u00a0 1.04 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "Class 6",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 6021",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_6021-pictures-1088.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-6021.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_6021-1088.php"
+    }
+}

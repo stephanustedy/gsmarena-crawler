@@ -1,0 +1,82 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1500 mAh battery",
+            "Stand-by": "Up to 450 h (2G) / Up to 550 h (3G)",
+            "Talk time": "Up to 11 h (2G) / Up to 8 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "115 x 63 x 13.5 mm (4.53 x 2.48 x 0.53 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "135 g (4.76 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face/smile detection",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, LED flash",
+            "Secondary": "No",
+            "Video": "720p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, UPnP, hotspot"
+        },
+        "Display": {
+            "": "- Acer UI 4.0 Breeze",
+            "Resolution": "480 x 800 pixels (~259 ppi pixel density)",
+            "Size": "3.6 inches (~50.9% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP3/WAV/WMA/eAAC+ player\n- XviD/MP4/H.264 player\n- Document viewer \n- Voice memo/dial\n- Predictive text input\n- Music recognition",
+            "Browser": "HTML, Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2010, October",
+            "Status": "Available. Released 2010, November"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "512 MB RAM, 512 MB"
+        },
+        "Misc": {
+            "Colors": "Silver",
+            "Price group": "2/10 (About 70 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 1900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 14.4/2 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "800 MHz Scorpion",
+            "Chipset": "Qualcomm MSM7230",
+            "GPU": "Adreno 205",
+            "OS": "Android OS, v2.2 (Froyo)"
+        },
+        "Sound": {
+            "": "- Dolby Mobile",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Previously known as Acer Liquid Metal",
+        "device_name": "Acer Liquid mt",
+        "image": {
+            "href": "http://www.gsmarena.com/acer_liquid_mt-pictures-3519.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/acer-liquid-metal-ofic.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/acer_liquid_mt-3519.php"
+    }
+}

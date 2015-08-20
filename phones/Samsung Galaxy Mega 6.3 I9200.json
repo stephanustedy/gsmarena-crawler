@@ -1,0 +1,95 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 3200 mAh battery",
+            "Music play": "Up to 82 h",
+            "Stand-by": "Up to 420 h",
+            "Talk time": "Up to 17 h (2G) / Up to 10 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "167.6 x 88 x 8 mm (6.60 x 3.46 x 0.31 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "199 g (7.02 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face/smile detection, HDR, panorama",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash, check quality",
+            "Secondary": "1.9 MP",
+            "Video": "1080p@30fps, stereo sound rec., check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, LE",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "Infrared port": "Yes",
+            "NFC": "Yes",
+            "Radio": "No",
+            "USB": "microUSB v2.0 (MHL TV-out), USB Host",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- TouchWiz UI",
+            "Multitouch": "Yes",
+            "Resolution": "720 x 1280 pixels (~233 ppi pixel density)",
+            "Size": "6.3 inches (~74.2% screen-to-body ratio)",
+            "Type": "SC-LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP4/WMV/H.264 player\n- MP3/WAV/eAAC+/FLAC player\n- Photo/video editor\n- Document viewer",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2013, April",
+            "Status": "Available. Released 2013, June"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "8/16 GB, 1.5 GB RAM"
+        },
+        "Misc": {
+            "Colors": "White, Black, Plum Purple",
+            "Price group": "7/10 (About 300 EUR)",
+            "SAR EU": "0.20 W/kg (head) \u00a0 \u00a0 0.34 W/kg (body)",
+            "SAR US": "1.09 W/kg (head) \u00a0 \u00a0 1.09 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+            "4G bands": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 20(800) - GT-I9205",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 21.1/5.76 Mbps (I9200), LTE Cat3 100/50 Mbps (I9205)",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.7 GHz Krait 300",
+            "Chipset": "Qualcomm Snapdragon 400",
+            "GPU": "Adreno 305",
+            "OS": "Android OS, v4.2.2 (Jelly Bean), upgradable to v4.4.2 (KitKat)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -90.4dB / Crosstalk -91.7dB",
+            "Battery life": "Endurance rating 60h",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 1379:1 (nominal) / 1.913:1 (sunlight)",
+            "Loudspeaker": "Voice 67dB / Noise 69dB / Ring 75dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Samsung SGH-i527 for AT&T",
+        "device_name": "Samsung Galaxy Mega 6.3 I9200",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_galaxy_mega_6_3_i9200-pictures-5398.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-mega-6-3.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_galaxy_mega_6_3_i9200-5398.php"
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1200 mAh battery",
+            "Stand-by": "Up to 310 h (2G) / 330 h (3G)",
+            "Talk time": "Up to 8 h 30 min (2G) / 2 h 30 min (3G)"
+        },
+        "Body": {
+            "": "- Optical trackpad",
+            "Dimensions": "106.5 x 53.9 x 17.2 mm (4.19 x 2.12 x 0.68 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "136 g (4.80 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face, smile and blink detection, WDR",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash",
+            "Secondary": "Videocall camera",
+            "Video": "480p@30fps, 320p@120fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g, DLNA"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~143 ppi pixel density)",
+            "Size": "2.8 inches (~42.3% screen-to-body ratio)",
+            "Type": "TFT, 16M colors"
+        },
+        "Features": {
+            "": "- Business card scanner\n- AVI(DiVX/XviD)/WMV/RV/MP4/3GP player\n- MP3/WMA/WAV/RA/AAC/M4A player\n- Video editing\n- TV-out\n- Organizer\n- Document viewer (Word, Excel, PowerPoint, PDF)\n- Predictive text input\n- Voice memo",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS, MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2008, July. Released 2008, September",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 16 GB",
+            "Internal": "8/16 GB, 128 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "4/10 (About 200 EUR)",
+            "SAR EU": "0.41 W/kg (head)",
+            "SAR US": "0.28 W/kg (head) \u00a0 \u00a0 0.50 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 1900 - American version",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Speed": "HSPA 7.2/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "330 MHz ARM 11",
+            "OS": "Symbian OS v9.3, Series 60 rel. 3.2"
+        },
+        "Sound": {
+            "": "- DNSe 2.0 (Digital Natural Sound Engine)",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        },
+        "Tests": {
+            "Audio quality": "Noise -87.6dB / Crosstalk -84.6dB",
+            "Loudspeaker": "Voice 78dB / Noise 75dB / Ring 77dB"
+        }
+    },
+    "main": {
+        "device_name": "Samsung i8510 INNOV8",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_i8510_innov8-pictures-2471.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-i8150.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_i8510_innov8-2471.php"
+    }
+}

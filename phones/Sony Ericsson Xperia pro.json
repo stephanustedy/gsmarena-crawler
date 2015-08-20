@@ -1,0 +1,93 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 1500 mAh battery",
+            "Music play": "Up to 31 h",
+            "Stand-by": "Up to 430 h (2G) / Up to 400 h (3G)",
+            "Talk time": "Up to 6 h 55 min (2G) / Up to 7 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "120 x 57 x 13.5 mm (4.72 x 2.24 x 0.53 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "142 g (5.01 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face/smile detection, video calling",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash, check quality",
+            "Secondary": "VGA",
+            "Video": "720p@30fps, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "Yes, with A-GPS; GLONASS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- Sony Mobile BRAVIA Engine\n- Timescape UI",
+            "Multitouch": "Yes",
+            "Protection": "Scratch-resistant glass",
+            "Resolution": "480 x 854 pixels (~265 ppi pixel density)",
+            "Size": "3.7 inches (~55.2% screen-to-body ratio)",
+            "Type": "LED-backlit LCD, capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- ANT+ support\n- Type & Send feature\n- HDMI port\n- MP4/H.264/WMV player\n- MP3/WMA/WAV/eAAC+ player\n- TrackID music recognition\n- Organizer\n- Office Suite Pro document viewer/editor\n- Voice memo/dial/commands\n- Predictive text input",
+            "Browser": "HTML, Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS (threaded view), MMS, Email, IM, Push Email",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2011, February",
+            "Status": "Available. Released 2011, October"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB, 8 GB included",
+            "Internal": "1 GB (320 MB user available), 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, Silver, Red",
+            "Price group": "4/10 (About 190 EUR)",
+            "SAR EU": "0.88 W/kg (head)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 1900 / 2100 / 800 - MK16a",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100 - MK16i",
+            "EDGE": "Up to 237 kbps",
+            "GPRS": "Up to 86 kbps",
+            "Speed": "HSPA 7.2/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "1 GHz Scorpion",
+            "Chipset": "Qualcomm MSM8255 Snapdragon S2",
+            "GPU": "Adreno 205",
+            "OS": "Android OS, v2.3 (Gingerbread), planned upgrade to v4.0 (Ice Cream Sandwich)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -89.7dB / Crosstalk -88.1dB",
+            "Battery life": "Endurance rating 37h",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 928:1 (nominal)",
+            "Loudspeaker": "Voice 75dB / Noise 66dB / Ring 75dB"
+        }
+    },
+    "main": {
+        "device_name": "Sony Ericsson Xperia pro",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_ericsson_xperia_pro-pictures-3779.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/sony-ericsson-xperia-pro-new.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_ericsson_xperia_pro-3779.php"
+    }
+}

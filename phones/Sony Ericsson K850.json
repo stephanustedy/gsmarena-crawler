@@ -1,0 +1,78 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 930 mAh battery (BST-38)",
+            "Stand-by": "Up to 400 h (2G) / Up to 350 h (3G)",
+            "Talk time": "Up to 9 h (2G) / Up to 3 h 30 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "102 x 48 x 17 mm (4.02 x 1.89 x 0.67 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "118 g (4.16 oz)"
+        },
+        "Camera": {
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, xenon flash and 3LED video light, auto lens cover",
+            "Secondary": "Videocall camera",
+            "Video": "320p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~182 ppi pixel density)",
+            "Size": "2.2 inches (~30.6% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/AAC/MP4 player\n- TrackID music recognition\n- Predictive text input\n- Photo editor \n- Organizer\n- Voice memo/dial",
+            "Browser": "WAP 2.0/HTML (NetFront), RSS reader",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email, Instant Messaging",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2007, June. Released 2007, October",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "30 received, dialed and missed calls",
+            "Card slot": "Memory Stick Micro (M2)/microSD, up to 4 GB, 512 MB included",
+            "Internal": "40 MB",
+            "Phonebook": "1000 x 20 fields, Photo call"
+        },
+        "Misc": {
+            "Colors": "Luminous Green, Velvet Blue, Quicksilver black",
+            "Price group": "4/10 (About 160 EUR)",
+            "SAR EU": "1.14 W/kg (head)",
+            "SAR US": "1.50 W/kg (head) \u00a0 \u00a0 1.56 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 1900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Class 10",
+            "Speed": "HSPA 3.6/0.384 Mbps (K850i)",
+            "Technology": "GSM / HSPA"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3, AAC ringtones, composer",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "- K850i HSDPA/850/900/1800/1900 MHz\n- K858c 850/900/1800/1900 MHz for China Mainland",
+        "device_name": "Sony Ericsson K850",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_ericsson_k850-pictures-2003.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/sonyericsson-k850.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_ericsson_k850-2003.php"
+    }
+}

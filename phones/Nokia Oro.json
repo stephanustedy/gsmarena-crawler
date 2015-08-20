@@ -1,0 +1,85 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1200 mAh battery (BL-5K)",
+            "Music play": "Up to 54 h",
+            "Stand-by": "Up to 555 h (2G) / Up to 656 h (3G)",
+            "Talk time": "Up to 9 h 36 min (2G) / Up to 5 h 18 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "117.3 x 57.5 x 12.2 mm, 77.7 cc (4.62 x 2.26 x 0.48 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "132 g (4.66 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face detection",
+            "Primary": "8 MP, 3264 x 2448 pixels, fixed focus, dual-LED flash",
+            "Secondary": "VGA",
+            "Video": "720p@25fps"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "Yes, with A-GPS; Ovi Maps 3.0",
+            "NFC": "Yes",
+            "Radio": "Stereo FM radio with RDS, FM transmitter",
+            "USB": "microUSB v2.0, USB Host",
+            "WLAN": "Wi-Fi 802.11 b/g/n"
+        },
+        "Display": {
+            "": "- Handwriting recognition",
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "360 x 640 pixels (~210 ppi pixel density)",
+            "Size": "3.5 inches (~50.1% screen-to-body ratio)",
+            "Type": "AMOLED capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- 18-carat gold plating\n- Sapphire crystal and leather materials\n- Web TV\n- TV-out\n- Active noise cancellation with dedicated mic\n- MP3/WMA/WAV/eAAC+ player\n- DivX/XviD/MP4/H.264/WMV player\n- Quickoffice document viewer (Word, Excel, PowerPoint, PDF)\n- Adobe Reader\n- Photo editor\n- Voice memo/dial/command\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML, Adobe Flash Lite",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2011, May",
+            "Status": "Available. Released 2011, August"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "8 GB, 256 MB RAM, 512 MB ROM"
+        },
+        "Misc": {
+            "Colors": "Nokia Oro Light, Nokia Oro Dark",
+            "Price group": "5/10 (About 230 EUR)",
+            "SAR EU": "0.73 W/kg (head)",
+            "SAR US": "1.03 W/kg (head) \u00a0 \u00a0 0.83 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 1700 / 1900 / 2100",
+            "EDGE": "Class 33",
+            "GPRS": "Class 33",
+            "Speed": "HSPA 10.2/2 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "680 MHz ARM 11",
+            "GPU": "Broadcom BCM2727",
+            "OS": "Symbian Anna OS"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Nokia Oro",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_oro-pictures-3961.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-oro.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_oro-3961.php"
+    }
+}

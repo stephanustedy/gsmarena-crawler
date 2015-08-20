@@ -1,0 +1,76 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1000 mAh battery (BLC-2)",
+            "Stand-by": "Up to 168 - 360 h",
+            "Talk time": "Up to 3 - 7 h"
+        },
+        "Body": {
+            "Dimensions": "119 x 55 x 23 mm, 105 cc (4.69 x 2.17 x 0.91 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "122 g (4.30 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "Stereo FM radio",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Adjustable display brightness\n- 8 changeable color schemes \n- Wallpapers\n- Four-way scroll\n- Dynamic font size",
+            "Resolution": "128 x 128 pixels, 8 lines (~106 ppi pixel density)",
+            "Size": "1.7 inches (~14.2% screen-to-body ratio)",
+            "Type": "CSTN, 4096 colors"
+        },
+        "Features": {
+            "": "- Predictive text input\n- Organizer\n- Stopwatch\n- IR transfer between compatible phones\n- Temperature, currency, and measure converter\n- Profiles",
+            "Alarm": "Yes",
+            "Browser": "WAP 1.2.1",
+            "Clock": "Yes",
+            "Games": "Triple Pop and Bounce + Java downloadable",
+            "Java": "Yes",
+            "Languages": "Major European languages",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "1Q, 2003",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- 10 predefined images, replaceable\n- SMS templates",
+            "Call records": "10 dialed, 10 received, 10 missed calls",
+            "Card slot": "No",
+            "Phonebook": "300"
+        },
+        "Misc": {
+            "Colors": "",
+            "SAR EU": "0.62 W/kg (head)"
+        },
+        "Network": {
+            "": "GSM 850 / 1900 - US version",
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "Class 4",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "": "- Ascending ringing tones\n- Personal alert tones",
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, monophonic ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 6800",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_6800-pictures-369.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/no6800.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_6800-369.php"
+    }
+}

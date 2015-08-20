@@ -1,0 +1,75 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 820 mAh battery",
+            "Stand-by": "Up to 750 h",
+            "Talk time": "Up to 14 h"
+        },
+        "Body": {
+            "": "- Flashlight",
+            "Dimensions": "110 x 45.7 x 13 mm (4.33 x 1.80 x 0.51 in)",
+            "SIM": "Dual SIM (Mini-SIM)",
+            "Weight": "65 g (2.29 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0",
+            "GPS": "No",
+            "Radio": "FM radio; built-in antenna",
+            "USB": "microUSB",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "128 x 160 pixels (~114 ppi pixel density)",
+            "Size": "1.8 inches (~20.3% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- SNS apps\n- Analog TV\n- MP3/AAC+/WMA/WAV player\n- MP4/H.264 player\n- Predictive text input",
+            "Browser": "No",
+            "Games": "Downloadable",
+            "Java": "No",
+            "Messaging": "SMS, IM"
+        },
+        "Launch": {
+            "Announced": "2013, August",
+            "Status": "Available. Released 2013, August"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "32 MB ROM, 24 MB RAM",
+            "Phonebook": "Yes"
+        },
+        "Misc": {
+            "Colors": "Red, Blue, Yellow, White/Pink, White/Blue, White/Green",
+            "Price group": "1/10 (About 20 EUR)"
+        },
+        "Network": {
+            "": "GSM 850 / 900 / 1800 / 1900 - SIM 2 (T176 only)",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1",
+            "EDGE": "No",
+            "GPRS": "Class 12",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "T166 - Single SIM\nT176 - Dual SIM",
+        "device_name": "BLU Zoey",
+        "image": {
+            "href": "http://www.gsmarena.com/blu_zoey-pictures-5745.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/blu-zoey.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/blu_zoey-5745.php"
+    }
+}

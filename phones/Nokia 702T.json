@@ -1,0 +1,83 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1200 mAh battery (BL-4D)",
+            "Music play": "Up to 72 h",
+            "Stand-by": "Up to 360 h (2G) / Up to 360 h (3G)",
+            "Talk time": "Up to 5 h 20 min (2G) / Up to 7 h 40 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "117.1 x 60.4 x 10 mm, 67.4 cc (4.61 x 2.38 x 0.39 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "127 g (4.48 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face detection",
+            "Primary": "8 MP, 3264 x 2448 pixels, fixed focus, dual-LED flash",
+            "Secondary": "VGA",
+            "Video": "720p@25fps"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0, USB Host",
+            "WLAN": "Wi-Fi 802.11 b/g/n"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "640 x 480 pixels (~325 ppi pixel density)",
+            "Size": "2.46 inches (~26.5% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Stainless steel panels\n- Active noise cancellation with dedicated mic\n- TV Out\n- MP4/H.264 player\n- MP3/WMA/WAV/eAAC+ player\n- QuickOffice document editor (Word, Excel, PowerPoint, PDF)\n- Organizer\n- Voice command/dial/commands\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML, Adobe Flash Lite",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS, MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2011, June",
+            "Status": "Available. Released 2011, Q3"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "8 GB, 256 MB RAM, 1 GB ROM"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "4/10 (About 180 EUR)",
+            "SAR EU": "0.75 W/kg (head)"
+        },
+        "Network": {
+            "": "TD-SCDMA 2010-2025",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "TD-SCDMA 1880-1920",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA",
+            "Technology": "GSM"
+        },
+        "Platform": {
+            "CPU": "680 MHz ARM 11",
+            "OS": "Symbian Anna OS"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 702T",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_702t-pictures-4020.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-702t.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_702t-4020.php"
+    }
+}

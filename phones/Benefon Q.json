@@ -1,0 +1,94 @@
+{
+    "data": {
+        "Battery": {
+            "": "Lithium ion 650 mAh",
+            "Stand-by": "120 h",
+            "Talk time": "5 h 20 min"
+        },
+        "Body": {
+            "Dimensions": "100 x 46 x 18 mm, 74 cc (3.94 x 1.81 x 0.71 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "89 g (3.14 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Electro-luminescent lighting\n- Dynamic & user-selectable font size",
+            "Resolution": "100 x 48 pixels, 6 lines",
+            "Size": "",
+            "Type": "Monochrome graphic"
+        },
+        "Features": {
+            "": "- TCP/IP support\n- Predictive text input\n- Organizer\n- Phone ON/OFF timers",
+            "Alarm": "Yes",
+            "Browser": "WAP 1.1, HTMP(MS)",
+            "Clock": "Yes",
+            "Games": "3",
+            "Java": "No",
+            "Messaging": "SMS, Email"
+        },
+        "Launch": {
+            "Announced": "2000",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "10 dialed, 10 received, 10 missed calls",
+            "Card slot": "No",
+            "Phonebook": "50"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "": "- Personalised ringing melodies\n- Ascending alert\n- Several SMS alert tones and tone levels",
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable monophonic ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Benefon Q",
+        "image": {
+            "href": "http://www.gsmarena.com/benefon_q-pictures-42.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/beqb.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/benefon_q-42.php"
+    }
+}

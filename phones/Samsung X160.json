@@ -1,0 +1,70 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 750 mAh battery",
+            "Stand-by": "Up to 210 h",
+            "Talk time": "Up to 3 h"
+        },
+        "Body": {
+            "Dimensions": "86.6 x 44 x 19.9 mm (3.41 x 1.73 x 0.78 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "77 g (2.72 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "No",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Embedded wallpapers",
+            "Resolution": "128 x 160 pixels, 8 lines (~114 ppi pixel density)",
+            "Size": "1.8 inches, 28 x 35 mm (~26.8% screen-to-body ratio)",
+            "Type": "UFB, 65K colors"
+        },
+        "Features": {
+            "": "- Organizer\n- Voice memo",
+            "Browser": "WAP 1.2",
+            "Games": "No",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2006, 1Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "No",
+            "Internal": "1.2 MB",
+            "Phonebook": "1000 entries"
+        },
+        "Misc": {
+            "Colors": "Black, Blue, Pink, Silver",
+            "Price group": "1/10 (About 50 EUR)",
+            "SAR EU": "0.98 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Samsung X160",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_x160-pictures-1555.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-x160.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_x160-1555.php"
+    }
+}

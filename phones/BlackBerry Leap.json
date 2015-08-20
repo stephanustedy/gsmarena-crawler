@@ -1,0 +1,86 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 2800 mAh battery",
+            "Stand-by": "",
+            "Talk time": "Up to 25 h"
+        },
+        "Body": {
+            "Dimensions": "144 x 72.8 x 9.5 mm (5.67 x 2.87 x 0.37 in)",
+            "SIM": "Yes",
+            "Weight": "170 g (6.00 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection, HDR, panorama",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash, check quality",
+            "Secondary": "2 MP, 720p",
+            "Video": "1080p@30fps, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, EDR, LE",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "720 x 1280 pixels (~294 ppi pixel density)",
+            "Size": "5.0 inches (~65.7% screen-to-body ratio)",
+            "Type": "Capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- BlackBerry maps\n- Organizer\n- Document viewer\n- Photo/video editor\n- MP3/WAV/eAAC+/FlAC/WMA player\n- MP4/H.264/WMV player",
+            "Browser": "HTML5",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS, MMS, Email, Push Email, IM, BBM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2015, March",
+            "Status": "Available. Released 2015, April"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 128 GB",
+            "Internal": "16 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "6/10 (About 260 EUR)"
+        },
+        "Network": {
+            "": "LTE band 1(2100), 3(1800), 7(2600), 8(900), 20(800) - Global",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 1700 / 1900 / 2100 - North America",
+            "4G bands": "LTE band 1(2100), 2(1900), 4(1700/2100), 5(850), 7(2600), 13(700), 17(700) - North America",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA, LTE",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.5 GHz Krait",
+            "Chipset": "Qualcomm MSM8960 Snapdragon S4 Plus",
+            "GPU": "Adreno 225",
+            "OS": "BlackBerry OS 10.3.1"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Battery life": "Endurance rating 45h",
+            "Camera": "Photo / Video"
+        }
+    },
+    "main": {
+        "device_name": "BlackBerry Leap",
+        "image": {
+            "href": "http://www.gsmarena.com/blackberry_leap-pictures-7099.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/blackberry-leap1.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/blackberry_leap-7099.php"
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1050 mAh battery (BL-5CT)",
+            "Music play": "Up to 30 h",
+            "Stand-by": "Up to 515 h",
+            "Talk time": "Up 8 h"
+        },
+        "Body": {
+            "Dimensions": "108.8 x 46.2 x 11.7 mm, 57 cc (4.28 x 1.82 x 0.46 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "96 g (3.39 oz)"
+        },
+        "Camera": {
+            "Primary": "3.15 MP, 2048 x 1536 pixels, fixed-focus, dual LED flash, check quality",
+            "Secondary": "No",
+            "Video": "320p@8fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "No",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~182 ppi pixel density)",
+            "Size": "2.2 inches (~29.8% screen-to-body ratio)",
+            "Type": "TFT, 16M colors"
+        },
+        "Features": {
+            "": "- Nokia Maps 2.0\n- H.264 player\n- MP3/WAV/eAAC+/WMA player\n- Organizer\n- Voice memo/dial\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML, Adobe Flash Lite",
+            "Games": "8 + Downloadable",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS, MMS, Email, IM"
+        },
+        "Launch": {
+            "Announced": "2010, February",
+            "Status": "Available. Released 2010, March"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "microSD, up to 16 GB, 2 GB included",
+            "Internal": "55 MB",
+            "Phonebook": "2000 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Steel, Matt Black, Chestnut, Illuvial pink, White on Silver, Khaki on Gold",
+            "Price group": "2/10 (About 80 EUR)",
+            "SAR EU": "1.11 W/kg (head)",
+            "SAR US": "0.79 W/kg (head) \u00a0 \u00a0 0.23 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "Class 32",
+            "GPRS": "Class 32",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -84.5dB / Crosstalk -91.6dB",
+            "Camera": "Photo",
+            "Loudspeaker": "Voice 70dB / Noise 66dB / Ring 75dB"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 6303i classic",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_6303i_classic-pictures-3121.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-6303i-classic.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_6303i_classic-3121.php"
+    }
+}

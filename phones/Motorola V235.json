@@ -1,0 +1,96 @@
+{
+    "data": {
+        "Battery": {
+            "": "Extended battery, Li-Ion 1000 mAh",
+            "Stand-by": "Up to 380 h",
+            "Talk time": "Up to 10 h"
+        },
+        "Body": {
+            "Dimensions": "85.9 x 46.8 x 24.7 mm (3.38 x 1.84 x 0.97 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "102 g (3.60 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "miniUSB",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second external mono display (96 x 32 pixels)\n- Downloadable wallpapers, screensavers",
+            "Resolution": "128 x 160 pixels",
+            "Size": "",
+            "Type": "CSTN, 65K colors"
+        },
+        "Features": {
+            "": "- MP4 player\n- Predictive text input\n- Organizer\n- Voice memo/dial",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2005, 1Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "10 dialed, 10 received, 10 missed calls",
+            "Card slot": "No",
+            "Internal": "9 MB",
+            "Phonebook": "500 entries, Photo call"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3, AAC ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Motorola V235",
+        "image": {
+            "href": "http://www.gsmarena.com/motorola_v235-pictures-1079.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/motorola-v235.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/motorola_v235-1079.php"
+    }
+}

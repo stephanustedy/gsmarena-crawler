@@ -1,0 +1,150 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 2420 mAh battery (BV-5QW)",
+            "Music play": "Up to 75 h",
+            "Stand-by": "Up to 432 h",
+            "Talk time": "Up to 16 h 20 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "137 x 71 x 9.8 mm (5.39 x 2.80 x 0.39 in)",
+            "SIM": "Nano-SIM",
+            "Weight": "167 g (5.89 oz)"
+        },
+        "Camera": {
+            "Features": "1/2.5'' sensor size, 1.12 \u00b5m pixel size, PureView technology, dual capture, geo-tagging, face detection, panorama",
+            "Primary": "20 MP, 4992 \u0445 3744 pixels, Carl Zeiss optics, optical image stabilization, autofocus, dual-LED flash",
+            "Secondary": "1.2 MP, 720p",
+            "Video": "2160p@30fps (after WP8 Denim update), 1080p@30fps, optical stabilization, stereo sound rec."
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, EDR, LE/ apt-X after WP8 Denim update",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "NFC": "Yes",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- ClearBlack display",
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 3",
+            "Resolution": "1080 x 1920 pixels (~441 ppi pixel density)",
+            "Size": "5.0 inches (~70.9% screen-to-body ratio)",
+            "Type": "AMOLED capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Wireless charging (Qi-enabled)\n- Active noise cancellation with a dedicated mic\n- OneDrive (15 GB cloud storage)\n- MP3/WMA/WAV/eAAC+ player\n- MP4/H.264/WMV player\n- Document viewer\n- Video/photo editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass, sensor core"
+        },
+        "Launch": {
+            "Announced": "2014, February",
+            "Status": "Available. Released 2014, February"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "32 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "8/10 (About 400 EUR)",
+            "SAR US": "0.70 W/kg (head) \u00a0 \u00a0 0.93 W/kg (body)"
+        },
+        "Network": {
+            "": "CDMA2000 1xEV-DO",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+            "4G bands": "LTE band 4(1700/2100), 13(700)",
+            "EDGE": "Up to 236.8 kbps",
+            "GPRS": "Yes",
+            "Speed": "HSPA 21.1/5.76 Mbps, LTE Cat4 150/50 Mbps, EV-DO Rev.A 3.1 Mbps",
+            "Technology": "GSM / CDMA / HSPA / EVDO / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 2.2 GHz Krait 400",
+            "Chipset": "Qualcomm Snapdragon 800",
+            "GPU": "Adreno 330",
+            "OS": "Microsoft Windows Phone 8, upgradeable to v8.1"
+        },
+        "Sound": {
+            "": "- Dolby Headphone",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "0": "B",
+            "1": "a",
+            "10": "f",
+            "11": "e",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "t",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "g",
+            "25": "s",
+            "26": "m",
+            "27": "a",
+            "28": "r",
+            "29": "e",
+            "3": "t",
+            "30": "n",
+            "31": "a",
+            "32": "_",
+            "33": "l",
+            "34": "a",
+            "35": "b",
+            "36": "_",
+            "37": "t",
+            "38": "e",
+            "39": "s",
+            "4": "e",
+            "40": "t",
+            "41": "s",
+            "42": "-",
+            "43": "r",
+            "44": "e",
+            "45": "v",
+            "46": "i",
+            "47": "e",
+            "48": "w",
+            "49": "-",
+            "5": "r",
+            "50": "7",
+            "51": "5",
+            "52": "1",
+            "53": "p",
+            "54": "6",
+            "55": ".",
+            "56": "p",
+            "57": "h",
+            "58": "p",
+            "6": "y",
+            "7": " ",
+            "8": "l",
+            "9": "i"
+        }
+    },
+    "main": {
+        "canonical_name": "For Verizon USA. Previously known as Nokia Lumia 929.",
+        "device_name": "Nokia Lumia Icon",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_lumia_icon-pictures-5833.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-lumia-icon-929.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_lumia_icon-5833.php"
+    }
+}

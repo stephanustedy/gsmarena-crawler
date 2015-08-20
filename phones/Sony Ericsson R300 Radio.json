@@ -1,0 +1,76 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion battery",
+            "Stand-by": "Up to 400 h",
+            "Talk time": "Up to 9 h"
+        },
+        "Body": {
+            "Dimensions": "101 x 46 x 12 mm (3.98 x 1.81 x 0.47 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "75 g (2.65 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "No"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "No",
+            "Radio": "Stereo AM/FM radio with RDS; broadcast recording",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Wallpapers, screensavers",
+            "Resolution": "128 x 160 pixels (~114 ppi pixel density)",
+            "Size": "1.8 inches (~21.9% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- TrackID\n- MP3/AAC player\n- Predictive text input\n- Photo editor\n- Voice memo\n- Organizer\n- Stopwatch\n- Timer",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2008, January. Released 2008, July",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "30 received, dialed and missed calls",
+            "Card slot": "No",
+            "Internal": "8 MB",
+            "Phonebook": "1000 contacts, Photo call"
+        },
+        "Misc": {
+            "Colors": "Antique Copper, Steel Black",
+            "Price group": "2/10 (About 60 EUR)",
+            "SAR EU": "0.87 W/kg (head)"
+        },
+        "Network": {
+            "": "GSM 850 / 1800 / 1900 - R300a",
+            "2G bands": "GSM 900 / 1800 / 1900 - R300i",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3, AAC ringtones, composer",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "R300i Radio GSM 900/1800/1900 MHz for Americas\nR300a Radio GSM 850/1800/1900 MHz for Americas",
+        "device_name": "Sony Ericsson R300 Radio",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_ericsson_r300_radio-pictures-2228.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/se-r300.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_ericsson_r300_radio-2228.php"
+    }
+}

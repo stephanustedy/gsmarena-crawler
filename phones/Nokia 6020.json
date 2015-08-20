@@ -1,0 +1,77 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 760 mAh battery (BL-5B)",
+            "Stand-by": "Up to 330 h",
+            "Talk time": "Up to 3 h"
+        },
+        "Body": {
+            "Dimensions": "106 x 44 x 20 mm, 73 cc (4.17 x 1.73 x 0.79 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "90 g (3.17 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "Pop-Port",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- 5-way navigation\n- Animated screensavers\n- Downloadable wallpapers, screensavers",
+            "Resolution": "128 x 128 pixels, 5 lines (~121 ppi pixel density)",
+            "Size": "1.5 inches (~15.6% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- Push to Talk\n- Predictive text input\n- Organizer\n- Voice command/dial\n- Presence enhanced contacts\n- SyncML",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Pinball, Backgammon II, Beach Rallye, Space Park, Bowling, Puzzle + Downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Languages": "Major European languages",
+            "Messaging": "SMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2004, 4Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "No",
+            "Internal": "3.5 MB",
+            "Phonebook": "Yes, Photo call"
+        },
+        "Misc": {
+            "Colors": "Graphite",
+            "SAR EU": "0.50 W/kg (head)",
+            "SAR US": "0.80 W/kg (head) \u00a0 \u00a0 0.60 W/kg (body)"
+        },
+        "Network": {
+            "": "GSM 850 / 1800 / 1900 - US version",
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "Class 6",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 6020",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_6020-pictures-922.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/no6020.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_6020-922.php"
+    }
+}

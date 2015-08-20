@@ -1,0 +1,141 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 950 mAh battery (BL-5F)",
+            "Stand-by": "Up to 220 h (2G) / 240 h (3G)",
+            "Talk time": "Up to 3 h 40 min (2G) / 2 h 48 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "103 x 49 x 14.9 mm, 89 cc (4.06 x 1.93 x 0.59 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "117 g (4.13 oz)"
+        },
+        "Camera": {
+            "Primary": "3.15 MP, 2048 x 1536 pixels, autofocus, LED flash",
+            "Secondary": "Videocall camera",
+            "Video": "480p@15fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "Yes, with A-GPS; Nokia Maps",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "miniUSB v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~167 ppi pixel density)",
+            "Size": "2.4 inches (~35.3% screen-to-body ratio)",
+            "Type": "TFT, 16M colors"
+        },
+        "Features": {
+            "": "- WMV/RV/MP4/3GP player\n- MP3/WMA/WAV/RA/AAC/M4A player\n- Document viewer (Word, Excel, PowerPoint, PDF)\n- Predictive text input\n- Voice command/memo\n- Push to talk \n- Organizer\n- Printing",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS, MMS, Email, Instant Messaging",
+            "Sensors": "Accelerometer, compass"
+        },
+        "Launch": {
+            "Announced": "2008, February. Released 2008, July",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 8 GB",
+            "Internal": "120 MB, 128 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, Red",
+            "Price group": "3/10 (About 150 EUR)",
+            "SAR EU": "0.76 W/kg (head)",
+            "SAR US": "0.83 W/kg (head) \u00a0 \u00a0 1.05 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 1900 - American version",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Class 32, 296 / 177.6 kbits",
+            "GPRS": "Class 32, 107 / 64.2 kbps",
+            "Speed": "HSPA 3.6/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "369 MHz ARM 11",
+            "OS": "Symbian OS 9.3, S60 rel. 3.2"
+        },
+        "Sound": {
+            "": "- 2.5 mm audio jack",
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3, AAC ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "0": "L",
+            "1": "o",
+            "10": "r",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "u",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "g",
+            "25": "s",
+            "26": "m",
+            "27": "a",
+            "28": "r",
+            "29": "e",
+            "3": "d",
+            "30": "n",
+            "31": "a",
+            "32": "_",
+            "33": "l",
+            "34": "a",
+            "35": "b",
+            "36": "_",
+            "37": "t",
+            "38": "e",
+            "39": "s",
+            "4": "s",
+            "40": "t",
+            "41": "s",
+            "42": "-",
+            "43": "r",
+            "44": "e",
+            "45": "v",
+            "46": "i",
+            "47": "e",
+            "48": "w",
+            "49": "-",
+            "5": "p",
+            "50": "7",
+            "51": "5",
+            "52": "1",
+            "53": "p",
+            "54": "3",
+            "55": ".",
+            "56": "p",
+            "57": "h",
+            "58": "p",
+            "6": "e",
+            "7": "a",
+            "8": "k",
+            "9": "e"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 6210 Navigator",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_6210_navigator-pictures-2255.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-6210navi.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_6210_navigator-2255.php"
+    }
+}

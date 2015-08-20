@@ -1,0 +1,90 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 2600 mAh battery",
+            "Music play": "Up to 83 h",
+            "Stand-by": "Up to 480 h",
+            "Talk time": "Up to 20 h"
+        },
+        "Body": {
+            "Dimensions": "137.7 x 69.9 x 8.4 mm (5.42 x 2.75 x 0.33 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "135.8 (4.80 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "13 MP, 4128 x 3096 pixels, autofocus, LED flash",
+            "Secondary": "2 MP, 1080p",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 3",
+            "Resolution": "1080 x 1920 pixels (~441 ppi pixel density)",
+            "Size": "5.0 inches (~71.6% screen-to-body ratio)",
+            "Type": "AMOLED capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- OneDrive (15 GB cloud storage)\n- MP4/WMV/H.264 player\n- MP3/WMA/eAAC+ player\n- Document viewer\n- Photo viewer/editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2014, April",
+            "Status": "Available. Released 2014, April"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "16 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Gray",
+            "Price group": "8/10 (About 440 EUR)",
+            "SAR US": "1.05 W/kg (head) \u00a0 \u00a0 1.49 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 900 / 1900 / 2100",
+            "2G bands": "CDMA 800 / 1900",
+            "3G bands": "CDMA2000 1xEV-DO",
+            "4G bands": "LTE band 4(1700/2100), 13(700)",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "EV-DO Rev.A 3.1 Mbps, HSPA, LTE",
+            "Technology": "GSM / CDMA / HSPA / EVDO / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 2.3 GHz Krait 400",
+            "Chipset": "Qualcomm Snapdragon 800",
+            "GPU": "Adreno 330",
+            "OS": "Microsoft Windows Phone 8, planned upgrade to v8.1"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Battery life": "Endurance rating 60h",
+            "Performance": "Basemark OS II: 1058"
+        }
+    },
+    "main": {
+        "canonical_name": "For Verizon\nAlso known as Samsung SM-W750V",
+        "device_name": "Samsung ATIV SE",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_ativ_se-pictures-6245.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-ativ-se.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_ativ_se-6245.php"
+    }
+}

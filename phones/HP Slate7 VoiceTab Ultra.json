@@ -1,0 +1,80 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po 5000 mAh battery (19 Wh)",
+            "Stand-by": "Up to 480 h (3G)",
+            "Talk time": "Up to 10 h (multimedia) (3G)"
+        },
+        "Body": {
+            "Dimensions": "183.5 x 103.9 x 7.2 mm (7.22 x 4.09 x 0.28 in)",
+            "SIM": "Micro-SIM/ Optional Dual SIM",
+            "Weight": "239 g (8.43 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection, HDR, panorama",
+            "Primary": "13 MP, 4128 x 3096 pixels, autofocus, LED flash",
+            "Secondary": "5 MP",
+            "Video": "1080p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, LE",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "1200 x 1920 pixels (~323 ppi pixel density)",
+            "Size": "7.0 inches (~74.5% screen-to-body ratio)",
+            "Type": "LTPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/H.264 player\n- MP3/WAV/AAC player\n- Document viewer\n- Photo/video editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, IM, Push Email",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2014",
+            "Status": "Available. Released 2014"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "16 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Champagne",
+            "Price group": "7/10 (About 400 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2 (optional)",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+            "4G bands": "LTE band 1(2100), 3(1800), 7(2600), 20(800), 40(2300)",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA, LTE",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.6 GHz Cortex-A9",
+            "Chipset": "HiSilicon Balong V9R1",
+            "OS": "Android OS, v4.2.2 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "device_name": "HP Slate7 VoiceTab Ultra",
+        "image": {
+            "href": "http://www.gsmarena.com/hp_slate7_voicetab_ultra-pictures-7013.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/hp-slate7-voicetab-ultra.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/hp_slate7_voicetab_ultra-7013.php"
+    }
+}

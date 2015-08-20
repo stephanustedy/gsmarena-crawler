@@ -1,0 +1,90 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 2150 mAh battery",
+            "Stand-by": "Up to 830 h (2G) / Up to 798 h (3G)",
+            "Talk time": "Up to 12 h (2G) / Up to 11 h 40 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "131.9 x 68.2 x 9.1 mm (5.19 x 2.69 x 0.36 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "125 g (4.41 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection",
+            "Primary": "5 MP, 2592 x 1944 pixels, autofocus, LED flash, check quality",
+            "Secondary": "VGA",
+            "Video": "1080p@30fps, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "NFC": "Yes",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot, DLNA"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "540 x 960 pixels (~234 ppi pixel density)",
+            "Size": "4.7 inches (~67.7% screen-to-body ratio)",
+            "Type": "IPS LCD, capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- DivX/Xvid/MP4/H.264/WMV player\n- MP3/WAV/WMA/eAAC+ player\n- Document editor\n- Photo viewer/editor\n- Organizer\n- Voice memo/dial/commands\n- Predictive text input",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2012, August",
+            "Status": "Available. Released 2012, November"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "4 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "White, Black",
+            "Price group": "4/10 (About 170 EUR)",
+            "SAR US": "0.40 W/kg (head) \u00a0 \u00a0 0.49 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 21.1/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1 GHz Cortex-A9",
+            "Chipset": "TI OMAP 4430",
+            "GPU": "PowerVR SGX540",
+            "OS": "Android OS, v4.0.4 (Ice Cream Sandwich), upgradable to v4.1.2 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -82.6dB / Crosstalk -81.5dB",
+            "Battery life": "Endurance rating 42h",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 1019:1 (nominal) / 1.227:1 (sunlight)",
+            "Loudspeaker": "Voice 65dB / Noise 65dB / Ring 76dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Available as:\nLG Optimus L9 P768 for MEA, America and some Asian regions with 8 MP camera\nLG Optimus L9 P765 for India",
+        "device_name": "LG Optimus L9 P760",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_optimus_l9_p760-pictures-4955.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-optimus-l9.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_optimus_l9_p760-4955.php"
+    }
+}

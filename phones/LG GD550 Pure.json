@@ -1,0 +1,81 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 900 mAh battery",
+            "Stand-by": "Up to 320 h (2G) / Up to 320 h (3G)",
+            "Talk time": "Up to 5 h 30 min (2G) / Up to 4 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "105.5 x 51 x 12.4 mm (4.15 x 2.01 x 0.49 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "132 g (4.66 oz)"
+        },
+        "Camera": {
+            "Primary": "5 MP, 2560 x 1920 pixels, autofocus, check quality",
+            "Secondary": "No",
+            "Video": "480p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "No",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- PURE UI",
+            "Resolution": "240 x 320 pixels (~167 ppi pixel density)",
+            "Size": "2.4 inches (~33.2% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- MP3/WAV/eAAC+ player\n- MP4/H.264 player\n- Organizer\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email, Push Email, IM"
+        },
+        "Launch": {
+            "Announced": "2010, August",
+            "Status": "Available. Released 2010, August"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "microSD, up to 16 GB",
+            "Internal": "60 MB",
+            "Phonebook": "1000 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "2/10 (About 50 EUR)",
+            "SAR US": "0.25 W/kg (head) \u00a0 \u00a0 0.45 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 2100",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Speed": "HSPA 3.6/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -85.4dB / Crosstalk -66.2dB",
+            "Camera": "Photo",
+            "Loudspeaker": "Voice 73dB / Noise 73dB / Ring 76dB"
+        }
+    },
+    "main": {
+        "device_name": "LG GD550 Pure",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_gd550_pure-pictures-3217.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-gd550.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_gd550_pure-3217.php"
+    }
+}

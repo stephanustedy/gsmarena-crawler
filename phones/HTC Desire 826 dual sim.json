@@ -1,0 +1,84 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po 2600 mAh battery",
+            "Stand-by": "Up to 626 h (2G) / Up to 687 h (3G)",
+            "Talk time": "Up to 22 h (2G) / Up to 19 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "158 x 77.5 x 8 mm (6.22 x 3.05 x 0.31 in)",
+            "SIM": "Dual SIM (Nano-SIM, dual stand-by)",
+            "Weight": "183 g (6.46 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection, simultaneous HD video and image recording, HDR",
+            "Primary": "13 MP, 4160 x 3120 pixels, autofocus, LED flash",
+            "Secondary": "4 MP, 1080p (1/3'' sensor size, 2\u00b5m pixel size) - HK model\n13 MP, 1080p - India model",
+            "Video": "1080p@30fps, 720p@60fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.1, A2DP, apt-X",
+            "GPS": "Yes, with A-GPS, GLONASS/ Beidou (market dependant)",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- HTC Sense UI",
+            "Multitouch": "Yes",
+            "Resolution": "1080 x 1920 pixels (~401 ppi pixel density)",
+            "Size": "5.5 inches (~68.1% screen-to-body ratio)",
+            "Type": "Super LCD3 capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP4/H.264/WMV player\n- MP3/eAAC+/WMA/WAV player\n- Document viewer\n- Photo/video editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2015, January",
+            "Status": "Available. Released 2015, March"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 128 GB",
+            "Internal": "16 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "White Birch, Blue Lagoon, Marshmallow White, Dark Grey, Purple Fire",
+            "Price group": "8/10 (About 440 EUR)"
+        },
+        "Network": {
+            "": "TD-SCDMA 1900 / 2100 - HK, India",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+            "4G bands": "LTE band 1(2100), 3(1800), 7(2600), 8(900), 38(2600), 39(1900), 40(2300), 41(2500) - HK, India",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.7 GHz Cortex-A53 & quad-core 1.0 GHz Cortex-A53",
+            "Chipset": "Qualcomm MSM8939 Snapdragon 615",
+            "GPU": "Adreno 405",
+            "OS": "Android OS, v5.0.1 (Lollipop)"
+        },
+        "Sound": {
+            "": "- Dolby Audio",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "device_name": "HTC Desire 826 dual sim",
+        "image": {
+            "href": "http://www.gsmarena.com/htc_desire_826_dual_sim-pictures-6921.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/htc-desire-826r.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/htc_desire_826_dual_sim-6921.php"
+    }
+}

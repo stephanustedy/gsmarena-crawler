@@ -1,0 +1,93 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 2180 mAh battery",
+            "Stand-by": "Up to 336 h (3G)",
+            "Talk time": "Up to 12 h 30 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "120 x 66 x 10.8 mm (4.72 x 2.60 x 0.43 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Micro-SIM",
+            "Weight": "120 g (4.23 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection, HDR, panorama",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, LED flash, check quality",
+            "Secondary": "2 MP, 720p",
+            "Video": "1080p@30fps, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, LE",
+            "GPS": "Yes, with A-GPS",
+            "NFC": "Yes (market dependent)",
+            "Radio": "FM radio (after SW upgrade)",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "720 x 720 pixels (~328 ppi pixel density)",
+            "Size": "3.1 inches (~39.1% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- BlackBerry maps\n- Organizer\n- Document viewer\n- Photo viewer\n- MP3/WMA/WAV/eAAC+ player\n- Xvid/MP4/WMV/MKV/H.264 player\n- Voice memo/dial\n- Predictive text input",
+            "Browser": "HTML5",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS, MMS, Email, Push Email, IM, BBM 6",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2013, May",
+            "Status": "Available. Released 2013, June"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "8 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White, Red, Gray, Pink",
+            "Price group": "4/10 (About 180 EUR)",
+            "SAR EU": "1.38 W/kg (head) \u00a0 \u00a0 0.85 W/kg (body)",
+            "SAR US": "1.33 W/kg (head) \u00a0 \u00a0 0.85 W/kg (body)"
+        },
+        "Network": {
+            "": "LTE band 3(1800), 7(2600), 8(900), 20(800) - SQR100-2",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - all versions",
+            "3G bands": "HSDPA 800 / 850 / 1700 / 1900 / 2100 - SQR100-1",
+            "4G bands": "LTE band 2(1900), 4(1700/2100), 5(850), 17(700) - SQR100-1",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat3 100/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.2 GHz Krait",
+            "Chipset": "Qualcomm MSM8960 Snapdragon S4 Plus",
+            "GPU": "Adreno 225",
+            "OS": "BlackBerry OS 10.2, upgradable to v10.3.1"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -91.7dB / Crosstalk -90.7dB",
+            "Battery life": "Endurance rating 55h",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 1293:1 (nominal) / 1.682:1 (sunlight)",
+            "Loudspeaker": "Voice 75dB / Noise 69dB / Ring 76dB"
+        }
+    },
+    "main": {
+        "device_name": "BlackBerry Q5",
+        "image": {
+            "href": "http://www.gsmarena.com/blackberry_q5-pictures-5452.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/blackberry-q5.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/blackberry_q5-5452.php"
+    }
+}

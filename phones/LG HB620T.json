@@ -1,0 +1,76 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1000 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "88.5 x 54.9 x 17.9 mm (3.48 x 2.16 x 0.70 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "110 g (3.88 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels",
+            "Secondary": "Yes",
+            "Video": "320p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Secondary, external 65-color TFT display, 96 x 34 pixels",
+            "Resolution": "320 x 240 pixels (~200 ppi pixel density)",
+            "Size": "2.0 inches (~25.5% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- DVB-H or DVB-T TV receiver (country specific)\n- Mobile XD engine\n- MP3/MMf/WAV/eAAC+/WMA/SMAF/i-Melody player\n- MP4/3gp player\n- Predictive text input\n- Organizer",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Games": "No",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2008, February. Released 2008, May",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "40 dialed, 40 received, 40 missed calls",
+            "Card slot": "microSD, up to 4 GB",
+            "Internal": "100 MB",
+            "Phonebook": "Yes, Photocall"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "2/10 (About 70 EUR)",
+            "SAR US": "0.11 W/kg (head) \u00a0 \u00a0 0.16 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "3G bands": "HSDPA 2100",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Speed": "HSPA 7.2/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "LG HB620T",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_hb620t-pictures-2486.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-hb620t.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_hb620t-2486.php"
+    }
+}

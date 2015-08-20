@@ -1,0 +1,79 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 850 mAh battery (BL-5C)",
+            "Stand-by": "Up to 240 h",
+            "Talk time": "Up to 7 h"
+        },
+        "Body": {
+            "Dimensions": "107 x 47 x 20 mm, 79 cc (4.21 x 1.85 x 0.79 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "100 g (3.53 oz)"
+        },
+        "Camera": {
+            "Primary": "CIF, 352 x 288 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v1.1",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- 5-way joystick",
+            "Resolution": "128 x 128 pixels, 8 lines (~113 ppi pixel density)",
+            "Size": "1.6 inches (~16.4% screen-to-body ratio)",
+            "Type": "CSTN, 4096 colors"
+        },
+        "Features": {
+            "": "- Predictive text input\n- Organizer\n- Voice dial/memo",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "5 - Backgammon, Bounce, Bowling, Chess Puzzle, Water Rapid + downloadable",
+            "Java": "Yes",
+            "Languages": "Major European and Asia-Pacific languages",
+            "Messaging": "SMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "4Q, 2003",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- 10 voice dial numbers",
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "No",
+            "Internal": "3.5 MB",
+            "Phonebook": "1000 x 10 fields, Photo call"
+        },
+        "Misc": {
+            "Colors": "",
+            "SAR EU": "0.78 W/kg (head) \u00a0 \u00a0 0.87 W/kg (body)",
+            "SAR US": "0.52 W/kg (head)"
+        },
+        "Network": {
+            "": "GSM 850 / 1800 / 1900 - US version",
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "Yes, 118.4 kbps",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, monophonic ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 6820",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_6820-pictures-565.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/no6820.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_6820-565.php"
+    }
+}

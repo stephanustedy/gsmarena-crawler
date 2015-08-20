@@ -1,0 +1,86 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1200 mAh battery",
+            "Stand-by": "Up to 570 h",
+            "Talk time": "Up to 6 h 40 min"
+        },
+        "Body": {
+            "Dimensions": "110 x 58.2 x 12.3 mm (4.33 x 2.29 x 0.48 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "102.4 g (3.60 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "2 MP, 1600 x 1200 pixels",
+            "Secondary": "No",
+            "Video": "w480p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "NFC": "Carrier dependent",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot"
+        },
+        "Display": {
+            "": "- TouchWiz UI",
+            "Resolution": "320 x 480 pixels (~180 ppi pixel density)",
+            "Size": "3.2 inches (~47.6% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen"
+        },
+        "Features": {
+            "": "- Samsung ChatON\n- MP3/WAV/eAAC+ player\n- MP4/H.264 player\n- Organizer\n- Photo editor\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2011, August",
+            "Status": "Available. Released 2011, November"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB, 2 GB included",
+            "Internal": "150 MB"
+        },
+        "Misc": {
+            "Colors": "Black, LaFleur edition",
+            "Price group": "2/10 (About 90 EUR)",
+            "SAR EU": "0.80 W/kg (head)",
+            "SAR US": "0.82 W/kg (head) \u00a0 \u00a0 1.08 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 7.2/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "832 MHz",
+            "OS": "bada OS, v2.0"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -87.7dB / Crosstalk -87.0dB",
+            "Display": "Contrast ratio: 676:1 (nominal)"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Samsung Wave538, \nSamsung Wave Y LaFleur edition",
+        "device_name": "Samsung Wave Y S5380",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_wave_y_s5380-pictures-4127.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-s5380-wave-y.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_wave_y_s5380-4127.php"
+    }
+}

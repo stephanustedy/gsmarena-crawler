@@ -1,0 +1,80 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 950 mAh battery (BLC-2)",
+            "Stand-by": "Up to 14 days",
+            "Talk time": "2 h 40 min"
+        },
+        "Body": {
+            "Dimensions": "132 x 52 x 25 mm, 123 cc (5.20 x 2.05 x 0.98 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "141 g (4.97 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v1.1",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Wallpapers",
+            "Resolution": "128 x 160 pixels",
+            "Size": "",
+            "Type": "TFT, 4096 colors"
+        },
+        "Features": {
+            "": "- Multitasking (talk & shoot)\n- Predictive text input\n- Organizer",
+            "Alarm": "Yes",
+            "Browser": "WAP, xHTML",
+            "Clock": "Yes",
+            "Games": "Downloadable Java games",
+            "Java": "Yes",
+            "Languages": "17",
+            "Messaging": "SMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2003",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- Editable message templates\n- Calendar notes",
+            "Call records": "20 dialed, 10 received, 10 missed calls",
+            "Card slot": "No",
+            "Internal": "7 MB",
+            "Phonebook": "up to available memo"
+        },
+        "Misc": {
+            "Colors": "",
+            "SAR EU": "0.64 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "3G bands": "UMTS 2100",
+            "EDGE": "No",
+            "GPRS": "Class 6",
+            "Speed": "Yes, 384 kbps",
+            "Technology": "GSM / UMTS"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, monophonic ringtones, composer",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 6650",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_6650-pictures-348.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/no6650.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_6650-348.php"
+    }
+}

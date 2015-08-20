@@ -1,0 +1,79 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 860 mAh battery (BL-4S)",
+            "Music play": "Up to 24 h",
+            "Stand-by": "Up to 288 h (2G) / Up to 288 h (3G)",
+            "Talk time": "Up to 4 h (2G) / Up to 3 h 20 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "89 x 47 x 15.2 mm, 54 cc (3.50 x 1.85 x 0.60 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "94 g (3.32 oz)"
+        },
+        "Camera": {
+            "Primary": "3.2 MP, 2048 x 1536 pixels, LED flash, enhanced fixed focus",
+            "Secondary": "VGA videocall camera",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second external monochrome TFT display, 128 x 160 pixels",
+            "Resolution": "240 x 320 pixels (~182 ppi pixel density)",
+            "Size": "2.2 inches (~35.8% screen-to-body ratio)",
+            "Type": "TFT, 16M colors"
+        },
+        "Features": {
+            "": "- MP3/eAAC+/WAV/WMA player\n- MP4/WMV/H.264 player\n- Organizer\n- Voice command/dial/memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML, Adobe Flash Lite",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS, MMS, Email, IM"
+        },
+        "Launch": {
+            "Announced": "2009, June",
+            "Status": "Available. Released 2009, December"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "microSD, up to 8 GB",
+            "Internal": "70 MB",
+            "Phonebook": "2000 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Pink, Plum, Black",
+            "Price group": "2/10 (About 80 EUR)",
+            "SAR EU": "0.95 W/kg (head)",
+            "SAR US": "1.28 W/kg (head) \u00a0 \u00a0 0.57 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "UMTS 850 / 1900 / 2100",
+            "EDGE": "Class 32, 296 kbits",
+            "GPRS": "Class 32, 88 kbps",
+            "Speed": "Yes, 384 kbps",
+            "Technology": "GSM / UMTS"
+        },
+        "Sound": {
+            "": "- 2.5 mm audio jack",
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 3710 fold",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_3710_fold-pictures-2833.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-3710-fold.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_3710_fold-2833.php"
+    }
+}

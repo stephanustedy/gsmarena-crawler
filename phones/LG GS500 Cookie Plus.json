@@ -1,0 +1,78 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 900 mAh battery",
+            "Stand-by": "Up to 400 h",
+            "Talk time": "Up to 3 h 40 min"
+        },
+        "Body": {
+            "Dimensions": "107 x 52.5 x 11.5 mm (4.21 x 2.07 x 0.45 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "92.5 g (3.25 oz)"
+        },
+        "Camera": {
+            "Primary": "3.15 MP, 2048 x 1536 pixels",
+            "Secondary": "No",
+            "Video": "320p@12fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "No",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Flash UI\n- Handwriting recognition",
+            "Resolution": "240 x 400 pixels (~155 ppi pixel density)",
+            "Size": "3.0 inches (~45.6% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- Native Facebook client\n- MP3/WMA/AAC player\n- MP4/H.263 player\n- Organizer\n- Document viewer (Word, Excel, PowerPoint, PDF)\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS, EMS, MMS, Email",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2010, February",
+            "Status": "Available. Released 2010, April"
+        },
+        "Memory": {
+            "Call records": "40 dialed, 40 received, 40 missed calls",
+            "Card slot": "microSD, up to 8 GB",
+            "Internal": "30 MB",
+            "Phonebook": "1000 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Black, White Silver,Imperial Purple, Baby Pink, Wine Red, Brown",
+            "Price group": "2/10 (About 90 EUR)"
+        },
+        "Network": {
+            "": "HSDPA 1700 / 2100 - for T-Mobile",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 2100",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 3.6/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, MP3 ringtones, composer",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as LG GS500 Velvet\nLG Sentio for T-Mobile",
+        "device_name": "LG GS500 Cookie Plus",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_gs500_cookie_plus-pictures-3136.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-gs500.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_gs500_cookie_plus-3136.php"
+    }
+}

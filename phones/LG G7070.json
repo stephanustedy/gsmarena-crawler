@@ -1,0 +1,100 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 720 mAh battery",
+            "Stand-by": "200 h",
+            "Talk time": "2 h"
+        },
+        "Body": {
+            "Dimensions": "99 x 46 x 22 mm (3.90 x 1.81 x 0.87 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "95 g (3.35 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "No"
+        },
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Rotating screen\n- Four way navigation keys\n- Wallpapers",
+            "Resolution": "128 x 160 pixels, 7 lines",
+            "Size": "",
+            "Type": "UFB, 65K colors"
+        },
+        "Features": {
+            "": "- Predictive text input\n- Organizer\n- World clock\n- Voice dial",
+            "Alarm": "Yes",
+            "Browser": "WAP 1.2.1",
+            "Clock": "Yes",
+            "Games": "3 - Multiply, Submarine, Space Ball",
+            "Java": "Yes",
+            "Messaging": "SMS, EMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2003, 2Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- 100 short messages\n- 10 voice dial numbers\n- 30 sec voice memo",
+            "Call records": "20 received and missed calls",
+            "Card slot": "No",
+            "Internal": "1.3 MB",
+            "Phonebook": "200 x 5 fields, 7 contact groups, Photo call"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic ringtones, composer",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "LG G7070",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_g7070-pictures-451.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lgg7070.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_g7070-451.php"
+    }
+}

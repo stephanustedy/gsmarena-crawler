@@ -1,0 +1,86 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po 2400 mAh battery",
+            "Stand-by": "Up to 350 h",
+            "Talk time": "Up to 20 h"
+        },
+        "Body": {
+            "Dimensions": "140.3 x 69.2 x 6.9 mm (5.52 x 2.72 x 0.27 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "130 g (4.59 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection, HDR, panorama",
+            "Primary": "13 MP, 4128 x 3096 pixels, autofocus, dual-LED (dual tone) flash",
+            "Secondary": "5 MP",
+            "Video": "2160p@30fps, 1080p@60fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, LE",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "Infrared port": "Yes",
+            "Radio": "To be confirmed",
+            "USB": "microUSB v2.0, USB Host",
+            "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 3",
+            "Resolution": "1080 x 1920 pixels (~441 ppi pixel density)",
+            "Size": "5.0 inches (~71.0% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP4/H.264/WMV player\n- MP3/eAAC+/WMA/WAV player\n- Document viewer\n- Photo/video editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2014, December",
+            "Status": "Available. Released 2014, December"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "16 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "7/10 (About 330 EUR)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 900 / 1800 / 1900 / 2100",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 1700 / 1900 / 2100 \n(Bands 1, 2, 4, 5, 8)",
+            "4G bands": "LTE band 2(1900), 4(1700/2100), 5(850), 7(2600), 12(700), 17(700)",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA, LTE",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 2.3 GHz Krait 400",
+            "Chipset": "Qualcomm MSM8974AB Snapdragon 801",
+            "GPU": "Adreno 330",
+            "OS": "Android OS, v4.4 (KitKat)"
+        },
+        "Sound": {
+            "": "- Dolby mobile",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as ZTE Star II",
+        "device_name": "ZTE Star 2",
+        "image": {
+            "href": "http://www.gsmarena.com/zte_star_2-pictures-6914.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/zte-star-2.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/zte_star_2-6914.php"
+    }
+}

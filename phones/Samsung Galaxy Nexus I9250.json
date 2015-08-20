@@ -1,0 +1,92 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1750 mAh battery",
+            "Stand-by": "Up to 290 h (2G) / Up to 270 h (3G)",
+            "Talk time": "Up to 17 h 40 min (2G) / Up to 8 h 20 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "135.5 x 67.9 x 8.9 mm (5.33 x 2.67 x 0.35 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "135 g (4.76 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, LED flash, check quality",
+            "Secondary": "1.3 MP, 720p@30fps",
+            "Video": "1080p@24fps, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "NFC": "Yes",
+            "Radio": "No",
+            "USB": "microUSB v2.0 (MHL TV-out)",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, DLNA, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Oleophobic coating",
+            "Resolution": "720 x 1280 pixels (~316 ppi pixel density)",
+            "Size": "4.65 inches (~64.8% screen-to-body ratio)",
+            "Type": "Super AMOLED capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP4/H.264 player\n- MP3/WAV/eAAC+ player\n- Photo/video editor\n- Document viewer",
+            "Browser": "HTML, Adobe Flash",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass, barometer"
+        },
+        "Launch": {
+            "Announced": "2011, October",
+            "Status": "Available. Released 2011, November"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "16 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "4/10 (About 180 EUR)",
+            "SAR EU": "0.30 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 1700 / 1900 / 2100",
+            "4G bands": "LTE band 30(2300) - India",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 21.1/5.76 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.2 GHz Cortex-A9",
+            "Chipset": "TI OMAP 4460",
+            "GPU": "PowerVR SGX540",
+            "OS": "Android OS v4.0 (Ice Cream Sandwich), upgradable to v4.3 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -90.6dB / Crosstalk -91.8dB",
+            "Battery life": "Endurance rating 31h",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: Infinite (nominal)",
+            "Loudspeaker": "Voice 66dB / Noise 60dB / Ring 69dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as:\nSamsung Google Galaxy Nexus I9250\nSamsung Google Nexus 3\nSamsung Galaxy X",
+        "device_name": "Samsung Galaxy Nexus I9250",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_galaxy_nexus_i9250-pictures-4219.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-nexus-new.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_galaxy_nexus_i9250-4219.php"
+    }
+}

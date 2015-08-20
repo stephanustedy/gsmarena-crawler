@@ -1,0 +1,74 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1500 mAh battery",
+            "Stand-by": "Up to 260 h",
+            "Talk time": "Up to 4 h"
+        },
+        "Body": {
+            "Dimensions": "116.9 x 62.5 x 12.5 mm (4.60 x 2.46 x 0.49 in)",
+            "SIM": "Dual SIM (Mini-SIM)",
+            "Weight": "89 g (3.14 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "VGA",
+            "Video": "320p"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "No",
+            "Radio": "FM radio; recording",
+            "USB": "microUSB",
+            "WLAN": "Wi-Fi 802.11 b/g/n"
+        },
+        "Display": {
+            "Resolution": "320 x 480 pixels (~165 ppi pixel density)",
+            "Size": "3.5 inches (~49.9% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 65K colors"
+        },
+        "Features": {
+            "": "- MP3/WAV/AAC+ player\n- MP4/H.264 player\n- Document viewer\n- Photo viewer\n- Voice memo/dial",
+            "Browser": "HTML",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS(threaded view), MMS, Email, IM"
+        },
+        "Launch": {
+            "Announced": "2014",
+            "Status": "Available. Released 2014"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "512 MB, 256 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "1/10 (About 40 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+            "EDGE": "Yes",
+            "GPRS": "Class 12",
+            "Technology": "GSM"
+        },
+        "Platform": {
+            "CPU": "1 GHz Cortex-A5",
+            "GPU": "Mali-300",
+            "OS": "Android OS, v2.3 (Gingerbread)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Micromax A28 Bolt",
+        "image": {
+            "href": "http://www.gsmarena.com/micromax_a28_bolt-pictures-6065.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/micromax-a28-bolt.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/micromax_a28_bolt-6065.php"
+    }
+}

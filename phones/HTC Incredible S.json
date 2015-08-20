@@ -1,0 +1,90 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1450 mAh battery",
+            "Stand-by": "Up to 290 h (2G) / Up to 370 h (3G)",
+            "Talk time": "Up to 9 h 40 min (2G) / Up to 6 h 20 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "120 x 64 x 11.7 mm (4.72 x 2.52 x 0.46 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "135.5 g (4.76 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, dual-LED flash, check quality",
+            "Secondary": "1.3 MP",
+            "Video": "720p@30fps, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- HTC Sense UI 3.6",
+            "Multitouch": "Yes",
+            "Resolution": "480 x 800 pixels (~233 ppi pixel density)",
+            "Size": "4.0 inches (~59.3% screen-to-body ratio)",
+            "Type": "S-LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Dedicated search key\n- MP3/AAC+/WAV/WMA player\n- DivX/XviD/MP4/H.264/WMV player\n- Organizer\n- Document viewer\n- Voice memo/dial/commands\n- Predictive text input",
+            "Browser": "HTML, Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2011, February",
+            "Status": "Available. Released 2011, February"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB, 8 GB included",
+            "Internal": "1.1 GB, 768 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, Red",
+            "Price group": "4/10 (About 190 EUR)",
+            "SAR EU": "0.88 W/kg (head)"
+        },
+        "Network": {
+            "": "HSDPA 900 / 1700 / 2100",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Up to 560 kbps",
+            "GPRS": "Up to 114 kbps",
+            "Speed": "HSPA 14.4/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "1 GHz Scorpion",
+            "Chipset": "Qualcomm MSM8255 Snapdragon S2",
+            "GPU": "Adreno 205",
+            "OS": "Android OS, v2.2 (Froyo), v2.3 (Gingerbread), upgradable to v4.0 (Ice Cream Sandwich)"
+        },
+        "Sound": {
+            "": "- Dolby Mobile",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -82.4dB / Crosstalk -71.3dB",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 880:1 (nominal)",
+            "Loudspeaker": "Voice 66dB / Noise 66dB / Ring 76dB"
+        }
+    },
+    "main": {
+        "device_name": "HTC Incredible S",
+        "image": {
+            "href": "http://www.gsmarena.com/htc_incredible_s-pictures-3788.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/htc-incredible-s1.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/htc_incredible_s-3788.php"
+    }
+}

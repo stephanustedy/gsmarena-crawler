@@ -1,0 +1,84 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 1390 mAh battery",
+            "Stand-by": "Up to 200 h",
+            "Talk time": "Up to 3 h 50 min"
+        },
+        "Body": {
+            "Dimensions": "116.3 x 60.5 x 13.7 mm (4.58 x 2.38 x 0.54 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "169 g (5.96 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face detection, touch focus",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, dual-LED flash",
+            "Secondary": "No",
+            "Video": "720p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- MOTOBLUR UI with Live Widgets\n- Touch sensitive controls",
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "480 x 854 pixels (~265 ppi pixel density)",
+            "Size": "3.7 inches (~53.6% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP3/WAV/WMA/AAC+ player\n- MP4/WMV/H.264/DivX/XviD player\n- Quickoffice document editor\n- Photo viewer/editor\n- Organizer\n- Voice memo/dial/commands\n- Active noise cancellation with dedicated mic\n- Predictive text input\n- SoundHound music recognition",
+            "Browser": "HTML, Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS (threaded view), MMS, Email, IM, Push Email",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2010, December",
+            "Status": "Available. Released 2011, Q1"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "8 GB, 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "3/10 (About 110 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 1900 / 2100",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "1 GHz Cortex-A8",
+            "Chipset": "TI OMAP 3630",
+            "GPU": "PowerVR SGX530",
+            "OS": "Android OS, v2.2 (Froyo)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "For China",
+        "device_name": "Motorola MILESTONE 2 ME722",
+        "image": {
+            "href": "http://www.gsmarena.com/motorola_milestone_2_me722-pictures-3911.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/motorola-milestone-2-me722-china-market.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/motorola_milestone_2_me722-3911.php"
+    }
+}

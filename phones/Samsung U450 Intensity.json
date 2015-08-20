@@ -1,0 +1,76 @@
+{
+    "data": {
+        "Battery": {
+            "": "Extended battery, Li-Ion 1500 mAh",
+            "Stand-by": "Up to 500 h",
+            "Talk time": "Up to 7 h"
+        },
+        "Body": {
+            "Dimensions": "108 x 53 x 17 mm (4.25 x 2.09 x 0.67 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "100 g (3.53 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 1024 pixels",
+            "Secondary": "No",
+            "Video": "No"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "176 x 220 pixels (~134 ppi pixel density)",
+            "Size": "2.1 inches (~24.2% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- MP4/H.263 player\n- MP3/AAC+/WMA player\n- Organizer\n- Voice memo/dial\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email, IM"
+        },
+        "Launch": {
+            "Announced": "2009, July",
+            "Status": "Available. Released 2009, September"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 16 GB",
+            "Internal": "128 MB",
+            "Phonebook": "1000 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Black, Red",
+            "Price group": "2/10 (About 60 EUR)",
+            "SAR US": "0.72 W/kg (head) \u00a0 \u00a0 0.57 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "CDMA 800 / 1900",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "CDMA"
+        },
+        "Sound": {
+            "": "- 2.5 mm audio jack",
+            "3.5mm jack": "No",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "For Verizon",
+        "device_name": "Samsung U450 Intensity",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_u450_intensity-pictures-3471.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-u450-intensity.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_u450_intensity-3471.php"
+    }
+}

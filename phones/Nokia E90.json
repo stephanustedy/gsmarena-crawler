@@ -1,0 +1,80 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1500 mAh battery",
+            "Stand-by": "Up to 330 h",
+            "Talk time": "Up to 5 h"
+        },
+        "Body": {
+            "Dimensions": "132 x 57 x 20 mm, 140 cc (5.20 x 2.24 x 0.79 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "210 g (7.41 oz)"
+        },
+        "Camera": {
+            "Primary": "3.15 MP, 2048 x 1536 pixels, autofocus, LED flash",
+            "Secondary": "QCIF videocall camera",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "Yes, with A-GPS; Nokia Maps",
+            "Infrared port": "Yes",
+            "Radio": "FM radio",
+            "USB": "miniUSB v2.0",
+            "WLAN": "Wi-Fi 802.11b/g"
+        },
+        "Display": {
+            "": "- Second external 16M colors display (240 x 320 pixels), 2 inches\n- Downloadable themes",
+            "Resolution": "800 x 352 pixels (~219 ppi pixel density)",
+            "Size": "4.0 inches (~50.6% screen-to-body ratio)",
+            "Type": "TFT, 16M colors"
+        },
+        "Features": {
+            "": "- Push to talk\n- WMV/RV/MP4/3GP player\n- MP3/WMA/WAV/RA/AAC/M4A player\n- Voice command/dial\n- Organizer\n- Printing\n- Document editor (Word, Excel, PowerPoint, PDF) incl. MS Office 2007 support via free update\n- Photo/video editor",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2007, February. Released 2007, June",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 16 GB",
+            "Internal": "128 MB"
+        },
+        "Misc": {
+            "Colors": "Red, Mocha",
+            "Price group": "7/10 (About 400 EUR)",
+            "SAR EU": "0.65 W/kg (head)",
+            "SAR US": "0.59 W/kg (head) \u00a0 \u00a0 0.72 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 3.6/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "330 MHz",
+            "OS": "Symbian OS v9.2, S60 rel. 3.1"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Nokia E90",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_e90-pictures-1857.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-e90.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_e90-1857.php"
+    }
+}

@@ -1,0 +1,97 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 3200 mAh battery",
+            "Music play": "Up to 120 h",
+            "Stand-by": "Up to 690 h (2G) / Up to 740 h (3G)",
+            "Talk time": "Up to 15 h (2G) / Up to 19 h (3G)"
+        },
+        "Body": {
+            "": "- IP58 certified - dust proof and water resistant over 1.5 meter and 30 minutes",
+            "Dimensions": "146.8 x 73.3 x 8.2 mm (5.78 x 2.89 x 0.32 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "163 g (5.75 oz)"
+        },
+        "Camera": {
+            "Features": "1/2.3'' sensor size, geo-tagging, touch focus, face detection, HDR, panorama",
+            "Primary": "20.7 MP, 5248 \u0445 3936 pixels, autofocus, LED flash, check quality",
+            "Secondary": "2.2 MP, 1080p@30fps",
+            "Video": "2160p@30fps, 1080p@60fps, 720p@120fps, HDR, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, apt-X",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "NFC": "Yes",
+            "Radio": "FM radio with RDS",
+            "USB": "microUSB v2.0 (MHL TV-out), USB Host",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- Triluminos display\n- X-Reality Engine",
+            "Multitouch": "Yes, up to 10 fingers",
+            "Protection": "Shatter proof glass",
+            "Resolution": "1080 x 1920 pixels (~424 ppi pixel density)",
+            "Size": "5.2 inches (~69.3% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Fast battery charging: 60% in 30 min (Quick Charge 2.0)\n- ANT+ support\n- Active noise cancellation with dedicated mic\n- Xvid/MP4/H.264 player\n- MP3/eAAC+/WAV/Flac player\n- Document viewer\n- Photo viewer/editor\n- Voice memo/dial",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, IM, Push Email",
+            "Sensors": "Accelerometer, gyro, proximity, compass, barometer"
+        },
+        "Launch": {
+            "Announced": "2014, February",
+            "Status": "Available. Released 2014, April"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 128 GB",
+            "Internal": "16 GB, 3 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White, Purple (D6502, D6503) / Black, White (D6543)",
+            "Price group": "7/10 (About 360 EUR)",
+            "SAR EU": "0.38 W/kg (head)",
+            "SAR US": "1.34 W/kg (head) \u00a0 \u00a0 0.82 W/kg (body)"
+        },
+        "Network": {
+            "": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900) - D6543",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - D6502, D6503, D6543",
+            "3G bands": "HSDPA 850 / 900 / 1700 / 1900 / 2100 - D6502, D6503, D6543",
+            "4G bands": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 13(700), 17(700), 20(800) - D6503",
+            "EDGE": "Up to 296 kbps",
+            "GPRS": "Up to 107 kbps",
+            "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 2.3 GHz Krait 400",
+            "Chipset": "Qualcomm MSM8974AB Snapdragon 801",
+            "GPU": "Adreno 330",
+            "OS": "Android OS, v4.4.2 (KitKat), v5.0.2 (Lollipop), planned upgrade to v5.1 (Lollipop)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        },
+        "Tests": {
+            "Audio quality": "Noise -88.2dB / Crosstalk -88.9dB",
+            "Battery life": "Endurance rating 89h",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 1195 (nominal), 1.944 (sunlight)",
+            "Loudspeaker": "Voice 66dB / Noise 64dB / Ring 75dB",
+            "Performance": "Basemark OS II: 1080"
+        }
+    },
+    "main": {
+        "device_name": "Sony Xperia Z2",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_xperia_z2-pictures-6144.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/sony-xperia-z2-new.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_xperia_z2-6144.php"
+    }
+}

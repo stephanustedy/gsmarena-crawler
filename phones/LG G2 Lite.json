@@ -1,0 +1,80 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1820 mAh battery",
+            "Stand-by": "Up to 345 h (2G) / Up to 345 h (3G)",
+            "Talk time": "Up to 15 h (2G) / Up to 11 h 30 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "127.5 x 67.9 x 11.9 mm (5.02 x 2.67 x 0.47 in)",
+            "SIM": "Dual SIM (dual stand-by)",
+            "Weight": "153.7 g (5.40 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "8 MP, 3264 x 2448 pixels, LED flash",
+            "Secondary": "VGA",
+            "Video": "480p"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Yes"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "480 x 800 pixels (~207 ppi pixel density)",
+            "Size": "4.5 inches (~66.6% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/H.264 player\n- MP3/WAV/FLAC/eAAC+ player\n- Photo editor\n- Document viewer\n- Voice memo/dial/commands",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2014, November",
+            "Status": "Available. Released 2014, November"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB, 4 GB included",
+            "Internal": "4 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "White, Black, Gold",
+            "Price group": "4/10 (About 200 EUR)",
+            "SAR EU": "0.75 W/kg (head) \u00a0 \u00a0 0.67 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 850 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.2 GHz",
+            "OS": "Android OS, v4.4.2 (KitKat)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as LG G2 Lite D295\nFor Brazil",
+        "device_name": "LG G2 Lite",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_g2_lite-pictures-6776.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-g2-lite-d295.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_g2_lite-6776.php"
+    }
+}

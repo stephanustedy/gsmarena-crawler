@@ -1,0 +1,85 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 2470 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "": "- IPX7 certified - water resistant up to 1 meter and 30 minutes",
+            "Dimensions": "142.1 x 72.4 x 11.6 mm (5.59 x 2.85 x 0.46 in)",
+            "SIM": "Dual SIM (Micro-SIM, dual stand-by)",
+            "Weight": "155 g (5.47 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection, panorama, auto-HDR",
+            "Primary": "13 MP, 4128 x 3096 pixels, autofocus, dual-LED (dual tone) flash",
+            "Secondary": "5 MP, auto-HDR",
+            "Video": "1080p@30fps, HDR"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, LE",
+            "GPS": "Yes, with A-GPS, GLONASS, Beidou",
+            "Radio": "To be confirmed",
+            "USB": "microUSB v2.0, USB Host",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 3",
+            "Resolution": "720 x 1280 pixels (~294 ppi pixel density)",
+            "Size": "5.0 inches (~67.0% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP3/AAC+/WAV/Flac player\n- MP4/H.264 player\n- Photo/video editor\n- Document viewer",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Ambient light sensor, accelerometer (2), proximity sensor"
+        },
+        "Launch": {
+            "Announced": "2015, July",
+            "Status": "Available. Released 2015, July"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "8 GB, 1 GB RAM\n16 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "4/10 (About 170 EUR)"
+        },
+        "Network": {
+            "": "LTE band 4(1700/2100), 7(2600), 28(700) - XT1543, XT1544",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 850 / 900 / 2100 - XT1550",
+            "4G bands": "LTE band 1(2100), 3(1800), 7(2600), 8(900), 28(700), 40(2300) - XT1550",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.4 GHz Cortex-A53",
+            "Chipset": "Qualcomm MSM8916 Snapdragon 410",
+            "GPU": "Adreno 306",
+            "OS": "Android OS, v5.1.1 (Lollipop)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Motorola Moto G Dual SIM (Gen 3), Motorola Moto G3 Dual SIM",
+        "device_name": "Motorola Moto G Dual SIM (3rd gen)",
+        "image": {
+            "href": "http://www.gsmarena.com/motorola_moto_g_dual_sim_(3rd_gen)-pictures-7469.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/motorola-moto-g-3rd-gen-r.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/motorola_moto_g_dual_sim_(3rd_gen)-7469.php"
+    }
+}

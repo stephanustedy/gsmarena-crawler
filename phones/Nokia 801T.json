@@ -1,0 +1,83 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1300 mAh battery (BP-3L)",
+            "Music play": "Up to 65 h",
+            "Stand-by": "Up to 400 h (2G) / Up to 400 h (3G)",
+            "Talk time": "Up to 5 h 40 min (2G) / Up to 8 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "125.2 x 65 x 12.8 mm, 83.2 cc (4.93 x 2.56 x 0.50 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "170 g (6.00 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face detection",
+            "Primary": "8 MP, 3264 x 2448 pixels, fixed focus, dual-LED flash",
+            "Secondary": "VGA",
+            "Video": "720p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "NFC": "Yes",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0, USB Host",
+            "WLAN": "Wi-Fi 802.11 b/g/n"
+        },
+        "Display": {
+            "": "- ClearBlack display",
+            "Multitouch": "Yes",
+            "Resolution": "360 x 640 pixels (~184 ppi pixel density)",
+            "Size": "4.0 inches (~54.2% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- CMMB mobile TV\n- Active noise cancellation with a dedicated mic\n- TV Out with composite\n- MP3/WMA/WAV/eAAC+ player\n- MP4/H.264/WMV player\n- Voice command/dial\n- Document viewer\n- Video/photo editor\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML, Adobe Flash Lite",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2011, December",
+            "Status": "Available. Released 2012, September"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "8 GB, 256 MB RAM, 1 GB ROM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "5/10 (About 220 EUR)"
+        },
+        "Network": {
+            "": "TD-SCDMA 2010-2025",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "TD-SCDMA 1880-1920",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "TD-SCDMA",
+            "Technology": "GSM"
+        },
+        "Platform": {
+            "CPU": "680 MHz ARM 11",
+            "Chipset": "Broadcom BCM2727",
+            "OS": "Symbian Anna OS"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 801T",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_801t-pictures-4391.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-801t.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_801t-4391.php"
+    }
+}

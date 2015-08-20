@@ -1,0 +1,83 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 2600 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "135.4 x 68 x 21.1 mm (5.33 x 2.68 x 0.83 in)",
+            "SIM": "Yes",
+            "Weight": "204 g (7.20 oz)"
+        },
+        "Camera": {
+            "Features": "1'' sensor size, geo-tagging, touch focus, face/smile detection",
+            "Primary": "20 MP, 4992 \u0445 3744 pixels, Leica optics, autofocus, LED flash",
+            "Secondary": "1.1 MP",
+            "Video": "2160p@15fps, 1080p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "Yes, with A-GPS",
+            "NFC": "Yes",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Yes"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "1080 x 1920 pixels (~469 ppi pixel density)",
+            "Size": "4.7 inches (~66.1% screen-to-body ratio)",
+            "Type": "Capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/H.264 player\n- MP3/WAV/eAAC+ player\n- Photo/video editor\n- Document viewer\n- Voice memo/dial",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2014, September",
+            "Status": "Available. Released 2014, December"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 128 GB",
+            "Internal": "16 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "9/10 (About 900 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA",
+            "4G bands": "LTE",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA, LTE Cat4 150/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 2.3 GHz Krait 400",
+            "Chipset": "Qualcomm MSM8974AB Snapdragon 801",
+            "GPU": "Adreno 330",
+            "OS": "Android OS, v4.4.2 (KitKat)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Panasonic DMC-CM1",
+        "device_name": "Panasonic Lumix Smart Camera CM1",
+        "image": {
+            "href": "http://www.gsmarena.com/panasonic_lumix_smart_camera_cm1-pictures-6675.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/panasonic-lumix.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/panasonic_lumix_smart_camera_cm1-6675.php"
+    }
+}

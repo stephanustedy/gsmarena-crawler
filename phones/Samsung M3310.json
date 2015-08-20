@@ -1,0 +1,76 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 960 mAh battery",
+            "Stand-by": "Up to 330 h",
+            "Talk time": "Up to 4h 48 min"
+        },
+        "Body": {
+            "": "- Dual slide design",
+            "Dimensions": "101 x 48.7 x 15.9 mm (3.98 x 1.92 x 0.63 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "95.7 (3.35 oz)"
+        },
+        "Camera": {
+            "Primary": "3.15 MP, 2048 x 1536 pixels",
+            "Secondary": "No",
+            "Video": "320p@15fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "No",
+            "Radio": "FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~190 ppi pixel density)",
+            "Size": "2.1 inches (~27.8% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/WAV/eAAC+ player\n- MP4/H.264 player\n- Organizer\n- Document viewer\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML (Openwave 6.2.3)",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2009, October",
+            "Status": "Available. Released 2009, November"
+        },
+        "Memory": {
+            "Call records": "30 dialed, 30 received, 30 missed calls",
+            "Card slot": "microSD, up to 8 GB",
+            "Internal": "40 MB",
+            "Phonebook": "1000 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "5/10 (About 230 EUR)",
+            "SAR EU": "0.30 W/kg (head)",
+            "SAR US": "0.75 W/kg (head) \u00a0 \u00a0 0.82 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "": "- DNSe (Digital Natural Sound Engine)\n- Dedicated music keys",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "device_name": "Samsung M3310",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_m3310-pictures-3016.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-m3310.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_m3310-3016.php"
+    }
+}

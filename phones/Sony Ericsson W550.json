@@ -1,0 +1,75 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 900 mAh battery (BST-37)",
+            "Stand-by": "Up to 400 h",
+            "Talk time": "Up to 8 h 30 min"
+        },
+        "Body": {
+            "Dimensions": "93 x 46.5 x 22.5 mm (3.66 x 1.83 x 0.89 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "120 g (4.23 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 1024 pixels, LED flash",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Dedicated gaming buttons\n- Wallpapers, screensavers",
+            "Resolution": "176 x 220 pixels (~157 ppi pixel density)",
+            "Size": "1.8 inches, 28 x 35 mm (~23.6% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- MP3 Player\n- Predictive text input\n- Organizer",
+            "Browser": "WAP 2.0/xHTML, HTML (NetFront)",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2005, July",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "30 received, dialed and missed calls",
+            "Card slot": "No",
+            "Internal": "256 MB",
+            "Phonebook": "1000 x 24 fields, Photo call"
+        },
+        "Misc": {
+            "Colors": "Vibrant Orange, Orchid White, Universe Blue",
+            "Price group": "3/10 (About 130 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones, composer",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "canonical_name": "W550c - Triple-band 900/1800/1900 for China \nW550i - Triple-band 900/1800/1900",
+        "device_name": "Sony Ericsson W550",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_ericsson_w550-pictures-1245.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/sonyericsson-w550.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_ericsson_w550-1245.php"
+    }
+}

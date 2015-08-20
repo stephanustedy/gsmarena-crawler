@@ -1,0 +1,79 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "240 x 164 x 8.8 mm (9.45 x 6.46 x 0.35 in)",
+            "SIM": "No",
+            "Weight": "567 g (1.25 lb)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 1024 pixels",
+            "Secondary": "No",
+            "Video": "No"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "v2.0",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band"
+        },
+        "Display": {
+            "Multitouch": "Yes, up to 10 fingers",
+            "Resolution": "1920 x 1200 pixels (~254 ppi pixel density)",
+            "Size": "8.9 inches (~58.4% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- HDMI port\n- MP4/VP8/H.263 player\n- MP3/WAV/AAC/OGG/E-AC-3 player\n- Organizer\n- Document viewer\n- Photo viewer/editor\n- Free cloud storage for all Amazon content\n- Text-to-Speech english-language content reader\n- Predictive text input",
+            "Browser": "HTML5 (Amazon Silk)",
+            "Java": "No",
+            "Messaging": "Email, Push Email, IM",
+            "Sensors": "Accelerometer, gyro"
+        },
+        "Launch": {
+            "Announced": "2012, September",
+            "Status": "Available. Released 2012, October"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "16/32 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "4/10 (About 200 EUR)"
+        },
+        "Network": {
+            "2G bands": "N/A",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "No cellular connectivity"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.5 GHz Cortex-A9",
+            "Chipset": "TI OMAP 4470",
+            "GPU": "PowerVR SGX544",
+            "OS": "Android OS, v4.0 (customized)"
+        },
+        "Sound": {
+            "": "- Dolby Digital Plus",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "canonical_name": "Tablet with no support for GSM voice communication, SMS, and MMS",
+        "device_name": "Amazon Kindle Fire HD 8.9",
+        "image": {
+            "href": "http://www.gsmarena.com/amazon_kindle_fire_hd_8_9-pictures-4995.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/amazon-kindle-fire-hd-89.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/amazon_kindle_fire_hd_8_9-4995.php"
+    }
+}

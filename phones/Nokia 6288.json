@@ -1,0 +1,78 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1100 mAh battery (BP-6M)",
+            "Stand-by": "Up to 250 h",
+            "Talk time": "Up to 4 h 30 min"
+        },
+        "Body": {
+            "Dimensions": "100 x 46 x 21 mm (3.94 x 1.81 x 0.83 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "115 g (4.06 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels, LED flash",
+            "Secondary": "VGA videocall camera",
+            "Video": "480p"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "Stereo FM radio; Visual radio",
+            "USB": "Pop-Port v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- 4-way navi key\n- Downloadable screensavers, \nwallpapers",
+            "Resolution": "240 x 320 pixels (~182 ppi pixel density)",
+            "Size": "2.2 inches, 35 x 45 mm (~32.6% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- Push to Talk\n- MP3/AAC/M4A/eAAC+ player \n- Predictive text input\n- Organizer\n- SyncML\n- Voice dial/memo",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2006, September",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "miniSD, 512 MB included",
+            "Internal": "6 MB",
+            "Phonebook": "500 x 16 fields, Photocall"
+        },
+        "Misc": {
+            "Colors": "White, Black, Red, Blue",
+            "Price group": "3/10 (About 140 EUR)",
+            "SAR EU": "0.80 W/kg (head)",
+            "SAR US": "0.57 W/kg (head) \u00a0 \u00a0 0.48 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "3G bands": "UMTS 2100",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Speed": "Yes, 384 kbps",
+            "Technology": "GSM / UMTS"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 6288",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_6288-pictures-1711.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-6288.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_6288-1711.php"
+    }
+}

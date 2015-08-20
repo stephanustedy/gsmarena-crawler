@@ -1,0 +1,73 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 900 mAh battery (BL-5C)",
+            "Stand-by": "Up to 300 h",
+            "Talk time": "Up to 3 h"
+        },
+        "Body": {
+            "Dimensions": "104 x 44 x 18 mm, 75 cc (4.09 x 1.73 x 0.71 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "90 g (3.17 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "FM radio",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Downloadable wallpapers, screensavers, themes",
+            "Resolution": "128 x 128 pixels (~121 ppi pixel density)",
+            "Size": "1.5 inches (~15.9% screen-to-body ratio)",
+            "Type": "CSTN, 65K colors"
+        },
+        "Features": {
+            "": "- MP3 player and recorder\n- Smart messaging\n- Calculator\n- Voice Dial\n- Mobile chat\n- Profiles\n- Currency converter",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Languages": "Major European languages",
+            "Messaging": "SMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2005, 1Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "No",
+            "Internal": "3 MB",
+            "Phonebook": "250 x 10 fields"
+        },
+        "Misc": {
+            "Colors": "Black, Champagne",
+            "Price group": "2/10 (About 50 EUR)",
+            "SAR EU": "0.59 W/kg (head)",
+            "SAR US": "0.91 W/kg (head) \u00a0 \u00a0 0.74 W/kg (body)"
+        },
+        "Network": {
+            "": "GSM 850 / 1900 - US version",
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "Class 6",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 6030",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_6030-pictures-1086.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-6030.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_6030-1086.php"
+    }
+}

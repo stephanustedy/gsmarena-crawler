@@ -1,0 +1,75 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 800 mAh battery",
+            "Stand-by": "Up to 200 h",
+            "Talk time": "Up to 3 h 30 min"
+        },
+        "Body": {
+            "Dimensions": "87 x 45.5 x 22.5 mm (3.43 x 1.79 x 0.89 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "79 g (2.79 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v1.2",
+            "GPS": "No",
+            "Radio": "FM radio",
+            "USB": "v1.1",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second external OLED display, 65K colors (80 x 64 pixels)",
+            "Resolution": "128 x 160 pixels",
+            "Size": "",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- Push to talk (VoIP service)\n- SyncML\n- Voice memo/dial\n- Predictive text input\n- Organizer\n- Presence enhanced contacts\n- Changeable textile covers",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Forgotten Warrior, Freekick, Arch Angel + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2005, 4Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- 40MB shared\n- 4MB Java\n- 200 short messages",
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "No",
+            "Internal": "44 MB",
+            "Phonebook": "1000 entries"
+        },
+        "Misc": {
+            "Colors": "Silver",
+            "SAR EU": "0.65 W/kg (head)",
+            "SAR US": "1.07 W/kg (head) \u00a0 \u00a0 0.34 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Samsung E360",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_e360-pictures-1343.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-e360.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_e360-1343.php"
+    }
+}

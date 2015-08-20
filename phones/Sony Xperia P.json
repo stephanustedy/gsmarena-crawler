@@ -1,0 +1,93 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 1305 mAh battery",
+            "Music play": "Up to 80 h",
+            "Stand-by": "Up to 470 h (2G) / Up to 475 h (3G)",
+            "Talk time": "Up to 6 h (2G) / Up to 5 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "122 x 59.5 x 10.5 mm (4.80 x 2.34 x 0.41 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "120 g (4.23 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face/smile detection, panorama",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash, check quality",
+            "Secondary": "VGA",
+            "Video": "1080p@30fps, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "NFC": "Yes",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0, USB Host",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot, DLNA"
+        },
+        "Display": {
+            "": "- Sony WhiteMagic technology\n- Sony Mobile BRAVIA Engine\n- Timescape UI",
+            "Multitouch": "Yes, up to 4 fingers",
+            "Protection": "Scratch-resistant glass",
+            "Resolution": "540 x 960 pixels (~275 ppi pixel density)",
+            "Size": "4.0 inches (~60.8% screen-to-body ratio)",
+            "Type": "LED-backlit LCD, capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- HDMI port\n- Active noise cancellation with dedicated mic\n- MP4/H.264/WMV player\n- MP3/eAAC+/WMA/WAV player\n- Organizer\n- Document viewer\n- Voice memo/dial/commands\n- Predictive text input",
+            "Browser": "HTML5, Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS (threaded view), MMS, Email, IM, Push Email",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2012, February",
+            "Status": "Available. Released 2012, May"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "16 GB (13 GB user available), 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Silver, Black, Red",
+            "Price group": "5/10 (About 210 EUR)",
+            "SAR EU": "0.78 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100 - LT22i",
+            "EDGE": "Up to 296 kbps",
+            "GPRS": "Up to 100 kbps",
+            "Speed": "HSPA 14.4/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1 GHz Cortex-A9",
+            "Chipset": "NovaThor U8500",
+            "GPU": "Mali-400",
+            "OS": "Android OS, v2.3 (Gingerbread), upgradable to v4.1 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -87.3dB / Crosstalk -86.2dB",
+            "Battery life": "Endurance rating 28h",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 775:1 (nominal)",
+            "Loudspeaker": "Voice 60dB / Noise 61dB / Ring 63dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Previously known as Sony LT22i Nypon",
+        "device_name": "Sony Xperia P",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_xperia_p-pictures-4436.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/sony-xperia-p-ofic.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_xperia_p-4436.php"
+    }
+}

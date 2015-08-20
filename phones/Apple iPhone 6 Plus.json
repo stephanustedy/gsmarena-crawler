@@ -1,0 +1,97 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po 2915 mAh battery (11.1 Wh)",
+            "Music play": "Up to 80 h",
+            "Stand-by": "Up to 384 h (3G)",
+            "Talk time": "Up to 24 h (3G)"
+        },
+        "Body": {
+            "": "- Fingerprint sensor (Touch ID)\n- Apple Pay (Visa, MasterCard, AMEX certified)",
+            "Dimensions": "158.1 x 77.8 x 7.1 mm (6.22 x 3.06 x 0.28 in)",
+            "SIM": "Nano-SIM",
+            "Weight": "172 g (6.07 oz)"
+        },
+        "Camera": {
+            "Features": "1/3'' sensor size, 1.5\u00b5m pixel size, geo-tagging, simultaneous HD video and image recording, touch focus, face/smile detection, HDR (photo/panorama)",
+            "Primary": "8 MP, 3264 x 2448 pixels, optical image stabilization, phase detection autofocus, dual-LED (dual tone) flash, check quality",
+            "Secondary": "1.2 MP, 720p@30fps, face detection, HDR, FaceTime over Wi-Fi or Cellular",
+            "Video": "1080p@60fps, 720p@240fps, optical stabilization, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, LE",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "NFC": "Yes (Apple Pay only)",
+            "Radio": "No",
+            "USB": "v2.0, reversible connector",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, hotspot"
+        },
+        "Display": {
+            "": "- Display Zoom",
+            "Multitouch": "Yes",
+            "Protection": "Ion-strengthened glass, oleophobic coating",
+            "Resolution": "1080 x 1920 pixels (~401 ppi pixel density)",
+            "Size": "5.5 inches (~67.8% screen-to-body ratio)",
+            "Type": "LED-backlit IPS LCD, capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- Siri natural language commands and dictation\n- iCloud cloud service\n- iCloud Keychain\n- TV-out\n- Maps\n- iBooks PDF reader\n- Audio/video player/editor\n- Organizer\n- Document viewer/editor\n- Photo viewer/editor\n- Voice memo/dial/command\n- Predictive text input",
+            "Browser": "HTML5 (Safari)",
+            "Java": "No",
+            "Messaging": "iMessage, SMS (threaded view), MMS, Email, Push Email",
+            "Sensors": "Accelerometer, gyro, proximity, compass, barometer"
+        },
+        "Launch": {
+            "Announced": "2014, September",
+            "Status": "Available. Released 2014, September"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "16/64/128 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Space Gray, Silver, Gold",
+            "Price group": "9/10 (About 680 EUR)",
+            "SAR EU": "0.99 W/kg (head) \u00a0 \u00a0 0.91 W/kg (body)",
+            "SAR US": "1.19 W/kg (head) \u00a0 \u00a0 1.19 W/kg (body)"
+        },
+        "Network": {
+            "": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 13(700), 17(700), 18(800), 19(800), 20(800), 25(1900), 26(850), 28(700), 29(700), 38(2600), 39(1900), 40(2300), 41(2500) - A1524",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - A1522 (GSM), A1522 (CDMA), A1524",
+            "3G bands": "HSDPA 850 / 900 / 1700 / 1900 / 2100 - A1522 (GSM), A1522 (CDMA), A1524",
+            "4G bands": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 13(700), 17(700), 18(800), 19(800), 20(800), 25(1900), 26(850), 28(700), 29(700) - A1522 GSM, A1522 CDMA",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps, EV-DO Rev.A 3.1 Mbps",
+            "Technology": "GSM / CDMA / HSPA / EVDO / LTE"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.4 GHz Cyclone (ARM v8-based)",
+            "Chipset": "Apple A8",
+            "GPU": "PowerVR GX6450 (quad-core graphics)",
+            "OS": "iOS 8, upgradable to iOS 8.4"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, proprietary ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -94dB / Crosstalk -72dB",
+            "Battery life": "Endurance rating 79h",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 1361 (nominal), 3.023 (sunlight)",
+            "Loudspeaker": "Voice 67dB / Noise 65dB / Ring 66dB",
+            "Performance": "Basemark OS II: 1222"
+        }
+    },
+    "main": {
+        "device_name": "Apple iPhone 6 Plus",
+        "image": {
+            "href": "http://www.gsmarena.com/apple_iphone_6_plus-pictures-6665.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/apple-iphone-6-plus2.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/apple_iphone_6_plus-6665.php"
+    }
+}

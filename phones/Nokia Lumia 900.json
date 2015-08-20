@@ -1,0 +1,92 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 1830 mAh battery (BP-6EW)",
+            "Music play": "Up to 60 h",
+            "Stand-by": "Up to 300 h (2G) / Up to 300 h (3G)",
+            "Talk time": "Up to 7 h (2G) / Up to 7 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "127.8 x 68.5 x 11.5 mm, 90 cc (5.03 x 2.70 x 0.45 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "160 g (5.64 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "8 MP, 3264 x 2448 pixels, Carl Zeiss optics, autofocus, dual-LED flash, check quality",
+            "Secondary": "1 MP, VGA@15fps",
+            "Video": "720p@30fps, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP, EDR",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n"
+        },
+        "Display": {
+            "": "- Nokia ClearBlack display",
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "480 x 800 pixels (~217 ppi pixel density)",
+            "Size": "4.3 inches (~60.1% screen-to-body ratio)",
+            "Type": "AMOLED capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP3/WAV/eAAC+/WMA player\n- MP4/H.264/WMV player\n- Document viewer/editor\n- Video/photo editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2012, February",
+            "Status": "Available. Released 2012, May"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "16 GB, 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, cyan, white, magenta",
+            "Price group": "4/10 (About 160 EUR)",
+            "SAR EU": "1.33 W/kg (head)",
+            "SAR US": "1.29 W/kg (head) \u00a0 \u00a0 0.95 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+            "EDGE": "Class 33",
+            "GPRS": "Class 33",
+            "Speed": "HSPA 42.2/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "1.4 GHz Scorpion",
+            "Chipset": "Qualcomm APQ8055 Snapdragon S2",
+            "GPU": "Adreno 205",
+            "OS": "Microsoft Windows Phone 7.5 Mango"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Battery life": "Endurance rating 38h",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: Infinite (nominal) / 2.562:1 (sunlight)",
+            "Loudspeaker": "Voice 70dB / Noise 68dB / Ring 75dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Nokia Lumia 900 RM-823",
+        "device_name": "Nokia Lumia 900",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_lumia_900-pictures-4578.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-lumia-900-white.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_lumia_900-4578.php"
+    }
+}

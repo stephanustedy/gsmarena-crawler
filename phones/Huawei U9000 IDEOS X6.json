@@ -1,0 +1,82 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1400 mAh battery",
+            "Stand-by": "",
+            "Talk time": "Up to 8 h 20 min (2G) / Up to 6 h 40 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "122 x 66 x 10 mm (4.80 x 2.60 x 0.39 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "143 g (5.04 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, LED flash",
+            "Secondary": "VGA videocall camera",
+            "Video": "720p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, (DLNA - carrier dependent), hotspot"
+        },
+        "Display": {
+            "Resolution": "480 x 800 pixels (~228 ppi pixel density)",
+            "Size": "4.1 inches (~59.4% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- TV-out (720p video) via HDMI port\n- MP3/WMA/WAV/eAAC+ player\n- MP4/WMV/H.264/DivX player\n- Organizer\n- Photo viewer/editor\n- Voice memo/dial\n- Predictive text input",
+            "Browser": "HTML, Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2010, December",
+            "Status": "Available. Released 2011, June"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "2 GB, 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "2/10 (About 90 EUR)"
+        },
+        "Network": {
+            "": "HSDPA 900 / 1900 / 2100 / AWS",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 1900 / 2100 / AWS",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 14.4/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "1 GHz Scorpion",
+            "Chipset": "Qualcomm MSM8255 Snapdragon S2",
+            "GPU": "Adreno 205",
+            "OS": "Android OS, v2.2 (Froyo)"
+        },
+        "Sound": {
+            "": "- Dolby mobile",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Huawei Ascend X",
+        "device_name": "Huawei U9000 IDEOS X6",
+        "image": {
+            "href": "http://www.gsmarena.com/huawei_u9000_ideos_x6-pictures-3595.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/huawei-ideos-x6-new-1.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/huawei_u9000_ideos_x6-3595.php"
+    }
+}

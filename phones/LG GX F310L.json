@@ -1,0 +1,86 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 3140 mAh battery",
+            "Stand-by": "Up to 700 h",
+            "Talk time": "Up to 20 h"
+        },
+        "Body": {
+            "Dimensions": "150.6 x 76.1 x 9.2 mm (5.93 x 3.00 x 0.36 in)",
+            "SIM": "Yes",
+            "Weight": "167 g (5.89 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face detection, panorama, HDR",
+            "Primary": "13 MP, 4208 x 3120 pixels, autofocus, LED flash",
+            "Secondary": "2.1 MP, 1080p@30fps",
+            "Video": "1080p@30fps, dual-video rec., HDR"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP",
+            "GPS": "Yes, with A-GPS, S-GPS, GLONASS",
+            "Infrared port": "Yes",
+            "NFC": "Yes",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0 (SlimPort), USB Host",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, DLNA, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "1080 x 1920 pixels (~401 ppi pixel density)",
+            "Size": "5.5 inches (~72.8% screen-to-body ratio)",
+            "Type": "True Full HD IPS Plus LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- DMB TV tuner\n- Active noise cancellation with dedicated mic\n- MP4/H.264/WMV/DviX player\n- MP3/WMA/WAV/FLAC/eAAC+ player\n- Photo viewer/editor\n- Document viewer/editor\n- Voice memo/dial/commands",
+            "Browser": "HTML5, Adobe Flash",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2013, December",
+            "Status": "Available. Released 2014, January"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "32 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "9/10 (About 510 EUR)"
+        },
+        "Network": {
+            "": "CDMA2000 1xEV-DO",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA",
+            "4G bands": "LTE, VoLTE",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps, EV-DO Rev.A 3.1 Mbps",
+            "Technology": "GSM / HSPA / EVDO / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.7 GHz Krait 300",
+            "Chipset": "Qualcomm Snapdragon 600",
+            "GPU": "Adreno 320",
+            "OS": "Android OS, v4.3 (Jelly Bean)"
+        },
+        "Sound": {
+            "": "- Dolby mobile",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "For Korea",
+        "device_name": "LG GX F310L",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_gx_f310l-pictures-5901.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-gx-f310l.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_gx_f310l-5901.php"
+    }
+}

@@ -1,0 +1,106 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 7000 mAh battery",
+            "Stand-by": "Up to 624 h",
+            "Talk time": "Up to 12 h"
+        },
+        "Body": {
+            "Dimensions": "256.6 x 175.3 x 9.7 mm (10.10 x 6.90 x 0.38 in)",
+            "SIM": "Yes",
+            "Weight": "581.2 g (1.28 lb)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, smile detection",
+            "Primary": "3.15 MP, 2048 x 1536 pixels",
+            "Secondary": "VGA",
+            "Video": "720p"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "microUSB v2.0, USB Host",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "800 x 1280 pixels (~149 ppi pixel density)",
+            "Size": "10.1 inches (~65.8% screen-to-body ratio)",
+            "Type": "PLS TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- TV-out\n- MP4/DivX/Xvid/FLV/MKV/H.264 player\n- MP3/WAV/eAAC+/Flac player\n- Photo/video editor\n- Document editor/viewer",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, gyro, compass"
+        },
+        "Launch": {
+            "Announced": "2012",
+            "Status": "Available. Released 2012"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "8/16 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "": "LTE band 25(1900) - SPH-P500",
+            "2G bands": "CDMA 800 / 1900 - SCH-I915, SPH-P500",
+            "3G bands": "CDMA2000 1xEV-DO - SCH-I915, SPH-P500",
+            "4G bands": "LTE band 4(1700/2100), 13(700) - SCH-I915",
+            "EDGE": "Yes -SGH-T779, SGH-I497",
+            "GPRS": "Yes - SGH-T779, SGH-I497",
+            "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat3 100/50 Mbps, EV-DO Rev.A 3.1 Mbps",
+            "Technology": "GSM / CDMA / HSPA / EVDO / LTE"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.5 GHz Krait",
+            "Chipset": "Qualcomm MSM8960 Snapdragon S4 Plus",
+            "GPU": "Adreno 225",
+            "OS": "Android OS, v4.0 (Ice Cream Sandwich)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "canonical_name": "Available as:\nSamsung SCH-I915 for Verizon\nSamsung SGH-T779 for T-Mobile\nSamsung SGH-I497 for AT&T\nSamsung SPH-P500 for Sprint",
+        "device_name": "Samsung Galaxy Tab 2 10.1 CDMA",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_galaxy_tab_2_10_1_cdma-pictures-5592.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-tab-2-101-americas.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_galaxy_tab_2_10_1_cdma-5592.php"
+    }
+}

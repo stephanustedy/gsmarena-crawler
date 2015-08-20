@@ -1,0 +1,79 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 860 mAh battery (BL-4S)",
+            "Stand-by": "Up to 280 h",
+            "Talk time": "Up to 5 h 30 min"
+        },
+        "Body": {
+            "Dimensions": "97.8 x 47.2 x 14.5 mm, 60 cc (3.85 x 1.86 x 0.57 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "97.3 g (3.42 oz)"
+        },
+        "Camera": {
+            "Primary": "3.15 MP, 2048 x 1536 pixels, autofocus, LED flash",
+            "Secondary": "No",
+            "Video": "480p@15fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Five-way navigation key",
+            "Resolution": "240 x 320 pixels (~200 ppi pixel density)",
+            "Size": "2.0 inches (~26.8% screen-to-body ratio)",
+            "Type": "TFT, 16M colors"
+        },
+        "Features": {
+            "": "- MP3/AAC/eAAC+ player\n- TV-out\n- Nokia Maps\n- Predictive text input\n- Voice memo/commands",
+            "Browser": "WAP 2.0/xHTML, HTML (Opera mini 4)",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2008, April. Released 2008, August",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 8 GB, 512 MB included",
+            "Internal": "30 MB",
+            "Phonebook": "2000 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Charcoal, Wine",
+            "Price group": "3/10 (About 120 EUR)",
+            "SAR EU": "0.69 W/kg (head)",
+            "SAR US": "1.01 W/kg (head) \u00a0 \u00a0 0.78 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "Class 32, 296 kbits",
+            "GPRS": "Class 32, 100 kbps",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -70.7dB / Crosstalk -71.1dB",
+            "Loudspeaker": "Voice 67dB / Noise 66dB / Ring 75dB"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 3600 slide",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_3600_slide-pictures-2356.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-3600slide.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_3600_slide-2356.php"
+    }
+}

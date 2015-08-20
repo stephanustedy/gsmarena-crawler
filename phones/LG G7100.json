@@ -1,0 +1,100 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 780 mAh battery",
+            "Stand-by": "200 h",
+            "Talk time": "2 h"
+        },
+        "Body": {
+            "Dimensions": "90 x 48 x 24 mm (3.54 x 1.89 x 0.94 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "93 g (3.28 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "No"
+        },
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second external OLED 256 color display, 96 x 64 pixels\n- 270 deg rotating screen\n- Four way navigation keys\n- Wallpapers\n- Downloadable wallpapers",
+            "Resolution": "120 x 160 pixels, 7 lines",
+            "Size": "",
+            "Type": "STN, 65K colors"
+        },
+        "Features": {
+            "": "- Predictive text input\n- Organizer",
+            "Alarm": "Yes",
+            "Browser": "WAP 1.2.1",
+            "Clock": "Yes",
+            "Games": "3 - Multiply, Submarine, Space Ball",
+            "Java": "Yes",
+            "Messaging": "SMS, EMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2003, 2Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- 100 short messages\n- 10 voice dial numbers\n- 30 sec voice memo",
+            "Call records": "20 received and missed calls",
+            "Card slot": "No",
+            "Internal": "1.3 MB",
+            "Phonebook": "255 entries, 7 contact groups"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic ringtones, composer",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "LG G7100",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_g7100-pictures-452.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lgg7100.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_g7100-452.php"
+    }
+}

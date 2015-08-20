@@ -1,0 +1,83 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1460 mAh battery",
+            "Stand-by": "Up to 280 h",
+            "Talk time": "Up to 6 h 40 min"
+        },
+        "Body": {
+            "": "- IPX8 certified - water resistant",
+            "Dimensions": "118 x 59 x 10.6 mm (4.65 x 2.32 x 0.42 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "113 g (3.99 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "13.2 MP, 4208 x 3120 pixels, autofocus, LED flash",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11b/g/n"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "480 x 800 pixels (~252 ppi pixel density)",
+            "Size": "3.7 inches (~56.0% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP3/AAC+/WAV/WMA9 player\n- MP4/WMV9 player\n- Document viewer/editor\n- Facebook integration",
+            "Browser": "HTML",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS, MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2011, July",
+            "Status": "Available. Released 2011, Q3"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "32 GB (28 GB user available)"
+        },
+        "Misc": {
+            "Colors": "Citrus, Magenta, Black",
+            "Price group": "9/10 (About 590 EUR)"
+        },
+        "Network": {
+            "": "GSM 850 / 900 / 1800 / 1900",
+            "2G bands": "CDMA 800 / 1900",
+            "3G bands": "CDMA2000 1xEV-DO",
+            "EDGE": "No",
+            "GPRS": "Yes",
+            "Speed": "EV-DO Rev.A 3.1 Mbps",
+            "Technology": "GSM / CDMA / EVDO"
+        },
+        "Platform": {
+            "CPU": "1 GHz Scorpion",
+            "Chipset": "Qualcomm MSM8655 Snapdragon S2",
+            "GPU": "Adreno 205",
+            "OS": "Microsoft Windows Phone 7.5 Mango"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "For KDDI",
+        "device_name": "Toshiba Windows Phone IS12T",
+        "image": {
+            "href": "http://www.gsmarena.com/toshiba_windows_phone_is12t-pictures-4076.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/toshiba-windows-phone-is12t.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/toshiba_windows_phone_is12t-4076.php"
+    }
+}

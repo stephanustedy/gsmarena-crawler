@@ -1,0 +1,91 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 2300 mAh battery",
+            "Stand-by": "Up to 250 h (3G)",
+            "Talk time": "Up to 6 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "143 x 69 x 7.8 mm (5.63 x 2.72 x 0.31 in)",
+            "SIM": "Dual SIM (Nano-SIM, dual stand-by)",
+            "Weight": "116 g (4.09 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection, HDR, panorama",
+            "Primary": "13 MP, 4160 x 3120 pixels, autofocus, LED flash, check quality",
+            "Secondary": "5 MP",
+            "Video": "1080p@30fps, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 3",
+            "Resolution": "720 x 1280 pixels (~294 ppi pixel density)",
+            "Size": "5.0 inches (~69.8% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP3/WAV/AAC player\n- MP4/H.264 player\n- Photo/video editor\n- Document viewer",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2014, December",
+            "Status": "Available. Released 2014, December"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB (uses SIM 2 slot)",
+            "Internal": "16 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White, Red, Pink",
+            "Price group": "4/10 (About 200 EUR)"
+        },
+        "Network": {
+            "": "LTE 800 / 1800 / 2100 / 2600 - EU",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 900 / 2100",
+            "4G bands": "LTE band 3(1800), 8(900), 28(700) - Taiwan",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 21.1/5.76 Mbps, LTE Cat4 150/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Octa-core 1.5 GHz Cortex-A53",
+            "Chipset": "Mediatek MT6752M",
+            "GPU": "Mali-T760MP2",
+            "OS": "Android OS, v4.4.4 (KitKat)"
+        },
+        "Sound": {
+            "": "- DTS sound",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Battery life": "Endurance rating 43h",
+            "Camera": "Photo / Video",
+            "Loudspeaker": "Voice 60dB / Noise 56dB / Ring 60dB",
+            "Performance": "Basemark OS II: 619 / Basemark OS II 2.0: 725\nBasemark X: 3934"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Acer Liquid Jade S S56",
+        "device_name": "Acer Liquid Jade S",
+        "image": {
+            "href": "http://www.gsmarena.com/acer_liquid_jade_s-pictures-6864.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/acer-liquid-jade-s-s56.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/acer_liquid_jade_s-6864.php"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1150 mAh battery",
+            "Stand-by": "Up to 300 h",
+            "Talk time": "Up to 4 h"
+        },
+        "Body": {
+            "Dimensions": "107.2 x 53.5 x 18.6 mm (4.22 x 2.11 x 0.73 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "124 g (4.37 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 1024 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v1.2, A2DP",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- 5-way navigation button",
+            "Resolution": "320 x 320 pixels (~201 ppi pixel density)",
+            "Size": "2.25 inches (~28.5% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 65K colors"
+        },
+        "Features": {
+            "": "- Document editor (Word, Excel, Powerpoint, PDF)\n- MP3 player\n- Organizer\n- Voice memo",
+            "Browser": "WAP 2.0 / HTML (Blazer 4.5)",
+            "Java": "No",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2008, February. Released 2008, March",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 4 GB",
+            "Internal": "64 MB"
+        },
+        "Misc": {
+            "Colors": "Obsidian, Glacier, Midnight, Cobalt, Onyx, Electric Blue, Rose, Olive",
+            "Price group": "2/10 (About 70 EUR)",
+            "SAR US": "0.27 W/kg (head) \u00a0 \u00a0 0.22 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Platform": {
+            "CPU": "32-bit Intel XScale PXA270 312 MHz",
+            "OS": "Palm OS 5.4.9"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Palm Centro",
+        "image": {
+            "href": "http://www.gsmarena.com/palm_centro-pictures-2241.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/palm-centro.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/palm_centro-2241.php"
+    }
+}

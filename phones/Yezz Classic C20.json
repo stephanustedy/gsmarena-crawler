@@ -1,0 +1,76 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 550 mAh battery",
+            "Stand-by": "Up to 150 h",
+            "Talk time": "Up to 4 h"
+        },
+        "Body": {
+            "": "- Flashlight",
+            "Dimensions": "105 x 45 x 14.4 mm (4.13 x 1.77 x 0.57 in)",
+            "SIM": "Dual SIM (Mini-SIM)",
+            "Weight": "55 g without battery (1.94 oz)"
+        },
+        "Camera": {
+            "Features": "Yes",
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "No"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1",
+            "GPS": "No",
+            "Radio": "Stereo FM radio",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "128 x 160 pixels (~114 ppi pixel density)",
+            "Size": "1.8 inches (~21.6% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- Whatsapp messenger\n- Video player\n- Music player\n- Organizer\n- Predictive Text Input",
+            "Browser": "WAP",
+            "Games": "Yes",
+            "Java": "No",
+            "Messaging": "SMS, MMS, IM"
+        },
+        "Launch": {
+            "Announced": "2012, February",
+            "Status": "Available. Released 2012, April"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "32 Mb + 32 Mb",
+            "Phonebook": "Yes"
+        },
+        "Misc": {
+            "Colors": "Blue, Gray, Green, Red, White, Black",
+            "SAR US": "1.33 W/kg (head) \u00a0 \u00a0 0.84 W/kg (body)"
+        },
+        "Network": {
+            "": "GSM 850 / 900 / 1800 / 1900 - SIM 2",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1",
+            "EDGE": "No",
+            "GPRS": "Up to 48 kbps",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "- Single SIM: CLASSIC CC20\n- Dual SIM: CLASSIC C20\nAlso known as Chico 2C",
+        "device_name": "Yezz Classic C20",
+        "image": {
+            "href": "http://www.gsmarena.com/yezz_classic_c20-pictures-4689.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/yezz-chico-2c-new.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/yezz_classic_c20-4689.php"
+    }
+}

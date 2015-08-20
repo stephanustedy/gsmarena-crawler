@@ -1,0 +1,89 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 1200 mAh battery (BL-4D)",
+            "Music play": "Up to 50 h",
+            "Stand-by": "Up to 390 h (2G) / Up to 400 h (3G)",
+            "Talk time": "Up to 12 h (2G) / Up to 5 h 50 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "113.5 x 59.1 x 12.9 mm, 86 cc (4.47 x 2.33 x 0.51 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "135 g (4.76 oz)"
+        },
+        "Camera": {
+            "Features": "1/1.83'' sensor size, ND filter, geo-tagging, face detection",
+            "Primary": "12 MP, 4000 x 3000 pixels, Carl Zeiss optics, autofocus, Xenon flash, check quality",
+            "Secondary": "VGA videocall camera",
+            "Video": "720p@25fps, 720p@30fps (via SW update), check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "Yes, with A-GPS; Ovi Maps 3.0",
+            "Radio": "Stereo FM radio with RDS; FM transmitter",
+            "USB": "microUSB v2.0, USB Host",
+            "WLAN": "Wi-Fi 802.11 b/g/n, UPnP technology"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "360 x 640 pixels (~210 ppi pixel density)",
+            "Size": "3.5 inches (~50.3% screen-to-body ratio)",
+            "Type": "AMOLED capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- TV-out (720p video) via HDMI with Dolby Digital Plus sound\n- Anodized aluminum casing\n- Active noise cancellation with a dedicated mic\n- MP3/WMA/WAV/eAAC+ player\n- DivX/XviD/MP4/H.264/WMV player\n- Voice command/dial\n- Document viewer (Word, Excel, PowerPoint, PDF)\n- Video/photo editor\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML, Adobe Flash Lite",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2010, April",
+            "Status": "Available. Released 2010, October"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "16 GB, 256 MB RAM, 512 MB ROM"
+        },
+        "Misc": {
+            "Colors": "Dark Grey, Silver White, Green, Blue, Orange, Pink, Bronze",
+            "Price group": "3/10 (About 140 EUR)",
+            "SAR EU": "1.02 W/kg (head)",
+            "SAR US": "1.09 W/kg (head) \u00a0 \u00a0 0.85 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 1700 / 1900 / 2100",
+            "EDGE": "Class 33",
+            "GPRS": "Class 33",
+            "Speed": "HSPA 10.2/2 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "680 MHz ARM 11",
+            "GPU": "Broadcom BCM2727",
+            "OS": "Symbian^3 OS, upgradable to Nokia Belle Refresh"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -89.9dB / Crosstalk -90.9dB",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 2.144:1 (sunlight)",
+            "Loudspeaker": "Voice 75dB / Noise 66dB / Ring 82dB"
+        }
+    },
+    "main": {
+        "device_name": "Nokia N8",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_n8-pictures-3252.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-n8-silver.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_n8-3252.php"
+    }
+}

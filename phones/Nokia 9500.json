@@ -1,0 +1,81 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1300 mAh battery (BP-5L)",
+            "Stand-by": "Up to 300 h",
+            "Talk time": "Up to 6 h"
+        },
+        "Body": {
+            "Dimensions": "148 x 57 x 24 mm (5.83 x 2.24 x 0.94 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "230 g (8.11 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v1.1",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "Pop-Port",
+            "WLAN": "Wi-Fi 802.11b"
+        },
+        "Display": {
+            "": "- Second LCD (128 x 128\npixels) with 65K color",
+            "Resolution": "640 x 200 pixels (~149 ppi pixel density)",
+            "Size": "4.5 inches, 110 x 35 mm (~44.1% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- Music player - MP3, MP4(AAC), RA, MIDI\n- Document viewer (Word, Excel, PowerPoint, PDF)\n- Organizer\n- Xpress-on covers",
+            "Browser": "WAP/xHTML, Opera HTML browser",
+            "Java": "Yes, MIDP 2.0",
+            "Languages": "Major European languages",
+            "Messaging": "SMS, MMS, Email, Fax"
+        },
+        "Launch": {
+            "Announced": "1Q, 2004",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "MMC",
+            "Internal": "80 MB"
+        },
+        "Misc": {
+            "Colors": "Tin Grey",
+            "Price group": "8/10 (About 430 EUR)",
+            "SAR EU": "0.52 W/kg (head)",
+            "SAR US": "0.99 W/kg (head) \u00a0 \u00a0 1.15 W/kg (body)"
+        },
+        "Network": {
+            "": "GSM 850 / 1800 / 1900 - US version",
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "Class 6",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Platform": {
+            "CPU": "150 MHz ARM925T",
+            "Chipset": "TI OMAP 1510",
+            "OS": "Symbian OS v7.0s, Series 80 v2.0 UI"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Downloadable polyphonic, monophonic, MP3/AAC ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 9500",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_9500-pictures-678.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/no9500.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_9500-678.php"
+    }
+}

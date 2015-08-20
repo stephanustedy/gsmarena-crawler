@@ -1,0 +1,87 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 2600 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "137 x 70 x 8.6 mm (5.39 x 2.76 x 0.34 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "146 g (5.15 oz)"
+        },
+        "Camera": {
+            "Features": "Dual Shot, Simultaneous HD video and image recording, geo-tagging, touch focus, face/smile detection, HDR",
+            "Primary": "13 MP, 4128 x 3096 pixels, autofocus, LED flash",
+            "Secondary": "2 MP, 1080p@30fps, dual video call",
+            "Video": "2160p@30fps, dual-video rec."
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, EDR, LE",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "Infrared port": "Yes",
+            "NFC": "Yes",
+            "Radio": "No",
+            "USB": "microUSB v2.0 (MHL 2 TV-out), USB Host",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, DLNA, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 3",
+            "Resolution": "1080 x 1920 pixels (~441 ppi pixel density)",
+            "Size": "5.0 inches (~71.9% screen-to-body ratio)",
+            "Type": "Super AMOLED capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- S-Voice natural language commands and dictation\n- Smart stay, Smart pause, Smart scroll\n- Air gestures\n- Dropbox (50 GB cloud storage)\n- Active noise cancellation with dedicated mic\n- MP4/WMV/H.264 player\n- MP3/WAV/eAAC+/FLAC player\n- Photo/video editor\n- Document viewer",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass, barometer, temperature, humidity, gesture"
+        },
+        "Launch": {
+            "Announced": "2013, December",
+            "Status": "Available. Released 2013, December"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "16 GB, 3 GB RAM"
+        },
+        "Misc": {
+            "Colors": "White, Pink",
+            "Price group": "8/10 (About 450 EUR)",
+            "SAR EU": "0.39 W/kg (head) \u00a0 \u00a0 0.29 W/kg (body)",
+            "SAR US": "0.95 W/kg (head) \u00a0 \u00a0 1.10 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "3G bands": "HSDPA 800 / 850 / 2100",
+            "4G bands": "LTE band 1(2100), 3(1800), 8(900)",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 2.3 GHz Krait 400",
+            "Chipset": "Qualcomm MSM8974 Snapdragon 800",
+            "GPU": "Adreno 330",
+            "OS": "Android OS, v4.3 (Jelly Bean), upgradable to v4.4 (KitKat)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Samsung Galaxy J SGH-N075T",
+        "device_name": "Samsung Galaxy J",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_galaxy_j-pictures-5887.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_galaxy_j-5887.php"
+    }
+}

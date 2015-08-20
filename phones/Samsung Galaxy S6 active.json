@@ -1,0 +1,151 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 3500 mAh battery",
+            "Music play": "Up to 57 h",
+            "Stand-by": "Up to 504 h (3G)",
+            "Talk time": "Up to 24 h (3G)"
+        },
+        "Body": {
+            "": "- IP68 certified - dust and water resistant up to 1.5 meter and 30 minutes\n- MIL-STD-810G certified - salt, dust, humidity, rain, vibration, solar radiation, transport and thermal shock resistant",
+            "Dimensions": "146.8 x 73.4 x 8.6 mm (5.78 x 2.89 x 0.34 in)",
+            "SIM": "Nano-SIM",
+            "Weight": "150 g (5.29 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection, Auto HDR, panorama",
+            "Primary": "16 MP, 2988 x 5312 pixels, autofocus, LED flash",
+            "Secondary": "5 MP, 1080p@30fps",
+            "Video": "2160p@30fps, 1080p@60fps, 720p@120fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.1, A2DP, LE, apt-X",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "Infrared port": "Yes",
+            "NFC": "Yes",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot"
+        },
+        "Display": {
+            "": "- TouchWiz UI",
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 4",
+            "Resolution": "1440 x 2560 pixels (~576 ppi pixel density)",
+            "Size": "5.1 inches (~66.5% screen-to-body ratio)",
+            "Type": "Super AMOLED capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Wireless charging (Qi/PMA) - market dependent\n- ANT+ support\n- S-Voice natural language commands and dictation\n- Smart stay\n- OneDrive (115 GB cloud storage)\n- Active noise cancellation with dedicated mic\n- MP4/DivX/XviD/WMV/H.264 player\n- MP3/WAV/WMA/eAAC+/FLAC player\n- Photo/video editor\n- Document editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass, barometer, heart rate"
+        },
+        "Launch": {
+            "Announced": "2015, June",
+            "Status": "Available. Released 2015, June"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "32 GB, 3 GB RAM"
+        },
+        "Misc": {
+            "Colors": "White, Gray",
+            "Price group": "9/10 (About 620 EUR)",
+            "SAR EU": "0.48 W/kg (head) \u00a0 \u00a0 0.42 W/kg (body)",
+            "SAR US": "1.19 W/kg (head) \u00a0 \u00a0 1.58 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 1900 / 2100",
+            "4G bands": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 12(700), 17(700), 20(800), 29(700), 40(2300)",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat6 300/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.5 GHz Cortex-A53 & Quad-core 2.1 GHz Cortex-A57",
+            "Chipset": "Exynos 7420",
+            "GPU": "Mali-T760",
+            "OS": "Android OS, v5.0.2 (Lollipop)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "0": "B",
+            "1": "a",
+            "10": "f",
+            "11": "e",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "t",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "g",
+            "25": "s",
+            "26": "m",
+            "27": "a",
+            "28": "r",
+            "29": "e",
+            "3": "t",
+            "30": "n",
+            "31": "a",
+            "32": "_",
+            "33": "l",
+            "34": "a",
+            "35": "b",
+            "36": "_",
+            "37": "t",
+            "38": "e",
+            "39": "s",
+            "4": "e",
+            "40": "t",
+            "41": "s",
+            "42": "-",
+            "43": "r",
+            "44": "e",
+            "45": "v",
+            "46": "i",
+            "47": "e",
+            "48": "w",
+            "49": "-",
+            "5": "r",
+            "50": "7",
+            "51": "5",
+            "52": "1",
+            "53": "p",
+            "54": "6",
+            "55": ".",
+            "56": "p",
+            "57": "h",
+            "58": "p",
+            "6": "y",
+            "7": " ",
+            "8": "l",
+            "9": "i"
+        }
+    },
+    "main": {
+        "canonical_name": "For AT&T\nAlso known as Samsung Galaxy S6 active SM-G890",
+        "device_name": "Samsung Galaxy S6 active",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_galaxy_s6_active-pictures-7114.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s6-active.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_galaxy_s6_active-7114.php"
+    }
+}

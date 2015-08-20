@@ -1,0 +1,79 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1200 mAh battery (BL-6F)",
+            "Music play": "Up to 15 h",
+            "Stand-by": "Up to 200 h (2G) / Up to 210 h (3G)",
+            "Talk time": "Up to 3 h 20 min (2G) / Up to 4 h 10 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "105.6 x 54.9 x 18.9 mm, 92 cc (4.16 x 2.16 x 0.74 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "158 g (5.57 oz)"
+        },
+        "Camera": {
+            "Primary": "5 MP, 2592 x 1944 pixels, Carl Zeiss optics, autofocus, Dual-LED flash",
+            "Secondary": "VGA videocall camera",
+            "Video": "480p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "Yes, with A-GPS; Ovi Maps",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~143 ppi pixel density)",
+            "Size": "2.8 inches (~41.9% screen-to-body ratio)",
+            "Type": "TFT, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/H.264/WMV player\n- MP3/WAV/eAAC+/WMA player\n- Document viewer (Word, Excel, PowerPoint, PDF) \n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML, Adobe Flash Lite",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS, MMS, Email",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2009, October",
+            "Status": "Available. Released 2009, December"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 8 GB",
+            "Internal": "4 GB, 128 MB RAM, 256 MB ROM"
+        },
+        "Misc": {
+            "Colors": "Black, Brown",
+            "Price group": "3/10 (About 130 EUR)",
+            "SAR EU": "0.54 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "3G bands": "TD-SCDMA",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "TD-SCDMA",
+            "Technology": "GSM"
+        },
+        "Platform": {
+            "CPU": "264 MHz ARM 9",
+            "OS": "Symbian OS v9.3, S60 rel. 3.2"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "canonical_name": "For China",
+        "device_name": "Nokia 6788",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_6788-pictures-2991.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-6788.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_6788-2991.php"
+    }
+}

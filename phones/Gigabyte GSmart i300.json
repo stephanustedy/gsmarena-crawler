@@ -1,0 +1,74 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 920 mAh battery",
+            "Stand-by": "Up to 110 h",
+            "Talk time": "Up to 3 h"
+        },
+        "Body": {
+            "Dimensions": "102.5 x 51.5 x 19 mm (4.04 x 2.03 x 0.75 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "116 g (4.09 oz)"
+        },
+        "Camera": {
+            "Primary": "2.1 MP, 1632 x 1224 pixels, autofocus, LED flash",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0",
+            "GPS": "Yes, SiRF Star III chipset",
+            "Radio": "No",
+            "USB": "miniUSB v2.0",
+            "WLAN": "Wi-Fi 802.11b/g"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~167 ppi pixel density)",
+            "Size": "2.4 inches (~33.8% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 256K colors (65K effective)"
+        },
+        "Features": {
+            "": "- Pocket Office \n- MP3/AAC/AAC+/WMA/OGG/AMR player\n- WMV/MP4 player\n- Organizer",
+            "Browser": "WAP 2.0/xHTML",
+            "Java": "Yes",
+            "Messaging": "SMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2006, 2Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- Intel XScale PXA272, 520MHz",
+            "Card slot": "miniSD",
+            "Internal": "64 MB RAM, 256 MB ROM"
+        },
+        "Misc": {
+            "Colors": "Silver",
+            "Price group": "6/10 (About 300 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Platform": {
+            "CPU": "Intel XScale PXA272 520MHz",
+            "OS": "Microsoft Windows Mobile 5.0 for PocketPC Phone Edition(AKU2)"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3, MIDI ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Gigabyte GSmart i300",
+        "image": {
+            "href": "http://www.gsmarena.com/gigabyte_gsmart_i300-pictures-1817.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/gigabyte-i300.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/gigabyte_gsmart_i300-1817.php"
+    }
+}

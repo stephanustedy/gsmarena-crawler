@@ -1,0 +1,96 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1050 mAh battery",
+            "Stand-by": "Up to 350 h",
+            "Talk time": "Up to 6 h"
+        },
+        "Body": {
+            "Dimensions": "106.9 x 58.4 x 15.5 mm (4.21 x 2.30 x 0.61 in)",
+            "SIM": "Dual SIM (Mini-SIM)",
+            "Weight": "90 g (3.17 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 1024 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0",
+            "GPS": "No",
+            "Radio": "Stereo FM radio",
+            "USB": "microUSB",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~154 ppi pixel density)",
+            "Size": "2.6 inches (~33.5% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen"
+        },
+        "Features": {
+            "": "- TV\n- Ebuddy, Facebook, Yahoo, Twitter\n- MP4/AVI/3GP player\n- MP3/WAV/WMA player\n- Organizer\n- Touch screen\n- Voice memo/dial",
+            "Browser": "Yes",
+            "Games": "Yes",
+            "Java": "No",
+            "Messaging": "SMS, MMS, Email, IM"
+        },
+        "Launch": {
+            "Announced": "2012, August",
+            "Status": "Available. Released 2012, September"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "64 MB ROM, 32 MB RAM",
+            "Phonebook": "Yes"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, Polyphonic(64), MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "W201 - Single SIM\nW200 - Dual SIM",
+        "device_name": "Plum Geo",
+        "image": {
+            "href": "http://www.gsmarena.com/plum_geo-pictures-4940.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/plum-geo.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/plum_geo-4940.php"
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1320 mAh battery (BL-5J)",
+            "Music play": "Up to 35 h",
+            "Stand-by": "Up to 420 h (2G) / Up to 450 h (3G)",
+            "Talk time": "Up to 11 h 30 min (2G) / Up to 6 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "111 x 51 x 13.8 mm (4.37 x 2.01 x 0.54 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "122 g (4.30 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, Carl Zeiss optics, autofocus, Dual LED flash, video light",
+            "Secondary": "QCIF@15fps",
+            "Video": "480p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "Yes, with A-GPS; Ovi Maps 3.0",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g, UPnP"
+        },
+        "Display": {
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "360 x 640 pixels (~229 ppi pixel density)",
+            "Size": "3.2 inches (~49.9% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- WMV/RV/MP4/3GP player\n- MP3/WMA/WAV/RA/AAC/M4A player\n- Organizer\n- Photo/video editor\n- Voice command/dial\n- TV-out\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML, Adobe Flash Lite",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2010, January",
+            "Status": "Available. Released 2010, February"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "16 GB, 128 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, Pink on White, Yellow on White",
+            "Price group": "3/10 (About 130 EUR)",
+            "SAR EU": "1.11 W/kg (head)",
+            "SAR US": "1.31 W/kg (head) \u00a0 \u00a0 1.13 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 1900 / 2100 - USA",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 1900 / 2100 - excl. Lat. America & Brazil",
+            "EDGE": "Class 32",
+            "GPRS": "Class 32",
+            "Speed": "HSPA 3.6/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "434 MHz ARM 11",
+            "OS": "Symbian OS v9.4, Series 60 rel. 5"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "device_name": "Nokia X6 16GB",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_x6_16gb-pictures-3109.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-x6-16gb-pink.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_x6_16gb-3109.php"
+    }
+}

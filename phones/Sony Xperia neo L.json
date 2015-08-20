@@ -1,0 +1,91 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 1500 mAh battery",
+            "Music play": "Up to 37 h",
+            "Stand-by": "Up to 575 h (2G) / Up to 410 h (3G)",
+            "Talk time": "Up to 7 h 53 min (2G) / Up to 7 h 9 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "121 x 61.1 x 12.2 mm (4.76 x 2.41 x 0.48 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "131.5 g (4.62 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, video calling",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, LED flash, check quality",
+            "Secondary": "VGA",
+            "Video": "720p@30fps, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- Timescape UI",
+            "Multitouch": "Yes, up to 4 fingers",
+            "Resolution": "480 x 854 pixels (~245 ppi pixel density)",
+            "Size": "4.0 inches (~59.6% screen-to-body ratio)",
+            "Type": "LED-backlit LCD, capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/H.264/WMV player\n- MP3/WMA/WAV/eAAC+ player\n- TrackID music recognition\n- Organizer\n- Document viewer\n- Voice memo/dial/commands\n- Predictive text input",
+            "Browser": "HTML5, Adobe Flash",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, IM, Push Email",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2012, March",
+            "Status": "Available. Released 2012, June"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "1 GB (300 MB user available), 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "3/10 (About 150 EUR)",
+            "SAR EU": "1.01 W/kg (head)",
+            "SAR US": "0.84 W/kg (head) \u00a0 \u00a0 0.46 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Up to 237 kbps",
+            "GPRS": "Up to 80 kbps",
+            "Speed": "HSPA 7.2/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "1 GHz Scorpion",
+            "Chipset": "Qualcomm MSM8255 Snapdragon S2",
+            "GPU": "Adreno 205",
+            "OS": "Android OS, v4.0.4 (Ice Cream Sandwich)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -85.6dB / Crosstalk -85.6dB",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 1097:1 (nominal) / 1.169:1 (sunlight)",
+            "Loudspeaker": "Voice 65dB / Noise 65dB / Ring 76dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Sony MT25i",
+        "device_name": "Sony Xperia neo L",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_xperia_neo_l-pictures-4647.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/sony-xperia-neo-l.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_xperia_neo_l-4647.php"
+    }
+}

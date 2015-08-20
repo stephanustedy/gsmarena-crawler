@@ -1,0 +1,70 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 750 mAh battery",
+            "Stand-by": "Up to 220 h",
+            "Talk time": "Up to 7 h"
+        },
+        "Body": {
+            "Dimensions": "88 x 45 x 19.8 mm (3.46 x 1.77 x 0.78 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "74 g (2.61 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "No",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Wallpaper",
+            "Resolution": "128 x 128 pixels (~121 ppi pixel density)",
+            "Size": "1.5 inches (~18.3% screen-to-body ratio)",
+            "Type": "UFB, 65K colors"
+        },
+        "Features": {
+            "": "- Voice memo\n- Predictive text input\n- Organizer",
+            "Browser": "WAP 1.2",
+            "Games": "No",
+            "Java": "No",
+            "Messaging": "SMS, EMS"
+        },
+        "Launch": {
+            "Announced": "2007, February",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "10 dialed, 10 received, 10 missed calls",
+            "Card slot": "No",
+            "Internal": "600 KB",
+            "Phonebook": "500 entries"
+        },
+        "Misc": {
+            "Colors": "Blue, Silver, Black, Red",
+            "Price group": "2/10 (About 60 EUR)",
+            "SAR EU": "0.81 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Samsung C260",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_c260-pictures-1920.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-c260.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_c260-1920.php"
+    }
+}

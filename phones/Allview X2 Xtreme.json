@@ -1,0 +1,84 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 3500 mAh battery",
+            "Stand-by": "Up to 350 h (3G)",
+            "Talk time": "Up to 12 h (3G)"
+        },
+        "Body": {
+            "": "- Fingerprint sensor",
+            "Dimensions": "164 x 82 x 9.6 mm (6.46 x 3.23 x 0.38 in)",
+            "SIM": "Dual SIM (Micro-SIM, dual stand-by)",
+            "Weight": "204.4 g (7.20 oz)"
+        },
+        "Camera": {
+            "Features": "1/2.3'' sensor size, geo-tagging, touch focus, face/smile detection, panorama, HDR",
+            "Primary": "24 MP, 5632 x 4224 pixels, optical image stabilization, phase detection autofocus, dual-LED (dual tone) flash",
+            "Secondary": "8 MP, autofocus",
+            "Video": "2160p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "NFC": "Yes",
+            "Radio": "FM radio; recording",
+            "USB": "microUSB v2.0, USB Host",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, WiFi Direct, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "1440 x 2560 pixels (~490 ppi pixel density)",
+            "Size": "6.0 inches (~73.8% screen-to-body ratio)",
+            "Type": "AMOLED capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP4/H.264 player\n- MP3/WAV/eAAC+ player\n- Photo/video editor\n- Document viewer",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2015, June",
+            "Status": "Coming soon. Exp. release 2015, August"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 128 GB",
+            "Internal": "64 GB, 3 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Gold",
+            "Price group": "8/10 (About 490 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 900 / 1900 / 2100",
+            "4G bands": "LTE band 1(2100), 7(2600), 33(1900), 38(2600), 39(1900)",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 21.1/5.76 Mbps, LTE Cat4 150/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Octa-core 2 GHz Cortex-A53",
+            "Chipset": "Mediatek MT6795",
+            "GPU": "PowerVR G6200",
+            "OS": "Android OS, v5.1 (Lollipop)"
+        },
+        "Sound": {
+            "": "- DTS sound",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "device_name": "Allview X2 Xtreme",
+        "image": {
+            "href": "http://www.gsmarena.com/allview_x2_xtreme-pictures-7288.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/allview-x2-extr.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/allview_x2_xtreme-7288.php"
+    }
+}

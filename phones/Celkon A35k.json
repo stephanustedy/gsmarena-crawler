@@ -1,0 +1,77 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1400 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "119 x 63 x 10.7 mm (4.69 x 2.48 x 0.42 in)",
+            "SIM": "Dual SIM (Mini-SIM)",
+            "Weight": "102 g (3.60 oz)"
+        },
+        "Camera": {
+            "Primary": "3.15 MP",
+            "Secondary": "VGA",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "No",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Yes"
+        },
+        "Display": {
+            "Resolution": "320 x 480 pixels (~165 ppi pixel density)",
+            "Size": "3.5 inches (~48.7% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen"
+        },
+        "Features": {
+            "": "- MP3/WAV/AAC/WMA player\n- MP4/H.264/WMV player\n- Photo/video viewer/editor\n- Voice memo/dial",
+            "Browser": "Yes",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2014",
+            "Status": "Available. Released 2014"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "512 MB/ 2 GB, 256 MB RAM"
+        },
+        "Misc": {
+            "Colors": "White, Blue",
+            "Price group": "1/10 (About 40 EUR)",
+            "SAR EU": "0.56 W/kg (head) \u00a0 \u00a0 0.51 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "1 GHz",
+            "OS": "Android OS, v4.4.2 (KitKat)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Celkon A35k",
+        "image": {
+            "href": "http://www.gsmarena.com/celkon_a35k-pictures-6451.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/celkon-a35.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/celkon_a35k-6451.php"
+    }
+}

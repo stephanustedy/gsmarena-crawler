@@ -1,0 +1,100 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 720 mAh battery",
+            "Stand-by": "75 h - 220 h",
+            "Talk time": "1 h 30 min - 7 h"
+        },
+        "Body": {
+            "Dimensions": "97 x 49 x 23 mm (3.82 x 1.93 x 0.91 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "103 g (3.63 oz)"
+        },
+        "Camera": {
+            "Primary": "CIF, 352 x 288 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second display",
+            "Resolution": "132 x 176 pixels",
+            "Size": "",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- Sync ML\n- Predictive text input\n- Voice memo\n- Organizer",
+            "Alarm": "Yes",
+            "Browser": "WAP 2.0/xHTML",
+            "Clock": "Yes",
+            "Games": "Downloadable",
+            "Java": "No",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "Nov, 2002",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- Message templates",
+            "Call records": "10 dialed, 10 received, 10 missed calls",
+            "Card slot": "No",
+            "Phonebook": "200"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 8",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic ringtones, composer",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "GD88 - asian version",
+        "device_name": "Panasonic GD87",
+        "image": {
+            "href": "http://www.gsmarena.com/panasonic_gd87-pictures-322.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/pagd87.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/panasonic_gd87-322.php"
+    }
+}

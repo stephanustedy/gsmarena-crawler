@@ -1,0 +1,95 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po 3220 mAh battery",
+            "Stand-by": "Up to 330 h",
+            "Talk time": "Up to 24 h"
+        },
+        "Body": {
+            "": "- Water resistant",
+            "Dimensions": "159.3 x 83 x 10.1 mm (6.27 x 3.27 x 0.40 in)",
+            "SIM": "Nano-SIM",
+            "Weight": "184 g (6.49 oz)"
+        },
+        "Camera": {
+            "Features": "Dual recording, geo-tagging, touch focus, face detection, photo sphere, panorama, HDR",
+            "Primary": "13 MP, 4128 x 3096 pixels, autofocus, optical image stabilization, dual-LED (ring) flash, check quality",
+            "Secondary": "2 MP",
+            "Video": "2160p@30fps, optical stabilization, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v4.1, A2DP, LE",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "NFC": "Yes",
+            "Radio": "No",
+            "USB": "microUSB v2.0 (SlimPort), USB Host",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, DLNA, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 3",
+            "Resolution": "1440 x 2560 pixels (~493 ppi pixel density)",
+            "Size": "5.96 inches (~74.1% screen-to-body ratio)",
+            "Type": "AMOLED capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Wireless Charging (Qi-enabled)\n- Active noise cancellation with dedicated mic\n- MP4/H.264 player\n- MP3/WAV/eAAC+ player\n- Photo/video editor\n- Document editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass, barometer"
+        },
+        "Launch": {
+            "Announced": "2014, October",
+            "Status": "Available. Released 2014, November"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "32/64 GB, 3 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Midnight Blue, Cloud White",
+            "Price group": "9/10 (About 540 EUR)",
+            "SAR US": "1.47 W/kg (head) \u00a0 \u00a0 0.93 W/kg (body)"
+        },
+        "Network": {
+            "": "LTE band 4(1700/2100), 13(700) - Verizon",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - all models",
+            "3G bands": "HSDPA 800 / 850 / 900 / 1700 / 1800 / 1900 / 2100 - XT1100",
+            "4G bands": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 9(1800), 19(800), 20(800), 28(700), 41(2500) - XT1100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat6 300/50 Mbps",
+            "Technology": "GSM / CDMA / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 2.7 GHz Krait 450",
+            "Chipset": "Qualcomm Snapdragon 805",
+            "GPU": "Adreno 420",
+            "OS": "Android OS, v5.0 (Lollipop), upgradable to v5.1 (Lollipop)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        },
+        "Tests": {
+            "Audio quality": "Noise -95.6dB / Crosstalk -96.6dB",
+            "Battery life": "Endurance rating 70h",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: Infinite (nominal), 3.543 (sunlight)",
+            "Loudspeaker": "Voice 66dB / Noise 66dB / Ring 66dB",
+            "Performance": "Basemark OS II: 1509 / Basemark OS II 2.0: 1267\nBasemark X: 20901"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Motorola Nexus X\nAvailable as Motorola Moto X Pro for China",
+        "device_name": "Motorola Nexus 6",
+        "image": {
+            "href": "http://www.gsmarena.com/motorola_nexus_6-pictures-6604.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/moto-nexus-6.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/motorola_nexus_6-6604.php"
+    }
+}

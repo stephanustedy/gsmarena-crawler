@@ -1,0 +1,81 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po battery (15 Wh)",
+            "Stand-by": "Up to 619 h (3G)",
+            "Talk time": "Up to 10 h (multimedia) (2G) / Up to 30 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "192 x 110 x 10.7 mm (7.56 x 4.33 x 0.42 in)",
+            "SIM": "Optional Dual SIM (Micro-SIM, dual stand-by)",
+            "Weight": "290 g (10.23 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "2 MP, 1600 x 1200 pixels, autofocus",
+            "Secondary": "VGA",
+            "Video": "720p"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "600 x 1024 pixels (~170 ppi pixel density)",
+            "Size": "7.0 inches (~65.3% screen-to-body ratio)",
+            "Type": "Capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP3/WAV/AAC player\n- MP4/H.264 player\n- Photo viewer/editor\n- Voice memo/dial",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2014, May",
+            "Status": "Available. Released 2014, May"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "4/8 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White, Red, Blue (Dual SIM)/ White (Single SIM)",
+            "Price group": "2/10 (About 100 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 42.2/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.2 GHz",
+            "Chipset": "Intel Atom Z2520",
+            "GPU": "PowerVR SGX544MP2",
+            "OS": "Android OS, v4.3 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Asus Fonepad 7 FE170CG\nTablet with support for GSM voice communication, SMS, and MMS",
+        "device_name": "Asus Fonepad 7 (2014)",
+        "image": {
+            "href": "http://www.gsmarena.com/asus_fonepad_7_(2014)-pictures-6394.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/asus-fonepad-7-2014.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/asus_fonepad_7_(2014)-6394.php"
+    }
+}

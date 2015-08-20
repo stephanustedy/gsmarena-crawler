@@ -1,0 +1,96 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 720 mAh battery",
+            "Stand-by": "240 h",
+            "Talk time": "up to 4 h"
+        },
+        "Body": {
+            "Dimensions": "105 x 46 x 20 mm, 77 cc (4.13 x 1.81 x 0.79 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "92 g (3.25 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Dynamic font size\n- Softkeys\n- 3D animated icons\n- 30 icons + downloadable",
+            "Resolution": "101 x 80 pixels, 8 lines",
+            "Size": "",
+            "Type": "CSTN, 256 colors"
+        },
+        "Features": {
+            "": "- Predictive text input\n- Calculator\n- Currency converter\n- Interchangeable front and back covers",
+            "Alarm": "Yes",
+            "Browser": "WAP 1.2.1",
+            "Clock": "Yes",
+            "Games": "Downloadable",
+            "Java": "No",
+            "Messaging": "SMS, EMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2002",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- 100 short messages",
+            "Call records": "10 dialed, 10 received, 10 missed calls",
+            "Card slot": "No",
+            "Phonebook": "300 x 3 numbers"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "": "- New formats: BMP, JPEG, PNG, GIF, Midi, iMelody, Wave",
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Sagem MY X-5",
+        "image": {
+            "href": "http://www.gsmarena.com/sagem_my_x_5-pictures-320.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samyx5.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sagem_my_x_5-320.php"
+    }
+}

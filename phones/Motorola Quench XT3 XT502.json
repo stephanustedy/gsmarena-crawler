@@ -1,0 +1,84 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 1270 mAh battery",
+            "Stand-by": "Up to 560 h (2G) / Up to 445 h (3G)",
+            "Talk time": "Up to 8 h 10 min (2G) / Up to 6 h 30 min (3G)"
+        },
+        "Body": {
+            "": "- Trackball",
+            "Dimensions": "114.9 x 56.8 x 12.6 mm, 80 cc (4.52 x 2.24 x 0.50 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "114 g (4.02 oz)"
+        },
+        "Camera": {
+            "Primary": "3.15 MP, 2048 x 1536 pixels, LED flash",
+            "Secondary": "No",
+            "Video": "320x480@15fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g"
+        },
+        "Display": {
+            "": "- MOTOBLUR UI with Live Widgets",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "320 x 480 pixels (~180 ppi pixel density)",
+            "Size": "3.2 inches (~46.7% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/WMA/WAV/eAAC+ player\n- MP4/DivX/H.264 player\n- Document viewer\n- Photo viewer/editor\n- Organizer\n- Voice memo\n- Predictive text input",
+            "Browser": "HTML",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2010, July",
+            "Status": "Available. Released 2010, August"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "512 MB, 256 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Brown",
+            "Price group": "4/10 (About 170 EUR)",
+            "SAR EU": "0.96 W/kg (head)",
+            "SAR US": "1.16 W/kg (head) \u00a0 \u00a0 0.59 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 1900 / 2100",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 7.2/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "600 MHz ARM 11",
+            "Chipset": "Qualcomm MSM7227 Snapdragon S1",
+            "GPU": "Adreno 200",
+            "OS": "Android OS, v1.6 (Donut)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Rumored as Motorola XT502 Greco",
+        "device_name": "Motorola Quench XT3 XT502",
+        "image": {
+            "href": "http://www.gsmarena.com/motorola_quench_xt3_xt502-pictures-3354.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/motorola-quench-xt3-new.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/motorola_quench_xt3_xt502-3354.php"
+    }
+}

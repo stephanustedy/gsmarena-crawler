@@ -1,0 +1,86 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1000 mAh battery (BL-4U)",
+            "Music play": "Up to 25 h",
+            "Stand-by": "Up to 300 h (2G) / Up to 270 h (3G)",
+            "Talk time": "Up to 5 h (2G) / Up to 4 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "112 x 51 x 15.4 mm (4.41 x 2.01 x 0.61 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "135 g (4.76 oz)"
+        },
+        "Camera": {
+            "Primary": "3.15 MP, 2048 x 1536 pixels, Carl Zeiss optics, autofocus, LED flash, check quality",
+            "Secondary": "QVGA videocall camera",
+            "Video": "480p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "Yes, with A-GPS; Nokia Maps",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g, UPnP technology"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~167 ppi pixel density)",
+            "Size": "2.4 inches (~31.2% screen-to-body ratio)",
+            "Type": "TFT, 16M colors"
+        },
+        "Features": {
+            "": "- Nokia Say and Play (voice control to player)\n- WMV/RV/MP4/3GP player\n- MP3/WMA/WAV/RA/AAC/M4A player\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS, MMS, Email",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2009, March",
+            "Status": "Available. Released 2009, June"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 16 GB, 8 GB included",
+            "Internal": "100 MB, 128 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Red, Monochrome, Blue, Pink",
+            "Price group": "3/10 (About 150 EUR)",
+            "SAR EU": "1.01 W/kg (head)",
+            "SAR US": "1.39 W/kg (head) \u00a0 \u00a0 1.18 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 1900 / 2100",
+            "EDGE": "Class 32, 296 / 178.8 kbits",
+            "GPRS": "Class 32",
+            "Speed": "HSPA 3.6/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "369 MHz ARM 11",
+            "OS": "Symbian OS, S60 rel. 3.2"
+        },
+        "Sound": {
+            "": "- Dedicated music keys",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -91.3dB / Crosstalk -90.3dB",
+            "Camera": "Photo",
+            "Loudspeaker": "Voice 68dB / Noise 61dB / Ring 75dB"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 5730 XpressMusic",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_5730_xpressmusic-pictures-2743.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-5730-xpressmusic.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_5730_xpressmusic-2743.php"
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 700 mAh battery (BL-4B)",
+            "Stand-by": "Up to 416 h",
+            "Talk time": "Up to 5 h"
+        },
+        "Body": {
+            "Dimensions": "87.5 x 44 x 15.8 mm, 52 cc (3.44 x 1.73 x 0.62 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "78 g (2.75 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "No",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "128 x 160 pixels (~114 ppi pixel density)",
+            "Size": "1.8 inches (~26.5% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- Nokia Xpress Audio Messaging\n- Light indicator\n- Predictive text input\n- Organizer",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2008, April. Released 2008, August",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "No",
+            "Internal": "11 MB",
+            "Phonebook": "1000 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Black & Pink accent, Black & Blue accent",
+            "Price group": "2/10 (About 50 EUR)",
+            "SAR EU": "0.61 W/kg (head)"
+        },
+        "Network": {
+            "": "GSM 850 / 1900 - US version",
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "Class 6",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 7070 Prism",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_7070_prism-pictures-2338.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-7070-prism.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_7070_prism-2338.php"
+    }
+}

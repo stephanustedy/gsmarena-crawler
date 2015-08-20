@@ -1,0 +1,80 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 600 mAh battery",
+            "Stand-by": "Up to 200 h",
+            "Talk time": "Up to 4 h"
+        },
+        "Body": {
+            "Dimensions": "44 x 44 x 14 mm (1.73 x 1.73 x 0.55 in)",
+            "SIM": "Yes",
+            "Weight": "83 g (3.03 oz)"
+        },
+        "Camera": {
+            "Features": "Face detection",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "Yes",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Yes"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "240 x 240 pixels (~218 ppi pixel density)",
+            "Size": "1.56 inches (~40.5% screen-to-body ratio)",
+            "Type": "OLED capacitive touchscreen"
+        },
+        "Features": {
+            "": "- Video player\n- Photo viewer",
+            "Browser": "Yes",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, IM",
+            "Sensors": "Accelerometer, gyro, compass"
+        },
+        "Launch": {
+            "Announced": "2015, July",
+            "Status": "Coming soon. Exp. release 2015, August"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "4 GB, 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Orange, pink, black",
+            "SAR US": "0.98 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 1900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.2 GHz",
+            "Chipset": "Mediatek MT6572",
+            "GPU": "Mali-400",
+            "OS": "Android OS, v4.4.2 (KitKat)"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Intex IRist Smartwatch",
+        "image": {
+            "href": "http://www.gsmarena.com/intex_irist_smartwatch-pictures-7462.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/intex-watch.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/intex_irist_smartwatch-7462.php"
+    }
+}

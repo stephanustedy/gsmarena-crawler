@@ -1,0 +1,76 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 720 mAh battery",
+            "Music play": "Up to 10 h",
+            "Stand-by": "Up to 350 h",
+            "Talk time": "Up to 7 h"
+        },
+        "Body": {
+            "Dimensions": "91.7 x 45 x 20.8 mm (3.61 x 1.77 x 0.82 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "85 g (3.00 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 1024 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "miniUSB v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "128 x 160 pixels (~114 ppi pixel density)",
+            "Size": "1.8 inches (~24.7% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- Organizer\n- MP3/AAC+ player\n- MP4/H.264 player\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "2",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2009, July. Released 2009, Q3",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "microSD, up to 2 GB",
+            "Internal": "10 MB",
+            "Phonebook": "800 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Purple, White",
+            "SAR EU": "0.86 W/kg (head) \u00a0 \u00a0 1.05 W/kg (body)",
+            "SAR US": "1.00 W/kg (head)"
+        },
+        "Network": {
+            "": "GSM 850 / 1900",
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "": "- Dedicated music keys",
+            "3.5mm jack": "No",
+            "Alert types": "Vibration, MP3",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Alcatel ELLE GlamPhone",
+        "image": {
+            "href": "http://www.gsmarena.com/alcatel_elle_glamphone-pictures-3064.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/alcatel-elle-glamphone.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/alcatel_elle_glamphone-3064.php"
+    }
+}

@@ -1,0 +1,90 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 2100 mAh battery",
+            "Music play": "Up to 38 h",
+            "Stand-by": "Up to 430 h",
+            "Talk time": "Up to 11 h"
+        },
+        "Body": {
+            "Dimensions": "143.7 x 77.1 x 9.6 mm (5.66 x 3.04 x 0.38 in)",
+            "SIM": "Optional Dual SIM (Mini-SIM, dual stand-by)",
+            "Weight": "163 g (5.75 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, LED flash, check quality",
+            "Secondary": "VGA/ 2 MP (GT-I9060I)",
+            "Video": "720p@30fps, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, LE",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "480 x 800 pixels (~186 ppi pixel density)",
+            "Size": "5.01 inches (~64.5% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- DivX/Xvid/MP4/WMV/H.264 player\n- MP3/WAV/eAAC+/FLAC player\n- Photo/video editor\n- Document viewer",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2014, January",
+            "Status": "Available. Released 2014, February"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "8/16 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "White, Midnight Black, Orange, Lime Green",
+            "Price group": "4/10 (About 170 EUR)",
+            "SAR EU": "0.21 W/kg (head) \u00a0 \u00a0 0.32 W/kg (body)"
+        },
+        "Network": {
+            "": "GSM 850 / 900 / 1800 / 1900 - GT-I9062 (SIM 1 & SIM 2)",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - GT-I9060, GT-I9060I",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 21.1/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.2 GHz Cortex-A7",
+            "Chipset": "Broadcom BCM23550\nSpreadtrum SC8830 - GT-I9060I",
+            "GPU": "Broadcom VideoCore IV\nMali-400MP2 - GT-I9060I",
+            "OS": "Android OS, v4.2 (Jelly Bean)\nAndroid OS, v4.4.4 (KitKat) - GT-I9060I"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Battery life": "Endurance rating 59h",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 786:1 (nominal), 1.393 (sunlight)",
+            "Loudspeaker": "Voice 72dB / Noise 65dB / Ring 73dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as:\nSamsung Galaxy Grand Lite\nSamsung Galaxy Grand Neo Plus GT-I9060I with 2 MP front camera",
+        "device_name": "Samsung Galaxy Grand Neo",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_galaxy_grand_neo-pictures-5958.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-grand-neo.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_galaxy_grand_neo-5958.php"
+    }
+}

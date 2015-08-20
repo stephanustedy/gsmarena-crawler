@@ -1,0 +1,78 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1000 mAh battery",
+            "Stand-by": "Up to 625 h",
+            "Talk time": "Up to 14 h 40 min"
+        },
+        "Body": {
+            "Dimensions": "102 x 58 x 11.5 mm (4.02 x 2.28 x 0.45 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "95 g (3.35 oz)"
+        },
+        "Camera": {
+            "Primary": "3.15 MP, 2048 x 1536 pixels",
+            "Secondary": "No",
+            "Video": "QCIF@15fps"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "No",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n"
+        },
+        "Display": {
+            "": "- TouchWiz Lite UI v2.0",
+            "Multitouch": "Yes",
+            "Resolution": "240 x 320 pixels (~133 ppi pixel density)",
+            "Size": "3.0 inches (~47.1% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- SNS integration\n- MP3/WAV/WMA/AAC+ player\n- H.264/MP4 player\n- Organizer\n- Document viewer\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2012, January",
+            "Status": "Available. Released 2012, April"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "20 MB",
+            "Phonebook": "Yes, Photocall"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "2/10 (About 90 EUR)",
+            "SAR EU": "0.78 W/kg (head)",
+            "SAR US": "0.79 W/kg (head) \u00a0 \u00a0 0.61 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "Class 12",
+            "GPRS": "Yes",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Samsung Tocco Lite 2",
+        "device_name": "Samsung Star 3 s5220",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_star_3_s5220-pictures-4448.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-star-3.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_star_3_s5220-4448.php"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 950 mAh battery",
+            "Stand-by": "Up to 300 h",
+            "Talk time": "Up to 7 h"
+        },
+        "Body": {
+            "Dimensions": "96 x 46.5 x 21.5 mm (3.78 x 1.83 x 0.85 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "103 g (3.35 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels, LED flash",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v1.2, A2DP",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~200 ppi pixel density)",
+            "Size": "2.0 inches, 30 x 40 mm (~27.7% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- TV-out\n- MP3/AAC+/MP4 player\n- Document viewer (Word, Excel, PowerPoint, PDF)\n- SyncML\n- Predictive text input\n- Organizer\n- Voice memo",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "3 + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2005, 1Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- 4 MB for Java applications",
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "microSD, up to 1 GB",
+            "Internal": "72 MB",
+            "Phonebook": "1000 x 12 fields, Photo call"
+        },
+        "Misc": {
+            "Colors": "Charcoal Gray, Wine Red",
+            "SAR EU": "0.41 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "Class 10 (D600E only)",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "canonical_name": "Also Samsung D600E GSM 900/1800/1900 + EDGE",
+        "device_name": "Samsung D600",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_d600-pictures-1103.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-d600.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_d600-1103.php"
+    }
+}

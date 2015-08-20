@@ -1,0 +1,75 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 860 mAh battery (BL-4S)",
+            "Stand-by": "Up to 288 h",
+            "Talk time": "Up to 6 h 40 min"
+        },
+        "Body": {
+            "Dimensions": "98 x 48 x 15 mm, 63 cc (3.86 x 1.89 x 0.59 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "99 g (3.49 oz)"
+        },
+        "Camera": {
+            "Primary": "3.15 MP, 2048 x 1536 pixels, autofocus, dual LED",
+            "Secondary": "No",
+            "Video": "480p@15fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~200 ppi pixel density)",
+            "Size": "2.0 inches (~26.3% screen-to-body ratio)",
+            "Type": "TFT, 16M colors"
+        },
+        "Features": {
+            "": "- Xpress-on covers\n- MP4/H.264 player\n- MP3/eAAC+/WMA player\n- Organizer\n- Push to talk\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML, Adobe Flash Lite",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS, MMS, Email, IM"
+        },
+        "Launch": {
+            "Announced": "2008, June. Released 2008, August",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "microSD, up to 2 GB, 512 MB/ 2 GB included",
+            "Internal": "64 MB",
+            "Phonebook": "2000 entries , Photocall"
+        },
+        "Misc": {
+            "Colors": "Muted Gray, Steel Blue, Red, Bright Lilac, Pristine White, Graphite, Passionate Purple",
+            "Price group": "3/10 (About 100 EUR)",
+            "SAR EU": "0.66 W/kg (head)",
+            "SAR US": "0.81 W/kg (head) \u00a0 \u00a0 0.65 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "Class 32",
+            "GPRS": "Class 32",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "": "- 2.5 mm audio jack",
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 7610 Supernova",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_7610_supernova-pictures-2444.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-7610-s.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_7610_supernova-2444.php"
+    }
+}

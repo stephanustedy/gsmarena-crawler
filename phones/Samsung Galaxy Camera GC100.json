@@ -1,0 +1,92 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1650 mAh battery",
+            "Stand-by": "Up to 168 h (2G) / Up to 280 h (3G)",
+            "Talk time": "Up to 4 h 30 min"
+        },
+        "Body": {
+            "Dimensions": "128.7 x 70.8 x 19.1 mm (5.07 x 2.79 x 0.75 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "300 g (10.58 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face/smile detection",
+            "Primary": "16.3 MP, 4608 x 3456 pixels, autofocus, 21x optical zoom, optical image stabilization, pop-up Xenon flash, AF light, check quality",
+            "Secondary": "No",
+            "Video": "1080p@30fps, 512p@120fps, optical stabilization, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, hotspot"
+        },
+        "Display": {
+            "": "- TouchWiz UI",
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 2",
+            "Resolution": "720 x 1280 pixels (~306 ppi pixel density)",
+            "Size": "4.8 inches (~69.7% screen-to-body ratio)",
+            "Type": "Super Clear LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Dropbox (50 GB cloud storage)\n- HDMI port\n- MP4/DivX/XviD/WMV/H.264 player\n- MP3/WAV/eAAC+/FLAC player\n- Photo/video editor\n- Document editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, gyro, compass"
+        },
+        "Launch": {
+            "Announced": "2012, August",
+            "Status": "Available. Released 2012, November"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "4 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White, Pink, Orange, Red",
+            "Price group": "6/10 (About 250 EUR)",
+            "SAR EU": "0.16 W/kg (head)",
+            "SAR US": "3.13 W/kg (head) \u00a0 \u00a0 1.12 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "N/A",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+            "4G bands": "LTE band 13(700) - Verizon (GC120)",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Speed": "HSPA 21.1/5.76 Mbps, LTE (optional)",
+            "Technology": "HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.4 GHz Cortex-A9",
+            "Chipset": "Exynos 4412 Quad",
+            "GPU": "Mali-400MP4",
+            "OS": "Android OS, v4.1 (Jelly Bean), upgradable to v4.1.2 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -82.7dB / Crosstalk -80.5dB",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 843:1 (nominal) / 1.938:1 (sunlight)",
+            "Loudspeaker": "Voice 61dB / Noise 60dB / Ring 66dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Device with no support for GSM voice communication\nAvailable as Galaxy Camera Wi-Fi GC110 without 3G/4G band support",
+        "device_name": "Samsung Galaxy Camera GC100",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_galaxy_camera_gc100-pictures-4961.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-camera-new.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_galaxy_camera_gc100-4961.php"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 830 mAh battery",
+            "Stand-by": "Up to 230 h",
+            "Talk time": "4 h 20 min - 9 h 20"
+        },
+        "Body": {
+            "Dimensions": "108 x 46 x 20.5 mm, 89 cc (4.25 x 1.81 x 0.81 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "107 g (3.77 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "QCIF"
+        },
+        "Comms": {
+            "Bluetooth": "v1.2",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "v1.1",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "176 x 220 pixels, 8 lines (~148 ppi pixel density)",
+            "Size": "1.9 inches, 30 x 37 mm (~22.9% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- Apple iTunes compatible\n- MP4/MP3 player \n- iTAP\n- Voice dial\n- Organizer",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes+ downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS, EMail"
+        },
+        "Launch": {
+            "Announced": "2005, September",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "10 dialed, 10 received, 10 missed calls",
+            "Card slot": "microSD, up to 512 MB",
+            "Internal": "11 MB",
+            "Phonebook": "1000 entries, Photo call"
+        },
+        "Misc": {
+            "Colors": "Pearl Star White",
+            "Price group": "2/10 (About 100 EUR)"
+        },
+        "Network": {
+            "": "GSM 850 / 1800 / 1900 - US version",
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "": "- 2.5 mm audio jack",
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3, AAC ringtones",
+            "Loudspeaker": "Yes, with stereo speakers (22 Khz with vibration)"
+        }
+    },
+    "main": {
+        "device_name": "Motorola ROKR E1",
+        "image": {
+            "href": "http://www.gsmarena.com/motorola_rokr_e1-pictures-1273.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/motorola-rokr_e1.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/motorola_rokr_e1-1273.php"
+    }
+}

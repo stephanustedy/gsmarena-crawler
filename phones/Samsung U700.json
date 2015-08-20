@@ -1,0 +1,77 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 690 mAh battery",
+            "Stand-by": "Up to 270 h (2G) / 235 h (3G)",
+            "Talk time": "Up to 5 h (2G) / 2 h 30 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "102.5 x 50 x 12.1 mm (4.04 x 1.97 x 0.48 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "86 g (3.03 oz)"
+        },
+        "Camera": {
+            "Primary": "3.15 MP, 2048 x 1536 pixels, autofocus, LED flash",
+            "Secondary": "VGA videocall camera",
+            "Video": "QCIF"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~182 ppi pixel density)",
+            "Size": "2.2 inches (~29.2% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/AAC/eACC/WMA player\n- MP4/H.263/Real player\n- Predictive text input\n- Photo editor\n- Organizer",
+            "Browser": "WAP 2.0/xHTML, HTML (NetFront 3.4)",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2007, February",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "30 dialed, 30 received, 30 missed calls",
+            "Card slot": "microSD",
+            "Internal": "20/40 MB (depending on region)",
+            "Phonebook": "1000 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Blue/Violet, Silver/White, Gold/Chocolate",
+            "Price group": "3/10 (About 130 EUR)",
+            "SAR EU": "0.88 W/kg (head)",
+            "SAR US": "1.41 W/kg (head) \u00a0 \u00a0 1.19 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "3G bands": "HSDPA 2100",
+            "EDGE": "Class 11, 236.8 kbps",
+            "GPRS": "Class 10",
+            "Speed": "HSPA 3.6/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Ultra Edition II - Ultra Edition 12.1",
+        "device_name": "Samsung U700",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_u700-pictures-1852.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-u700.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_u700-1852.php"
+    }
+}

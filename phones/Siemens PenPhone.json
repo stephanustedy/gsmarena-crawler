@@ -1,0 +1,92 @@
+{
+    "data": {
+        "Battery": {
+            "": "-",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "140 x 25 x 19 mm (5.51 x 0.98 x 0.75 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "-"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- 5-way navi key",
+            "Resolution": "",
+            "Size": "",
+            "Type": "LCD"
+        },
+        "Features": {
+            "": "- Handwriting recognition\n- Appointments and contacts",
+            "Browser": "",
+            "Games": "",
+            "Java": "No",
+            "Messaging": "SMS"
+        },
+        "Launch": {
+            "Announced": "2004, 1Q",
+            "Status": "Cancelled"
+        },
+        "Memory": {
+            "Call records": "",
+            "Card slot": "No",
+            "Phonebook": ""
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Monophonic ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "canonical_name": "*** Preliminary information ***",
+        "device_name": "Siemens PenPhone",
+        "image": {
+            "href": "http://www.gsmarena.com/siemens_penphone-pictures-649.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/sipen.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/siemens_penphone-649.php"
+    }
+}

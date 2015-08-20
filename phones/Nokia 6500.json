@@ -1,0 +1,74 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 750 mAh battery (BLB-2)",
+            "Stand-by": "100 h - 350 h",
+            "Talk time": "2 h 15 min - 4 h"
+        },
+        "Body": {
+            "Dimensions": "97 x 43 x 21 mm, 75 cc (3.82 x 1.69 x 0.83 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "88 g (3.10 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "FM radio",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Pastel blue backlight\n- Dynamic font size\n- Softkey",
+            "Resolution": "96 x 60 pixels, 5 lines",
+            "Size": "",
+            "Type": "Monochrome graphic"
+        },
+        "Features": {
+            "": "- Electronic wallet\n- Predictive text input\n- Organizer\n- Voice record\n- Voice command\n- Profile Selection",
+            "Alarm": "Yes",
+            "Browser": "WAP 1.2.1",
+            "Clock": "Yes",
+            "Games": "4 Games (Snake II, Pairs II, Space Impact, Bumper)",
+            "Java": "No",
+            "Messaging": "SMS"
+        },
+        "Launch": {
+            "Announced": "1Q 2002",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- 3 phone numbers per name\n- 150 text messages\n- 15 voice dial numbers\n- Message templates",
+            "Call records": "20 dialed, 10 received, 10 missed calls",
+            "Card slot": "No",
+            "Phonebook": "500 names x3 numbers"
+        },
+        "Misc": {
+            "Colors": "Beige, four Xpress-on front-back covers as accessories",
+            "SAR EU": "0.92 W/kg (head)",
+            "SAR US": "1.28 W/kg (head) \u00a0 \u00a0 0.94 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "Class 4",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "": "- Ascending ringing tones\n- Personal alert tones",
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable monophonic ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 6500",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_6500-pictures-295.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/no6500.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_6500-295.php"
+    }
+}

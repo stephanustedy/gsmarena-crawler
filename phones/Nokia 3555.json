@@ -1,0 +1,78 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1020 mAh battery (BL-5C)",
+            "Stand-by": "Up to 240 h",
+            "Talk time": "Up to 3 h"
+        },
+        "Body": {
+            "Dimensions": "99.6 x 44.3 x 20.5 mm (3.92 x 1.74 x 0.81 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "94 g (3.32 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "128x96@12fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- External 1-inch FSTN monohrome display (98 x 65 pixels)\n- 5-way scrolling",
+            "Resolution": "128 x 160 pixels (~114 ppi pixel density)",
+            "Size": "1.8 inches (~23.1% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/AAC/M4A/eAAC+ player \n- Organizer\n- Stopwatch\n- Predictive text input\n- Voice dial/memo",
+            "Browser": "WAP 2.0/xHTML, Adobe Flash Lite",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2007, November",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "microSD, up to 4 GB",
+            "Internal": "30 MB",
+            "Phonebook": "Yes, up to 1000 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Black, Blue, Gray",
+            "Price group": "2/10 (About 50 EUR)",
+            "SAR EU": "0.71 W/kg (head)",
+            "SAR US": "1.20 W/kg (head) \u00a0 \u00a0 0.72 W/kg (body)"
+        },
+        "Network": {
+            "": "UMTS 850 / 1900 - American version",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "UMTS 1700 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "Yes, 384 kbps",
+            "Technology": "GSM / UMTS"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3, video ringtones, AAC, eAAC+ ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 3555",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_3555-pictures-2319.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-3555.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_3555-2319.php"
+    }
+}

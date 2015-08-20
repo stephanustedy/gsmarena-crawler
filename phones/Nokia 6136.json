@@ -1,0 +1,77 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 820 mAh battery (BL-4C)",
+            "Stand-by": "Up to 240 h",
+            "Talk time": "Up to 3 h 20 min"
+        },
+        "Body": {
+            "Dimensions": "90 x 46 x 23 mm (3.54 x 1.81 x 0.91 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "98 g (3.46 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 960 pixels",
+            "Secondary": "No",
+            "Video": "QCIF"
+        },
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "FM radio; Visual radio",
+            "USB": "Pop-Port",
+            "WLAN": "Wi-Fi 802.11b/g, UMA"
+        },
+        "Display": {
+            "": "- Second external CSTN display 65K colors (96 x 65 pixels)\n- Downloadable themes",
+            "Resolution": "128 x 160 pixels (~114 ppi pixel density)",
+            "Size": "1.8 inches, 29 x 35 mm (~24.6% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- Push to talk\n- MP3/MP4/AAC/3GPP player\n- SyncML\n- Predictive text input\n- Presence enhanced contacts\n- Organizer\n- Voice dial/memo",
+            "Browser": "WAP/xHTML",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2006, February",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- 8 MB of user memory available",
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "microSD",
+            "Internal": "32 MB",
+            "Phonebook": "Yes, Photo call"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "3/10 (About 110 EUR)",
+            "SAR EU": "0.73 W/kg (head)",
+            "SAR US": "0.83 W/kg (head) \u00a0 \u00a0 0.62 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3, AAC ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 6136",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_6136-pictures-1435.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-6136.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_6136-1435.php"
+    }
+}

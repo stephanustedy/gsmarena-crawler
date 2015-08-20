@@ -1,0 +1,94 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po 2300 mAh battery",
+            "Stand-by": "Up to 300 h (3G)",
+            "Talk time": "Up to 17 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "137.9 x 69.2 x 8.6 mm (5.43 x 2.72 x 0.34 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "130 g (4.59 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection, photo sphere, HDR, dual recording",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, optical image stabilization, LED flash, check quality",
+            "Secondary": "1.3 MP",
+            "Video": "1080p@30fps, optical stabilization, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "NFC": "Yes",
+            "Radio": "No",
+            "USB": "microUSB v2.0 (SlimPort), USB Host",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, DLNA, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 3",
+            "Resolution": "1080 x 1920 pixels (~445 ppi pixel density)",
+            "Size": "4.95 inches (~70.8% screen-to-body ratio)",
+            "Type": "True HD IPS+ capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Wireless Charging (Qi-enabled)\n- Active noise cancellation with dedicated mic\n- MP4/H.264 player\n- MP3/WAV/eAAC+ player\n- Photo/video editor\n- Document editor\n- Voice memo/dial/commands",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass, barometer"
+        },
+        "Launch": {
+            "Announced": "2013, October",
+            "Status": "Available. Released 2013, November"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "16/32 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White, Red",
+            "Price group": "6/10 (About 260 EUR)",
+            "SAR EU": "0.49 W/kg (head) \u00a0 \u00a0 0.48 W/kg (body)",
+            "SAR US": "0.92 W/kg (head) \u00a0 \u00a0 1.23 W/kg (body)"
+        },
+        "Network": {
+            "": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 20(800)",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - all versions",
+            "3G bands": "HSDPA 800 / 850 / 1700 / 1900 / 2100 / 900 - North American version",
+            "4G bands": "LTE band 1(2100), 2(1900), 4(1700/2100), 5(850), 17(700), 19(800), 25(1900), 26(850), 41(2500) - North America",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
+            "Technology": "GSM / CDMA / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 2.3 GHz Krait 400",
+            "Chipset": "Qualcomm MSM8974 Snapdragon 800",
+            "GPU": "Adreno 330",
+            "OS": "Android OS, v5.0 (Lolipop), upgradable to v5.1.1 (Lollipop)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -93.3dB / Crosstalk -94.3dB",
+            "Battery life": "Endurance rating 38h",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 967:1 (nominal) / 2.228:1 (sunlight)",
+            "Loudspeaker": "Voice 65dB / Noise 64dB / Ring 65dB",
+            "Performance": "Basemark OS II: 1351 / Basemark OS II 2.0: 1016\nBasemark X: 11638"
+        }
+    },
+    "main": {
+        "device_name": "LG Nexus 5",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_nexus_5-pictures-5705.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-google-nexus-5-.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_nexus_5-5705.php"
+    }
+}

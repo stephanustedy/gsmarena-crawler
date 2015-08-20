@@ -1,0 +1,96 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 720 mAh battery",
+            "Stand-by": "Up to 100 h",
+            "Talk time": "Up to 6 h"
+        },
+        "Body": {
+            "Dimensions": "87 x 46 x 24 mm (3.43 x 1.81 x 0.94 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "91 g (3.21 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second external display, STN, 65K colors (96 x 64 pixels)\n- 7 color indicator\n- 3 color keypad backlighting\n- Screensavers and wallpapers",
+            "Resolution": "128 x 160 pixels, 11 lines",
+            "Size": "",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- Predictive text input for English, Chinese\n- Bio-rhythm\n- Organizer\n- Stopwatch\n- Voice memo",
+            "Browser": "WAP",
+            "Games": "Yes + downloadable",
+            "Java": "No",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2004, 1Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "20 received, dialed and missed calls",
+            "Card slot": "No",
+            "Phonebook": "500 entries, Photo call"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Yes",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "": "- Video formats: JPG, GIF, WBMP, PNG\n- Audio formats: MIDI, MIDI, i-Melody, AMR, SMAF",
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Polyphonic(64) ringtones, composer",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Innostream INNO 99",
+        "image": {
+            "href": "http://www.gsmarena.com/innostream_inno_99-pictures-735.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/ininno99.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/innostream_inno_99-735.php"
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 780 mAh battery (BLD-3)",
+            "Stand-by": "150 h - 300 h",
+            "Talk time": "2 h - 5 h"
+        },
+        "Body": {
+            "Dimensions": "106 x 45 x 17.5 mm, 71 cc (4.17 x 1.77 x 0.69 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "84 g (2.96 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "Stereo FM radio",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Four-way scroll\n- Dynamic font size",
+            "Resolution": "128 x 128 pixels, 5 lines (~121 ppi pixel density)",
+            "Size": "1.5 inches (~15.2% screen-to-body ratio)",
+            "Type": "CSTN, 4096 colors"
+        },
+        "Features": {
+            "": "- Predictive text input\n- Organizer\n- Infrared transfer of data between compatible phones\n- Xpress-on covers\n- Profiles",
+            "Alarm": "Yes",
+            "Browser": "WAP 1.2.1",
+            "Clock": "Yes",
+            "Games": "2 - Bounce and Puzzle Chess + Java downloadable",
+            "Java": "Yes",
+            "Messaging": "SMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2002, 3Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "In shared memory:\n- Phonebook\n- 75 text messages\n- 250 calendar notes\n- 6 Java apps, 64 kB each\n- 35 images",
+            "Call records": "10 dialed, 10 received, 10 missed calls",
+            "Card slot": "No",
+            "Phonebook": "300 names x3 numbers"
+        },
+        "Misc": {
+            "Colors": "3 - Black, White, Grey",
+            "SAR EU": "0.63 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 6",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "": "- Ascending ringing tones\n- Personal alert tones",
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, monophonic ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 6610",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_6610-pictures-334.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/no6610.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_6610-334.php"
+    }
+}

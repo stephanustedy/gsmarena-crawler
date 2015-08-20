@@ -1,0 +1,73 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 800 mAh battery",
+            "Stand-by": "Up to 260 h",
+            "Talk time": "Up to 5 h"
+        },
+        "Body": {
+            "Dimensions": "87 x 44 x 23 mm (3.43 x 1.73 x 0.91 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "88 g (3.10 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 1024 pixels, LED flash",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v1.2",
+            "GPS": "No",
+            "Radio": "Stereo FM radio",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second external display OLED, 65K colors (96 x 96 pixels)",
+            "Resolution": "176 x 220 pixels",
+            "Size": "",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/AAC player\n- Predictive text input\n- SyncML\n- Voice dial",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "4 - Bobby Carrot, Airship Racing, Arch Angel, Freekick + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2005, 1Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- 92 MB shared memory for photos, video, MMS, MP3 files\n- 4 MB for Java apps.",
+            "Call records": "30 dialed, 30 received, 30 missed calls",
+            "Card slot": "No",
+            "Phonebook": "1000 x 6 fields, Photo call"
+        },
+        "Misc": {
+            "Colors": "Black, Red, Silver",
+            "SAR EU": "0.34 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Samsung E730",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_e730-pictures-1115.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-e730.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_e730-1115.php"
+    }
+}

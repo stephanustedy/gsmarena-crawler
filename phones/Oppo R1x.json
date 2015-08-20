@@ -1,0 +1,91 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po 2420 mAh battery",
+            "Stand-by": "Up to 250 h",
+            "Talk time": "Up to 8 h"
+        },
+        "Body": {
+            "Dimensions": "140.6 x 70.1 x 6.8 mm (5.54 x 2.76 x 0.27 in)",
+            "SIM": "Dual SIM (Micro-SIM/Nano-SIM, dual stand-by)",
+            "Weight": "130 g (4.59 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face/smile detection, HDR, panorama",
+            "Primary": "13 MP, 4128 x 3096 pixels, autofocus, LED flash, check quality",
+            "Secondary": "5 MP",
+            "Video": "1080p@30fps, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, EDR",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0, USB Host",
+            "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot"
+        },
+        "Display": {
+            "": "- Color OS 2.0.1 UI",
+            "Multitouch": "Yes",
+            "Resolution": "720 x 1280 pixels (~294 ppi pixel density)",
+            "Size": "5.0 inches (~69.9% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP4/WMV/H.264 player\n- MP3/WAV/WMA/eAAC+/Flac player\n- Photo/video editor\n- Document viewer",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2015, January",
+            "Status": "Available. Released 2015, January"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 128 GB",
+            "Internal": "16 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Dark blue, White",
+            "Price group": "7/10 (About 340 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 850 / 900 / 1700 / 1900 / 2100",
+            "4G bands": "LTE band 1(2100), 3(1800), 7(2600)",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA, LTE",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.7 GHz Cortex-A53 & quad-core 1.0 GHz Cortex-A53",
+            "Chipset": "Qualcomm MSM8939 Snapdragon 615",
+            "GPU": "Adreno 405",
+            "OS": "Android OS, v4.4 (KitKat)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -93.5dB / Crosstalk -94.7dB",
+            "Battery life": "Endurance rating 56h",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 836 (nominal), 2.281 (sunlight)",
+            "Loudspeaker": "Voice 66dB / Noise 66dB / Ring 69dB",
+            "Performance": "Basemark OS II: 745 / Basemark OS II 2.0: 753\nBasemark X: 4018"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Oppo R1C for China",
+        "device_name": "Oppo R1x",
+        "image": {
+            "href": "http://www.gsmarena.com/oppo_r1x-pictures-6945.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/oppo-r1c-new.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/oppo_r1x-6945.php"
+    }
+}

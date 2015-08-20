@@ -1,0 +1,72 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion battery",
+            "Stand-by": "Up to 250 h",
+            "Talk time": "Up to 4 h"
+        },
+        "Body": {
+            "Dimensions": "104 x 57 x 13.1 mm (4.09 x 2.24 x 0.52 in)",
+            "SIM": "Dual SIM (Mini-SIM)",
+            "Weight": "69 g (2.43 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "No",
+            "Radio": "FM radio",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~143 ppi pixel density)",
+            "Size": "2.8 inches (~41.0% screen-to-body ratio)",
+            "Type": "TFT touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- Audio/video player\n- Photo viewer\n- Organizer",
+            "Browser": "No",
+            "Games": "Downloadable",
+            "Java": "Yes",
+            "Messaging": "SMS"
+        },
+        "Launch": {
+            "Announced": "2012, Q2",
+            "Status": "Available. Released 2012, May"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 4 GB",
+            "Phonebook": "Yes"
+        },
+        "Misc": {
+            "Colors": "Green",
+            "Price group": "1/10 (About 30 EUR)",
+            "SAR US": "0.86 W/kg (head) \u00a0 \u00a0 0.67 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, Polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Micromax X335",
+        "image": {
+            "href": "http://www.gsmarena.com/micromax_x335-pictures-4790.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/micromax-x335.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/micromax_x335-4790.php"
+    }
+}

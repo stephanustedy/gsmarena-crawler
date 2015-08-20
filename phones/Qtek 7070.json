@@ -1,0 +1,99 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1000 mAh battery",
+            "Stand-by": "Up to 100 h",
+            "Talk time": "Up to 3 h"
+        },
+        "Body": {
+            "Dimensions": "120 x 50 x 23.5 mm, 105 cc (4.72 x 1.97 x 0.93 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "120 g (4.23 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- White LED back light\n- 5-way navigation button\n- Downloadable logos",
+            "Resolution": "176 x 220 pixels (~128 ppi pixel density)",
+            "Size": "2.2 inches, 35 x 44 mm (~25.4% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- Organizer\n- World Clock\n- Predictive text input\n- MP3 player",
+            "Browser": "HTML (PocketIE)",
+            "Java": "No",
+            "Languages": "7",
+            "Messaging": "SMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2004, 1Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "MMC/SD",
+            "Internal": "16 MB RAM, 32 MB ROM"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 8",
+            "Technology": "GSM"
+        },
+        "Platform": {
+            "CPU": "120 MHz",
+            "OS": "Microsoft Windows 2002 Smartphone"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": {
+            "href": "http://www.gsmarena.com/htc_pocketpc_smartphone.php3",
+            "text": "Produced by HTC. Functionally identical to i-mate Smartphone and Orange SPV E100."
+        },
+        "device_name": "Qtek 7070",
+        "image": {
+            "href": "http://www.gsmarena.com/qtek_7070-pictures-1163.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/qtek-7070.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/qtek_7070-1163.php"
+    }
+}

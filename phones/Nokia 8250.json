@@ -1,0 +1,95 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 830 mAh battery (BLB-2)",
+            "Stand-by": "50 h - 150 h",
+            "Talk time": "2 h - 3 h 20 min"
+        },
+        "Body": {
+            "Dimensions": "102.5 x 45 x 19 mm, 69 cc (4.04 x 1.77 x 0.75 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "81 g (2.86 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Blue backlight\n- Dynamic font size\n- Softkey\n- Downloadable profiles, screensavers",
+            "Resolution": "84 x 48 pixels, 5 lines",
+            "Size": "",
+            "Type": "Monochrome graphic"
+        },
+        "Features": {
+            "": "- SMS chat\n- Predictive text input\n- Over-the-air activation for sending/receiving phone numbers\n- Business card sending/receiving\n- Organizer",
+            "Alarm": "Yes",
+            "Browser": "",
+            "Clock": "Yes",
+            "Games": "4 - Memory, Snake, Logic, Opposite",
+            "Java": "No",
+            "Messaging": "SMS, EMS"
+        },
+        "Launch": {
+            "Announced": "2000",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- Memory for 8 voice dial numbers\n- 50 calendar notes",
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "No",
+            "Phonebook": "250"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable monophonic ringtones, composer",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 8250",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_8250-pictures-217.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/no8250.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_8250-217.php"
+    }
+}

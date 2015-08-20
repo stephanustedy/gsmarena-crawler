@@ -1,0 +1,73 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 6000 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "-",
+            "SIM": "No",
+            "Weight": "-"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels",
+            "Secondary": "Yes",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "Yes",
+            "WLAN": "Wi-Fi 802.11 b/g/n"
+        },
+        "Display": {
+            "Multitouch": "Yes, up to 10 fingers",
+            "Resolution": "1024 x 768 pixels (~132 ppi pixel density)",
+            "Size": "9.7 inches",
+            "Type": "TFT capacitive touchscreen"
+        },
+        "Features": {
+            "": "- HDMI port\n- MP3/AAC/WMA/WAV player\n- MP4/WMV/H.264 player\n- Document editor",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "Email, Push Email, IM",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2012",
+            "Status": "Available. Released 2012"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "1.5 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black/White",
+            "Price group": "3/10 (About 140 EUR)"
+        },
+        "Network": {
+            "2G bands": "N/A",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "No cellular connectivity"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.5 GHz Cortex-A9",
+            "GPU": "Mali-400",
+            "OS": "Android OS, v4.1.1 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Tablet with no support for GSM voice communication, SMS, and MMS",
+        "device_name": "Karbonn Smart Tab 10",
+        "index": 1,
+        "url": "http://www.gsmarena.com/karbonn_smart_tab_10-5216.php"
+    }
+}

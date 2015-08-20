@@ -1,0 +1,84 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 3200 mAh battery",
+            "Music play": "Up to 74 h",
+            "Stand-by": "",
+            "Talk time": "Up to 21 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "191.8 x 99.6 x 8.8 mm (7.55 x 3.92 x 0.35 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "245 g (8.64 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash",
+            "Secondary": "2 MP",
+            "Video": "1080p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "NFC": "Yes",
+            "Radio": "To be confirmed",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "720 x 1280 pixels (~210 ppi pixel density)",
+            "Size": "7.0 inches (~70.7% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- ANT+ support\n- MP4/WMV/H.264 player\n- MP3/WAV/eAAC+/WMA/FLAC player\n- Photo/video viewer/editor\n- Document viewer",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, compass, proximity"
+        },
+        "Launch": {
+            "Announced": "2014, June",
+            "Status": "Available. Released 2014, September"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "16 GB, 1.5 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, white, red",
+            "Price group": "7/10 (About 360 EUR)",
+            "SAR EU": "0.34 W/kg (head) \u00a0 \u00a0 0.98 W/kg (body)",
+            "SAR US": "0.56 W/kg (head) \u00a0 \u00a0 1.53 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 1900 / 2100",
+            "4G bands": "LTE band 1(2100), 3(1800), 5(850), 7(2600)",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA, LTE-A",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.2 GHz",
+            "OS": "Android OS, v4.3 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Samsung Galaxy W SM-T255",
+        "device_name": "Samsung Galaxy W",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_galaxy_w-pictures-6404.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-w.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_galaxy_w-6404.php"
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 1500 mAh battery",
+            "Stand-by": "Up to 528 h (2G) / Up to 408 h (3G)",
+            "Talk time": "Up to 6 h (2G) / Up to 6 h (3G)"
+        },
+        "Body": {
+            "": "- Optical trackpad",
+            "Dimensions": "109 x 60 x 14 mm (4.29 x 2.36 x 0.55 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "122 g (4.30 oz)"
+        },
+        "Camera": {
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, LED flash, check quality",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g, UMA"
+        },
+        "Display": {
+            "Resolution": "480 x 360 pixels (~246 ppi pixel density)",
+            "Size": "2.44 inches (~28.2% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- BlackBerry maps\n- Document editor (Word, Excel, PowerPoint, PDF)\n- Media player MP3/WMA/AAC+\n- Video player DivX/WMV/XviD/3gp\n- Organizer\n- Voice memo/dial\n- Predictive text input",
+            "Browser": "HTML",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email, Push Email, IM"
+        },
+        "Launch": {
+            "Announced": "2010, October",
+            "Status": "Available. Released 2010, November"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB, 2 GB included",
+            "Internal": "256 MB, 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "2/10 (About 90 EUR)",
+            "SAR EU": "1.15 W/kg (head) \u00a0 \u00a0 0.40 W/kg (body)",
+            "SAR US": "1.41 W/kg (head) \u00a0 \u00a0 0.82 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 900 / 1700 / 2100",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 1900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "624 MHz",
+            "OS": "BlackBerry OS 6.0"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -89.7dB / Crosstalk -89.4dB",
+            "Camera": "Photo",
+            "Loudspeaker": "Voice 66dB / Noise 66dB / Ring 68dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Previously rumored as BlackBerry Onyx II 9780",
+        "device_name": "BlackBerry Bold 9780",
+        "image": {
+            "href": "http://www.gsmarena.com/blackberry_bold_9780-pictures-3431.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/blackberry-bold-9780.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/blackberry_bold_9780-3431.php"
+    }
+}

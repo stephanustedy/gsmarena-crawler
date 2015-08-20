@@ -1,0 +1,75 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion battery",
+            "Stand-by": "Up to 260 h",
+            "Talk time": "Up to 10 h"
+        },
+        "Body": {
+            "Dimensions": "93 x 49 x 24 mm (3.66 x 1.93 x 0.94 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "110 g (3.88 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second external display 4096 colors \n- Wallpapers, screensavers",
+            "Resolution": "128 x 160 pixels",
+            "Size": "",
+            "Type": "CSTN, 65K colors"
+        },
+        "Features": {
+            "": "- Push to talk (VoIP service)\n- Exchangeable covers\n- Organizer",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Java",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2004, March",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "30 received, dialed and missed calls",
+            "Card slot": "No",
+            "Phonebook": "500 x 8 fields, Photo call"
+        },
+        "Misc": {
+            "Colors": "",
+            "SAR EU": "0.84 W/kg (head)",
+            "SAR US": "1.45 W/kg (head) \u00a0 \u00a0 0.97 W/kg (body)"
+        },
+        "Network": {
+            "": "GSM 850 / 1800 / 1900 - Z500a",
+            "2G bands": "GSM 900 / 1800 / 1900 - Z500i",
+            "EDGE": "Class 6",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic ringtones, composer",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "canonical_name": "Z500i - GSM 900/1800/1900 in Europe and Asia \nZ500a - GSM 850/1800/1900 in America",
+        "device_name": "Sony Ericsson Z500",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_ericsson_z500-pictures-694.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/snz500.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_ericsson_z500-694.php"
+    }
+}

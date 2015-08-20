@@ -1,0 +1,76 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 800 mAh battery",
+            "Stand-by": "Up to 200 h",
+            "Talk time": "Up to 5 h 30 min"
+        },
+        "Body": {
+            "Dimensions": "89 x 37 x 24 mm (3.50 x 1.46 x 0.94 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "85 g (3.00 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 1024 pixels, LED flash",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v1.2, A2DP",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Wallpapers\n- Downloadable pictures",
+            "Resolution": "128 x 160 pixels (~128 ppi pixel density)",
+            "Size": "1.6 inches, 25 x 31 mm (~24.5% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- MP3/AAC/AAC+ player\n- Predictive text input\n- Voice memo\n- SyncML",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Bobby Carrot, Airship Racing, Arch Angel + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2005, 2Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- 4 MB for Java applications",
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "microSD",
+            "Internal": "90 MB",
+            "Phonebook": "1000 x 12 fields, Photo call"
+        },
+        "Misc": {
+            "Colors": "",
+            "Price group": "2/10 (About 80 EUR)",
+            "SAR EU": "0.09 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "Yes",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "": "- 3D sound",
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Samsung X810",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_x810-pictures-1209.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-x810.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_x810-1209.php"
+    }
+}

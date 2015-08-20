@@ -1,0 +1,74 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 800 mAh battery",
+            "Stand-by": "Up to 315 h",
+            "Talk time": "Up to 3 h 30 min"
+        },
+        "Body": {
+            "Dimensions": "86 x 43.1 x 20.4 mm (3.39 x 1.70 x 0.80 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "85 g (3.00 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 1024 pixels, LED flash",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "v1.1",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "128 x 160 pixels (~114 ppi pixel density)",
+            "Size": "1.8 inches (~27.5% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- MP3/AAC player\n- Predictive text input\n- Organizer\n- Voice memo\n- SyncML",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2006, March",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "No",
+            "Internal": "40 MB",
+            "Phonebook": "1000 entries"
+        },
+        "Misc": {
+            "Colors": "Ebony Black, Pearl White, Pink, Blue Green, Noble Blue, Deep Blue, Wine Red",
+            "SAR EU": "0.49 W/kg (head)",
+            "SAR US": "0.30 W/kg (head) \u00a0 \u00a0 0.86 W/kg (body)"
+        },
+        "Network": {
+            "": "GSM 850 / 1800 / 1900 - Samsung E376",
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "Yes",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Samsung E370",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_e370-pictures-1554.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-e370.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_e370-1554.php"
+    }
+}

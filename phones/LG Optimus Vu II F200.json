@@ -1,0 +1,86 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 2150 mAh battery",
+            "Stand-by": "Up to 400 h",
+            "Talk time": "Up to 8 h 20 min"
+        },
+        "Body": {
+            "Dimensions": "132.2 x 85.6 x 9.4 mm (5.20 x 3.37 x 0.37 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "159 g (5.61 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face detection",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash",
+            "Secondary": "1.3 MP",
+            "Video": "1080p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Infrared port": "Yes",
+            "NFC": "Yes",
+            "Radio": "No",
+            "USB": "microUSB v2.0 (MHL TV-out)",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, DLNA, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "768 x 1024 pixels (~256 ppi pixel density)",
+            "Size": "5.0 inches (~68.4% screen-to-body ratio)",
+            "Type": "HD-IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- T-DMB TV tuner\n- Active noise cancellation with dedicated mic\n- MP4/H.264/WMV/DviX player\n- MP3/WMA/WAV/FLAC/eAAC+ player\n- True HD movie editor\n- Document viewer/editor\n- Organizer\n- Voice memo/dial/commands\n- Predictive text input",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2012, September",
+            "Status": "Available. Released 2012, Q4"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White, Pink",
+            "Price group": "4/10 (About 180 EUR)"
+        },
+        "Network": {
+            "": "HSDPA 2100",
+            "2G bands": "CDMA 800 / 1900",
+            "3G bands": "CDMA2000 1xEV-DO",
+            "4G bands": "LTE 800",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Speed": "HSPA, LTE, EV-DO Rev. A 3.1 Mbps",
+            "Technology": "CDMA / HSPA / EVDO / LTE"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.5 GHz Krait",
+            "Chipset": "Qualcomm MSM8960 Snapdragon S4 Plus",
+            "GPU": "Adreno 225",
+            "OS": "Android OS, v4.0.4 (Ice Cream Sandwich), upgradable to v4.1 (Jelly Bean)"
+        },
+        "Sound": {
+            "": "- Dolby mobile",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "For South Korea\nAlso known as LG Optimus Vu 2",
+        "device_name": "LG Optimus Vu II F200",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_optimus_vu_ii_f200-pictures-4950.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-optimus-vu-ii.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_optimus_vu_ii_f200-4950.php"
+    }
+}

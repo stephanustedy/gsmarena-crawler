@@ -1,0 +1,107 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 2250 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "143.3 x 71.1 x 6.3 mm (5.64 x 2.80 x 0.25 in)",
+            "SIM": "Dual SIM ( X5v, X5s)/ Single SIM (X5L)",
+            "Weight": "141 g (4.97 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection, panorama, HDR",
+            "Primary": "13 MP, 4128 x 3096 pixels, autofocus, LED flash",
+            "Secondary": "5 MP",
+            "Video": "1080p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "To be confirmed",
+            "USB": "microUSB v2.0, USB Host",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, hotspot"
+        },
+        "Display": {
+            "": "- Funtouch OS",
+            "Multitouch": "Yes",
+            "Resolution": "720 x 1280 pixels (~294 ppi pixel density)",
+            "Size": "5.0 inches (~67.6% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP4/H.264 player\n- MP3/WAV/eAAC+/FLAC player\n- Document viewer\n- Photo/video editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2014",
+            "Status": "Available. Released 2014"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 128 GB",
+            "Internal": "16 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "": "LTE band 38(2600), 39(1900), 40(2300) - X5L, X5s",
+            "2G bands": "GSM 900 / 1800 - SIM 1 & SIM 2 - X5v\nGSM 850 / 900 / 1800 / 1900 - X5L",
+            "3G bands": "TD-SCDMA 1880 / 2010 - X5L, X5s",
+            "4G bands": "LTE band 3(1800), 38(2600) - X5v",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "CDMA, LTE",
+            "Technology": "GSM / CDMA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.5 GHz Cortex-A53 & quad-core 1.0 GHz Cortex-A53",
+            "Chipset": "Qualcomm MSM8939 Snapdragon 615",
+            "GPU": "Adreno 405",
+            "OS": "Android OS, v4.4.2 (KitKat)"
+        },
+        "Sound": {
+            "": "- Hi-Fi",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "vivo X5",
+        "image": {
+            "href": "http://www.gsmarena.com/vivo_x5-pictures-6870.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/vivo-x5v.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/vivo_x5-6870.php"
+    }
+}

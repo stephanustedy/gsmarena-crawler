@@ -1,0 +1,94 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion battery",
+            "Stand-by": "Up to 480 h",
+            "Talk time": "Up to 7 h"
+        },
+        "Body": {
+            "Dimensions": "108 x 47 x 21 mm, 79 cc (4.25 x 1.85 x 0.83 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "81 g (2.86 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Soft keys\n- Downloadable icons",
+            "Resolution": "98 x 67 pixels, 5 lines",
+            "Size": "",
+            "Type": "CSTN, 4096 colors"
+        },
+        "Features": {
+            "": "- Predictive text input",
+            "Browser": "WAP 1.2.1",
+            "Games": "Downloadable",
+            "Java": "No",
+            "Languages": "6 preloaded languages",
+            "Messaging": "SMS, EMS"
+        },
+        "Launch": {
+            "Announced": "2003, 4Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- 20 short messages",
+            "Call records": "10 received, 10 dialed and 10 missed calls",
+            "Card slot": "No",
+            "Phonebook": "500"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "Class 8",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable monophonic - iMelody and Nokia format ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "canonical_name": "Sendo S331 - GSM 850 / 1900 with AMR",
+        "device_name": "Sendo S330",
+        "image": {
+            "href": "http://www.gsmarena.com/sendo_s330-pictures-572.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/ses330.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sendo_s330-572.php"
+    }
+}

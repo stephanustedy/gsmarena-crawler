@@ -1,0 +1,76 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 1500 mAh battery (BP-5L)",
+            "Stand-by": "Up to 260 h",
+            "Talk time": "Up to 7 h"
+        },
+        "Body": {
+            "Dimensions": "117 x 69.7 x 14 mm, 108 cc (4.61 x 2.74 x 0.55 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "144 g (5.08 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "v1.2",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "Pop-Port",
+            "WLAN": "Wi-Fi 802.11i/e/g, VoIP over WLAN"
+        },
+        "Display": {
+            "": "- Five-way scroll key",
+            "Resolution": "320 x 240 pixels (~138 ppi pixel density)",
+            "Size": "2.9 inches, 58 x 45 mm (~31.9% screen-to-body ratio)",
+            "Type": "TFT, 16M colors"
+        },
+        "Features": {
+            "": "- WMV/RV/MP4/3GP player\n- MP3/WMA/WAV/RA/AAC/M4A player\n- Document viewer (Word, Excel, PowerPoint, PDF)\n- Blackberry connectivity\n- Voice command/memo\n- Organizer\n- Printing",
+            "Browser": "WAP 2.0/xHTML, HTML",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2005, October",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "miniSD, 64 MB included",
+            "Internal": "64 MB, 64 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Silver",
+            "Price group": "5/10 (About 230 EUR)",
+            "SAR EU": "0.79 W/kg (head)",
+            "SAR US": "1.14 W/kg (head) \u00a0 \u00a0 1.13 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "UMTS 2100",
+            "EDGE": "Class 10",
+            "GPRS": "Yes",
+            "Speed": "Yes, 384 kbps",
+            "Technology": "GSM / UMTS"
+        },
+        "Platform": {
+            "CPU": "220 MHz Dual ARM 9",
+            "OS": "Symbian OS 9.1, Series 60 UI"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, monophonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Nokia E61",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_e61-pictures-1322.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-e61.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_e61-1322.php"
+    }
+}

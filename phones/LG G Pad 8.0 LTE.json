@@ -1,0 +1,85 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 4200 mAh battery",
+            "Stand-by": "Up to 650 h (3G)",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "210.8 x 124.2 x 10 mm (8.30 x 4.89 x 0.39 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "344 g (12.13 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face detection, panorama",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus",
+            "Secondary": "1.3 MP, 720p",
+            "Video": "1080p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, LE",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, hotspot, Wi-Fi Direct, DLNA"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "800 x 1280 pixels (~188 ppi pixel density)",
+            "Size": "8.0 inches (~71.6% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- XviD/MP4/H.264 player\n- MP3/WAV/eAAC+ player\n- Photo/video viewer/editor\n- Document editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "Email, Push Mail, IM",
+            "Sensors": "Accelerometer, compass"
+        },
+        "Launch": {
+            "Announced": "2014, August",
+            "Status": "Available. Released 2014, August"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "16/32 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White, Luminous Orange, Luminous Blue",
+            "Price group": "5/10 (About 240 EUR)"
+        },
+        "Network": {
+            "": "LTE band 3(1800), 7(2600), 8(900), 20(800)",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+            "4G bands": "LTE band 3(1800), 4(1700/2100), 7(2600), 20(800)",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.2 GHz Cortex-A7",
+            "Chipset": "Qualcomm MSM8926 Snapdragon 400",
+            "GPU": "Adreno 305",
+            "OS": "Android OS, v4.4.2 (KitKat), upgradable to v5.0.2 (Lollipop)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as LG V490, LG G Pad 8.0 4G",
+        "device_name": "LG G Pad 8.0 LTE",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_g_pad_8_0_lte-pictures-6575.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-g-pad-80-2014.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_g_pad_8_0_lte-6575.php"
+    }
+}

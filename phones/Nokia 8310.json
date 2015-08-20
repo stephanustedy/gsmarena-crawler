@@ -1,0 +1,73 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 830 mAh battery (BLB-2)",
+            "Stand-by": "100 - 400 h",
+            "Talk time": "2 - 4 h"
+        },
+        "Body": {
+            "Dimensions": "97 x 43 x 19 mm, 66 cc (3.82 x 1.69 x 0.75 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "84 g (2.96 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "FM radio",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Dynamic font size - Softkey",
+            "Resolution": "5 lines",
+            "Size": "",
+            "Type": "Monochrome graphic"
+        },
+        "Features": {
+            "": "- 2 Coloured PhoneWraps (included)\n- Handsfree Stereo Headset (included)",
+            "Alarm": "Yes",
+            "Browser": "WAP",
+            "Clock": "Yes",
+            "Games": "Snake II, Bumper, Pairs II, Snowboard",
+            "Java": "No",
+            "Languages": "32 total",
+            "Messaging": "SMS"
+        },
+        "Launch": {
+            "Announced": "2001",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- Memory for 8 voice dial numbers- 50 calendar notes",
+            "Call records": "20 dialed, 10 received, 10 missed calls",
+            "Card slot": "No",
+            "Phonebook": "500 names x3 numbers"
+        },
+        "Misc": {
+            "Colors": "9 Xpress-on covers",
+            "SAR EU": "0.82 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "Class 4",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable monophonic ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 8310",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_8310-pictures-241.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/no8310.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_8310-241.php"
+    }
+}

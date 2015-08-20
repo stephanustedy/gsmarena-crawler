@@ -1,0 +1,90 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po 7000 mAh battery",
+            "Stand-by": "Up to 2120 h (2G) / Up to 1840 h (3G)",
+            "Talk time": "Up to 9 h"
+        },
+        "Body": {
+            "Dimensions": "256.7 x 175.3 x 8.6 mm (10.11 x 6.90 x 0.34 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "565 g (1.25 lb)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "3.15 MP, 2048 x 1536 pixels, autofocus, LED flash, check quality",
+            "Secondary": "2 MP",
+            "Video": "720p, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "v2.0 (TV-out)",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, hotspot"
+        },
+        "Display": {
+            "": "- TouchWiz UX UI",
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "800 x 1280 pixels (~149 ppi pixel density)",
+            "Size": "10.1 inches (~65.7% screen-to-body ratio)",
+            "Type": "PLS TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/DivX/Xvid/H.264 player\n- MP3/WAV/eAAC+/OGG player\n- Photo/video editor\n- Quickoffice HD editor/viewer",
+            "Browser": "HTML, Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "Email, Push Mail, IM",
+            "Sensors": "Accelerometer, gyro, compass"
+        },
+        "Launch": {
+            "Announced": "2011, March. Released 2011, June",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "16/32/64 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "7/10 (About 370 EUR)",
+            "SAR EU": "0.91 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 21.1/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1 GHz Cortex-A9",
+            "Chipset": "Nvidia Tegra 2 T20",
+            "GPU": "ULP GeForce",
+            "OS": "Android OS, v3.1 (Honeycomb)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        },
+        "Tests": {
+            "Audio quality": "Noise -89.9dB / Crosstalk -90.8dB",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 915:1 (nominal)",
+            "Loudspeaker": "Voice 66dB / Noise 66dB / Ring 70dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Samsung Galaxy Tab 10.1N 3G P7501 in Germany\nTablet with no GSM voice communication capabilities",
+        "device_name": "Samsung P7500 Galaxy Tab 10.1 3G",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_p7500_galaxy_tab_10_1_3g-pictures-3892.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-tab-10.1.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_p7500_galaxy_tab_10_1_3g-3892.php"
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 950 mAh battery (BST-33)",
+            "Music play": "Up to 26 h",
+            "Stand-by": "Up to 385 h (2G) / Up to 365 h (3G)",
+            "Talk time": "Up to 9 h (2G) / Up to 4 h 30 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "100 x 47 x 14 mm (3.94 x 1.85 x 0.55 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "104 g (3.67 oz)"
+        },
+        "Camera": {
+            "Features": "Video-calling",
+            "Primary": "3.15 MP, 2048 x 1536 pixels",
+            "Secondary": "No",
+            "Video": "320p@15fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "",
+            "Resolution": "240 x 320 pixels (~182 ppi pixel density)",
+            "Size": "2.2 inches (~31.9% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- Walkman player \n- TrackID music recognition\n- SensMe\n- Shake control\n- Predictive text input\n- Photo editor\n- Organizer\n- Voice memo",
+            "Browser": "WAP 2.0/xHTML, HTML (NetFront )",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS, Email",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2008, July. Released 2008, September",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "30 received, dialed and missed calls",
+            "Card slot": "Memory Stick Micro (M2), up to 8 GB, 2 GB included",
+            "Internal": "40 MB",
+            "Phonebook": "1000 x 20 fields, Photo call"
+        },
+        "Misc": {
+            "Colors": "Jungle Grey, Lava Black, Ruby Black, Cosmopolitan White, Active Blue, Peachy Pink, Sandy Gold",
+            "Price group": "3/10 (About 120 EUR)",
+            "SAR EU": "1.00 W/kg (head)",
+            "SAR US": "1.41 W/kg (head) \u00a0 \u00a0 1.20 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 2100 - W595 only",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Speed": "HSPA 3.6/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration, MP3, AAC ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        },
+        "Tests": {
+            "Audio quality": "Noise -86.4dB / Crosstalk -85.3dB",
+            "Loudspeaker": "Voice 75dB / Noise 75dB / Ring 83dB"
+        }
+    },
+    "main": {
+        "canonical_name": "- W595 UMTS/HSDPA/850/900/1800/1900 MHz \n- W595c 850/900/1800/1900 MHz for China Mainland\n- W595a 850/900/1800/1900 MHz for America",
+        "device_name": "Sony Ericsson W595",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_ericsson_w595-pictures-2469.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/se-w595.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_ericsson_w595-2469.php"
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 690 mAh battery",
+            "Stand-by": "Up to 250 h",
+            "Talk time": "Up to 3 h 30 min"
+        },
+        "Body": {
+            "Dimensions": "103.5 x 49.3 x 10.9 mm (4.07 x 1.94 x 0.43 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "81 g (2.86 oz)"
+        },
+        "Camera": {
+            "Primary": "3.15 MP, 2048 x 1536 pixels, autofocus, LED flash",
+            "Secondary": "No",
+            "Video": "CIF"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~182 ppi pixel density)",
+            "Size": "2.2 inches, 34 x 44 mm (~29.4% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/AAC/eACC/WMA player\n- Predictive text input\n- Yahoo search\n- Organizer\n- Business card scanner\n- Document viewer (Word, Excel, PowerPoint, PDF)\n- Voice memo\n- TV-out",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2007, February. Released 2007, April",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "30 dialed, 30 received, 30 missed calls",
+            "Card slot": "microSD",
+            "Internal": "60 MB",
+            "Phonebook": "1000 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Sapphire Blue, Crystal Blue, Platinum Silver, Copper Gold, Garnet Red, Neutral White, Soft Black",
+            "Price group": "2/10 (About 90 EUR)",
+            "SAR EU": "0.48 W/kg (head)",
+            "SAR US": "0.63 W/kg (head) \u00a0 \u00a0 0.49 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -89.2dB / Crosstalk -86.9dB",
+            "Loudspeaker": "Voice 66dB / Noise 66dB / Ring 75dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Ultra Edition II - Ultra Edition 10.9",
+        "device_name": "Samsung U600",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_u600-pictures-1851.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-u600.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_u600-1851.php"
+    }
+}

@@ -1,0 +1,98 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 1300 mAh battery (BP-5L)",
+            "Stand-by": "Up to 240 - 264 h",
+            "Talk time": "Up to 3 - 4 h"
+        },
+        "Body": {
+            "Dimensions": "134 x 80 x 22 mm, 165 cc (5.28 x 3.15 x 0.87 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "183 g (6.46 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "No",
+            "Radio": "FM radio",
+            "USB": "Pop-Port",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Stylus input\n- Virtual keyboard\n- Five-way directional controller\n- Partial mode 640x65 pixels",
+            "Resolution": "640 x 320 pixels (~204 ppi pixel density)",
+            "Size": "3.5 inches, 79 x 40 mm (~29.5% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 65K colors"
+        },
+        "Features": {
+            "": "- Series 90 UI, v.2.0\n- Audio/video player\n- Document viewer (Word, Excel, PowerPoint, PDF)\n- Voice recorder\n- Organizer\n- Flight and offline modes",
+            "Browser": "WAP, xHTML, HTML (Opera)",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "4Q, 2003",
+            "Status": "Cancelled"
+        },
+        "Memory": {
+            "Card slot": "MMC, 64 MB included",
+            "Internal": "25 MB"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Platform": {
+            "CPU": "150 MHz ARM925T",
+            "Chipset": "TI OMAP 1510",
+            "OS": "Symbian OS, Series 90 UI, v.2.0"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 7700",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_7700-pictures-570.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/no7700.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_7700-570.php"
+    }
+}

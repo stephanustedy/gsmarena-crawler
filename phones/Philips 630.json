@@ -1,0 +1,95 @@
+{
+    "data": {
+        "Battery": {
+            "": "Extended battery, 900 mAh Li-Ion",
+            "Stand-by": "Up to 400 h",
+            "Talk time": "Up to 5 h"
+        },
+        "Body": {
+            "Dimensions": "83 x 43 x 22 mm, 73 cc (3.27 x 1.69 x 0.87 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "78 g (2.75 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "FM radio",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second mono display 80 x 48 pixels, 3 lines, 7 backlight colors\n- Blue keyboard backlight\n- Analog clock\n- LED in 256 colors\n- Wallpapers",
+            "Resolution": "128 x 128 pixels, 8 lines",
+            "Size": "",
+            "Type": "STN, 4096 colors"
+        },
+        "Features": {
+            "": "- Predictive text input\n- Organizer\n- Voice command",
+            "Alarm": "Yes",
+            "Browser": "WAP 1.2.1",
+            "Clock": "Yes",
+            "Games": "3 - Smart Move, Reflexes, Lucky Star",
+            "Java": "No",
+            "Languages": "English, French, German, Italian, Russian, Chinese",
+            "Messaging": "SMS, EMS"
+        },
+        "Launch": {
+            "Announced": "2003, 2Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- 100 messages, can be password protected\n- 10 message templates\n- 30 calendar entries",
+            "Call records": "10 dialed, 10 received, 10 missed calls",
+            "Card slot": "No",
+            "Phonebook": "300 x 3 fields, 5 co"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Polyphonic ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Philips 630",
+        "image": {
+            "href": "http://www.gsmarena.com/philips_630-pictures-402.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/ph630.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/philips_630-402.php"
+    }
+}

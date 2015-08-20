@@ -1,0 +1,74 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 750 mAh battery",
+            "Music play": "Up to 10 h",
+            "Stand-by": "Up to 300 h",
+            "Talk time": "Up to 7 h"
+        },
+        "Body": {
+            "Dimensions": "89 x 45.7 x 22 mm (3.50 x 1.80 x 0.87 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "83 g (2.93 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Embedded images and animations",
+            "Resolution": "128 x 160 pixels",
+            "Size": "",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- MP3 player\n- Karaoke\n- 3gp/MP4 player\n- Voice memo\n- Predictive text input\n- Organizer",
+            "Browser": "WAP 2.0",
+            "Games": "2",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS(500), MMS"
+        },
+        "Launch": {
+            "Announced": "2007, October",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "microSD, up to 1 GB",
+            "Internal": "10 MB",
+            "Phonebook": "800 entries, Photo call"
+        },
+        "Misc": {
+            "Colors": "Cherry Red, Lilac, Green",
+            "SAR EU": "1.00 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Polyphonic(64), MP3, AAC ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Alcatel Mandarina Duck",
+        "image": {
+            "href": "http://www.gsmarena.com/alcatel_mandarina_duck-pictures-2369.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/alcatel-mandarina-duck.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/alcatel_mandarina_duck-2369.php"
+    }
+}

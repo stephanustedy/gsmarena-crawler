@@ -1,0 +1,73 @@
+{
+    "data": {
+        "Battery": {
+            "": "Standard battery, Li-Ion 1000 mAh",
+            "Stand-by": "Up to 380 h",
+            "Talk time": "Up to 8 h"
+        },
+        "Body": {
+            "Dimensions": "93.5 x 45.7 x 23.5 mm (3.68 x 1.80 x 0.93 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "99 g (3.49 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 1024 pixels, LED flash",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v1.1",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "176 x 220 pixels (~148 ppi pixel density)",
+            "Size": "1.9 inches (~26.6% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/MP4/AAC player\n- Predictive text input\n- SyncML\n- Organizer\n- Voice memo",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "3 + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2004, 4Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- 96 MB shared memory for photos, video, MMS, MP3 files\n- 4 MB for Java\n- 200 short messages\n- 400 calendar events",
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "No",
+            "Phonebook": "1000 x 12 fields, Photo call"
+        },
+        "Misc": {
+            "Colors": "Silver, Black",
+            "SAR EU": "0.51 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "Yes (in D500E version only)",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Samsung D500",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_d500-pictures-900.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/ssd500.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_d500-900.php"
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 900 mAh battery (BST-36)",
+            "Music play": "Up to 19 h",
+            "Stand-by": "Up to 400 h",
+            "Talk time": "Up to 9 h"
+        },
+        "Body": {
+            "Dimensions": "100 x 46 x 20.5 mm (3.94 x 1.81 x 0.81 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "99 g (3.49 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1632 x 1224 pixels, autofocus, LED flash",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Wallpapers, screensavers",
+            "Resolution": "176 x 220 pixels (~157 ppi pixel density)",
+            "Size": "1.8 inches, 28 x 35 mm (~22.2% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- Electronic wallet\n- Predictive text input\n- Organizer\n- Voice record\n- Voice command\n- Profile Selection",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes + downloadable",
+            "Java": "Yes",
+            "Messaging": "SMS, EMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2005, 1Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "30 received, dialed and missed calls",
+            "Card slot": "Memory Stick Duo Pro, up to 2 GB, 512 MB included",
+            "Internal": "34 MB",
+            "Phonebook": "500 x 20 fields, Photo call"
+        },
+        "Misc": {
+            "Colors": "Smooth White",
+            "Price group": "4/10 (About 160 EUR)",
+            "SAR EU": "0.85 W/kg (head)",
+            "SAR US": "1.30 W/kg (head) \u00a0 \u00a0 0.58 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones, composer",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "W800c for China",
+        "device_name": "Sony Ericsson W800",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_ericsson_w800-pictures-1089.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/sonyericsson-w800.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_ericsson_w800-1089.php"
+    }
+}

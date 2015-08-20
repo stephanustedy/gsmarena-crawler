@@ -1,0 +1,97 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1000 mAh battery",
+            "Stand-by": "Up to 140 h",
+            "Talk time": "Up to 4 h"
+        },
+        "Body": {
+            "Dimensions": "108 x 60 x 22.5 mm (4.25 x 2.36 x 0.89 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "165g (5.82 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 1024 pixels, LED flash",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v1.1",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "v1.1",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~143 ppi pixel density)",
+            "Size": "2.8 inches (~37.5% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 65K colors"
+        },
+        "Features": {
+            "": "- Asus Smart Keeper\n- Instant capturing\n- Image editing\n- MMS Composer\n- Conference call for max. 5 persons\n- PC Sync\n- Pocket Office \n- Organizer\n- World time\n- Stopwatch",
+            "Browser": "No",
+            "Java": "Yes, MIDP 2.0; CLDC 1.1",
+            "Messaging": "SMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2006, March",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "MMC/SD, SDIO",
+            "Internal": "64 MB RAM, 64 MB ROM"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Platform": {
+            "CPU": "Intel PXA270 416 MHz",
+            "OS": "Microsoft Windows Mobile OS for PocketPC"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, WAV, WMA, MIDI ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Asus P505",
+        "image": {
+            "href": "http://www.gsmarena.com/asus_p505-pictures-1739.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/asus-p505.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/asus_p505-1739.php"
+    }
+}

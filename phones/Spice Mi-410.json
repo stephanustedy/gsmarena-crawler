@@ -1,0 +1,80 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1400 mAh battery",
+            "Stand-by": "Up to 400 h (2G) / Up to 380 h (3G)",
+            "Talk time": "Up to 2 h 20 min (2G) / Up to 4 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "122 x 66 x 10 mm (4.80 x 2.60 x 0.39 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "143 g (5.04 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, LED flash",
+            "Secondary": "Yes",
+            "Video": "720p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "FM radio; FM recording",
+            "USB": "microUSB",
+            "WLAN": "Wi-Fi 802.11 b/g, hotspot"
+        },
+        "Display": {
+            "Resolution": "480 x 800 pixels (~232 ppi pixel density)",
+            "Size": "4.03 inches (~57.4% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- HDMI output\n- MP4/WMV/H.263 player\n- MP3/WAV/AAC+ player\n- Organizer\n- Document viewer\n- Photo/video editor\n- Voice memo\n- Predictive text input",
+            "Browser": "HTML, Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS, MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2011, Q2",
+            "Status": "Available. Released 2011, Q2"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "800 MB, 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Silver, Brown",
+            "Price group": "5/10 (About 210 EUR)",
+            "SAR EU": "0.62 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 1900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 14.4/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "1 GHz Scorpion",
+            "Chipset": "Qualcomm MSM8255 Snapdragon S2",
+            "GPU": "Adreno 205",
+            "OS": "Android OS, v2.2 (Froyo)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Spice Mi-410",
+        "image": {
+            "href": "http://www.gsmarena.com/spice_mi_410-pictures-4053.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/spice-mi-410.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/spice_mi_410-4053.php"
+    }
+}

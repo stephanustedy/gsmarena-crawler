@@ -1,0 +1,84 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 4000 mAh battery",
+            "Stand-by": "Up to 1190 h (2G) / Up to 1080 h (3G)",
+            "Talk time": "Up to 40 h (2G) / Up to 20 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "193.7 x 122.4 x 10.5 mm (7.63 x 4.82 x 0.41 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "345 g (12.17 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, smile detection",
+            "Primary": "3.15 MP, 2048 x 1536 pixels",
+            "Secondary": "VGA",
+            "Video": "720p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "Radio": "No",
+            "USB": "v2.0, USB Host",
+            "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot"
+        },
+        "Display": {
+            "": "- TouchWiz UX UI",
+            "Multitouch": "Yes",
+            "Resolution": "600 x 1024 pixels (~170 ppi pixel density)",
+            "Size": "7.0 inches (~58.2% screen-to-body ratio)",
+            "Type": "PLS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/DivX/H.264/WMV player\n- MP3/WAV/eAAC+/WMA/Flac player\n- Photo/video editor\n- Document viewer",
+            "Browser": "HTML5, Adobe Flash",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2012, February",
+            "Status": "Available. Released 2012, April"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "8/16/32 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White, Red",
+            "Price group": "3/10 (About 150 EUR)",
+            "SAR EU": "0.71 W/kg (head)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 900 / 1900 / 2100 - GT-P3105",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100 - GT-P3100",
+            "EDGE": "Yes",
+            "GPRS": "Class 33",
+            "Speed": "HSPA 21.1/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1 GHz",
+            "Chipset": "TI OMAP 4430",
+            "GPU": "PowerVR SGX540",
+            "OS": "Android OS, v4.0.3 (Ice Cream Sandwich), v4.1.1, upgradable to v4.2.2 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "canonical_name": "Tablet with support for GSM voice communication, SMS, and MMS\nAlso known as Samsung Galaxy Tab 2 (7.0)",
+        "device_name": "Samsung Galaxy Tab 2 7.0 P3100",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_galaxy_tab_2_7_0_p3100-pictures-4543.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-tab-2.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_galaxy_tab_2_7_0_p3100-4543.php"
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 3100 mAh battery",
+            "Music play": "Up to 60 h",
+            "Stand-by": "Up to 775 h (3G)",
+            "Talk time": "Up to 38 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "154 x 78.7 x 9.5 mm (6.06 x 3.10 x 0.37 in)",
+            "SIM": "Yes",
+            "Weight": "185 g (6.53 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face/smile detection, HDR",
+            "Primary": "13 MP, 4128 x 3096 pixels, autofocus, LED flash",
+            "Secondary": "5 MP, 720p",
+            "Video": "1080p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, LE",
+            "GPS": "Yes, with A-GPS, GLONASS, Beidou",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0, USB Host",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot"
+        },
+        "Display": {
+            "": "- MIUI 5.0",
+            "Multitouch": "Yes",
+            "Resolution": "720 x 1280 pixels (~267 ppi pixel density)",
+            "Size": "5.5 inches (~68.8% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP4/H.264 player\n- MP3/WAV/eAAC+ player\n- Photo/video editor\n- Document viewer\n- Voice memo/dial/commands",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2014, August",
+            "Status": "Available. Released 2014, August"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "8 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black/White",
+            "Price group": "3/10 (About 120 EUR)"
+        },
+        "Network": {
+            "": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 7(2600) - Malaysia, Singapore",
+            "2G bands": "GSM 900 / 1800 - India",
+            "3G bands": "HSDPA 900 / 2100 - India",
+            "4G bands": "LTE band 3(1800), 40(2300) - India",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA, LTE Cat4 150/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.6 GHz Cortex-A7",
+            "Chipset": "Qualcomm MSM8928 Snapdragon 400",
+            "GPU": "Adreno 305",
+            "OS": "Android OS, v4.2 (Jelly Bean), upgradable to v4.4.2 (KitKat)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Xiaomi Redmi Note 4G",
+        "image": {
+            "href": "http://www.gsmarena.com/xiaomi_redmi_note_4g-pictures-6561.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-4g.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/xiaomi_redmi_note_4g-6561.php"
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 750 mAh battery",
+            "Stand-by": "Up to 250 h",
+            "Talk time": "Up to 6 h"
+        },
+        "Body": {
+            "Dimensions": "104 x 43.5 x 16 mm (4.09 x 1.71 x 0.63 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "67.5 g (2.36 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "Yes (charging only)",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "128 x 128 pixels (~119 ppi pixel density)",
+            "Size": "1.52 inches (~16.5% screen-to-body ratio)",
+            "Type": "CSTN, 65K colors"
+        },
+        "Features": {
+            "": "- Organizer\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "No",
+            "Java": "No",
+            "Messaging": "SMS, EMS"
+        },
+        "Launch": {
+            "Announced": "2008, September. Released 2008, December",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "30 dialed, 30 received, 30 missed calls",
+            "Card slot": "No",
+            "Internal": "400 KB",
+            "Phonebook": "200 entries"
+        },
+        "Misc": {
+            "Colors": "Black, White, Red, Gray",
+            "Price group": "1/10 (About 30 EUR)",
+            "SAR EU": "0.65 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Samsung B130",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_b130-pictures-2499.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-b130.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_b130-2499.php"
+    }
+}

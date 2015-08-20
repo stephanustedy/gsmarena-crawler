@@ -1,0 +1,75 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 810 mAh battery",
+            "Stand-by": "Up to 410 h",
+            "Talk time": "Up to 7 h 20 min"
+        },
+        "Body": {
+            "Dimensions": "96.9 x 47.6 x 18.6 mm (3.81 x 1.87 x 0.73 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "141 g (4.97 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "480 pixels diameter (~309 ppi pixel density)",
+            "Size": "1.55 inches (~16.8% screen-to-body ratio)",
+            "Type": "TFT, 16M colors"
+        },
+        "Features": {
+            "": "- Stainless steel housing with chemically etched textures\n- Assisted-opening blade mechanism with carbon carbide coated main gears\n- MP3/WAV/WMA/AAC+ player\n- MP4/3gp player\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2008, October. Released 2008, December",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "30 dialed, 30 received, 30 missed calls",
+            "Card slot": "No",
+            "Internal": "2 GB",
+            "Phonebook": "1000 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Silver",
+            "Price group": "9/10 (About 530 EUR)",
+            "SAR EU": "0.32 W/kg (head)",
+            "SAR US": "0.43 W/kg (head) \u00a0 \u00a0 0.76 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also Motorola Aura Diamond Edition plated with 34 diamonds and gold.",
+        "device_name": "Motorola Aura",
+        "image": {
+            "href": "http://www.gsmarena.com/motorola_aura-pictures-2562.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/motorola-aura.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/motorola_aura-2562.php"
+    }
+}

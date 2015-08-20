@@ -1,0 +1,97 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 680 mAh battery",
+            "Stand-by": "Up to 290 h (2G) / Up to 240 h (3G)",
+            "Talk time": "Up to 3 h 50 min (2G) / Up to 3h 10 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "102.9 x 48 x 14.9 mm (4.05 x 1.89 x 0.59 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "105 g (3.70 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels, autofocus",
+            "Secondary": "Yes",
+            "Video": "320p@15fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Shake control",
+            "Resolution": "240 x 400 pixels (~167 ppi pixel density)",
+            "Size": "2.8 inches (~45.2% screen-to-body ratio)",
+            "Type": "TFT, 16M colors"
+        },
+        "Features": {
+            "": "- MP3/eAAC+ player\n- MP4/ASF/3gp player\n- Digital TV tuner (1seg)\n- Document viewer (Word, Excel, PowerPoint, PDF)\n- Predictive text input\n- Organizer\n- QR code reader\n- Voice memo",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email (POP3 only)",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2008, June. Released 2008, July",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "10 dialed, 10 received, 10 missed calls",
+            "Card slot": "microSD, up to 4 GB",
+            "Internal": "50 MB",
+            "Phonebook": "1000 entries"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "3G bands": "HSDPA 1900",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Speed": "HSPA",
+            "Technology": "GSM / HSPA"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3, AAC+ ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Sharp WX-T825 for Taiwan\nSharp 8010C for China",
+        "device_name": "Sharp 825SH",
+        "index": 1,
+        "url": "http://www.gsmarena.com/sharp_825sh-2761.php"
+    }
+}

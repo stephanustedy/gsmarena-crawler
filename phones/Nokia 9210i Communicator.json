@@ -1,0 +1,73 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1300 mAh battery (BLL-3)",
+            "Stand-by": "Up to 230 h",
+            "Talk time": "Up to 4 - 10 h"
+        },
+        "Body": {
+            "Dimensions": "158 x 56 x 27 mm (6.22 x 2.20 x 1.06 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "244 g (8.61 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second display (80x48 pixels)",
+            "Resolution": "640 x 200 pixels (~149 ppi pixel density)",
+            "Size": "4.5 inches, 110 x 35 mm (~42.0% screen-to-body ratio)",
+            "Type": "TFT, 4096 colors"
+        },
+        "Features": {
+            "": "- Video Streaming\n- Attachment viewers\n- Video player\n- Document viewer (Word, Excel, PowerPoint, PDF)\n- Imaging (Camera connectivity)",
+            "Alarm": "Yes",
+            "Browser": "WAP, HTML, Flash 5 animations",
+            "Clock": "Yes",
+            "Java": "No",
+            "Messaging": "SMS, Email, Fax"
+        },
+        "Launch": {
+            "Announced": "2002",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "MMC",
+            "Internal": "40 MB, 8 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "SAR EU": "0.34 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "GSM"
+        },
+        "Platform": {
+            "CPU": "52 MHz ARM 9",
+            "OS": "Open Symbian, based on Symbian v6.0, Series 80 UI"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Downloadable monophonic, Wav ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 9210i Communicator",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_9210i_communicator-pictures-319.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/no9210i.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_9210i_communicator-319.php"
+    }
+}

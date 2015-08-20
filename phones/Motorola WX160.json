@@ -1,0 +1,68 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 650 mAh battery",
+            "Stand-by": "Up to 400 h",
+            "Talk time": "Up to 8 h"
+        },
+        "Body": {
+            "Dimensions": "106 x 46 x 14.5 mm (4.17 x 1.81 x 0.57 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "65 g (2.29 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "FM radio with RDS",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "64 x 96 pixels (~89 ppi pixel density)",
+            "Size": "1.3 inches (~10.3% screen-to-body ratio)",
+            "Type": "Monochrome graphic with colour background"
+        },
+        "Features": {
+            "": "- Calendar\n- Voice memo\n- Predictive text input",
+            "Browser": "No",
+            "Games": "Yes",
+            "Java": "No",
+            "Messaging": "SMS"
+        },
+        "Launch": {
+            "Announced": "2009, October",
+            "Status": "Available. Released 2009, November"
+        },
+        "Memory": {
+            "Call records": "10 dialed, 10 received, 10 missed calls",
+            "Card slot": "No",
+            "Phonebook": "500 entries"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "1/10 (About 30 EUR)",
+            "SAR US": "1.08 W/kg (head) \u00a0 \u00a0 0.58 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Motorola WX160",
+        "image": {
+            "href": "http://www.gsmarena.com/motorola_wx160-pictures-2981.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/motorola-wx160.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/motorola_wx160-2981.php"
+    }
+}

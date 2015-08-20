@@ -1,0 +1,90 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1500 mAh battery",
+            "Music play": "Up to 31 h",
+            "Stand-by": "Up to 425 h (2G) / Up to 413 h (3G)",
+            "Talk time": "Up to 8 h 25 min (2G) / Up to 6 h 25 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "119 x 62 x 16 mm (4.69 x 2.44 x 0.63 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "175 g (6.17 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus, LED flash, check quality",
+            "Secondary": "VGA",
+            "Video": "720p"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP, EDR",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "Radio": "No",
+            "USB": "microUSB v2.0, USB Host",
+            "WLAN": "Wi-Fi 802.11 b/g/n, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- Touch-sensitive gaming controls\n- PSP like gaming buttons\n- Timescape UI",
+            "Multitouch": "Yes",
+            "Resolution": "480 x 854 pixels (~245 ppi pixel density)",
+            "Size": "4.0 inches (~59.8% screen-to-body ratio)",
+            "Type": "LED-backlit LCD, capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Dedicated game store\n- Active noise cancellation with dedicated mic\n- MP4/H.264/WMV player\n- MP3/eAAC+/WMA/WAV player\n- Organizer\n- Document viewer/editor\n- Voice memo/dial/commands\n- Predictive text input (Swype)",
+            "Browser": "WAP 2.0/xHTML, HTML5, Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2011, February",
+            "Status": "Available. Released 2011, March"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB, 8 GB included",
+            "Internal": "400 MB, 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White, Stealth Blue (for Play 4G), Orange",
+            "Price group": "3/10 (About 140 EUR)",
+            "SAR EU": "0.36 W/kg (head)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 1900 / 2100 / 800",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Up to 237 kbps",
+            "GPRS": "Up to 80 kbps",
+            "Speed": "HSPA 7.2/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "1 GHz Scorpion",
+            "Chipset": "Qualcomm MSM8255 Snapdragon S2",
+            "GPU": "Adreno 205",
+            "OS": "Android OS, v2.3.4 (Gingerbread)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        },
+        "Tests": {
+            "Audio quality": "Noise -89.6dB / Crosstalk -91.0dB",
+            "Camera": "Photo",
+            "Loudspeaker": "Voice 66dB / Noise 62dB / Ring 79dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Available on AT&T as Sony Ericsson Xperia Play 4G\nAlso known as R800a, R800at, R88i",
+        "device_name": "Sony Ericsson Xperia PLAY",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_ericsson_xperia_play-pictures-3608.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/Sony-Ericsson-Xperia-Play-ofic.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_ericsson_xperia_play-3608.php"
+    }
+}

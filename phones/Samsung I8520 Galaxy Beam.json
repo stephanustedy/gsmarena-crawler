@@ -1,0 +1,82 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1800 mAh battery",
+            "Stand-by": "Up to 630 h (2G) / Up to 530 h (3G)",
+            "Talk time": "Up to 14 h 10 min (2G) / Up to 7 h 20 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "123 x 59.8 x 14.9 mm (4.84 x 2.35 x 0.59 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "156g (5.50 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face, smile and blink detection",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash",
+            "Secondary": "VGA",
+            "Video": "720p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, DLNA"
+        },
+        "Display": {
+            "": "- Projector UI\n- Handwriting recognition",
+            "Multitouch": "Yes",
+            "Protection": "Scratch-resistant glass",
+            "Resolution": "480 x 800 pixels (~252 ppi pixel density)",
+            "Size": "3.7 inches (~53.0% screen-to-body ratio)",
+            "Type": "Super AMOLED capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Built-in WVGA projector\n- MP3/WMA/WAV/eAAC+ player\n- MP4/H.264/Xvid/DivX player\n- Photo editor\n- ThinkFree Office Mobile document editor",
+            "Browser": "WAP 2.0/xHTML, HTML, Adobe Flash Lite",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS, MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2010, February",
+            "Status": "Available. Released 2010, July"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "16 GB, 384 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "6/10 (About 260 EUR)",
+            "SAR EU": "0.62 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 1900 / 2100",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 7.2/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "720 MHz",
+            "OS": "Android OS, v2.1 (Eclair)"
+        },
+        "Sound": {
+            "": "- DNSe (Digital Natural Sound Engine)",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "device_name": "Samsung I8520 Galaxy Beam",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_i8520_galaxy_beam-pictures-3150.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-i8520.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_i8520_galaxy_beam-3150.php"
+    }
+}

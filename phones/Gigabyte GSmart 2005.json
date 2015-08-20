@@ -1,0 +1,69 @@
+{
+    "data": {
+        "Battery": {
+            "": "Standard battery, Li-Ion 1300 mAh",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "109 x 53.5 x 24 mm (4.29 x 2.11 x 0.94 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "153 g (5.40 oz)"
+        },
+        "Camera": {
+            "Primary": "2.1 MP, 1632 x 1224 pixels, LED flash",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v1.2",
+            "GPS": "No",
+            "Radio": "FM radio",
+            "USB": "miniUSB v1.1",
+            "WLAN": "Wi-Fi 802.11b"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~167 ppi pixel density)",
+            "Size": "2.4 inches (~30.6% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 256K colors (65K effective)"
+        },
+        "Features": {
+            "": "- TV-receiver: NTSC/PAL\n- 3D maps\n- Voice navigation system\n- MP3/MP4 player\n- Organizer",
+            "Browser": "WAP 2.0",
+            "Java": "No",
+            "Messaging": "SMS, MMS, E-mail, MSN Messenger, Windows Mobile Direct Push"
+        },
+        "Launch": {
+            "Announced": "2005",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "miniSD",
+            "Internal": "64 MB RAM, 64 MB ROM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "4/10 (About 170 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Platform": {
+            "CPU": "Intel PXA272 416 MHz",
+            "OS": "Microsoft Windows Mobile 5.0 for PocketPC Phone Edition(AKU2)"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3, WMA, AMR, MID ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Gigabyte GSmart 2005",
+        "index": 1,
+        "url": "http://www.gsmarena.com/gigabyte_gsmart_2005-1760.php"
+    }
+}

@@ -1,0 +1,90 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1500 mAh battery",
+            "Stand-by": "Up to 750 h (2G) / Up to 576 h (3G)",
+            "Talk time": "Up to 13 h 30 min (2G) / Up to 6 h 30 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "122.4 x 64.2 x 9.9 mm (4.82 x 2.53 x 0.39 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "119 g (4.20 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face/smile detection",
+            "Primary": "5 MP, 2592 x 1944 pixels, autofocus, check quality",
+            "Secondary": "VGA",
+            "Video": "720p@30fps, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP, apt-X",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, DLNA, hotspot (Android 2.2)"
+        },
+        "Display": {
+            "": "- TouchWiz 3.0 UI",
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "480 x 800 pixels (~233 ppi pixel density)",
+            "Size": "4.0 inches (~58.0% screen-to-body ratio)",
+            "Type": "Super AMOLED capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- ISDB-Tb Digital TV tuner (only available for Brazilian market)\n- MP4/DivX/WMV/H.264 player\n- MP3/WAV/eAAC+/AC3/FLAC player\n- TV-out\n- Photo/video editor\n- Document editor",
+            "Browser": "WAP 2.0/xHTML, HTML, Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2010, March",
+            "Status": "Available. Released 2010, June"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "8/16 GB, 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "3/10 (About 120 EUR)",
+            "SAR EU": "0.24 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 1900 / 2100",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 7.2/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "1 GHz Cortex-A8",
+            "Chipset": "Hummingbird",
+            "GPU": "PowerVR SGX540",
+            "OS": "Android OS, v2.1 (Eclair), upgradable to v2.3 (Gingerbread)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -90.7dB / Crosstalk -90.6dB",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: Infinite (nominal) / 3.155:1 (sunlight)",
+            "Loudspeaker": "Voice 66dB / Noise 65dB / Ring 66dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Samsung I9008 Galaxy S in China",
+        "device_name": "Samsung I9000 Galaxy S",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_i9000_galaxy_s-pictures-3115.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_i9000_galaxy_s-3115.php"
+    }
+}

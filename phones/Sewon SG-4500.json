@@ -1,0 +1,92 @@
+{
+    "data": {
+        "Battery": {
+            "": "Slim battery, Li-Ion 550 mAh",
+            "Stand-by": "80 h - 120 h",
+            "Talk time": "1 h - 5 h"
+        },
+        "Body": {
+            "Dimensions": "80 x 46 x 24 mm (3.15 x 1.81 x 0.94 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "85 g (3.00 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second external display\n- 4-way navi key",
+            "Resolution": "128 x 128 pixels",
+            "Size": "",
+            "Type": "STN, 65K colors"
+        },
+        "Features": {
+            "": "- Predictive text input\n- Calculator",
+            "Browser": "WAP 1.2",
+            "Games": "Yes",
+            "Java": "No",
+            "Messaging": "SMS, EMS 4.2"
+        },
+        "Launch": {
+            "Announced": "2002",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "10 dialed, 10 received, 10 missed calls",
+            "Card slot": "No",
+            "Phonebook": "250"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "Yes",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "": "- Ringtones can be assigned to contacts",
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Polyphonic(16) ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Sewon SG-4500",
+        "image": {
+            "href": "http://www.gsmarena.com/sewon_sg_4500-pictures-613.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/sw4500.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sewon_sg_4500-613.php"
+    }
+}

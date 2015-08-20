@@ -1,0 +1,97 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1300 mAh battery",
+            "Stand-by": "Up to 150 h",
+            "Talk time": "Up to 3 h"
+        },
+        "Body": {
+            "Dimensions": "110 x 55.5 x 18.5 mm (4.33 x 2.19 x 0.73 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "140 g (4.94 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels, autofocus, LED flash",
+            "Secondary": "No",
+            "Video": "320p"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0",
+            "GPS": "No",
+            "Radio": "T-DMB radio",
+            "USB": "miniUSB v2.0",
+            "WLAN": "Wi-Fi 802.11b/g"
+        },
+        "Display": {
+            "Resolution": "480 x 640 pixels (~308 ppi pixel density)",
+            "Size": "2.6 inches (~34.3% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 65K colors"
+        },
+        "Features": {
+            "": "- DVB-H/T TV broadcast receiver\n- Pocket Office \n- MP3/AAC/AAC+/WMA/OGG/AMR player\n- WMV/MP4 player\n- T-DMB radio\n- Organizer",
+            "Browser": "WAP 2.0/xHTML, HTML (IE)",
+            "Java": "Yes",
+            "Messaging": "SMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2007, February",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- Intel XScale PXA270, 520MHz",
+            "Card slot": "microSD",
+            "Internal": "153 MB, 64 MB RAM, 256 MB ROM"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Platform": {
+            "CPU": "Intel XScale PXA270 520MHz",
+            "OS": "Microsoft Windows Mobile 6 Professional"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3, MIDI ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Gigabyte GSmart t600",
+        "image": {
+            "href": "http://www.gsmarena.com/gigabyte_gsmart_t600-pictures-1917.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/gigabyte-t600.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/gigabyte_gsmart_t600-1917.php"
+    }
+}

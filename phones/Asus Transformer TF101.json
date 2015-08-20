@@ -1,0 +1,82 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po battery (24.4 Wh)",
+            "Stand-by": "",
+            "Talk time": "Up to 9 h 30 min (multimedia)"
+        },
+        "Body": {
+            "Dimensions": "271 x 171 x 13 mm (10.67 x 6.73 x 0.51 in)",
+            "SIM": "No",
+            "Weight": "680 g (1.50 lb)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "5 MP, 2592 \u0445 1944 pixels, autofocus",
+            "Secondary": "1.2 MP",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP, EDR",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "v2.0",
+            "WLAN": "Wi-Fi 802.11b/g/n"
+        },
+        "Display": {
+            "": "- ASUS Waveshare UI",
+            "Multitouch": "Yes",
+            "Protection": "Scratch-resistant glass",
+            "Resolution": "1280 x 800 pixels (~149 ppi pixel density)",
+            "Size": "10.1 inches (~63.8% screen-to-body ratio)",
+            "Type": "LED-backlit IPS LCD, capacitive touchscreen"
+        },
+        "Features": {
+            "": "- mini HDMI port\n- MP3/MP4 player\n- Polaris Office 3.0 editor \n- Organizer\n- Predictive text input",
+            "Browser": "HTML, Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "Email, Push Email, IM",
+            "Sensors": "Accelerometer, gyro, compass"
+        },
+        "Launch": {
+            "Announced": "2011, January. Released 2011, April",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "16/32 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "6/10 (About 280 EUR)"
+        },
+        "Network": {
+            "2G bands": "N/A",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "No cellular connectivity"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1 GHz Cortex-A9",
+            "Chipset": "Nvidia Tegra 2 T20",
+            "GPU": "ULP GeForce",
+            "OS": "Android OS, v3.0 (Honeycomb), v3.2 (Honeycomb), upgradable to v4.0 (Ice Cream Sandwich)"
+        },
+        "Sound": {
+            "": "- SRS audio",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "canonical_name": "Tablet with no support for GSM voice communication, SMS, and MMS.",
+        "device_name": "Asus Transformer TF101",
+        "image": {
+            "href": "http://www.gsmarena.com/asus_transformer_tf101-pictures-3936.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/asus-transformer.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/asus_transformer_tf101-3936.php"
+    }
+}

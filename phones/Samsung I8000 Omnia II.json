@@ -1,0 +1,87 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1500 mAh battery",
+            "Stand-by": "Up to 430 h (2G) / Up to 430 h (3G)",
+            "Talk time": "Up to 12 h (2G) / Up to 8 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "118 x 59.6 x 12.3 mm (4.65 x 2.35 x 0.48 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "123 g (4.34 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face/smile detection, mobile blogging",
+            "Primary": "5 MP, 2592 x 1944 pixels, autofocus, dual-LED flash, check quality",
+            "Secondary": "VGA videocall camera",
+            "Video": "480p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "Yes, with A-GPS; navigation application",
+            "Radio": "Stereo FM radio with RDS; FM recording",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g, DLNA"
+        },
+        "Display": {
+            "": "- TouchWiz 2.0 UI\n- Handwriting recognition",
+            "Resolution": "480 x 800 pixels (~252 ppi pixel density)",
+            "Size": "3.7 inches (~55.4% screen-to-body ratio)",
+            "Type": "AMOLED resistive touchscreen, 16M colors (65K effective colors)"
+        },
+        "Features": {
+            "": "- Photo editor, video editor\n- DivX/XviD/MP4/H.264/WMV player\n- MP3/eAAC+/WMA/WMDRM/OMA DRM 2.1 player\n- Find Music service\n- Media Gate 3D\n- Pocket Office \n- TV-out\n- Mobile Tracker\n- Business card scanner",
+            "Browser": "HTML, Opera Browser v9.5",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS(threaded view), MMS, Email, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2009, June",
+            "Status": "Available. Released 2009, July"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "2/8/16 GB, 256 MB RAM, 512 MB ROM"
+        },
+        "Misc": {
+            "Colors": "Black, White, Pink",
+            "Price group": "4/10 (About 200 EUR)",
+            "SAR EU": "0.17 W/kg (head)",
+            "SAR US": "0.59 W/kg (head) \u00a0 \u00a0 0.30 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 1900 / 2100",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 7.2/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Samsung S3C6410 800MHz, dedicated graphics accelerator",
+            "OS": "Microsoft Windows Mobile 6.1 Professional, upgradeable to Windows Mobile 6.5/6.5.3"
+        },
+        "Sound": {
+            "": "- DNSe (Digital Natural Sound Engine)",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -88.3dB / Crosstalk -32.8dB",
+            "Camera": "Photo",
+            "Loudspeaker": "Voice 71dB / Noise 73dB / Ring 75dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Samsung WiTu AMOLED",
+        "device_name": "Samsung I8000 Omnia II",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_i8000_omnia_ii-pictures-2836.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-i8000.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_i8000_omnia_ii-2836.php"
+    }
+}

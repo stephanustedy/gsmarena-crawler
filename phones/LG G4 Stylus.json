@@ -1,0 +1,86 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 3000 mAh battery",
+            "Stand-by": "Up to 432 h (3G)",
+            "Talk time": "Up to 18 h (3G)"
+        },
+        "Body": {
+            "": "- Stylus",
+            "Dimensions": "154.3 x 79.2 x 9.6 mm (6.07 x 3.12 x 0.38 in)",
+            "SIM": "Yes",
+            "Weight": "163 g (5.75 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection, HDR, panorama",
+            "Primary": "13 MP, 4128 x 3096 pixels, optical image stabilization, laser autofocus, dual-LED flash (T-Mobile)\n8 MP, 3264 x 2448 pixels, laser autofocus, LED flash (LG H635)",
+            "Secondary": "5 MP",
+            "Video": "1080p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.1, A2DP",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "NFC": "Yes",
+            "Radio": "To be confirmed",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, Wi-Fi Direct, DLNA, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 3",
+            "Resolution": "720 x 1280 pixels (~258 ppi pixel density)",
+            "Size": "5.7 inches (~73.3% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/H.264 player\n- MP3/WAV/eAAC+ player\n- Photo/video editor\n- Document viewer",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2015, April",
+            "Status": "Available. Released 2015, May"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 128 GB",
+            "Internal": "8 GB, 1 GB RAM (LG H635)\n16 GB, 2 GB RAM (T-Mobile only)"
+        },
+        "Misc": {
+            "Colors": "Metallic Silver, Floral White",
+            "Price group": "6/10 (About 260 EUR)"
+        },
+        "Network": {
+            "": "LTE band 2(1900), 4(1700/2100), 12(700) - T-Mobile",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 1900 / 2100 - T-Mobile",
+            "4G bands": "LTE band 1(2100), 3(1800), 7(2600), 8(900), 20(800) - H635",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.2 GHz Cortex-A53 (LG H635)\nOcta-core 1.4 GHz (3G model)",
+            "Chipset": "Qualcomm MSM8916 Snapdragon 410 (LG H635)",
+            "GPU": "Adreno 306 (LG H635)",
+            "OS": "Android OS, v5.0 (Lollipop)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as LG G Stylo for T-Mobile",
+        "device_name": "LG G4 Stylus",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_g4_stylus-pictures-7212.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-g-stylo-.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_g4_stylus-7212.php"
+    }
+}

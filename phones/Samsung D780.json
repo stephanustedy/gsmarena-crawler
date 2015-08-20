@@ -1,0 +1,77 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1200 mAh battery",
+            "Stand-by": "Up to 250 h",
+            "Talk time": "Up to 3 h"
+        },
+        "Body": {
+            "Dimensions": "115 x 49.6 x 15.7 mm (4.53 x 1.95 x 0.62 in)",
+            "SIM": "Dual SIM (Mini-SIM)",
+            "Weight": "108.5 g (3.81 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "Stereo FM radio",
+            "USB": "v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~190 ppi pixel density)",
+            "Size": "2.1 inches (~23.9% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/AAC+/MP4 player\n- Document viewer (Word, Excel, PowerPoint, PDF)\n- Voice memo",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2008, April. Released 2008, June",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "30 received, dialed and missed calls",
+            "Card slot": "microSD, up to 2 GB",
+            "Internal": "32 MB",
+            "Phonebook": "1000 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Dark Silver, Mirror Silver, Gold",
+            "Price group": "3/10 (About 110 EUR)",
+            "SAR EU": "0.78 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -86.9dB / Crosstalk -88.3dB",
+            "Loudspeaker": "Voice 74dB / Noise 66dB / Ring 77dB"
+        }
+    },
+    "main": {
+        "device_name": "Samsung D780",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_d780-pictures-2340.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-d780.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_d780-2340.php"
+    }
+}

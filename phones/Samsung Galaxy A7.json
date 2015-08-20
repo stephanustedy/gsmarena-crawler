@@ -1,0 +1,93 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 2600 mAh battery",
+            "Music play": "Up to 54 h",
+            "Stand-by": "",
+            "Talk time": "Up to 17 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "151 x 76.2 x 6.3 mm (5.94 x 3.00 x 0.25 in)",
+            "SIM": "Nano-SIM",
+            "Weight": "141 g (4.97 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection, panorama, HDR",
+            "Primary": "13 MP, 4128 x 3096 pixels, autofocus, LED flash, check quality",
+            "Secondary": "5 MP, 1080p",
+            "Video": "1080p@30fps, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, EDR, LE",
+            "GPS": "Yes, with A-GPS, GLONASS/ Beidou (market dependant)",
+            "NFC": "Yes",
+            "Radio": "FM radio with RDS; recording",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, WiFi Direct, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 4",
+            "Resolution": "1080 x 1920 pixels (~401 ppi pixel density)",
+            "Size": "5.5 inches (~72.5% screen-to-body ratio)",
+            "Type": "Super AMOLED capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- ANT+ support\n- Active noise cancellation with dedicated mic\n- MP4/WMV/H.264 player\n- MP3/WAV/WMA/eAAC+/FLAC player\n- Photo/video editor\n- Document viewer",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2015, January",
+            "Status": "Available. Released 2015, February"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "16 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Pearl White, Midnight Black, Champagne Gold",
+            "Price group": "7/10 (About 380 EUR)",
+            "SAR EU": "0.41 W/kg (head) \u00a0 \u00a0 0.55 W/kg (body)",
+            "SAR US": "1.05 W/kg (head) \u00a0 \u00a0 0.80 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100 - A700FD, A700F",
+            "4G bands": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 20(800) - A700FD, A700F",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.5 GHz Cortex-A53 & quad-core 1.0 GHz Cortex-A53 - A700FD\nQuad-core 1.8 Cortex-A15 GHz & quad-core 1.3 Cortex-A7 GHz - A700F",
+            "Chipset": "Qualcomm MSM8939 Snapdragon 615 - A700FD\nExynos 5 Octa 5430 - A700F",
+            "GPU": "Adreno 405 - A700FD\nMali-T628 MP6 - A700F",
+            "OS": "Android OS, v4.4.4 (KitKat), upgradable to v5.0.2 (Lollipop)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: Infinite (nominal), 3.679 (sunlight)",
+            "Loudspeaker": "Voice 64dB / Noise 66dB / Ring 73dB",
+            "Performance": "Basemark OS II: 786 / Basemark OS II 2.0: 813\nBasemark X: 4802"
+        }
+    },
+    "main": {
+        "canonical_name": "Available as:\nSamsung SM-A700F, SM-A700FD, SM-A700K, SM-A700L, SM-A700S, SM-A700X",
+        "device_name": "Samsung Galaxy A7",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_galaxy_a7-pictures-6763.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-a7.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_galaxy_a7-6763.php"
+    }
+}

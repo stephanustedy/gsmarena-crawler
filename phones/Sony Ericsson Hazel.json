@@ -1,0 +1,86 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 1000 mAh battery (BST-43)",
+            "Stand-by": "Up to 469 h (2G) / Up to 588 h (3G)",
+            "Talk time": "Up to 4 h 10 min (2G) / Up to 3 h 20 min (3G)"
+        },
+        "Body": {
+            "": "- Splash resistant",
+            "Dimensions": "102 x 49.5 x 16 mm (4.02 x 1.95 x 0.63 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "120 g (4.23 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face/smile detection",
+            "Primary": "5 MP, 2560 x 1920 pixels, autofocus, LED flash, check quality",
+            "Secondary": "Yes",
+            "Video": "480p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP",
+            "GPS": "Yes, with A-GPS; Wisepilot navigation",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "USB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g, DLNA"
+        },
+        "Display": {
+            "Protection": "Scratch-resistant glass",
+            "Resolution": "240 x 320 pixels (~154 ppi pixel density)",
+            "Size": "2.6 inches (~41.5% screen-to-body ratio)",
+            "Type": "TFT, 16M colors"
+        },
+        "Features": {
+            "": "- Noise cancellation with dedicated microphone\n- HD Voice ready\n- MP3/eAAC+/WAV player\n- SensMe, Track ID\n- MP4/H.264 player\n- Photo editor \n- Widget Manager\n- Organizer\n- Eco friendly materials\n- Walkmate, CO2 Calculator\n- Voice memo/dial\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML (NetFront), RSS reader",
+            "Games": "Yes, incl. motion-based + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2009, December",
+            "Status": "Available. Released 2010, May"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 16 GB",
+            "Internal": "280 MB",
+            "Phonebook": "1000 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Superior Black, Passionate Rouge",
+            "Price group": "3/10 (About 110 EUR)",
+            "SAR EU": "0.68 W/kg (head)"
+        },
+        "Network": {
+            "": "HSDPA 2100",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Up to 247 kbps",
+            "GPRS": "Up to 80 kbps",
+            "Speed": "HSPA 7.2/2 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; MP3 ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -87.3dB / Crosstalk -86.8dB",
+            "Camera": "Photo",
+            "Loudspeaker": "Voice 65dB / Noise 62dB / Ring 66dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Sony Ericsson Hazel GreenHeart",
+        "device_name": "Sony Ericsson Hazel",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_ericsson_hazel-pictures-3058.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/se-hazel-new.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_ericsson_hazel-3058.php"
+    }
+}

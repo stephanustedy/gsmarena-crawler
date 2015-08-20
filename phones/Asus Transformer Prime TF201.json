@@ -1,0 +1,82 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po battery (25 Wh)",
+            "Stand-by": "Up to 300 h",
+            "Talk time": "Up to 12 h"
+        },
+        "Body": {
+            "Dimensions": "263 x 180.8 x 8.3 mm (10.35 x 7.12 x 0.33 in)",
+            "SIM": "No",
+            "Weight": "586 g (1.29 lb)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash",
+            "Secondary": "1.2 MP",
+            "Video": "1080p"
+        },
+        "Comms": {
+            "Bluetooth": "Yes",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "No",
+            "USB": "v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n"
+        },
+        "Display": {
+            "": "- ASUS Waveshare UI",
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "1280 x 800 pixels (~149 ppi pixel density)",
+            "Size": "10.1 inches (~62.2% screen-to-body ratio)",
+            "Type": "Super IPS+ LCD, capacitive touchscreen"
+        },
+        "Features": {
+            "": "- HDMI port\n- MP3/WAV/WMA/AAC player\n- MP4/H.264 player\n- Document editor\n- Organizer\n- Voice memo\n- Predictive text input",
+            "Browser": "HTML, Adobe Flash",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "Email, Push Email, IM",
+            "Sensors": "Accelerometer, gyro, compass"
+        },
+        "Launch": {
+            "Announced": "2011, October",
+            "Status": "Available. Released 2011, December"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "32/64 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Amethyst Gray, Champagne Gold",
+            "Price group": "7/10 (About 350 EUR)"
+        },
+        "Network": {
+            "2G bands": "N/A",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "No cellular connectivity"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.3 GHz Cortex-A9",
+            "Chipset": "Nvidia Tegra 3",
+            "GPU": "ULP GeForce",
+            "OS": "Android OS, v3.2 (Honeycomb), upgradable to v4.0 (Ice Cream Sandwich)"
+        },
+        "Sound": {
+            "": "- SRS audio",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "canonical_name": "Tablet with no support for GSM voice communication, SMS, and MMS",
+        "device_name": "Asus Transformer Prime TF201",
+        "image": {
+            "href": "http://www.gsmarena.com/asus_transformer_prime_tf201-pictures-4322.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/asus-eee-pad-transformer-prime.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/asus_transformer_prime_tf201-4322.php"
+    }
+}

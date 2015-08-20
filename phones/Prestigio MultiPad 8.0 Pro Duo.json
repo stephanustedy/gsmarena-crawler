@@ -1,0 +1,76 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po 4700 mAh battery",
+            "Stand-by": "Up to 120 h",
+            "Talk time": "Up to 5 h (multimedia)"
+        },
+        "Body": {
+            "Dimensions": "203 x 153 x 11 mm (7.99 x 6.02 x 0.43 in)",
+            "SIM": "No",
+            "Weight": "490 g (1.08 lb)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": ""
+        },
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "miniUSB v2.0, USB Host",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "768 x 1024 pixels (~160 ppi pixel density)",
+            "Size": "8.0 inches (~63.8% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen"
+        },
+        "Features": {
+            "": "- HDMI port\n- MP3/WAV/eAAC/WMA/Flac player\n- MP4/H.264/WMV player\n- Document viewer\n- Photo viewer/editor\n- Voice memo/dial",
+            "Browser": "Yes",
+            "Java": "No",
+            "Messaging": "Email, IM",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2013",
+            "Status": "Available. Released 2013"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "8 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "4/10 (About 200 EUR)"
+        },
+        "Network": {
+            "2G bands": "N/A",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "No cellular connectivity"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.5 GHz Cortex-A9",
+            "GPU": "Mali-400MP",
+            "OS": "Android OS, v4.0 (Ice Cream Sandwich)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "device_name": "Prestigio MultiPad 8.0 Pro Duo",
+        "image": {
+            "href": "http://www.gsmarena.com/prestigio_multipad_8_0_pro_duo-pictures-5571.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/prestigio-multipad-80-pro-duo.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/prestigio_multipad_8_0_pro_duo-5571.php"
+    }
+}

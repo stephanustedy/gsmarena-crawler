@@ -1,0 +1,77 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion battery",
+            "Stand-by": "Up to 320 h",
+            "Talk time": "Up to 5 h"
+        },
+        "Body": {
+            "Dimensions": "83 x 46 x 24 mm (3.27 x 1.81 x 0.94 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "94 g (3.32 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second external CSTN display 4096 colors (101 x 80 pixels)\n- Wallpapers, screensavers",
+            "Resolution": "128 x 160 pixels (~114 ppi pixel density)",
+            "Size": "1.8 inches, 29 x 35 mm (~26.7% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- Push-to-talk\n- MP3/AAC/MP4 player\n- Photo editor\n- Exchangeable covers\n- Organizer\n- SyncML",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2006, April",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "30 received, dialed and missed calls",
+            "Card slot": "No",
+            "Internal": "12 MB",
+            "Phonebook": "500 x 8 fields, Photo call"
+        },
+        "Misc": {
+            "Colors": "New Blue",
+            "Price group": "2/10 (About 90 EUR)",
+            "SAR US": "1.47 W/kg (head) \u00a0 \u00a0 0.70 W/kg (body)"
+        },
+        "Network": {
+            "": "GSM 850 / 1800 / 1900 - Z525a",
+            "2G bands": "GSM 900 / 1800 / 1900 - Z525i",
+            "EDGE": "No",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3, AAC ringtones, composer",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Z525i - GSM 900/1800/1900 in Europe\nZ525a - GSM 850/1800/1900 in America",
+        "device_name": "Sony Ericsson Z525",
+        "image": {
+            "href": "http://www.gsmarena.com/sony_ericsson_z525-pictures-1526.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/sonyericsson-z525.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sony_ericsson_z525-1526.php"
+    }
+}

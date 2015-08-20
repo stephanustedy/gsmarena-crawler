@@ -1,0 +1,73 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1000 mAh battery",
+            "Stand-by": "Up to 300 h",
+            "Talk time": "Up to 4 h 30 min"
+        },
+        "Body": {
+            "Dimensions": "114 x 46.5 x 11.3 mm (4.49 x 1.83 x 0.44 in)",
+            "SIM": "Dual SIM (Mini-SIM)",
+            "Weight": "86 g (3.03 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 1024 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v1.2",
+            "GPS": "No",
+            "Radio": "FM radio, scheduled FM recording",
+            "USB": "No",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "176 x 220 pixels (~141 ppi pixel density)",
+            "Size": "2.0 inches (~23.7% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- MP4/H.263 player\n- MP3/AAC player\n- Auto Power On/Off\n- Currency/unit convertor\n- Voice memo\n- Predictive text input",
+            "Browser": "Yes",
+            "Games": "Downloadable",
+            "Java": "Yes",
+            "Messaging": "SMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2010",
+            "Status": "Available. Released 2010"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "microSD, up to 4 GB",
+            "Internal": "1 MB",
+            "Phonebook": "1200 entries"
+        },
+        "Misc": {
+            "Colors": "Mettalic Silver",
+            "Price group": "1/10 (About 30 EUR)"
+        },
+        "Network": {
+            "": "GSM 900 / 1800 - SIM 2",
+            "2G bands": "GSM 900 / 1800 - SIM 1",
+            "EDGE": "No",
+            "GPRS": "Yes",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration, Polyphonic",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Spice M-5454",
+        "image": {
+            "href": "http://www.gsmarena.com/spice_m_5454-pictures-3661.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/spice-m-5454.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/spice_m_5454-3661.php"
+    }
+}

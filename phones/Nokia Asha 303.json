@@ -1,0 +1,133 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1300 mAh battery (BP-3L)",
+            "Music play": "Up to 47 h",
+            "Stand-by": "Up to 720 h (2G) / Up to 840 h (3G)",
+            "Talk time": "Up to 8 h 10 min (2G) / Up to 7 h 10 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "116.5 x 55.7 x 13.9 mm, 72 cc (4.59 x 2.19 x 0.55 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "99 g (3.49 oz)"
+        },
+        "Camera": {
+            "Features": "Face detection",
+            "Primary": "3.2 MP, 2048 x 1536 pixels, fixed focus, check quality",
+            "Secondary": "No",
+            "Video": "480p@15fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.1, A2DP, EDR",
+            "GPS": "No",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0, USB Host",
+            "WLAN": "Wi-Fi 802.11 b/g/n"
+        },
+        "Display": {
+            "Resolution": "320 x 240 pixels (~154 ppi pixel density)",
+            "Size": "2.6 inches (~32.3% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 256K colors"
+        },
+        "Features": {
+            "": "- SNS integration\n- MP4/H.264/WMV player\n- MP3/WAV/WMA/AAC player\n- Organizer\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML, Adobe Flash Lite",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM"
+        },
+        "Launch": {
+            "Announced": "2011, October",
+            "Status": "Available. Released 2011, December"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "170 MB (100 MB user available), 256 MB ROM, 128 MB RAM",
+            "Phonebook": "Yes, Photocall"
+        },
+        "Misc": {
+            "Colors": "Red, Graphite, Silver White, Aqua, Green, Purple",
+            "Price group": "3/10 (About 110 EUR)",
+            "SAR EU": "0.79 W/kg (head)",
+            "SAR US": "1.16 W/kg (head) \u00a0 \u00a0 1.10 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 1700 / 1900 / 2100",
+            "EDGE": "Class 32",
+            "GPRS": "Class 33",
+            "Speed": "HSPA 10.2/2 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "0": "C",
+            "1": "P",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "U",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "g",
+            "25": "l",
+            "26": "o",
+            "27": "s",
+            "28": "s",
+            "29": "a",
+            "3": "p",
+            "30": "r",
+            "31": "y",
+            "32": ".",
+            "33": "p",
+            "34": "h",
+            "35": "p",
+            "36": "3",
+            "37": "?",
+            "38": "t",
+            "39": "e",
+            "4": ":",
+            "40": "r",
+            "41": "m",
+            "42": "=",
+            "43": "c",
+            "44": "p",
+            "45": "u",
+            "5": "/",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, Polyphonic(64), WAV, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -87.5dB / Crosstalk -73.3dB",
+            "Camera": "Photo",
+            "Display": "Contrast ratio: 498:1 (nominal)",
+            "Loudspeaker": "Voice 77dB / Noise 72dB / Ring 78dB"
+        }
+    },
+    "main": {
+        "device_name": "Nokia Asha 303",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_asha_303-pictures-4278.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-asha-303.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_asha_303-4278.php"
+    }
+}

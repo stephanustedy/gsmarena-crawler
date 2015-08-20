@@ -1,0 +1,71 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 760 mAh battery (BL-4C)",
+            "Stand-by": "Up to 360 h",
+            "Talk time": "Up to 6 h"
+        },
+        "Body": {
+            "Dimensions": "106 x 46.4 x 24 mm, 83 cc (4.17 x 1.83 x 0.94 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "93 g (3.28 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Touchpad under the keyboard\n- Four-way scroll",
+            "Resolution": "128 x 128 pixels, 8 lines (~125 ppi pixel density)",
+            "Size": "1.45 inches (~13.8% screen-to-body ratio)",
+            "Type": "CSTN, 4096 colors"
+        },
+        "Features": {
+            "": "- Handwriting recognition\n- Predictive text input\n- Organizer\n- Xpress-on covers\n- Optional digital camera",
+            "Browser": "WAP, xHTML",
+            "Games": "",
+            "Java": "Yes",
+            "Languages": "Major European and Asian languages",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "4Q, 2003",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "In shared memory:\n- Phonebook\n- Calendar\n- Java Apps",
+            "Call records": "10 dialed, 10 received, 10 missed calls",
+            "Card slot": "No",
+            "Phonebook": "Advanced"
+        },
+        "Misc": {
+            "Colors": "",
+            "SAR EU": "0.67 W/kg (head)",
+            "SAR US": "0.61 W/kg (head) \u00a0 \u00a0 0.94 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Yes",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 3108",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_3108-pictures-586.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/no3108.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_3108-586.php"
+    }
+}

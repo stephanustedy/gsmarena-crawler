@@ -1,0 +1,78 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 850 mAh battery (BL-5C)",
+            "Stand-by": "Up to 150 - 240 h",
+            "Talk time": "Up to 2 h - 4 h"
+        },
+        "Body": {
+            "Dimensions": "130 x 57 x 26 mm, 139 cc (5.12 x 2.24 x 1.02 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "130 g (4.59 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v1.1",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- 5-way scroll key\n- Wallpapers",
+            "Resolution": "176 x 208 pixels (~130 ppi pixel density)",
+            "Size": "2.1 inches, 35 x 41 mm (~18.9% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- Predictive text input\n- Calculator\n- Voice dial\n- Voice record",
+            "Browser": "WAP 2.0/xHTML",
+            "Java": "Yes, MIDP 1.0",
+            "Languages": "Most major European, Asian and American",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2003, 4Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "- Editable message templates\n- Calendar notes",
+            "Card slot": "MMC",
+            "Internal": "3.4 MB"
+        },
+        "Misc": {
+            "Colors": "Red, Blue",
+            "SAR EU": "0.75 W/kg (head)",
+            "SAR US": "0.77 W/kg (head) \u00a0 \u00a0 1.13 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Class 4",
+            "Technology": "GSM"
+        },
+        "Platform": {
+            "CPU": "104 MHz ARM 920T",
+            "OS": "Symbian OS v6.1, Series 60 v1.0 UI"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, monophonic, WAV ringtones, composer",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 3660",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_3660-pictures-550.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/no3660.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_3660-550.php"
+    }
+}

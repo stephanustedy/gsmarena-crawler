@@ -1,0 +1,77 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 860 mAh battery (BL-4CT)",
+            "Stand-by": "Up to 432 h",
+            "Talk time": "Up to 5 h"
+        },
+        "Body": {
+            "Dimensions": "93 x 46 x 17.9 mm, 63.8 cc (3.66 x 1.81 x 0.70 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "90.3 g (3.17 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 1024 pixels",
+            "Secondary": "No",
+            "Video": "CIF@15fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0",
+            "GPS": "No",
+            "Radio": "Stereo FM radio with RDS, FM recording",
+            "USB": "No",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second external monochrome TFT display, 128 x 160 pixels, 1.36 inches",
+            "Resolution": "120 x 160 pixels (~111 ppi pixel density)",
+            "Size": "1.8 inches (~23.5% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- MP3/AAC player\n- MP4/H.263 player\n- Organizer\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2009, May",
+            "Status": "Available. Released 2009, September"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "No",
+            "Internal": "9 MB",
+            "Phonebook": "500 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Black, Deep Red",
+            "Price group": "1/10 (About 40 EUR)",
+            "SAR EU": "1.24 W/kg (head)",
+            "SAR US": "0.77 W/kg (head) \u00a0 \u00a0 0.51 W/kg (body)"
+        },
+        "Network": {
+            "": "GSM 850 / 1900 - RM-520 (USA)",
+            "2G bands": "GSM 900 / 1800 - RM-519",
+            "EDGE": "Class 6",
+            "GPRS": "Class 10",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "": "- 2.5 mm audio jack",
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 2720 fold",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_2720_fold-pictures-2801.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-2720-f.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_2720_fold-2801.php"
+    }
+}

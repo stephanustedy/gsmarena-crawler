@@ -1,0 +1,128 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1500 mAh battery (BP-4L)",
+            "Music play": "Up to 17 h",
+            "Stand-by": "Up to 500 h (2G) / Up to 500 h (3G)",
+            "Talk time": "Up to 5 h (2G) / Up to 4 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "97.5 x 57.9 x 15.5 mm, 78.5 cc (3.84 x 2.28 x 0.61 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "123.9 g (4.34 oz)"
+        },
+        "Camera": {
+            "Primary": "3.15 MP, 2048 x 1536 pixels, enhanced fixed focus, check quality",
+            "Secondary": "No",
+            "Video": "320p@15fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "Yes, with A-GPS; Nokia Maps",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "320 x 240 pixels (~167 ppi pixel density)",
+            "Size": "2.4 inches (~31.6% screen-to-body ratio)",
+            "Type": "TFT, 16M colors"
+        },
+        "Features": {
+            "": "- MPEG4/H.264/RV10/WMV9 player\n- MP3/WAV/AAC/WMA9 player\n- Quickoffice, PDF Reader\n- Photo editor\n- Voice memo/dial\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML, Adobe Flash Lite",
+            "Java": "Yes, MIDP 2.1",
+            "Messaging": "SMS, MMS, Email, IM",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2009, July",
+            "Status": "Available. Released 2009, October"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 16 GB, 2 GB included",
+            "Internal": "120 MB"
+        },
+        "Misc": {
+            "Colors": "Black, Red, White",
+            "Price group": "3/10 (About 110 EUR)",
+            "SAR EU": "0.85 W/kg (head)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Class 32",
+            "GPRS": "Class 32",
+            "Speed": "HSPA 3.6/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "0": "O",
+            "1": "S",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "t",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "g",
+            "25": "l",
+            "26": "o",
+            "27": "s",
+            "28": "s",
+            "29": "a",
+            "3": "p",
+            "30": "r",
+            "31": "y",
+            "32": ".",
+            "33": "p",
+            "34": "h",
+            "35": "p",
+            "36": "3",
+            "37": "?",
+            "38": "t",
+            "39": "e",
+            "4": ":",
+            "40": "r",
+            "41": "m",
+            "42": "=",
+            "43": "o",
+            "44": "s",
+            "5": "/",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Sound": {
+            "": "- 2.5 mm audio jack",
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -79.1dB / Crosstalk -72.1dB",
+            "Camera": "Photo",
+            "Loudspeaker": "Voice 67dB / Noise 66dB / Ring 75dB"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 6760 slide",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_6760_slide-pictures-2882.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-6760-slide.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_6760_slide-2882.php"
+    }
+}

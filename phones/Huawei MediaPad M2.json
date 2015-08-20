@@ -1,0 +1,108 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po 4800 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "214.8 x 124 x 7.8 mm (8.46 x 4.88 x 0.31 in)",
+            "SIM": "Yes",
+            "Weight": "330 g (11.64 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash",
+            "Secondary": "2 MP",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, EDR, LE",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "Radio": "To be confirmed",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, hotspot"
+        },
+        "Display": {
+            "": "- Emotion UI 3.1",
+            "Multitouch": "Yes, up to 10 fingers",
+            "Resolution": "1200 x 1920 pixels (~283 ppi pixel density)",
+            "Size": "8.0 inches (~69.7% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP3/WAV/Flac player\n- MP4/H.264 player\n- Document viewer\n- Photo/video editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2015, May",
+            "Status": "Available. Released 2015, May"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 128 GB",
+            "Internal": "16 GB, 2 GB RAM - Standard edition\n32 GB, 3 GB RAM - Premium edition"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "": "LTE band 1(2100), 3(1800), 7(2600), 38(2600), 39(1900), 40(2300), 41(2500) - M2-803L",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - all versions",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100 - M2-801L, M2-803L",
+            "4G bands": "LTE band 1(2100), 3(1800), 7(2600), 8(900), 20(800), 38(2600), 40(2300) - M2-801L",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Octa-core 2.0 GHz",
+            "Chipset": "Hisilicon Kirin 930",
+            "GPU": "Mali-T628 MP4",
+            "OS": "Android OS, v5.1 (Lollipop)"
+        },
+        "Sound": {
+            "": "- Harman Kardon sound",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, dual speakers"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Huawei MediaPad M2 8.0",
+        "device_name": "Huawei MediaPad M2",
+        "image": {
+            "href": "http://www.gsmarena.com/huawei_mediapad_m2-pictures-7309.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/huawei-mediapad-m2.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/huawei_mediapad_m2-7309.php"
+    }
+}

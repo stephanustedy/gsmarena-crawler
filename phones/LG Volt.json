@@ -1,0 +1,84 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 3000 mAh battery",
+            "Stand-by": "",
+            "Talk time": "Up to 24 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "131.6 x 66 x 10.4 mm (5.18 x 2.60 x 0.41 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "136.1 g (4.80 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, panorama, HDR",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash",
+            "Secondary": "1.3 MP",
+            "Video": "1080p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "Infrared port": "Yes",
+            "NFC": "Yes",
+            "Radio": "FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, DLNA, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 2",
+            "Resolution": "540 x 960 pixels (~234 ppi pixel density)",
+            "Size": "4.7 inches (~70.1% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- DivX/XviD/MP4/H.264 player\n- MP3/WAV/eAAC+/Flac player\n- Photo viewer/editor\n- Document viewer\n- Voice memo/dial",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2014, May",
+            "Status": "Available. Released 2014, May"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "8 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Blue (Boost Mobile), White (Virgin Mobile)",
+            "Price group": "3/10 (About 130 EUR)"
+        },
+        "Network": {
+            "2G bands": "CDMA 800 / 1900",
+            "4G bands": "LTE band 25(1900), 26(850), 41(2500)",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Speed": "CDMA, LTE",
+            "Technology": "CDMA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.2 GHz Cortex-A7",
+            "Chipset": "Qualcomm MSM8926 Snapdragon 400",
+            "GPU": "Adreno 305",
+            "OS": "Android OS, v4.4.2 (KitKat)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Available as:\nLG Volt LS740, LG Volt 4G LTE for Virgin Mobile\nLG LS740 Boost Mobile for Boost Mobile",
+        "device_name": "LG Volt",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_volt-pictures-6357.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-volt-ls740.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_volt-6357.php"
+    }
+}

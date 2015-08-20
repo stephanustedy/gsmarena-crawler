@@ -1,0 +1,91 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1520 mAh battery",
+            "Stand-by": "Up to 445 h (2G) / Up to 530 h (3G)",
+            "Talk time": "Up to 9 h (2G) / Up to 7 h 50 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "109.1 x 58.9 x 12.3 mm (4.30 x 2.32 x 0.48 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "120 g (4.23 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face detection",
+            "Primary": "5 MP, 2592 x 1944 pixels, autofocus, LED flash, check quality",
+            "Secondary": "VGA",
+            "Video": "480p@24fps"
+        },
+        "Comms": {
+            "Bluetooth": "v3.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "": "- HTC Sense UI",
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass",
+            "Resolution": "320 x 480 pixels (~170 ppi pixel density)",
+            "Size": "3.4 inches (~53.6% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Facebook dedicated key\n- MP3/AAC+/WAV/WMA player\n- MP4/H.264 player\n- Organizer\n- Document viewer\n- Voice memo\n- Predictive text input",
+            "Browser": "HTML",
+            "Java": "Yes, via Java MIDP emulator",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+            "Sensors": "Accelerometer, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2011, February",
+            "Status": "Available. Released 2011, June"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "512 MB, 512 MB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, Silver, Lilac",
+            "Price group": "3/10 (About 130 EUR)",
+            "SAR US": "0.49 W/kg (head) \u00a0 \u00a0 1.23 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 2100",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 900 / 2100",
+            "EDGE": "Up to 560 kbps",
+            "GPRS": "Up to 114 kbps",
+            "Speed": "HSPA 7.2/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "800 MHz ARM 11",
+            "Chipset": "Qualcomm MSM7227 Snapdragon S1",
+            "GPU": "Adreno 200",
+            "OS": "Android OS, v2.3 (Gingerbread)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -86.0dB / Crosstalk -85.5dB",
+            "Camera": "Photo",
+            "Display": "Contrast ratio: 593:1 (nominal)",
+            "Loudspeaker": "Voice 71dB / Noise 65dB / Ring 75dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as HTC C510e, HTC Weike",
+        "device_name": "HTC Salsa",
+        "image": {
+            "href": "http://www.gsmarena.com/htc_salsa-pictures-3786.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/htc-salsa1.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/htc_salsa-3786.php"
+    }
+}

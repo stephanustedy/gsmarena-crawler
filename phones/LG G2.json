@@ -1,0 +1,97 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po 3000 mAh battery",
+            "Stand-by": "Up to 790 h (2G) / Up to 900 h (3G)",
+            "Talk time": "Up to 16 h 30 min (2G) / Up to 17 h 30 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "138.5 x 70.9 x 8.9 mm (5.45 x 2.79 x 0.35 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "143 g (5.04 oz)"
+        },
+        "Camera": {
+            "Features": "Simultaneous video and image recording, geo-tagging, face detection, HDR",
+            "Primary": "13 MP, 4160 x 3120 pixels, autofocus, optical image stabilization, LED flash, check quality",
+            "Secondary": "2.1 MP, 1080p@30fps",
+            "Video": "1080p@60fps, optical stabilization, HDR, stereo sound rec., check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, LE, apt-X",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "Infrared port": "Yes",
+            "NFC": "Yes",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0 (SlimPort), USB Host",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, DLNA, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 2",
+            "Resolution": "1080 x 1920 pixels (~424 ppi pixel density)",
+            "Size": "5.2 inches (~75.9% screen-to-body ratio)",
+            "Type": "True HD-IPS + LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP4/DviX/XviD/H.264/WMV player\n- MP3/WAV/FLAC/eAAC+/WMA player\n- Photo viewer/editor\n- Document viewer\n- Voice memo/dial/commands",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2013, August",
+            "Status": "Available. Released 2013, September"
+        },
+        "Memory": {
+            "Card slot": "No",
+            "Internal": "16/32 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White, Red, Gold",
+            "Price group": "6/10 (About 270 EUR)",
+            "SAR EU": "0.41 W/kg (head) \u00a0 \u00a0 0.47 W/kg (body)",
+            "SAR US": "0.50 W/kg (head) \u00a0 \u00a0 0.69 W/kg (body)"
+        },
+        "Network": {
+            "": "LTE band 1(2100), 2(1900), 4(1700/2100), 5(850), 17(700) - D800\nLTE band 25(1900), 26(850), 41(2500) - LS980",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - D800, D802, VS980, LS980",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100 - D802, VS980",
+            "4G bands": "LTE band 1(2100), 3(1800), 7(2600), 8(900), 20(800) - D802",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps, EV-DO Rev.A 3.1 Mbps",
+            "Technology": "GSM / CDMA / HSPA / EVDO / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 2.26 GHz Krait 400",
+            "Chipset": "Qualcomm MSM8974 Snapdragon 800",
+            "GPU": "Adreno 330",
+            "OS": "Android OS, v4.2.2 (Jelly Bean), upgradable to v5.0.2 (Lollipop)"
+        },
+        "Sound": {
+            "": "- Dolby mobile",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -91.9dB / Crosstalk -91.3dB",
+            "Battery life": "Endurance rating 81h",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 1495:1 (nominal) / 1.976:1 (sunlight)",
+            "Loudspeaker": "Voice 65dB / Noise 62dB / Ring 66dB",
+            "Performance": "Basemark OS II: 848 / Basemark X: 11101"
+        }
+    },
+    "main": {
+        "canonical_name": "Available as:\nLG G2 D800 for AT&T\nLG G2 D802 for Europe\nLG G2 D801 for T-Mobile\nLG G2 D802TA for Australia\nLG G2 D803 for Canada\nLG G2 VS980 for Verizon\nLG G2 LS980 for Sprint",
+        "device_name": "LG G2",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_g2-pictures-5543.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-g2-ofic.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_g2-5543.php"
+    }
+}

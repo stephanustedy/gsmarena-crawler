@@ -1,0 +1,85 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 4800 mAh battery",
+            "Music play": "Up to 127 h",
+            "Stand-by": "",
+            "Talk time": "Up to 11 h (multimedia)"
+        },
+        "Body": {
+            "Dimensions": "219 x 128.5 x 7.2 mm (8.62 x 5.06 x 0.28 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "335 g (11.82 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, face/smile detection",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash",
+            "Secondary": "2 MP, 1080p@30fps",
+            "Video": "1080p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, LE",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "microUSB v2.0 (MHL TV-out), USB Host",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot"
+        },
+        "Display": {
+            "": "- Samsung TouchWiz UI",
+            "Multitouch": "Yes, up to 10 fingers",
+            "Resolution": "1600 x 2560 pixels (~359 ppi pixel density)",
+            "Size": "8.4 inches (~72.7% screen-to-body ratio)",
+            "Type": "Super clear LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- MP4/DivX/XviD/WMV/H.265 player\n- MP3/WAV/eAAC+/FLAC player\n- Photo/video editor\n- Document viewer",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, gyro, compass"
+        },
+        "Launch": {
+            "Announced": "2014, January",
+            "Status": "Available. Released 2014, March"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "16/32 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White",
+            "Price group": "8/10 (About 420 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SM-T321, SM-T325",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100 - SM-T321, SM-T325",
+            "4G bands": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 20(800) - SM-T325",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 42.2/5.76 Mbps (T321)/ LTE Cat4 150/50 Mbps (T325)",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 2.3 GHz Krait 400",
+            "Chipset": "Qualcomm Snapdragon 800",
+            "GPU": "Adreno 330",
+            "OS": "Android OS, v4.4 (KitKat)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes, with stereo speakers"
+        }
+    },
+    "main": {
+        "canonical_name": "Available as:\nSamsung SM-T325 with 3G/LTE\nSamsung SM-T321 with 3G only",
+        "device_name": "Samsung Galaxy Tab Pro 8.4 3G/LTE",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_galaxy_tab_pro_8_4_3g_lte-pictures-6049.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-tab-pro-84.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_galaxy_tab_pro_8_4_3g_lte-6049.php"
+    }
+}

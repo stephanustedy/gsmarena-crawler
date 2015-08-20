@@ -1,0 +1,88 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 3000 mAh battery",
+            "Stand-by": "Up to 381 h (3G)",
+            "Talk time": ""
+        },
+        "Body": {
+            "": "- Fingerprint sensor (PayPal certified)\n- S Pen stylus",
+            "Dimensions": "153.5 x 78.6 x 8.5 mm (6.04 x 3.09 x 0.33 in)",
+            "SIM": "Dual SIM (Micro-SIM, dual stand-by)",
+            "Weight": "175 g (6.17 oz)"
+        },
+        "Camera": {
+            "Features": "Dual Shot, Simultaneous HD video and image recording, geo-tagging, touch focus, face/smile detection, panorama, HDR",
+            "Primary": "16 MP, 5312 x 2988 pixels, optical image stabilization, autofocus, LED flash",
+            "Secondary": "3.7 MP, 1440p",
+            "Video": "2160p@30fps, 1080p@60fps, optical stabilization, dual-video rec."
+        },
+        "Comms": {
+            "Bluetooth": "v4.1, A2DP, EDR, LE",
+            "GPS": "Yes, with A-GPS, GLONASS, Beidou",
+            "Infrared port": "Yes",
+            "NFC": "Yes",
+            "Radio": "No",
+            "USB": "microUSB v2.0 (MHL 3 TV-out), USB Host",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 4",
+            "Resolution": "1440 x 2560 pixels (~515 ppi pixel density)",
+            "Size": "5.7 inches (~74.2% screen-to-body ratio)",
+            "Type": "Super AMOLED capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Fast battery charging: 60% in 30 min (Quick Charge 2.0)\n- ANT+ support\n- S-Voice natural language commands and dictation\n- Air gestures\n- Dropbox (50 GB cloud storage)\n- Active noise cancellation with dedicated mic\n- MP4/DivX/XviD/WMV/H.264 player\n- MP3/WAV/eAAC+/AC3/FLAC player\n- Photo/video editor\n- Document editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass, barometer, gesture, UV, heart rate, SpO2"
+        },
+        "Launch": {
+            "Announced": "2014, October",
+            "Status": "Available. Released 2014, October"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 128 GB",
+            "Internal": "16 GB, 3 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Frosted white, Charcoal black, Bronze Gold, Blossom Pink",
+            "Price group": "9/10 (About 600 EUR)",
+            "SAR EU": "0.20 W/kg (head) \u00a0 \u00a0 0.27 W/kg (body)",
+            "SAR US": "0.33 W/kg (head) \u00a0 \u00a0 1.09 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+            "4G bands": "LTE band 1(2100), 3(1800), 7(2600), 38(2600), 39(1900), 40(2300), 41(2500) - Hong Kong",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA, LTE",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 2.7 GHz Krait 450",
+            "Chipset": "Qualcomm Snapdragon 805",
+            "GPU": "Adreno 420",
+            "OS": "Android OS, v4.4.4 (KitKat), upgradable to v5.0.1 (Lollipop)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Samsung Galaxy Note4 (Dual SIM) SM-N9100",
+        "device_name": "Samsung Galaxy Note 4 Duos",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_galaxy_note_4_duos-pictures-6749.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-note-4-duos-sm-n9100.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_galaxy_note_4_duos-6749.php"
+    }
+}

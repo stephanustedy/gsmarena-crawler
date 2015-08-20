@@ -1,0 +1,96 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Po 2020 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "143 x 70.5 x 9.1 mm (5.63 x 2.78 x 0.36 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "140 g (4.94 oz)"
+        },
+        "Camera": {
+            "Features": "Simultaneous HD video and image recording, geo-tagging, face/smile detection",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash, check quality",
+            "Secondary": "2.1 MP, 1080p@30fps",
+            "Video": "1080p@30fps, stereo sound rec., check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, apt-X",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "NFC": "Yes (Market dependent)",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0 (MHL TV-out)",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, Wi-Fi Direct, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- HTC Sense UI 5.0",
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 2",
+            "Resolution": "1080 x 1920 pixels (~441 ppi pixel density)",
+            "Size": "5.0 inches (~68.4% screen-to-body ratio)",
+            "Type": "Super LCD3 capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Dropbox (25 GB cloud storage)\n- Active noise cancellation with dedicated mic\n- DivX/XviD/MP4/H.264/WMV player\n- MP3/eAAC+/WMA/WAV player\n- Document viewer/editor\n- Photo viewer/editor",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS (threaded view), MMS, Email, Push Email",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2012, December",
+            "Status": "Available. Released 2013, January"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "16 GB (11 GB user available), 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "7/10 (About 330 EUR)",
+            "SAR US": "0.97 W/kg (head) \u00a0 \u00a0 0.79 W/kg (body)"
+        },
+        "Network": {
+            "": "HSDPA 850 / 900 / 1900 / 2100",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 2100",
+            "4G bands": "LTE (market dependent)",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA, LTE Cat3 100/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.5 GHz Krait",
+            "Chipset": "Qualcomm APQ8064 Snapdragon 600",
+            "GPU": "Adreno 320",
+            "OS": "Android OS, v4.1.1 (Jelly Bean), v4.2.2 (Jelly Bean), planned upgrade to v4.4.2 (KitKat)"
+        },
+        "Sound": {
+            "": "- Beats Audio",
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -82.5dB / Crosstalk -80.8dB",
+            "Battery life": "Endurance rating 45h",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 1104:1 (nominal) / 1.873:1 (sunlight)",
+            "Loudspeaker": "Voice 69dB / Noise 70dB / Ring 77dB",
+            "Performance": "Basemark OS II: 360 / Basemark X: 5642"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as HTC Deluxe",
+        "device_name": "HTC Butterfly",
+        "image": {
+            "href": "http://www.gsmarena.com/htc_butterfly-pictures-5118.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/htc-bitterfly.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/htc_butterfly-5118.php"
+    }
+}

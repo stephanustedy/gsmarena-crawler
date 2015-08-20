@@ -1,0 +1,96 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 2800 mAh battery",
+            "Stand-by": "Up to 480 h",
+            "Talk time": "Up to 29 h"
+        },
+        "Body": {
+            "": "- IP67 certified - dust and water resistant up to 1 meter and 30 minutes\n- MIL-STD-810G certified - salt, dust, humidity, rain, vibration, solar radiation, transport and thermal shock resistant",
+            "Dimensions": "145.3 x 73.4 x 8.9 mm (5.72 x 2.89 x 0.35 in)",
+            "SIM": "Micro-SIM",
+            "Weight": "170.1 g (6.00 oz)"
+        },
+        "Camera": {
+            "Features": "Simultaneous HD video and image recording, geo-tagging, touch focus, face/smile detection, HDR, Aqua mode",
+            "Primary": "16 MP, 3456 x 4608 pixels, autofocus, LED flash, check quality",
+            "Secondary": "2 MP, 1080p@30fps",
+            "Video": "2160p@30fps, 1080p@30fps, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, EDR, LE, apt-X",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "NFC": "Yes",
+            "Radio": "No",
+            "USB": "microUSB v2.0, USB Host",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot"
+        },
+        "Display": {
+            "": "- TouchWiz UI",
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 3",
+            "Resolution": "1080 x 1920 pixels (~432 ppi pixel density)",
+            "Size": "5.1 inches (~67.2% screen-to-body ratio)",
+            "Type": "Super AMOLED capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Active noise cancellation with dedicated mic\n- HDMI port\n- MP4/DivX/XviD/WMV/H.264 player\n- MP3/WAV/eAAC+/AC3/FLAC player\n- Photo/video editor\n- Document viewer",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass, heart rate"
+        },
+        "Launch": {
+            "Announced": "2014, May",
+            "Status": "Available. Released 2014, May"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 128 GB",
+            "Internal": "16 GB (11.2 GB user available), 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Camo Green, Titanium Grey, Ruby Red",
+            "Price group": "9/10 (About 530 EUR)",
+            "SAR EU": "0.67 W/kg (head) \u00a0 \u00a0 0.45 W/kg (body)",
+            "SAR US": "0.92 W/kg (head) \u00a0 \u00a0 1.48 W/kg (body)"
+        },
+        "Network": {
+            "": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 17(700), 29(700) - Bell",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - all versions",
+            "3G bands": "HSDPA 850 / 1900 / 2100 - AT&T, Bell",
+            "4G bands": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 17(700) - AT&T",
+            "EDGE": "Class 33",
+            "GPRS": "Class 33",
+            "Speed": "HSPA 42.2/11.5 Mbps, LTE Cat4 150/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 2.5 GHz Krait 400",
+            "Chipset": "Qualcomm Snapdragon 801",
+            "GPU": "Adreno 330",
+            "OS": "Android OS, v4.4.2 (KitKat), upgradable to v5.0 (Lollipop)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -96.1dB / Crosstalk -96.5dB",
+            "Battery life": "Endurance rating 70h",
+            "Camera": "Photo / Video",
+            "Loudspeaker": "Voice 73dB / Noise 69dB / Ring 76dB",
+            "Performance": "Basemark OS II: 1035 / Basemark OS II 2.0: 1073\nBasemark X: 12111"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Samsung Galaxy S5 Active SM-G870A",
+        "device_name": "Samsung Galaxy S5 Active",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_galaxy_s5_active-pictures-6356.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s5-active.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_galaxy_s5_active-6356.php"
+    }
+}

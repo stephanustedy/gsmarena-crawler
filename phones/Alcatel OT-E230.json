@@ -1,0 +1,69 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 650 mAh battery",
+            "Stand-by": "Up to 250 h",
+            "Talk time": "Up to 10 h"
+        },
+        "Body": {
+            "Dimensions": "84.6 x 45 x 23.4 mm (3.33 x 1.77 x 0.92 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "83 g (2.93 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "No",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Embedded images and animations",
+            "Resolution": "102 x 80 pixels (~100 ppi pixel density)",
+            "Size": "1.3 inches (~13.9% screen-to-body ratio)",
+            "Type": "CSTN, 4096 colors"
+        },
+        "Features": {
+            "": "- Predictive text input\n- Organizer",
+            "Browser": "No",
+            "Games": "Embedded",
+            "Java": "No",
+            "Messaging": "SMS"
+        },
+        "Launch": {
+            "Announced": "2007, February",
+            "Status": "Cancelled"
+        },
+        "Memory": {
+            "Call records": "10 dialed, 10 received, 10 missed calls",
+            "Card slot": "No",
+            "Phonebook": "250 entries"
+        },
+        "Misc": {
+            "Colors": "White, Brown, Fuchsia",
+            "SAR EU": "1.00 W/kg (head)"
+        },
+        "Network": {
+            "": "GSM 850 / 1900 - US version",
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Polyphonic(16) ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Alcatel OT-E230",
+        "image": {
+            "href": "http://www.gsmarena.com/alcatel_ot_e230-pictures-1888.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/alcatel-e230.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/alcatel_ot_e230-1888.php"
+    }
+}

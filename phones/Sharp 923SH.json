@@ -1,0 +1,102 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 790 mAh battery",
+            "Stand-by": "Up to 310 h (2G) / Up to 310 h (3G)",
+            "Talk time": "Up to 4 h 20 min (2G) / Up to 3 h 20 min (3G)"
+        },
+        "Body": {
+            "": "- Optical trackpad",
+            "Dimensions": "113 x 50 x 18.6 mm (4.45 x 1.97 x 0.73 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "132 g (4.66 oz)"
+        },
+        "Camera": {
+            "Primary": "5 MP, 2592 x 1944 pixels, autofocus",
+            "Secondary": "Yes",
+            "Video": "w480p@30fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "Yes",
+            "Infrared port": "Yes",
+            "Radio": "No",
+            "USB": "v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Swivel and rotate display\n- External 0.6 inch display(86 x 16 pixels)",
+            "Resolution": "854 x 480 pixels (Wide-VGA) (~297 ppi pixel density)",
+            "Size": "3.3 inches (~53.1% screen-to-body ratio)",
+            "Type": "TFT, 16M colors"
+        },
+        "Features": {
+            "": "- DVB Tuner\n- MP3/eAAC+ player\n- MP4/ASF/3gp player\n- Predictive text input\n- Organizer\n- Voice memo\n- Document viewer (Word, Excel, PowerPoint, PDF)",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes + downloadable",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email (POP3, SMTP)",
+            "Sensors": "Accelerometer, compass"
+        },
+        "Launch": {
+            "Announced": "2008, June. Released 2008 July",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "10 dialed, 10 received, 10 missed calls",
+            "Card slot": "microSD, up to 4 GB",
+            "Internal": "100 MB",
+            "Phonebook": "Yes, up to 1000 entries"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "3G bands": "HSDPA 2100",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Speed": "HSPA 3.6/0.384 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3, AAC+ ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Sharp WX-T923 for Taiwan\nSharp 9020C for China",
+        "device_name": "Sharp 923SH",
+        "image": {
+            "href": "http://www.gsmarena.com/sharp_923sh-pictures-2762.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/sharp-923sh.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/sharp_923sh-2762.php"
+    }
+}

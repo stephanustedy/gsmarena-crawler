@@ -1,0 +1,77 @@
+{
+    "data": {
+        "Battery": {
+            "": "Non-removable Li-Ion 5600 mAh battery",
+            "Stand-by": "",
+            "Talk time": "Up to 6 h (multimedia)"
+        },
+        "Body": {
+            "Dimensions": "-",
+            "SIM": "No",
+            "Weight": "-"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "No",
+            "Video": ""
+        },
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "Yes",
+            "WLAN": "Wi-Fi 802.11 b/g"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "600 x 1024 pixels (~118 ppi pixel density)",
+            "Size": "10.1 inches",
+            "Type": "TFT capacitive touchscreen"
+        },
+        "Features": {
+            "": "- HDMI port\n- MP3/WAV/WMA/AAC/Flac player\n- DivX/XviD/MP4/WMV/H.264 player\n- Organizer\n- Photo editor\n- Document viewer/editor\n- Voice memo/dial\n- Predictive text input",
+            "Browser": "HTML, Adobe Flash",
+            "Java": "No",
+            "Messaging": "Email, IM",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2012, August",
+            "Status": "Available. Released 2012, August"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "8 GB, 1 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Silver, Black",
+            "Price group": "4/10 (About 170 EUR)"
+        },
+        "Network": {
+            "2G bands": "N/A",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "No cellular connectivity"
+        },
+        "Platform": {
+            "CPU": "1.2 GHz Cortex-A8",
+            "GPU": "Mali-400",
+            "OS": "Android OS, v4.0.3 (Ice Cream Sandwich)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Tablet with no support for GSM voice communication",
+        "device_name": "Micromax Funbook Pro",
+        "image": {
+            "href": "http://www.gsmarena.com/micromax_funbook_pro-pictures-4915.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/micromax-funbook-pro.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/micromax_funbook_pro-4915.php"
+    }
+}

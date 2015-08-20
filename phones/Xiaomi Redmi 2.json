@@ -1,0 +1,93 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po 2200 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "134 x 67.2 x 9.4 mm (5.28 x 2.65 x 0.37 in)",
+            "SIM": "Dual SIM (Micro-SIM, dual stand-by)",
+            "Weight": "133 g (4.69 oz)"
+        },
+        "Camera": {
+            "Features": "1.4 \u00b5m pixel size, geo-tagging, touch focus, face/smile detection, HDR",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash, check quality",
+            "Secondary": "2 MP, 720p",
+            "Video": "1080p@30fps, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, LE",
+            "GPS": "Yes, with A-GPS, GLONASS, Beidou",
+            "Radio": "FM radio",
+            "USB": "microUSB v2.0, USB Host",
+            "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot"
+        },
+        "Display": {
+            "": "- MIUI 6.0",
+            "Multitouch": "Yes",
+            "Protection": "Corning Gorilla Glass 2",
+            "Resolution": "720 x 1280 pixels (~312 ppi pixel density)",
+            "Size": "4.7 inches (~67.6% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- Fast battery charging: 30% in 30 min (Quick Charge 1.0)\n- Active noise cancellation with dedicated mic\n- MP4/H.264 player\n- MP3/WAV/eAAC+/FLAC player\n- Photo/video editor\n- Document viewer",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2015, August",
+            "Status": "Available. Released 2015, August"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "8 GB, 1 GB RAM\n16 GB, 2 GB RAM"
+        },
+        "Misc": {
+            "Colors": "Black, White, Yellow, Pink, Green",
+            "Price group": "3/10 (About 140 EUR)"
+        },
+        "Network": {
+            "": "TD-SCDMA 1900 / 2100",
+            "2G bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2",
+            "3G bands": "HSDPA 850 / 1900 / 2100",
+            "4G bands": "LTE band 3(1800), 7(2600), 38(2600), 39(1900), 40(2300), 41(2500)",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA, LTE Cat4 150/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.2 GHz Cortex-A53",
+            "Chipset": "Qualcomm MSM8916 Snapdragon 410",
+            "GPU": "Adreno 306",
+            "OS": "Android OS, v4.4.4 (KitKat)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -94.8dB / Crosstalk -95.8dB",
+            "Battery life": "Endurance rating 55h",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 974:1 (nominal), 1.763 (sunlight)",
+            "Loudspeaker": "Voice 70dB / Noise 70dB / Ring 77dB",
+            "Performance": "Basemark OS II: 509 / Basemark OS II 2.0: 511"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as Xiaomi Hongmi 2",
+        "device_name": "Xiaomi Redmi 2",
+        "image": {
+            "href": "http://www.gsmarena.com/xiaomi_redmi_2-pictures-6884.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-2.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/xiaomi_redmi_2-6884.php"
+    }
+}

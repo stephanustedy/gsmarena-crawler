@@ -1,0 +1,89 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 2600 mAh battery",
+            "Stand-by": "Up to 440 h (3G)",
+            "Talk time": "Up to 12 h (3G)"
+        },
+        "Body": {
+            "Dimensions": "162.6 x 82.4 x 9 mm (6.40 x 3.24 x 0.35 in)",
+            "SIM": "Optional Dual SIM (Micro-SIM)",
+            "Weight": "182 g (6.42 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face/smile detection",
+            "Primary": "8 MP, 3264 x 2448 pixels, autofocus, LED flash, check quality",
+            "Secondary": "1.9 MP",
+            "Video": "1080p@30fps, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP, LE",
+            "GPS": "Yes, with A-GPS, GLONASS",
+            "NFC": "No",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, DLNA, hotspot"
+        },
+        "Display": {
+            "": "- TouchWiz UI",
+            "Multitouch": "Yes",
+            "Resolution": "540 x 960 pixels (~190 ppi pixel density)",
+            "Size": "5.8 inches (~69.2% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/WMV/H.264 player\n- MP3/WAV/eAAC+/FLAC player\n- Photo/video editor\n- Document viewer",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, gyro, proximity, compass"
+        },
+        "Launch": {
+            "Announced": "2013, April",
+            "Status": "Available. Released 2013, May"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 64 GB",
+            "Internal": "8 GB, 1.5 GB RAM"
+        },
+        "Misc": {
+            "Colors": "White, Black, Plum Purple",
+            "Price group": "6/10 (About 280 EUR)",
+            "SAR EU": "0.22 W/kg (head) \u00a0 \u00a0 0.30 W/kg (body)",
+            "SAR US": "0.21 W/kg (head) \u00a0 \u00a0 0.99 W/kg (body)"
+        },
+        "Network": {
+            "": "GSM 850 / 900 / 1800 / 1900 - GT-I9152 (SIM 1 & SIM 2)",
+            "2G bands": "GSM 850 / 900 / 1800 / 1900 - GT-I9150",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Speed": "HSPA 21.1/5.76 Mbps",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.4 GHz",
+            "OS": "Android OS, v4.2.2 (Jelly Bean)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 1003:1 (nominal) / 1.350:1 (sunlight)",
+            "Loudspeaker": "Voice 66dB / Noise 64dB / Ring 71dB"
+        }
+    },
+    "main": {
+        "canonical_name": "Available as Samsung Galaxy Mega I9152 with Dual SIM card slot",
+        "device_name": "Samsung Galaxy Mega 5.8 I9150",
+        "image": {
+            "href": "http://www.gsmarena.com/samsung_galaxy_mega_5_8_i9150-pictures-5396.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-mega-5-8.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/samsung_galaxy_mega_5_8_i9150-5396.php"
+    }
+}

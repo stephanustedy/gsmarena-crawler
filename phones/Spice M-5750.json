@@ -1,0 +1,72 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1000 mAh battery",
+            "Stand-by": "Up to 500 h",
+            "Talk time": "Up to 5 h"
+        },
+        "Body": {
+            "Dimensions": "112 x 50 x 12 mm (4.41 x 1.97 x 0.47 in)",
+            "SIM": "Dual SIM (Mini-SIM)",
+            "Weight": "96 g (3.39 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 1024 pixels",
+            "Secondary": "No",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "FM radio; FM recording",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~145 ppi pixel density)",
+            "Size": "2.76 inches (~42.1% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen"
+        },
+        "Features": {
+            "": "- MP4/H.263 player\n- MP3/AAC+ player\n- Organizer\n- Voice memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Downloadable",
+            "Java": "Yes",
+            "Messaging": "SMS(threaded view), MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2011",
+            "Status": "Available"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "microSD, up to 8 GB",
+            "Internal": "8 MB",
+            "Phonebook": "1000 entries"
+        },
+        "Misc": {
+            "Colors": "Various",
+            "Price group": "1/10 (About 40 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+            "EDGE": "No",
+            "GPRS": "Yes",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Spice M-5750",
+        "image": {
+            "href": "http://www.gsmarena.com/spice_m_5750-pictures-4247.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/spice-m-5750.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/spice_m_5750-4247.php"
+    }
+}

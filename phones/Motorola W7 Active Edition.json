@@ -1,0 +1,77 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 910 mAh battery",
+            "Stand-by": "Up to 300 h (2G) / Up to 300 h (3G)",
+            "Talk time": "Up to 8 h (2G) / Up to 3 h 30 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "99 x 49 x 15 mm (3.90 x 1.93 x 0.59 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "105g (3.70 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels",
+            "Secondary": "VGA",
+            "Video": "QCIF@15fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "FM radio",
+            "USB": "miniUSB",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~182 ppi pixel density)",
+            "Size": "2.2 inches (~30.9% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/AAC+ player\n- Organizer\n- Voice memo\n- Fitness applications\n- Pedometer\n- Stopwatch\n- MotoID music recognition\n- Push-to-Talk\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML",
+            "Games": "Yes, motion-based",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, EMS, MMS, Email",
+            "Sensors": "Accelerometer"
+        },
+        "Launch": {
+            "Announced": "2009, May",
+            "Status": "Available. Released 2009, September"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "microSD, up to 8 GB",
+            "Internal": "30 MB",
+            "Phonebook": "500 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Black, Licorice and Alpine White",
+            "Price group": "2/10 (About 70 EUR)",
+            "SAR EU": "1.31 W/kg (head)",
+            "SAR US": "1.45 W/kg (head) \u00a0 \u00a0 0.80 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "UMTS 850 / 1900 / 2100",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "Yes, 384 kbps",
+            "Technology": "GSM / UMTS"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Motorola W7 Active Edition",
+        "image": {
+            "href": "http://www.gsmarena.com/motorola_w7_active_edition-pictures-2794.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/motorola-w7.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/motorola_w7_active_edition-2794.php"
+    }
+}

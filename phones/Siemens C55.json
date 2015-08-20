@@ -1,0 +1,94 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 700 mAh battery (EBA-510)",
+            "Stand-by": "250 h",
+            "Talk time": "6 h"
+        },
+        "Body": {
+            "Dimensions": "101 x 44 x 21 mm, 69 cc (3.98 x 1.73 x 0.83 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "80 g (2.82 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Navi key",
+            "Resolution": "101 x 64 pixels, 5 lines",
+            "Size": "",
+            "Type": "Monochrome graphic"
+        },
+        "Features": {
+            "": "- Predictive text input\n- Organizer\n- Changeable cover\n- User profiles\n- Built-in hadsfree",
+            "Alarm": "Yes",
+            "Browser": "WAP 1.2.1",
+            "Clock": "Yes",
+            "Games": "2 - The Prince of Persia, Galaxy Hero",
+            "Java": "Yes",
+            "Languages": "20",
+            "Messaging": "SMS, EMS, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2002, Sep",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "10 dialed, 10 received, 10 missed calls",
+            "Card slot": "No",
+            "Phonebook": "yes"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "Class 8",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, recorded ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Siemens C55",
+        "image": {
+            "href": "http://www.gsmarena.com/siemens_c55-pictures-336.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/sic55.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/siemens_c55-336.php"
+    }
+}

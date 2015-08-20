@@ -1,0 +1,75 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 860 mAh battery (BL-4CT)",
+            "Stand-by": "Up to 288 h",
+            "Talk time": "Up to 5 h 40 min"
+        },
+        "Body": {
+            "Dimensions": "106 x 45 x 10.6 mm (4.17 x 1.77 x 0.42 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "69.8 g (2.43 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels",
+            "Secondary": "No",
+            "Video": "QCIF@15fps"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Radio": "Stereo FM radio with RDS",
+            "USB": "microUSB v2.0",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "240 x 320 pixels (~200 ppi pixel density)",
+            "Size": "2.0 inches (~26.0% screen-to-body ratio)",
+            "Type": "TFT, 256K colors"
+        },
+        "Features": {
+            "": "- MP3/eAAC+/WMA player\n- MP4/H.264 player\n- Flickr Upload\n- Voice dial/memo\n- Predictive text input",
+            "Browser": "WAP 2.0/xHTML, HTML, Adobe Flash Lite",
+            "Games": "Snake 3D, Bounce II, Sudoku, Sea Sweeper",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2008, June. Released 2008, September",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "20 dialed, 20 received, 20 missed calls",
+            "Card slot": "microSD, up to 2 GB",
+            "Internal": "30 MB",
+            "Phonebook": "2000 entries, Photocall"
+        },
+        "Misc": {
+            "Colors": "Bubble Gum Pink, Vivid Blue, Graphite, Passionate Purple",
+            "Price group": "2/10 (About 90 EUR)",
+            "SAR EU": "1.00 W/kg (head)",
+            "SAR US": "1.29 W/kg (head) \u00a0 \u00a0 0.87 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "Class 32",
+            "GPRS": "Class 32",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "": "- 2.5 mm audio jack",
+            "3.5mm jack": "No",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Nokia 7210 Supernova",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_7210_supernova-pictures-2447.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/nokia-7210-s.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_7210_supernova-2447.php"
+    }
+}

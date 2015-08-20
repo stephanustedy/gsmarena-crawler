@@ -1,0 +1,95 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Po battery",
+            "Stand-by": "Up to 150 h",
+            "Talk time": "Up to 3 h"
+        },
+        "Body": {
+            "Dimensions": "91 x 46 x 23 mm (3.58 x 1.81 x 0.91 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "90 g (3.17 oz)"
+        },
+        "Camera": {
+            "Primary": "Yes",
+            "Secondary": "No",
+            "Video": "No"
+        },
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second external display ( orange LCD )\n- Wallpaper",
+            "Resolution": "128 x 160 pixels, 7 lines",
+            "Size": "",
+            "Type": "CSTN, 65K colors"
+        },
+        "Features": {
+            "": "- Sync ML\n- Predictive text input\n- Organizer",
+            "Browser": "WAP 1.2.1",
+            "Games": "Yes",
+            "Java": "Yes",
+            "Messaging": "SMS, EMS"
+        },
+        "Launch": {
+            "Announced": "2003",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "Call records": "20 received, dialed and missed calls",
+            "Card slot": "No",
+            "Phonebook": "250"
+        },
+        "Misc": {
+            "0": "C",
+            "1": "o",
+            "10": ".",
+            "11": "g",
+            "12": "s",
+            "13": "m",
+            "14": "a",
+            "15": "r",
+            "16": "e",
+            "17": "n",
+            "18": "a",
+            "19": ".",
+            "2": "l",
+            "20": "c",
+            "21": "o",
+            "22": "m",
+            "23": "/",
+            "24": "#",
+            "3": "o",
+            "4": "r",
+            "5": "s",
+            "6": "/",
+            "7": "w",
+            "8": "w",
+            "9": "w"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800",
+            "EDGE": "No",
+            "GPRS": "Yes",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "device_name": "Maxon MX-C20",
+        "image": {
+            "href": "http://www.gsmarena.com/maxon_mx_c20-pictures-581.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/mac20.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/maxon_mx_c20-581.php"
+    }
+}

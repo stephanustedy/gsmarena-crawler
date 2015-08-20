@@ -1,0 +1,75 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 800 mAh battery",
+            "Stand-by": "Up to 300 h",
+            "Talk time": "Up to 3 h 20 min"
+        },
+        "Body": {
+            "Dimensions": "105 x 46 x 14 mm (4.13 x 1.81 x 0.55 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "72 g (2.54 oz)"
+        },
+        "Camera": {
+            "Primary": "1.3 MP, 1280 x 1024 pixels",
+            "Secondary": "No",
+            "Video": "No"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0",
+            "GPS": "No",
+            "Radio": "FM radio; broadcast recording",
+            "USB": "Yes",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Second external 1.04 inches TFT display, 96 x 64 pixels",
+            "Resolution": "176 x 220 pixels (~160 ppi pixel density)",
+            "Size": "1.76 inches (~20.2% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- MP3 player\n- Organizer\n- Predictive text input",
+            "Browser": "No",
+            "Games": "Yes",
+            "Java": "No",
+            "Messaging": "SMS, EMS, MMS"
+        },
+        "Launch": {
+            "Announced": "2009, February",
+            "Status": "Available. Released 2009, August"
+        },
+        "Memory": {
+            "Call records": "10 dialed, 10 received, 10 missed calls",
+            "Card slot": "microSD, up to 2 GB",
+            "Internal": "6 MB",
+            "Phonebook": "Yes"
+        },
+        "Misc": {
+            "Colors": "Silver, Pink",
+            "Price group": "1/10 (About 50 EUR)",
+            "SAR US": "1.38 W/kg (head) \u00a0 \u00a0 0.68 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "Yes",
+            "GPRS": "Yes",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "canonical_name": "Also known as LG GB220 Kate",
+        "device_name": "LG GB220",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_gb220-pictures-2705.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-gb220-new.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_gb220-2705.php"
+    }
+}

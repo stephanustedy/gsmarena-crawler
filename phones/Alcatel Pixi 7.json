@@ -1,0 +1,75 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 2840 mAh battery",
+            "Stand-by": "",
+            "Talk time": "Up to 4 h (multimedia)"
+        },
+        "Body": {
+            "Dimensions": "9.9 mm thickness",
+            "SIM": "No",
+            "Weight": "285 g (10.05 oz)"
+        },
+        "Camera": {
+            "Primary": "VGA, 640 x 480 pixels",
+            "Secondary": "VGA",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "",
+            "GPS": "No",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Yes"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "540 x 960 pixels (~157 ppi pixel density)",
+            "Size": "7.0 inches (~62.3% screen-to-body ratio)",
+            "Type": "TFT capacitive touchscreen"
+        },
+        "Features": {
+            "": "- MP3/AAC/WAV player\n- MP4/H.263 player\n- Document viewer\n- Photo viewer/editor\n- Voice memo",
+            "Browser": "HTML",
+            "Java": "No",
+            "Messaging": "Email, Push Email, IM"
+        },
+        "Launch": {
+            "Announced": "2014, February",
+            "Status": "Available. Released 2014, July"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "4 GB, 1 GB RAM (LATAM), 512 MB RAM (EMEA)"
+        },
+        "Misc": {
+            "Colors": "Bluish Black, Gun Gray/ Color Skins",
+            "Price group": "2/10 (About 80 EUR)"
+        },
+        "Network": {
+            "2G bands": "N/A",
+            "EDGE": "No",
+            "GPRS": "No",
+            "Technology": "No cellular connectivity"
+        },
+        "Platform": {
+            "CPU": "Dual-core 1.2 GHz",
+            "Chipset": "Mediatek MT8117",
+            "OS": "Android OS, v4.4.2 (KitKat)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "Alcatel Pixi 7",
+        "image": {
+            "href": "http://www.gsmarena.com/alcatel_pixi_7-pictures-6164.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/alcatel-pixi-7.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/alcatel_pixi_7-6164.php"
+    }
+}

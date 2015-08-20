@@ -1,0 +1,71 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 950 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "": "- Flashlight",
+            "Dimensions": "107.2 x 44.9 x 14.6 mm (4.22 x 1.77 x 0.57 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "65.8 g (2.29 oz)"
+        },
+        "Camera": {},
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Radio": "FM radio",
+            "USB": "No",
+            "WLAN": "No"
+        },
+        "Display": {
+            "Resolution": "128 x 128 pixels (~125 ppi pixel density)",
+            "Size": "1.45 inches (~14.1% screen-to-body ratio)",
+            "Type": "TFT, 65K colors"
+        },
+        "Features": {
+            "": "- MP3 player\n- Organizer",
+            "Browser": "WAP",
+            "Games": "No",
+            "Java": "",
+            "Messaging": "SMS"
+        },
+        "Launch": {
+            "Announced": "2011",
+            "Status": "Available"
+        },
+        "Memory": {
+            "Call records": "Yes",
+            "Card slot": "miniSD, up to 2 GB",
+            "Internal": "4 MB",
+            "Phonebook": "Yes"
+        },
+        "Misc": {
+            "Colors": "Black",
+            "Price group": "1/10 (About 20 EUR)",
+            "SAR EU": "1.49 W/kg (head)",
+            "SAR US": "1.28 W/kg (head) \u00a0 \u00a0 0.42 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "EDGE": "No",
+            "GPRS": "Yes",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "LG A270",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_a270-pictures-4942.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-a270.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_a270-4942.php"
+    }
+}

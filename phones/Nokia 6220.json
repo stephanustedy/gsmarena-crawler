@@ -1,0 +1,80 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 780 mAh battery (BLD-3)",
+            "Stand-by": "Up to 150 - 300 h",
+            "Talk time": "Up to 2 - 5 h"
+        },
+        "Body": {
+            "Dimensions": "107 x 45 x 19 mm, 76 cc (4.21 x 1.77 x 0.75 in)",
+            "SIM": "Mini-SIM",
+            "Weight": "92 g (3.25 oz)"
+        },
+        "Camera": {
+            "Primary": "CIF, 352 x 288 pixels",
+            "Secondary": "No",
+            "Video": "No"
+        },
+        "Comms": {
+            "Bluetooth": "No",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "FM radio",
+            "USB": "Pop-Port",
+            "WLAN": "No"
+        },
+        "Display": {
+            "": "- Wallpapers\n- Four-way navigation",
+            "Resolution": "128 x 128 pixels, 8 lines (~121 ppi pixel density)",
+            "Size": "1.5 inches (~15.1% screen-to-body ratio)",
+            "Type": "CSTN, 4096 colors"
+        },
+        "Features": {
+            "": "- Predictive text input\n- SyncML\n- Organizer\n- Presence-enhanced contacts\n- Profiles",
+            "Alarm": "Yes",
+            "Browser": "WAP 2.0/xHTML",
+            "Clock": "Yes",
+            "Games": "2 preinstalled + Java downloadable",
+            "Java": "Yes",
+            "Languages": "Major European languages",
+            "Messaging": "SMS, MMS, Email"
+        },
+        "Launch": {
+            "Announced": "2003, 3Q",
+            "Status": "Discontinued"
+        },
+        "Memory": {
+            "": "In shared memory\n- MMS, max 100 kB each\n- Notes, max 3000 chars each\n- Images\n- Java apps, max 64 kB each",
+            "Call records": "20 dialed, 10 received, 10 missed calls",
+            "Card slot": "No",
+            "Phonebook": "300 names x 3 numbers, Photo call"
+        },
+        "Misc": {
+            "Colors": "2 - Blue and Plum",
+            "SAR EU": "0.66 W/kg (head)",
+            "SAR US": "0.73 W/kg (head) \u00a0 \u00a0 0.59 W/kg (body)"
+        },
+        "Network": {
+            "2G bands": "GSM 900 / 1800 / 1900",
+            "EDGE": "Yes, 118.4 kbps",
+            "GPRS": "Yes",
+            "Technology": "GSM"
+        },
+        "Sound": {
+            "": "- Personal alert tones",
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, monophonic ringtones",
+            "Loudspeaker": "No"
+        }
+    },
+    "main": {
+        "canonical_name": "CDMA 800/1900 version is called 6225",
+        "device_name": "Nokia 6220",
+        "image": {
+            "href": "http://www.gsmarena.com/nokia_6220-pictures-409.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/no6220.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/nokia_6220-409.php"
+    }
+}

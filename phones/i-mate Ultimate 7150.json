@@ -1,0 +1,78 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 1400 mAh battery",
+            "Stand-by": "",
+            "Talk time": ""
+        },
+        "Body": {
+            "Dimensions": "110 x 74 x 18 mm (4.33 x 2.91 x 0.71 in)",
+            "Keyboard": "QWERTY",
+            "SIM": "Mini-SIM",
+            "Weight": "180 g (6.35 oz)"
+        },
+        "Camera": {
+            "Primary": "2 MP, 1600 x 1200 pixels",
+            "Secondary": "VGA videocall camera",
+            "Video": "Yes"
+        },
+        "Comms": {
+            "Bluetooth": "v2.0, A2DP",
+            "GPS": "No",
+            "Infrared port": "Yes",
+            "Radio": "Stereo FM radio",
+            "USB": "miniUSB",
+            "WLAN": "Wi-Fi 802.11 b/g/e/i"
+        },
+        "Display": {
+            "": "- Second OLED, 2.2 inches display (128 x 128 pixels)\n- Handwriting recognition",
+            "Resolution": "640 x 480 pixels (~211 ppi pixel density)",
+            "Size": "3.8 inches (~54.9% screen-to-body ratio)",
+            "Type": "TFT resistive touchscreen, 256K colors (65K effective)"
+        },
+        "Features": {
+            "": "- Voice memo\n- MP3/AAC/AAC+/WMA/OGG/AMR player\n- WMV/MP4 player\n- Pocket Office \n- File manager\n- TV-out",
+            "Browser": "WAP 2.0/xHTML, HTML (PocketIE)",
+            "Java": "Yes, MIDP 2.0",
+            "Messaging": "SMS, MMS, Email, Instant Messaging"
+        },
+        "Launch": {
+            "Announced": "2007, February",
+            "Status": "Cancelled"
+        },
+        "Memory": {
+            "Card slot": "microSD",
+            "Internal": "128 MB RAM, 256 MB ROM"
+        },
+        "Misc": {
+            "Colors": "Silver",
+            "Price group": "6/10 (About 300 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 1900 / 2100",
+            "EDGE": "Class 10",
+            "GPRS": "Class 10",
+            "Speed": "HSPA",
+            "Technology": "GSM / HSPA"
+        },
+        "Platform": {
+            "CPU": "Intel Bulverde 520 MHz",
+            "OS": "Microsoft Windows Mobile 6.0 Professional"
+        },
+        "Sound": {
+            "3.5mm jack": "No",
+            "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+            "Loudspeaker": "Yes"
+        }
+    },
+    "main": {
+        "device_name": "i-mate Ultimate 7150",
+        "image": {
+            "href": "http://www.gsmarena.com/i_mate_ultimate_7150-pictures-1882.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/imate-ultim7150.gif"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/i_mate_ultimate_7150-1882.php"
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "data": {
+        "Battery": {
+            "": "Li-Ion 2610 mAh battery",
+            "Stand-by": "Up to 270 h (2G) / Up to 270 h (3G)",
+            "Talk time": "Up to 6 h 40 min (2G) / Up to 8 h 20 min (3G)"
+        },
+        "Body": {
+            "Dimensions": "138.7 x 71.9 x 10 mm (5.46 x 2.83 x 0.39 in)",
+            "SIM": "Yes",
+            "Weight": "135 g (4.76 oz)"
+        },
+        "Camera": {
+            "Features": "Geo-tagging, touch focus, face detection, panorama",
+            "Primary": "8 MP, 3264 x 2448 pixels, laser autofocus, LED flash, check quality",
+            "Secondary": "2.1 MP",
+            "Video": "1080p@30fps, check quality"
+        },
+        "Comms": {
+            "Bluetooth": "v4.0, A2DP",
+            "GPS": "Yes, with A-GPS",
+            "NFC": "Yes",
+            "Radio": "No",
+            "USB": "microUSB v2.0",
+            "WLAN": "Wi-Fi 802.11 b/g/n, hotspot"
+        },
+        "Display": {
+            "Multitouch": "Yes",
+            "Resolution": "720 x 1280 pixels (~294 ppi pixel density)",
+            "Size": "5.0 inches (~69.1% screen-to-body ratio)",
+            "Type": "IPS LCD capacitive touchscreen, 16M colors"
+        },
+        "Features": {
+            "": "- MP4/H.264 player\n- MP3/WAV/eAAC+ player\n- Photo/video editor\n- Document viewer",
+            "Browser": "HTML5",
+            "Java": "No",
+            "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+            "Sensors": "Accelerometer, proximity"
+        },
+        "Launch": {
+            "Announced": "2015, March",
+            "Status": "Available. Released 2015, May"
+        },
+        "Memory": {
+            "Card slot": "microSD, up to 32 GB",
+            "Internal": "16 GB, 1.5 GB RAM"
+        },
+        "Misc": {
+            "Colors": "White, Pink, Yellow, Navy",
+            "Price group": "6/10 (About 270 EUR)"
+        },
+        "Network": {
+            "2G bands": "GSM 850 / 900 / 1800 / 1900",
+            "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+            "4G bands": "LTE band 1(2100), 3(1800), 7(2600), 8(900)",
+            "EDGE": "Class 12",
+            "GPRS": "Class 12",
+            "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
+            "Technology": "GSM / HSPA / LTE"
+        },
+        "Platform": {
+            "CPU": "Quad-core 1.2 GHz Cortex-A7",
+            "Chipset": "Qualcomm Snapdragon 400",
+            "GPU": "Adreno 305",
+            "OS": "Android OS, v4.4.2 (KitKat)"
+        },
+        "Sound": {
+            "3.5mm jack": "Yes",
+            "Alert types": "Vibration; MP3, WAV ringtones",
+            "Loudspeaker": "Yes"
+        },
+        "Tests": {
+            "Audio quality": "Noise -93dB / Crosstalk -98.3dB",
+            "Battery life": "Endurance rating 73h",
+            "Camera": "Photo / Video",
+            "Display": "Contrast ratio: 901:1 (nominal), 2.145 (sunlight)",
+            "Loudspeaker": "Voice 66dB / Noise 64dB / Ring 78dB",
+            "Performance": "Basemark OS II: 473 / Basemark OS II 2.0: 177\nBasemark X: 1414"
+        }
+    },
+    "main": {
+        "canonical_name": "For Europe",
+        "device_name": "LG AKA",
+        "image": {
+            "href": "http://www.gsmarena.com/lg_aka-pictures-7148.php",
+            "src": "http://cdn2.gsmarena.com/vv/bigpic/lg-aka.jpg"
+        },
+        "index": 1,
+        "url": "http://www.gsmarena.com/lg_aka-7148.php"
+    }
+}
